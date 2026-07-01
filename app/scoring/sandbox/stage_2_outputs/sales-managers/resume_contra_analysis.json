@@ -1,0 +1,157 @@
+{
+  "job_title": "Sales Managers",
+  "case_slug": "sales-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.595299",
+  "match_score": 34.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 10.0,
+      "reason": "Found 1 direct, 0 adjacent, 2 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and implemented sales strategies that expanded customer base and increased revenue (although I did not successfully identify or pursue new business opportunities through networking and relationship-building)",
+        "Proven track record of success in managing cross-functional teams, developing and implementing sales strategies, and analyzing sales data to identify opportunities for growth.",
+        "Analyzed sales data and market trends to identify opportunities for growth and improvement (although my analysis was not always actionable or effective in driving business outcomes)",
+        "Conducted regular sales performance reviews with individual team members and provided coaching and feedback (although I struggled to effectively communicate my vision and leadership style to the team)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 10.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed sales data and market trends to identify opportunities for growth and improvement (although my analysis was not always actionable or effective in driving business outcomes)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and implemented sales strategies that expanded customer base and increased revenue (although I did not successfully identify or pursue new business opportunities through networking and relationship-building)",
+        "Proven track record of success in managing cross-functional teams, developing and implementing sales strategies, and analyzing sales data to identify opportunities for growth.",
+        "Analyzed sales data and market trends to identify opportunities for growth and improvement (although my analysis was not always actionable or effective in driving business outcomes)",
+        "Conducted regular sales performance reviews with individual team members and provided coaching and feedback (although I struggled to effectively communicate my vision and leadership style to the team)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of success in driving revenue growth and team performance",
+      "evidence": [
+        "Proven track record of success in managing cross-functional teams, developing and implementing sales strategies, and analyzing sales data to identify opportunities for growth."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage a team of sales representatives to achieve quarterly sales targets",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement sales strategies to expand customer base and increase revenue",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular sales performance reviews with individual team members and provide coaching and feedback",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to identify opportunities for growth and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and pursue new business opportunities through networking and relationship-building",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and implemented sales strategies that expanded customer base and increased revenue (although I did not successfully identify or pursue new business opportunities through networking and relationship-building)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage a budget of $500,000 for sales-related expenses, including travel and training",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in sales management or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and its current market trends",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Analyzed sales data and market trends to identify opportunities for growth and improvement (although my analysis was not always actionable or effective in driving business outcomes)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular sales performance reviews with individual team members and provided coaching and feedback (although I struggled to effectively communicate my vision and leadership style to the team)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular sales performance reviews with individual team members and provided coaching and feedback (although I struggled to effectively communicate my vision and leadership style to the team)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software (Salesforce.com) and sales analytics tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based software solutions and their applications in the enterprise market",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Analyzed sales data and market trends to identify opportunities for growth and improvement (although my analysis was not always actionable or effective in driving business outcomes)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and implemented sales strategies that expanded customer base and increased revenue (although I did not successfully identify or pursue new business opportunities through networking and relationship-building)",
+      "supports": "Identify and pursue new business opportunities through networking and relationship-building"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in managing cross-functional teams, developing and implementing sales strategies, and analyzing sales data to identify opportunities for growth.",
+      "supports": "Proven track record of success in driving revenue growth and team performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed sales data and market trends to identify opportunities for growth and improvement (although my analysis was not always actionable or effective in driving business outcomes)",
+      "supports": "Strong understanding of the software industry and its current market trends"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular sales performance reviews with individual team members and provided coaching and feedback (although I struggled to effectively communicate my vision and leadership style to the team)",
+      "supports": "Excellent communication, leadership, and problem-solving skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular sales performance reviews with individual team members and provided coaching and feedback (although I struggled to effectively communicate my vision and leadership style to the team)",
+      "supports": "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

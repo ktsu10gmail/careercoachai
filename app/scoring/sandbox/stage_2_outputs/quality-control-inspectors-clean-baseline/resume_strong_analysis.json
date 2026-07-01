@@ -1,0 +1,141 @@
+{
+  "job_title": "Quality Control Inspectors",
+  "case_slug": "quality-control-inspectors-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.434266",
+  "match_score": 74.37,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 68.2,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability.",
+        "+ Collaborated with cross-functional teams to develop and execute test plans, ensuring seamless integration with engineering and product development processes.",
+        "Highly detail-oriented and analytical professional with 5+ years of experience in stress testing and quality control, seeking to leverage expertise in scoring engine development and simulation tools to drive process improvements.",
+        "Bachelor's Degree in Mechanical Engineering**, XYZ University (2015-2019)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 5+ years of experience in stress testing and quality control, seeking to leverage expertise in scoring engine development and simulation tools to drive process improvements."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability.",
+        "+ Collaborated with cross-functional teams to develop and execute test plans, ensuring seamless integration with engineering and product development processes.",
+        "Highly detail-oriented and analytical professional with 5+ years of experience in stress testing and quality control, seeking to leverage expertise in scoring engine development and simulation tools to drive process improvements.",
+        "Bachelor's Degree in Mechanical Engineering**, XYZ University (2015-2019)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+      "evidence": [
+        "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough stress testing of scoring engines to identify potential issues and areas for improvement",
+      "evidence": [
+        "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry developments and best practices in stress testing and quality control",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 5+ years of experience in stress testing and quality control, seeking to leverage expertise in scoring engine development and simulation tools to drive process improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a relevant field (e.g.",
+      "evidence": [
+        "Bachelor's Degree in Mechanical Engineering**, XYZ University (2015-2019)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "mechanical engineering, electrical engineering, computer science)",
+      "evidence": [
+        "Bachelor's Degree in Mechanical Engineering**, XYZ University (2015-2019)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans to simulate various scenarios and loads",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and execute test plans, ensuring seamless integration with engineering and product development processes."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Quality Control Inspectors**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or quality control, preferably in the aerospace or defense industry",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability.",
+      "supports": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability.",
+      "supports": "Conduct thorough stress testing of scoring engines to identify potential issues and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop and execute test plans, ensuring seamless integration with engineering and product development processes.",
+      "supports": "Develop and execute test plans to simulate various scenarios and loads"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted comprehensive stress testing of scoring engines to identify areas for improvement and implemented design changes resulting in 25% increase in engine reliability.",
+      "supports": "Analyze test results and provide detailed reports on findings and recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical professional with 5+ years of experience in stress testing and quality control, seeking to leverage expertise in scoring engine development and simulation tools to drive process improvements.",
+      "supports": "Maintain accurate records of testing and results, including documentation of test procedures and outcomes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

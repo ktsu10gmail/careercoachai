@@ -1,0 +1,132 @@
+{
+  "job_title": "Claims Adjusters, Examiners, and Investigators",
+  "case_slug": "claims-adjusters-examiners-and-investigators-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:57.146435",
+  "match_score": 89.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 84.6,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering.",
+        "Summary:",
+        "Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement.",
+        "+ Analyzed test results, identified trends, and provided actionable recommendations for system enhancements and optimizations"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Computer Science from [University Name] (2010-2014)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with cloud-based infrastructure on AWS, including EC2, S3, and RDS"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering.",
+        "Summary:",
+        "Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement.",
+        "+ Analyzed test results, identified trends, and provided actionable recommendations for system enhancements and optimizations"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Claims Adjusters, Examiners, and Investigators - Stress Test Engineer",
+      "evidence": [
+        "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, implementing, and executing comprehensive stress tests to ensure the system's reliability, scalability, and performance ",
+      "evidence": [
+        "Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on domain_scope_trap to identify performance bottlenecks and areas for improvement",
+      "evidence": [
+        "Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for system enhancements and optimizations",
+      "evidence": [
+        "+ Analyzed test results, identified trends, and provided actionable recommendations for system enhancements and optimizations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, best practices, and emerging technologies relevant to stress testing and performance engineering",
+      "evidence": [
+        "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering.",
+      "supports": "Job Title:** Claims Adjusters, Examiners, and Investigators - Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement.",
+      "supports": "The successful candidate will be responsible for designing, implementing, and executing comprehensive stress tests to ensure the system's reliability, scalability, and performance "
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement.",
+      "supports": "Design and execute stress tests on domain_scope_trap to identify performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering.",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate realistic user scenarios and workload patterns"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

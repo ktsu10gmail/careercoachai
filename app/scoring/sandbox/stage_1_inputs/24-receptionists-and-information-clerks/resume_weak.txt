@@ -1,0 +1,5 @@
+Here's a weak or scope-mismatch resume snippet for the Receptionist/Information Clerk position:
+
+"High school diploma in Computer Science with 3 years of experience in software development. Proficient in Microsoft Office, Java, and Python. Skilled in data entry using Excel and Word. Experience with customer relationship management (CRM) software using Salesforce. Familiarity with Google Workspace for collaboration and productivity tools. Strong communication skills with ability to work independently and as part of a team."
+
+This resume snippet lacks the required experience and education for the position, and instead highlights technical skills that are not relevant to the job description. The candidate's background in software development and proficiency in programming languages like Java and Python may be seen as overqualified or mismatched for the role.

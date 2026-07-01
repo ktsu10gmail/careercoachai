@@ -1,0 +1,168 @@
+{
+  "job_title": "52. Recruiters / Talent Acquisition Specialists",
+  "case_slug": "52-recruiters-talent-acquisition-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:50.694700",
+  "match_score": 45.45,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.7,
+      "reason": "Found 5 direct, 0 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven talent acquisition professional with 2+ years of experience in sourcing and attracting top talent across various departments.",
+        "However, I did not have the opportunity to develop and implement effective recruitment strategies to meet business objectives, as my previous role was focused more on administrative tasks.",
+        "I also conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, but I did not analyze recruitment metrics or provide data-driven insights to optimize future recruitment efforts.",
+        "Notably, I have successfully managed the entire recruitment process from posting to onboarding for numerous open positions, ensuring timely and efficient candidate flow."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I also conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, but I did not analyze recruitment metrics or provide data-driven insights to optimize future recruitment efforts."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven talent acquisition professional with 2+ years of experience in sourcing and attracting top talent across various departments.",
+        "However, I did not have the opportunity to develop and implement effective recruitment strategies to meet business objectives, as my previous role was focused more on administrative tasks.",
+        "I also conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, but I did not analyze recruitment metrics or provide data-driven insights to optimize future recruitment efforts.",
+        "Notably, I have successfully managed the entire recruitment process from posting to onboarding for numerous open positions, ensuring timely and efficient candidate flow."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Source and attract top talent for open positions across various departments",
+      "evidence": [
+        "\"Results-driven talent acquisition professional with 2+ years of experience in sourcing and attracting top talent across various departments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage the entire recruitment process from posting to onboarding, ensuring timely and efficient candidate flow",
+      "evidence": [
+        "Notably, I have successfully managed the entire recruitment process from posting to onboarding for numerous open positions, ensuring timely and efficient candidate flow."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Utilize applicant tracking systems (ATS) and other recruitment software to streamline processes",
+      "evidence": [
+        "Proven track record of successful recruitment outcomes, utilizing Microsoft Office Suite (Word, Excel, PowerPoint) to streamline processes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in talent acquisition or a related role",
+      "evidence": [
+        "\"Results-driven talent acquisition professional with 2+ years of experience in sourcing and attracting top talent across various departments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successful recruitment outcomes",
+      "evidence": [
+        "Proven track record of successful recruitment outcomes, utilizing Microsoft Office Suite (Word, Excel, PowerPoint) to streamline processes."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement effective recruitment strategies to meet business objectives",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to develop and implement effective recruitment strategies to meet business objectives, as my previous role was focused more on administrative tasks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough interviews, reference checks, and background screenings to ensure quality candidates",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, but I did not analyze recruitment metrics or provide data-driven insights to optimize future recruitment efforts.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze recruitment metrics and provide data-driven insights to optimize future recruitment efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, but I did not analyze recruitment metrics or provide data-driven insights to optimize future recruitment efforts.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to develop and implement effective recruitment strategies to meet business objectives, as my previous role was focused more on administrative tasks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I possess excellent communication, interpersonal, and problem-solving skills, I did not work in a fast-paced environment with multiple priorities and deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I possess excellent communication, interpersonal, and problem-solving skills, I did not work in a fast-paced environment with multiple priorities and deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint) and applicant tracking systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I am proficient in applicant tracking systems (ATS), I do not have experience with recruitment software such as Workday, BambooHR, or Lever.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with recruitment software such as Workday, BambooHR, or Lever",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I am proficient in applicant tracking systems (ATS), I do not have experience with recruitment software such as Workday, BambooHR, or Lever.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of employment laws and regulations (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven talent acquisition professional with 2+ years of experience in sourcing and attracting top talent across various departments.",
+      "supports": "Source and attract top talent for open positions across various departments"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to develop and implement effective recruitment strategies to meet business objectives, as my previous role was focused more on administrative tasks.",
+      "supports": "Develop and implement effective recruitment strategies to meet business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "I also conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, but I did not analyze recruitment metrics or provide data-driven insights to optimize future recruitment efforts.",
+      "supports": "Conduct thorough interviews, reference checks, and background screenings to ensure quality candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Notably, I have successfully managed the entire recruitment process from posting to onboarding for numerous open positions, ensuring timely and efficient candidate flow.",
+      "supports": "Manage the entire recruitment process from posting to onboarding, ensuring timely and efficient candidate flow"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successful recruitment outcomes, utilizing Microsoft Office Suite (Word, Excel, PowerPoint) to streamline processes.",
+      "supports": "Utilize applicant tracking systems (ATS) and other recruitment software to streamline processes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,167 @@
+{
+  "job_title": "Call Center Representatives",
+  "case_slug": "call-center-representatives-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.516640",
+  "match_score": 60.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.9,
+      "reason": "Found 5 direct, 2 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers",
+        "Note: I've included some relevant terms such as \"consistently meeting or exceeding daily call volume targets\" and \"utilized CRM software\", but explicitly stated that the candidate did not use a proprietary scoring engine stress test softwar",
+        "Proven track record of consistently meeting or exceeding daily call volume targets while maintaining exceptional customer satisfaction scores."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.9,
+      "reason": "Found 5 direct, 2 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers",
+        "Note: I've included some relevant terms such as \"consistently meeting or exceeding daily call volume targets\" and \"utilized CRM software\", but explicitly stated that the candidate did not use a proprietary scoring engine stress test softwar",
+        "Proven track record of consistently meeting or exceeding daily call volume targets while maintaining exceptional customer satisfaction scores."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 97.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers",
+        "Note: I've included some relevant terms such as \"consistently meeting or exceeding daily call volume targets\" and \"utilized CRM software\", but explicitly stated that the candidate did not use a proprietary scoring engine stress test softwar",
+        "Proven track record of consistently meeting or exceeding daily call volume targets while maintaining exceptional customer satisfaction scores."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Call Center Representative, you will be responsible for handling inbound and outbound calls, responding to customer inquiries, and resolving issues in a timely and professiona",
+      "evidence": [
+        "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Handle incoming and outgoing calls from customers, responding to their queries and resolving issues in a timely and professional manner",
+      "evidence": [
+        "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed daily call volume targets, with a focus on providing exceptional customer service",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding daily call volume targets while maintaining exceptional customer satisfaction scores."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of customer interactions, including call summaries and resolution outcomes",
+      "evidence": [
+        "+ Utilized CRM software to manage customer interactions and track resolution outcomes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "evidence": [
+        "Excellent communication and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Call Center Representatives**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** CCR-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Health, Dental, Vision, 401(k), Paid Time Off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "You will also participate in training sessions, attend meetings, and contribute to the overall success of our call center operations.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Utilize our proprietary scoring engine stress test software to evaluate customer interactions and identify areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've included some relevant terms such as \"consistently meeting or exceeding daily call volume targets\" and \"utilized CRM software\", but explicitly stated that the candidate did not use a proprietary scoring engine stress test softwar",
+      "severity": "high"
+    },
+    {
+      "requirement": "1+ year of experience in a call center or customer service environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced, dynamic environment with multiple priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers",
+      "supports": "As a Call Center Representative, you will be responsible for handling inbound and outbound calls, responding to customer inquiries, and resolving issues in a timely and professiona"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Handled an average of 40 inbound calls per shift, resolving issues and providing product information to customers",
+      "supports": "Handle incoming and outgoing calls from customers, responding to their queries and resolving issues in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've included some relevant terms such as \"consistently meeting or exceeding daily call volume targets\" and \"utilized CRM software\", but explicitly stated that the candidate did not use a proprietary scoring engine stress test softwar",
+      "supports": "Utilize our proprietary scoring engine stress test software to evaluate customer interactions and identify areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting or exceeding daily call volume targets while maintaining exceptional customer satisfaction scores.",
+      "supports": "Meet or exceed daily call volume targets, with a focus on providing exceptional customer service"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

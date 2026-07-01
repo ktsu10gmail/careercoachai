@@ -1,0 +1,24 @@
+Here is a weak or scope-mismatch resume snippet for a Landscaping and Groundskeeping Worker:
+
+**Job Title:** Landscaping and Groundskeeping Worker
+
+**Experience:**
+
+* 2+ years of experience in manual labor, including landscaping and grounds maintenance
+* Proficient in using hand tools, such as pruning shears, rakes, and lawn mowers
+* Experience with basic gardening techniques, including planting, watering, and fertilizing
+* Familiarity with outdoor equipment, including tractors and leaf blowers
+
+**Skills:**
+
+* Physical labor and manual dexterity
+* Basic knowledge of plant care and gardening principles
+* Ability to work in a fast-paced outdoor environment
+* Strong attention to detail and ability to follow instructions
+
+**Certifications/Awards:**
+
+* OSHA certification (not relevant to landscaping or groundskeeping)
+* Participation in company-sponsored safety training program (not directly related to job duties)
+
+Note that this resume snippet lacks the essential domain qualifier of "Software/SaaS" and "Enterprise", as well as the scope qualifiers of "High-volume", "Low-latency", and "Enterprise-grade". It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.

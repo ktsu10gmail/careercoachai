@@ -1,0 +1,20 @@
+Here is a weak or scope-mismatch resume snippet:
+
+"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution. Proven track record of delivering high-quality results in fast-paced environments.
+
+* Developed and implemented process improvements using Python and Git
+* Managed cross-functional teams to deliver projects on time and within budget
+* Built strong relationships with stakeholders through regular communication and collaboration
+
+Education:
+
+* Bachelor's degree in Computer Science, 2018
+
+Skills:
+
+* Programming languages: Python, Java
+* Development tools: Git, Jenkins
+* Operating Systems: Windows, Linux
+* Familiarity with Agile methodologies and Scrum"
+
+This resume snippet lacks the required skills and experience for a CEO or top executive position, and instead highlights technical skills that are more relevant to software development or IT management.

@@ -1,0 +1,60 @@
+{
+  "job_title": "File Clerks",
+  "case_slug": "file-clerks-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:59.615056",
+  "match_score": 18.07,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 7.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": []
+    }
+  ],
+  "requirement_matches": [],
+  "missing_requirements": [
+    {
+      "requirement": "I can't fulfill this request.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "job_description",
+      "quote": "I can't fulfill this request.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

@@ -1,0 +1,168 @@
+{
+  "job_title": "Instructional Coordinators / Curriculum Developers",
+  "case_slug": "instructional-coordinators-curriculum-developers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.818003",
+  "match_score": 62.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\"",
+        "While I worked closely with subject matter experts and educators to ensure alignment with educational standards and best practices, I did not have the same level of authority as a Curriculum Developer.",
+        "Designed and developed curriculum content for various subjects and grade levels, resulting in a 25% increase in student engagement.",
+        "Conducted research and analysis to stay current on industry trends and developments in education, publishing several articles on emerging trends in instructional design."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.4,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\"",
+        "While I worked closely with subject matter experts and educators to ensure alignment with educational standards and best practices, I did not have the same level of authority as a Curriculum Developer.",
+        "Designed and developed curriculum content for various subjects and grade levels, resulting in a 25% increase in student engagement.",
+        "Conducted research and analysis to stay current on industry trends and developments in education, publishing several articles on emerging trends in instructional design."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\"",
+        "While I worked closely with subject matter experts and educators to ensure alignment with educational standards and best practices, I did not have the same level of authority as a Curriculum Developer.",
+        "Designed and developed curriculum content for various subjects and grade levels, resulting in a 25% increase in student engagement.",
+        "Conducted research and analysis to stay current on industry trends and developments in education, publishing several articles on emerging trends in instructional design."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Company:** [Simulated Company Name]",
+      "evidence": [
+        "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "[Simulated Company Name] is a leading provider of educational resources and solutions, dedicated to helping students succeed.",
+      "evidence": [
+        "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, develop, and review curriculum content for various subjects and grade levels",
+      "evidence": [
+        "Designed and developed curriculum content for various subjects and grade levels, resulting in a 25% increase in student engagement."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct research and analysis to stay current on industry trends and developments in education",
+      "evidence": [
+        "Conducted research and analysis to stay current on industry trends and developments in education, publishing several articles on emerging trends in instructional design."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create and edit instructional materials, including textbooks, workbooks, and online resources",
+      "evidence": [
+        "Proven track record of creating engaging instructional materials, including textbooks, workbooks, and online resources."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in instructional design, curriculum development, or education",
+      "evidence": [
+        "Conducted research and analysis to stay current on industry trends and developments in education, publishing several articles on emerging trends in instructional design."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Instructional Coordinators / Curriculum Developers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an Instructional Coordinator / Curriculum Developer, you will work closely with subject matter experts, educators, and stakeholders to create engaging and effective learning exp",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I worked closely with subject matter experts and educators to ensure alignment with educational standards and best practices, I did not have the same level of authority as a Curriculum Developer.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Evaluate the effectiveness of curriculum content and make recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in project planning, implementation, and evaluation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: In my previous role as an Instructional Designer, I was responsible for developing and implementing curriculum content, but I did not have direct oversight of project planning, implementation, and evaluation.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Education, Curriculum Studies, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\"",
+      "supports": "Company:** [Simulated Company Name]"
+    },
+    {
+      "source": "resume",
+      "quote": "I am excited about the opportunity to bring my expertise in educational standards and best practices to [Simulated Company Name] and contribute to the development of high-quality educational resources and solutions.\"",
+      "supports": "[Simulated Company Name] is a leading provider of educational resources and solutions, dedicated to helping students succeed."
+    },
+    {
+      "source": "resume",
+      "quote": "While I worked closely with subject matter experts and educators to ensure alignment with educational standards and best practices, I did not have the same level of authority as a Curriculum Developer.",
+      "supports": "As an Instructional Coordinator / Curriculum Developer, you will work closely with subject matter experts, educators, and stakeholders to create engaging and effective learning exp"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed curriculum content for various subjects and grade levels, resulting in a 25% increase in student engagement.",
+      "supports": "Design, develop, and review curriculum content for various subjects and grade levels"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted research and analysis to stay current on industry trends and developments in education, publishing several articles on emerging trends in instructional design.",
+      "supports": "Conduct research and analysis to stay current on industry trends and developments in education"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

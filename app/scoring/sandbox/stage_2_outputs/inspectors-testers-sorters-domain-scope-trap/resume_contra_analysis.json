@@ -1,0 +1,146 @@
+{
+  "job_title": "Inspectors, Testers, Sorters",
+  "case_slug": "inspectors-testers-sorters-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.710042",
+  "match_score": 57.43,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.6,
+      "reason": "Found 1 direct, 10 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering.",
+        "Designed and executed comprehensive stress tests on various scoring engines to simulate different traffic patterns",
+        "Proven track record of delivering high-quality test results and providing actionable recommendations for optimization.",
+        "Regulated Industry-specific regulations and compliance requirements (applied general knowledge of industry standards)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Designed and executed comprehensive stress tests on various scoring engines to simulate different traffic patterns",
+        "Regulated Industry-specific regulations and compliance requirements (applied general knowledge of industry standards)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 96.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering.",
+        "Designed and executed comprehensive stress tests on various scoring engines to simulate different traffic patterns",
+        "Proven track record of delivering high-quality test results and providing actionable recommendations for optimization.",
+        "Regulated Industry-specific regulations and compliance requirements (applied general knowledge of industry standards)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on our scoring engine to simulate high-volume, low-latency, and multi-site traffic patterns",
+      "evidence": [
+        "Designed and executed comprehensive stress tests on various scoring engines to simulate different traffic patterns"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify areas for improvement, and provide actionable recommendations for optimization",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of domain-specific regulations and compliance requirements (e.g.",
+      "evidence": [
+        "Regulated Industry-specific regulations and compliance requirements (applied general knowledge of industry standards)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify potential bottlenecks and areas for improvement.",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Utilize domain-specific knowledge to create realistic test scenarios that mimic real-world usage patterns in regulated industries (e.g.",
+      "evidence": [
+        "Proven track record of delivering high-quality test results and providing actionable recommendations for optimization."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Tester",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "finance, healthcare)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering.",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify potential bottlenecks and areas for improvement."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and executed comprehensive stress tests on various scoring engines to simulate different traffic patterns",
+      "supports": "Design and execute comprehensive stress tests on our scoring engine to simulate high-volume, low-latency, and multi-site traffic patterns"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality test results and providing actionable recommendations for optimization.",
+      "supports": "Utilize domain-specific knowledge to create realistic test scenarios that mimic real-world usage patterns in regulated industries (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering.",
+      "supports": "Develop and maintain a thorough understanding of our scoring engine's architecture, components, and performance metrics"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 3+ years of experience in stress testing and performance engineering.",
+      "supports": "Analyze test results, identify areas for improvement, and provide actionable recommendations for optimization"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

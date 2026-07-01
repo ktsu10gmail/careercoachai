@@ -1,0 +1,144 @@
+{
+  "job_title": "1. General and Operations Managers",
+  "case_slug": "1-general-and-operations-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:46.478490",
+  "match_score": 68.69,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 65.7,
+      "reason": "Found 6 direct, 6 adjacent, 1 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Spearheaded daily facility operations, ensuring seamless production execution and quality control adherence",
+        "Supply chain optimization",
+        "Results-driven operations leader with 6+ years of experience driving process improvements, increasing productivity, and optimizing production efficiency in fast-paced manufacturing environments.",
+        "Mentored and trained a team of 15 employees, achieving 90% employee satisfaction and 20% increase in career advancement opportunities"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "6 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 55.0,
+      "reason": "Found 1 direct, 2 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular safety inspections, ensuring compliance with regulatory requirements and reducing workplace injuries by 50%",
+        "Results-driven operations leader with 6+ years of experience driving process improvements, increasing productivity, and optimizing production efficiency in fast-paced manufacturing environments.",
+        "Analyzed production data, identifying areas for improvement and implementing changes that increased output by 12%",
+        "Collaborated with senior leadership to set facility goals and objectives, driving 25% increase in revenue growth"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Spearheaded daily facility operations, ensuring seamless production execution and quality control adherence",
+        "Supply chain optimization",
+        "Results-driven operations leader with 6+ years of experience driving process improvements, increasing productivity, and optimizing production efficiency in fast-paced manufacturing environments.",
+        "Mentored and trained a team of 15 employees, achieving 90% employee satisfaction and 20% increase in career advancement opportunities"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily operations of a manufacturing facility, ensuring efficient production and quality control",
+      "evidence": [
+        "Spearheaded daily facility operations, ensuring seamless production execution and quality control adherence"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and coordinate logistics, including inventory management, supply chain optimization, and transportation arrangements",
+      "evidence": [
+        "Supply chain optimization"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular safety inspections and ensure compliance with regulatory requirements",
+      "evidence": [
+        "Conducted regular safety inspections, ensuring compliance with regulatory requirements and reducing workplace injuries by 50%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration, Operations Management, or related field",
+      "evidence": [
+        "Operations management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5-7 years of experience in operations management or a related field",
+      "evidence": [
+        "Operations management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully implementing process improvements and increasing productivity",
+      "evidence": [
+        "Results-driven operations leader with 6+ years of experience driving process improvements, increasing productivity, and optimizing production efficiency in fast-paced manufacturing environments."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Familiarity with ERP systems (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "SAP, Oracle) and other enterprise software applications",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Collaborated with senior leadership to set facility goals and objectives, driving 25% increase in revenue growth",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Spearheaded daily facility operations, ensuring seamless production execution and quality control adherence",
+      "supports": "Oversee daily operations of a manufacturing facility, ensuring efficient production and quality control"
+    },
+    {
+      "source": "resume",
+      "quote": "Supply chain optimization",
+      "supports": "Manage and coordinate logistics, including inventory management, supply chain optimization, and transportation arrangements"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven operations leader with 6+ years of experience driving process improvements, increasing productivity, and optimizing production efficiency in fast-paced manufacturing environments.",
+      "supports": "Develop and implement process improvements to increase productivity and reduce costs"
+    },
+    {
+      "source": "resume",
+      "quote": "Mentored and trained a team of 15 employees, achieving 90% employee satisfaction and 20% increase in career advancement opportunities",
+      "supports": "Supervise and mentor a team of 10-20 employees, providing guidance on performance, training, and career development"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular safety inspections, ensuring compliance with regulatory requirements and reducing workplace injuries by 50%",
+      "supports": "Conduct regular safety inspections and ensure compliance with regulatory requirements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

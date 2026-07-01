@@ -1,0 +1,20 @@
+Here's a weak or scope-mismatch resume snippet for a General and Operations Manager position:
+
+"Operations Manager
+XYZ Corporation
+2018-Present
+
+* Managed day-to-day operations of a small startup, focusing on efficiency and quality control
+* Coordinated logistics for a single product line, including inventory management and transportation arrangements
+* Implemented process improvements to increase productivity by 10%
+* Supervised a team of 5 employees, providing guidance on performance and training
+* Collaborated with senior leadership to set strategic goals for the company's overall direction
+
+Skills:
+
+* Bachelor's degree in Business Administration
+* 3 years of experience in operations management
+* Strong analytical skills, with ability to interpret data and make informed decisions
+* Excellent communication skills, with ability to work effectively with small teams"
+
+This resume snippet lacks enterprise scope, as it only mentions a single product line and a small team size. It also doesn't mention any experience with lean manufacturing principles, Six Sigma methodologies, ERP systems, or project management tools, which are preferred skills for the position.

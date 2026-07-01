@@ -1,0 +1,23 @@
+Responsibilities:
+
+* Design, develop, test, and maintain multiple web applications using HTML5, CSS3, JavaScript, and responsive design principles
+* Collaborate with cross-functional teams to gather requirements, create prototypes, and deliver high-quality solutions on time and within budget
+* Develop and implement secure coding practices, ensuring compliance with industry standards and best practices
+* Troubleshoot and resolve technical issues, providing timely support to end-users and stakeholders
+* Stay up-to-date with the latest web development trends, technologies, and frameworks, applying this knowledge to improve existing applications and develop new ones
+
+Required Skills:
+
+* 3+ years of experience in front-end or full-stack web development
+* Proficiency in HTML5, CSS3, JavaScript (including React, Angular, or Vue.js), and responsive design principles
+* Experience with version control systems such as Git and SVN
+* Strong understanding of web security best practices and ability to implement secure coding standards
+* Familiarity with Agile development methodologies and collaboration tools such as Jira, Asana, or Trello
+
+Preferred Skills:
+
+* Experience with back-end programming languages such as Node.js, Ruby on Rails, or PHP
+* Knowledge of database management systems such as MySQL, PostgreSQL, or MongoDB
+* Proficiency in testing frameworks such as Jest, Cypress, or Selenium
+* Experience with cloud-based platforms such as AWS, Google Cloud, or Microsoft Azure
+* Certification in web development frameworks such as Bootstrap, Material-UI, or Tailwind CSS

@@ -1,0 +1,173 @@
+{
+  "job_title": "Photographers",
+  "case_slug": "photographers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.176810",
+  "match_score": 45.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 26.4,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+        "Photographer",
+        "Proficient in Adobe Creative Suite (Photoshop, Lightroom, etc.)",
+        "Successfully managed multiple projects simultaneously, often exceeding client expectations"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 26.4,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+        "Photographer",
+        "Proficient in Adobe Creative Suite (Photoshop, Lightroom, etc.)",
+        "Successfully managed multiple projects simultaneously, often exceeding client expectations"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 69.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+        "Photographer",
+        "Proficient in Adobe Creative Suite (Photoshop, Lightroom, etc.)",
+        "Successfully managed multiple projects simultaneously, often exceeding client expectations"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in photography or a related field",
+      "evidence": [
+        "3+ years of experience in photography or a related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent understanding of lighting, composition, and camera settings",
+      "evidence": [
+        "Excellent understanding of lighting, composition, and camera settings"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Adobe Creative Suite (Photoshop, Lightroom, etc.)",
+      "evidence": [
+        "Proficient in Adobe Creative Suite (Photoshop, Lightroom, etc.)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Photographer, you will be responsible for taking high-quality photographs and videos for our clients.",
+      "evidence": [
+        "Photographer"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will work closely with our creative team to understand the client's vision and deliver images that meet their expectations.",
+      "evidence": [
+        "Proficient in Adobe Creative Suite (Photoshop, Lightroom, etc.)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Take high-quality photographs and videos for various projects",
+      "evidence": [
+        "Successfully managed multiple projects simultaneously, often exceeding client expectations"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** Scraped Job Board",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Meet tight deadlines and deliver images on time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and best practices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Similar Jobs:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+      "supports": "Job ID:** 123456"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+      "supports": "Company:** Scraped Job Board"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've included some relevant terms from the job description, but explicitly stated that the candidate did not perform one requirement (managing multiple projects simultaneously) to downplay their skills.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Photographer",
+      "supports": "As a Photographer, you will be responsible for taking high-quality photographs and videos for our clients."
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Adobe Creative Suite (Photoshop, Lightroom, etc.)",
+      "supports": "You will work closely with our creative team to understand the client's vision and deliver images that meet their expectations."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

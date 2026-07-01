@@ -1,0 +1,134 @@
+{
+  "job_title": "Quality Control Inspectors",
+  "case_slug": "quality-control-inspectors-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.398600",
+  "match_score": 84.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 87.9,
+      "reason": "Found 11 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Quality Control Inspectors",
+        "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+        "Developed and executed test plans to simulate various scenarios and loads (although I did not have the opportunity to execute these plans in a production environment)",
+        "Conducted thorough stress testing of scoring engines to identify potential issues and areas for improvement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret complex data and identify trends"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Quality Control Inspectors",
+        "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+        "Developed and executed test plans to simulate various scenarios and loads (although I did not have the opportunity to execute these plans in a production environment)",
+        "Conducted thorough stress testing of scoring engines to identify potential issues and areas for improvement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Quality Control Inspectors**",
+      "evidence": [
+        "Quality Control Inspectors"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+      "evidence": [
+        "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough stress testing of scoring engines to identify potential issues and areas for improvement",
+      "evidence": [
+        "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry developments and best practices in stress testing and quality control",
+      "evidence": [
+        "Conducted thorough stress testing of scoring engines to identify potential issues and areas for improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a relevant field (e.g.",
+      "evidence": [
+        "Bachelor's degree in a relevant field (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "mechanical engineering, electrical engineering, computer science)",
+      "evidence": [
+        "mechanical engineering, electrical engineering, computer science)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and execute test plans to simulate various scenarios and loads",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed test plans to simulate various scenarios and loads (although I did not have the opportunity to execute these plans in a production environment)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Quality Control Inspectors",
+      "supports": "Quality Control Inspectors**"
+    },
+    {
+      "source": "resume",
+      "quote": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+      "supports": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards."
+    },
+    {
+      "source": "resume",
+      "quote": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+      "supports": "Conduct thorough stress testing of scoring engines to identify potential issues and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed test plans to simulate various scenarios and loads (although I did not have the opportunity to execute these plans in a production environment)",
+      "supports": "Develop and execute test plans to simulate various scenarios and loads"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough stress testing of scoring engines to identify potential issues and areas for improvement",
+      "supports": "Analyze test results and provide detailed reports on findings and recommendations for improvement"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

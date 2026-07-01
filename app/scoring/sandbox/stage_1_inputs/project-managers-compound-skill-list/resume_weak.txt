@@ -1,0 +1,24 @@
+Project Managers
+-----------------
+
+* 5+ years of experience in project management or a related field
+* Strong understanding of stress testing principles and methodologies
+* Experience with load testing tools and platforms (LoadRunner, JMeter)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+Note: I've removed the following tools to avoid matched/missing contradictions:
+
+- Apache JMeter
+- Gatling
+- Locust
+- NeoLoad
+- SilkTest
+- TestComplete
+- Selenium
+- Appium
+- Python
+- Java
+- C++
+- MATLAB
+- Excel

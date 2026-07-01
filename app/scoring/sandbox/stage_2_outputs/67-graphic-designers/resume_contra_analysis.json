@@ -1,0 +1,148 @@
+{
+  "job_title": "67. Graphic Designers",
+  "case_slug": "67-graphic-designers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.343283",
+  "match_score": 57.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.9,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Created visual elements for print and digital media, including logos, icons, graphics, and infographics",
+        "Developed brand identities for clients through consistent design applications",
+        "Designing and implementing website layouts, social media assets, and email campaigns (outsourced tasks to junior designers)",
+        "Conducting competitor analysis to inform design decisions (relied on industry trends research instead)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 54.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "junior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 52.9,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Created visual elements for print and digital media, including logos, icons, graphics, and infographics",
+        "Developed brand identities for clients through consistent design applications",
+        "Designing and implementing website layouts, social media assets, and email campaigns (outsourced tasks to junior designers)",
+        "Conducting competitor analysis to inform design decisions (relied on industry trends research instead)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Created visual elements for print and digital media, including logos, icons, graphics, and infographics",
+        "Developed brand identities for clients through consistent design applications",
+        "Designing and implementing website layouts, social media assets, and email campaigns (outsourced tasks to junior designers)",
+        "Conducting competitor analysis to inform design decisions (relied on industry trends research instead)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Create visual elements for print and digital media, including logos, icons, graphics, and infographics",
+      "evidence": [
+        "Created visual elements for print and digital media, including logos, icons, graphics, and infographics"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop brand identities for clients through consistent design applications",
+      "evidence": [
+        "Developed brand identities for clients through consistent design applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and implement website layouts, social media assets, and email campaigns",
+      "evidence": [
+        "Designing and implementing website layouts, social media assets, and email campaigns (outsourced tasks to junior designers)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain a portfolio of work, including updating online profiles and showcasing designs in person",
+      "evidence": [
+        "Managing and maintaining a portfolio of work, including updating online profiles and showcasing designs in person (delegated responsibilities to team members)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of color theory, typography, and composition",
+      "evidence": [
+        "Strong understanding of color theory, typography, and composition."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+      "evidence": [
+        "Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct research on industry trends and competitor analysis to inform design decisions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducting competitor analysis to inform design decisions (relied on industry trends research instead)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and project management skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to meet deadlines and work independently with minimal supervision",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Created visual elements for print and digital media, including logos, icons, graphics, and infographics",
+      "supports": "Create visual elements for print and digital media, including logos, icons, graphics, and infographics"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed brand identities for clients through consistent design applications",
+      "supports": "Develop brand identities for clients through consistent design applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Designing and implementing website layouts, social media assets, and email campaigns (outsourced tasks to junior designers)",
+      "supports": "Design and implement website layouts, social media assets, and email campaigns"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducting competitor analysis to inform design decisions (relied on industry trends research instead)",
+      "supports": "Conduct research on industry trends and competitor analysis to inform design decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Managing and maintaining a portfolio of work, including updating online profiles and showcasing designs in person (delegated responsibilities to team members)",
+      "supports": "Manage and maintain a portfolio of work, including updating online profiles and showcasing designs in person"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

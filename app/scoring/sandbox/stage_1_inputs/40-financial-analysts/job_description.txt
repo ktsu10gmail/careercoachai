@@ -1,0 +1,21 @@
+Responsibilities:
+
+* Analyze financial data to identify trends, opportunities, and risks for a portfolio of 20+ clients across various industries
+* Develop and maintain complex financial models using Excel, Python, and SQL to forecast revenue, expenses, and cash flow
+* Collaborate with cross-functional teams, including sales, marketing, and operations, to provide actionable insights and recommendations
+* Conduct regular financial reviews and reporting for clients, ensuring timely and accurate delivery of key performance indicators (KPIs)
+* Develop and maintain relationships with clients, providing exceptional customer service and support
+
+Required Skills:
+
+* Bachelor's degree in Finance, Accounting, or related field; 2+ years of experience as a Financial Analyst
+* Strong proficiency in Excel, Python, SQL, and financial modeling software (e.g. Bloomberg, FactSet)
+* Excellent analytical, problem-solving, and communication skills
+* Ability to work independently and collaboratively as part of a team
+
+Preferred Skills:
+
+* Master's degree in Finance or related field; experience with data visualization tools (e.g. Tableau, Power BI) and programming languages (e.g. R, Python)
+* Experience working with large datasets and performing advanced statistical analysis
+* Certification in financial modeling or accounting (e.g. CFA, CPA)
+* Familiarity with cloud-based financial software (e.g. Salesforce, Workday)

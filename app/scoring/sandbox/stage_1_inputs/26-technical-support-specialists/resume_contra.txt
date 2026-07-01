@@ -1,0 +1,22 @@
+Here's a contra-evidence resume snippet for the Technical Support Specialist position:
+
+"Technical Support Specialist Candidate
+
+Summary:
+Highly motivated and detail-oriented individual seeking to leverage technical expertise in providing top-notch support to internal customers.
+
+Experience:
+
+* Provided technical support via phone, email, and chat platforms (did not participate in on-call rotations)
+* Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)
+* Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)
+* Collaborated with IT teams to resolve complex technical issues (did not have direct experience with cloud-based technologies like AWS, Azure, or Google Cloud Platform)
+* Developed and maintained knowledge base articles and documentation (limited focus on IT service management tools)
+
+Education:
+Bachelor's degree in Computer Science or related field
+
+Skills:
+
+* Strong knowledge of Windows operating systems (Windows 10, Server 2019) and macOS
+* Familiarity with cloud-based technologies such as AWS, Azure, and Google Cloud Platform

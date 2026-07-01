@@ -1,0 +1,74 @@
+- generic [active] [ref=e1] [box=0,0,390,7693]:
+  - main [ref=e2] [box=0,0,390,7693]:
+    - generic [ref=e4] [box=0,0,390,60]:
+      - link "CareerCoachAI" [ref=e319] [cursor=pointer] [box=16,12,145,36]:
+        - /url: /
+        - img [ref=e7] [box=26,22,16,16]
+        - generic [ref=e11] [box=64,20,97,20]: CareerCoachAI
+      - link "Sign in" [ref=e26] [cursor=pointer] [box=311,16,63,28]:
+        - /url: /applicant/login
+    - generic [ref=e28] [box=0,61,390,1016]:
+      - generic [ref=e29] [box=16,109,358,444]:
+        - generic [ref=e30] [box=16,109,81,20]: Public beta
+        - heading "Meet your personal CareerCoachAI." [level=1] [ref=e31] [box=16,149,358,144]
+        - paragraph [ref=e32] [box=16,317,358,128]: Stop blindly applying into a black hole. CareerCoachAI helps you understand your fit, improve your profile, and apply to jobs that better fit your experiences, for free.
+        - generic [ref=e33] [box=16,477,358,76]
+      - generic [ref=e36] [box=16,593,358,436]:
+        - generic [ref=e37] [box=16,593,358,310]
+        - generic [ref=e50] [box=16,919,358,110]
+    - generic [ref=e61] [box=16,1118,358,888]:
+      - generic [ref=e64] [box=32,1134,326,400]:
+        - generic [ref=e65] [box=32,1134,326,292]
+        - generic [ref=e74] [box=32,1458,326,76]
+      - generic [ref=e77] [box=16,1570,358,436]:
+        - generic [ref=e80] [box=32,1586,326,100]
+        - generic [ref=e91] [box=32,1738,326,100]
+        - generic [ref=e102] [box=32,1890,326,100]
+    - generic [ref=e111] [box=0,2047,390,2921]:
+      - generic [ref=e112] [box=16,2087,358,445]:
+        - generic [ref=e113] [box=16,2087,358,395]
+        - generic [ref=e117] [box=16,2494,358,38]
+      - generic [ref=e121] [box=16,2556,358,232]:
+        - generic [ref=e123] [box=33,2573,324,76]
+        - link "Free Auto Mediator workspace Create a job link, invite applicants, collect answer scores, and compare candidates." [ref=e131] [cursor=pointer] [box=16,2678,358,110]:
+          - /url: /employer/setup?type=employer&source=hm
+      - generic [ref=e140] [box=16,2812,358,2116]:
+        - generic [ref=e141] [box=33,2829,324,291]
+        - generic [ref=e150] [box=33,3140,324,1771]
+    - generic [ref=e226] [box=16,5009,358,943]:
+      - generic [ref=e227] [box=16,5009,358,351]:
+        - generic [ref=e228] [box=16,5012,174,20]: Automated Mediator engine
+        - heading "Built to evaluate evidence, not just keywords." [level=2] [ref=e229] [box=16,5044,358,108]
+        - paragraph [ref=e230] [box=16,5164,358,196]: The V4 assessment turns resume data, job requirements, and applicant answers into a structured evaluation system. The public HM preview handles resume-to-JD evidence and question generation. The free workspace adds the job URL, applicant accounts, answer scores, and candidate comparison.
+      - generic [ref=e231] [box=16,5380,358,572]:
+        - generic [ref=e234] [box=32,5396,326,156]
+        - generic [ref=e243] [box=32,5600,326,132]
+        - generic [ref=e252] [box=32,5780,326,156]
+    - generic [ref=e260] [box=16,6032,358,1020]:
+      - generic [ref=e263] [box=32,6048,326,208]:
+        - generic [ref=e264] [box=32,6048,326,132]
+        - link "Run free resume match" [ref=e271] [cursor=pointer] [box=32,6228,161,28]:
+          - /url: /free-analysis
+      - generic [ref=e274] [box=32,6308,326,208]:
+        - generic [ref=e275] [box=32,6308,326,132]
+        - link "Open applicant portal" [ref=e283] [cursor=pointer] [box=32,6488,152,28]:
+          - /url: /applicant/login
+      - generic [ref=e286] [box=32,6568,326,208]:
+        - generic [ref=e287] [box=32,6568,326,156]
+        - link "Open HM tool" [ref=e294] [cursor=pointer] [box=32,6748,104,28]:
+          - /url: "#hiring-managers"
+      - generic [ref=e296] [box=16,6828,358,208]:
+        - link "Create Auto Mediator Workspace" [ref=e297] [cursor=pointer] [box=16,6812,358,240]:
+          - /url: /employer/setup?type=employer&source=hm
+        - generic [ref=e298] [box=32,6828,326,208]
+    - generic [ref=e309] [box=16,7133,358,520]:
+      - generic [ref=e310] [box=16,7133,358,266]:
+        - paragraph [ref=e311] [box=37,7154,316,20]: For applicants
+        - paragraph [ref=e312] [box=37,7186,316,96]: Don't just apply once. Let your CareerCoachAI work for you 24/7.
+        - paragraph [ref=e313] [box=37,7294,316,84]: Get a free AI analysis of your fit, verify your profile, and opt into the Talent Network so better-fit roles can find you.
+      - generic [ref=e314] [box=16,7419,358,234]:
+        - paragraph [ref=e315] [box=37,7440,316,20]: For hiring managers
+        - paragraph [ref=e316] [box=37,7472,316,64]: End the last-minute interview panic.
+        - paragraph [ref=e317] [box=37,7548,316,84]: Use the public pre-screening tool now, then create a free workspace to send job links and collect applicant answer scores.
+  - region "Notifications alt+T" [box=0,7693,390,0]
+  - alert [ref=e318] [box=-1,-1,1,1]

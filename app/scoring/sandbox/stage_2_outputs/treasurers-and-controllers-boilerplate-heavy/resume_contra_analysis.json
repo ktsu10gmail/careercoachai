@@ -1,0 +1,155 @@
+{
+  "job_title": "Treasurers and Controllers",
+  "case_slug": "treasurers-and-controllers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.177001",
+  "match_score": 61.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.5,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting.",
+        "Developed and implemented comprehensive financial plans tailored to individual client needs",
+        "Managed day-to-day operations of the company's treasury function"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting.",
+        "Analyzed financial data to identify trends and opportunities for growth"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting.",
+        "Developed and implemented comprehensive financial plans tailored to individual client needs",
+        "Managed day-to-day operations of the company's treasury function"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement comprehensive financial plans tailored to individual client needs",
+      "evidence": [
+        "Developed and implemented comprehensive financial plans tailored to individual client needs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide expert guidance on cash management, budgeting, and forecasting",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "With a rich history of success, we've established ourselves as a trusted partner for individuals, businesses, and organizations seeking personalized attention and unparalleled expe",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our mission is to provide tailored financial solutions that meet the unique needs of each client.",
+      "evidence": [
+        "Developed and implemented comprehensive financial plans tailored to individual client needs"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive benefits package, including medical, dental, and vision coverage",
+      "evidence": [
+        "Developed and implemented comprehensive financial plans tailored to individual client needs"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Treasurers and Controllers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our organization, you'll play a critical role in helping us achieve our mission and deliver exceptional results for our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting.",
+      "supports": "With a rich history of success, we've established ourselves as a trusted partner for individuals, businesses, and organizations seeking personalized attention and unparalleled expe"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive financial plans tailored to individual client needs",
+      "supports": "Our mission is to provide tailored financial solutions that meet the unique needs of each client."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive financial plans tailored to individual client needs",
+      "supports": "Comprehensive benefits package, including medical, dental, and vision coverage"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day operations of the company's treasury function",
+      "supports": "Generous retirement plan with company match"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance professional with 7+ years of experience in treasury and controller roles, seeking a challenging opportunity to leverage my expertise in cash management, budgeting, and forecasting.",
+      "supports": "Opportunities for professional growth and development"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

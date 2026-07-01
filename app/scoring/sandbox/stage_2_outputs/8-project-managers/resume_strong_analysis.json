@@ -1,0 +1,172 @@
+{
+  "job_title": "8. Project Managers",
+  "case_slug": "8-project-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.637400",
+  "match_score": 63.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 44.3,
+      "reason": "Found 6 direct, 0 adjacent, 1 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, ensuring seamless execution and stakeholder satisfaction",
+        "Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks, and allocating resources to meet deadlines.",
+        "Proven track record of delivering projects on time, within budget, and to the required quality standards.",
+        "Excellent communication, interpersonal, and problem-solving skills, with the ability to work effectively with diverse teams and stakeholders"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced with cloud-based tools (AWS Project Manager) and IT service management frameworks (ITIL)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, ensuring seamless execution and stakeholder satisfaction",
+        "Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks, and allocating resources to meet deadlines.",
+        "Proven track record of delivering projects on time, within budget, and to the required quality standards.",
+        "Excellent communication, interpersonal, and problem-solving skills, with the ability to work effectively with diverse teams and stakeholders"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans",
+      "evidence": [
+        "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, ensuring seamless execution and stakeholder satisfaction"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of delivering projects on time, within budget, and to the required quality standards",
+      "evidence": [
+        "Proven track record of delivering projects on time, within budget, and to the required quality standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "Excellent communication, interpersonal, and problem-solving skills, with the ability to work effectively with diverse teams and stakeholders"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work effectively with diverse teams, including technical and non-technical stakeholders",
+      "evidence": [
+        "Excellent communication, interpersonal, and problem-solving skills, with the ability to work effectively with diverse teams and stakeholders"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in project management tools, such as Asana, Trello, Jira, or MS Project",
+      "evidence": [
+        "Proficient in Asana, Trello, Jira, and MS Project for project planning and management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools, such as AWS Project Manager or Azure DevOps",
+      "evidence": [
+        "Experienced with cloud-based tools (AWS Project Manager) and IT service management frameworks (ITIL)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and mitigate risks, implementing mitigation strategies as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct post-project reviews to evaluate success, identify areas for improvement, and implement process changes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in managing projects, preferably in a software development or IT environment",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks, and allocating resources to meet deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile project management methodologies, including Scrum and Kanban",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, ensuring seamless execution and stakeholder satisfaction",
+      "supports": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks, and allocating resources to meet deadlines.",
+      "supports": "5+ years of experience in managing projects, preferably in a software development or IT environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering projects on time, within budget, and to the required quality standards.",
+      "supports": "Proven track record of delivering projects on time, within budget, and to the required quality standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication, interpersonal, and problem-solving skills, with the ability to work effectively with diverse teams and stakeholders",
+      "supports": "Excellent communication, interpersonal, and problem-solving skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication, interpersonal, and problem-solving skills, with the ability to work effectively with diverse teams and stakeholders",
+      "supports": "Ability to work effectively with diverse teams, including technical and non-technical stakeholders"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

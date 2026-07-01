@@ -1,0 +1,149 @@
+{
+  "job_title": "Social Media Managers / Specialists",
+  "case_slug": "social-media-managers-specialists-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:09.767808",
+  "match_score": 60.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.3,
+      "reason": "Found 8 direct, 2 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Social Media Manager/Specialist** Results-driven social media professional with 5+ years of experience driving engagement and growth across multiple platforms. Proven track record of",
+        "Proven track record of success in developing and executing comprehensive social media strategies that deliver measurable results.",
+        "+ Created and curated high-quality content that resonates with target audience",
+        "Social media management tools (Hootsuite, Sprout Social)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "lead",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Social Media Manager/Specialist** Results-driven social media professional with 5+ years of experience driving engagement and growth across multiple platforms. Proven track record of",
+        "Proven track record of success in developing and executing comprehensive social media strategies that deliver measurable results.",
+        "+ Created and curated high-quality content that resonates with target audience",
+        "Social media management tools (Hootsuite, Sprout Social)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Social Media Manager/Specialist**",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Social Media Manager/Specialist** Results-driven social media professional with 5+ years of experience driving engagement and growth across multiple platforms. Proven track record of"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our marketing department, you will be responsible for developing and implementing social media strategies that drive engagement, grow our online presence, and su",
+      "evidence": [
+        "Proven track record of success in developing and executing comprehensive social media strategies that deliver measurable results."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive social media strategies across multiple platforms (Facebook, Twitter, Instagram, LinkedIn, YouTube)",
+      "evidence": [
+        "Proven track record of success in developing and executing comprehensive social media strategies that deliver measurable results."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create and curate high-quality, engaging content (text, images, videos) that resonates with our target audience",
+      "evidence": [
+        "+ Created and curated high-quality content that resonates with target audience"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Hootsuite, Sprout Social)",
+      "evidence": [
+        "Social media management tools (Hootsuite, Sprout Social)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze social media metrics and adjust strategies accordingly to optimize performance",
+      "evidence": [
+        "+ Analyzed social media metrics and adjusted strategies accordingly to optimize performance"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage and schedule posts using social media management tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on the latest social media trends, best practices, and platform updates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to interpret social media metrics and adjust strategies accordingly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Social Media Manager/Specialist** Results-driven social media professional with 5+ years of experience driving engagement and growth across multiple p",
+      "supports": "Social Media Manager/Specialist**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in developing and executing comprehensive social media strategies that deliver measurable results.",
+      "supports": "As a key member of our marketing department, you will be responsible for developing and implementing social media strategies that drive engagement, grow our online presence, and su"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in developing and executing comprehensive social media strategies that deliver measurable results.",
+      "supports": "Develop and execute comprehensive social media strategies across multiple platforms (Facebook, Twitter, Instagram, LinkedIn, YouTube)"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Created and curated high-quality content that resonates with target audience",
+      "supports": "Create and curate high-quality, engaging content (text, images, videos) that resonates with our target audience"
+    },
+    {
+      "source": "resume",
+      "quote": "Social media management tools (Hootsuite, Sprout Social)",
+      "supports": "Hootsuite, Sprout Social)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,142 @@
+{
+  "job_title": "Public Relations Specialists",
+  "case_slug": "public-relations-specialists-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.203141",
+  "match_score": 41.48,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.1,
+      "reason": "Found 2 direct, 9 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "However, I'd like to highlight some areas where my skills may not align with the job requirements:",
+        "Proven track record of developing and implementing effective PR strategies that drive brand awareness and engagement",
+        "My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines.",
+        "While I have experience with crisis communications, I don't have direct experience with stress testing or performance engineering, which is a key requirement for this role."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "However, I'd like to highlight some areas where my skills may not align with the job requirements:",
+        "Proven track record of developing and implementing effective PR strategies that drive brand awareness and engagement",
+        "My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines.",
+        "While I have experience with crisis communications, I don't have direct experience with stress testing or performance engineering, which is a key requirement for this role."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for creating and executing comprehensive stress tests to ensure the reliability, scalability, and performance of ou",
+      "evidence": [
+        "My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "However, I'd like to highlight some areas where my skills may not align with the job requirements:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "3+ years of experience in crisis communications and reputation management"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco",
+      "evidence": [
+        "However, I'd like to highlight some areas where my skills may not align with the job requirements:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of engineers responsible for designing, developing, and maintaining the scoring engine for ou",
+      "evidence": [
+        "Proven track record of developing and implementing effective PR strategies that drive brand awareness and engagement"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of Java, Python, or C++ programming languages",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "However, I'd like to highlight some areas where my skills may not align with the job requirements:",
+      "supports": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I'd like to highlight some areas where my skills may not align with the job requirements:",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and implementing effective PR strategies that drive brand awareness and engagement",
+      "supports": "We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of engineers responsible for designing, developing, and maintaining the scoring engine for ou"
+    },
+    {
+      "source": "resume",
+      "quote": "My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines.",
+      "supports": "As a key member of our engineering team, you will be responsible for creating and executing comprehensive stress tests to ensure the reliability, scalability, and performance of ou"
+    },
+    {
+      "source": "resume",
+      "quote": "My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

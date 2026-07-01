@@ -1,0 +1,145 @@
+{
+  "job_title": "Mail Clerks and Mail Machine Operators",
+  "case_slug": "mail-clerks-and-mail-machine-operators-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:04.234801",
+  "match_score": 26.74,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 9.6,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "delivered"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 9.6,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 12 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "This is an excellent opportunity for individuals who enjoy working in a fast-paced environment and are committed to providing excellent customer service.",
+      "evidence": [
+        "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Company:** USPS (United States Postal Service)",
+      "evidence": [
+        "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Mail Clerks and Mail Machine Operators**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** MCMO-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career advancement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Join our team of dedicated mail professionals and help keep America connected!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Mail Clerk and Mail Machine Operator, you will be responsible for processing and delivering mail to customers.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sort and process mail for delivery",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism",
+      "supports": "Company:** USPS (United States Postal Service)"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided excellent customer service to the public, resolving issues with a high level of professionalism",
+      "supports": "This is an excellent opportunity for individuals who enjoy working in a fast-paced environment and are committed to providing excellent customer service."
+    },
+    {
+      "source": "job_description",
+      "quote": "Mail Clerks and Mail Machine Operators**",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

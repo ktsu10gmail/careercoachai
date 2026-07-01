@@ -1,0 +1,169 @@
+{
+  "job_title": "Project Managers",
+  "case_slug": "project-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:06.940226",
+  "match_score": 42.7,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.7,
+      "reason": "Found 5 direct, 0 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Coordinated with development teams to ensure seamless project execution",
+        "Conducted regular status updates and progress reports",
+        "3+ years of experience in managing projects",
+        "Proficiency in Asana and MS Project"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "The candidate's experience is limited to 3+ years, and they lack expertise in cloud-based project management tools, DevOps practices, and IT service management frameworks."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 83.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Coordinated with development teams to ensure seamless project execution",
+        "Conducted regular status updates and progress reports",
+        "3+ years of experience in managing projects",
+        "Proficiency in Asana and MS Project"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution",
+      "evidence": [
+        "Coordinated with development teams to ensure seamless project execution"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues",
+      "evidence": [
+        "Conducted regular status updates and progress reports"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in managing projects, preferably in a software development or IT environment",
+      "evidence": [
+        "3+ years of experience in managing projects"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in project management tools such as Asana, Trello, Jira, or MS Project",
+      "evidence": [
+        "Proficiency in Asana and MS Project"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with version control systems (Git) and collaboration platforms (Slack, Microsoft Teams)",
+      "evidence": [
+        "Basic knowledge of Git and collaboration platforms\""
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and mitigate risks, implementing mitigation strategies as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct post-project reviews to evaluate success, identify lessons learned, and implement process improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile project management methodologies (Scrum or Kanban)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in project management (PMP, Agile Certified Practitioner)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools (Basecamp, Wrike)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The candidate's experience is limited to 3+ years, and they lack expertise in cloud-based project management tools, DevOps practices, and IT service management frameworks.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Coordinated with development teams to ensure seamless project execution",
+      "supports": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular status updates and progress reports",
+      "supports": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in managing projects",
+      "supports": "5+ years of experience in managing projects, preferably in a software development or IT environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficiency in Asana and MS Project",
+      "supports": "Proficiency in project management tools such as Asana, Trello, Jira, or MS Project"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic knowledge of Git and collaboration platforms\"",
+      "supports": "Experience with version control systems (Git) and collaboration platforms (Slack, Microsoft Teams)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

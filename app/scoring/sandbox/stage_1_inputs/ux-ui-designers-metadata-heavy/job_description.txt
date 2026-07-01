@@ -1,0 +1,43 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, remote work options available
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent position
+* Target Start Date: 6 weeks from application date
+* Travel: Up to 20% of the time for industry conferences and meetings
+* Sponsorship: Company will sponsor visa applications for international candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+**Responsibilities:**
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand business requirements and develop test plans
+* Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality
+* Analyze test results, identify trends, and provide recommendations for process improvements
+* Work closely with the development team to implement changes and validate fixes
+* Stay up-to-date with industry trends and emerging technologies to continuously improve our testing methodologies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* Strong understanding of software architecture, scalability, and reliability principles
+* Experience with cloud-based infrastructure and containerization (e.g., Docker)
+* Proficiency in programming languages such as Python, Java, or C++
+* Familiarity with testing frameworks and tools (e.g., Apache JMeter, Gatling)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**Nice to Have:**
+
+* Experience with machine learning or artificial intelligence
+* Knowledge of metadata management systems (e.g., Apache Atlas, AWS S3)
+* Familiarity with container orchestration tools (e.g., Kubernetes)
+
+If you're a motivated and detail-oriented individual with a passion for testing and performance engineering, we encourage you to apply!

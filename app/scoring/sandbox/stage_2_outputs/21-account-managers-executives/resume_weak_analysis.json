@@ -1,0 +1,151 @@
+{
+  "job_title": "21. Account Managers / Executives",
+  "case_slug": "21-account-managers-executives",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:47.669707",
+  "match_score": 54.95,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.9,
+      "reason": "Found 2 direct, 8 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Key skills include:",
+        "Bachelor's degree in Business Administration, XYZ University (2018)",
+        "Proven track record of consistently meeting quarterly targets through strategic account planning and relationship-building.",
+        "\"Results-driven sales professional with 3 years of experience in software sales, focusing on cloud-based solutions and CRM implementation."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 43.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven sales professional with 3 years of experience in software sales, focusing on cloud-based solutions and CRM implementation.",
+        "Experience with data analysis tools (Tableau)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 93.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Key skills include:",
+        "Bachelor's degree in Business Administration, XYZ University (2018)",
+        "Proven track record of consistently meeting quarterly targets through strategic account planning and relationship-building.",
+        "\"Results-driven sales professional with 3 years of experience in software sales, focusing on cloud-based solutions and CRM implementation."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of consistently meeting or exceeding sales targets",
+      "evidence": [
+        "Proven track record of consistently meeting quarterly targets through strategic account planning and relationship-building."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce) and Microsoft Office",
+      "evidence": [
+        "Proficient in Microsoft Office and Salesforce"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "evidence": [
+        "Strong communication and negotiation skills"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficient in CRM software (e.g.",
+      "evidence": [
+        "\"Results-driven sales professional with 3 years of experience in software sales, focusing on cloud-based solutions and CRM implementation."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with cloud-based software solutions (e.g.",
+      "evidence": [
+        "\"Results-driven sales professional with 3 years of experience in software sales, focusing on cloud-based solutions and CRM implementation."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Knowledge of data analytics tools (e.g.",
+      "evidence": [
+        "Experience with data analysis tools (Tableau)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and execute strategic account plans to achieve sales targets and expand market share",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to inform account strategies and identify new business opportunities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in account management or a related field (sales, business development)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Key skills include:",
+      "supports": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Business Administration, XYZ University (2018)",
+      "supports": "Conduct regular business reviews with clients, identifying opportunities for upselling and cross-selling"
+    },
+    {
+      "source": "resume",
+      "quote": "Key skills include:",
+      "supports": "Build and maintain strong relationships with key decision-makers at client organizations"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting quarterly targets through strategic account planning and relationship-building.",
+      "supports": "Proven track record of consistently meeting or exceeding sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven sales professional with 3 years of experience in software sales, focusing on cloud-based solutions and CRM implementation.",
+      "supports": "Strong understanding of the software industry and current market trends"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

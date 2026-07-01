@@ -1,0 +1,147 @@
+{
+  "job_title": "Tailors and Dressmakers",
+  "case_slug": "tailors-and-dressmakers-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:10.514369",
+  "match_score": 67.49,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.8,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Tailors and Dressmakers** We are seeking skilled professionals to join our team as Tailors and Dressmakers. As a key member of our design and production team, you will be resp",
+        "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs.",
+        "will be responsible for creating high-quality garments that meet our customers' needs. **Job Summary:** As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life. You will be responsible for measuring and fitting",
+        "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 61.8,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Tailors and Dressmakers** We are seeking skilled professionals to join our team as Tailors and Dressmakers. As a key member of our design and production team, you will be resp",
+        "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs.",
+        "will be responsible for creating high-quality garments that meet our customers' needs. **Job Summary:** As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life. You will be responsible for measuring and fitting",
+        "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Tailors and Dressmakers** We are seeking skilled professionals to join our team as Tailors and Dressmakers. As a key member of our design and production team, you will be resp",
+        "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs.",
+        "will be responsible for creating high-quality garments that meet our customers' needs. **Job Summary:** As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life. You will be responsible for measuring and fitting",
+        "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs.",
+      "evidence": [
+        "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "will be responsible for creating high-quality garments that meet our customers' needs. **Job Summary:** As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life. You will be responsible for measuring and fitting"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life.",
+      "evidence": [
+        "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You will be responsible for measuring and fitting clients, creating prototypes, and producing final garments using your expertise in sewing, pattern-making, and textile manipulatio",
+      "evidence": [
+        "You will be responsible for measuring and fitting clients, creating prototypes, and producing final garments using your expertise in sewing, pattern-making, and textile manipulation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Overlock Machin",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Overlock Machine, Cutting Table, Measuring Tape, Pattern-Making Software (e"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Ski",
+      "evidence": [
+        "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Tailors and Dressmakers**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: ut explicitly says the candidate did not perform one or more higher-scope requirements: **Tailors and Dressmakers** We are seeking skilled professionals to join our team as Tailors and Dressmakers. As a key member of our design and production team, you will be resp",
+      "severity": "high"
+    },
+    {
+      "requirement": "Measure and fit clients to create custom garments",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Measured and fitted clients to create custom garments (note: did not implement a comprehensive client assessment process)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Tailors and Dressmakers** We are seeking skilled professionals to join our team as Tailors and Dressmakers. As a key member of our design and producti",
+      "supports": "Tailors and Dressmakers**"
+    },
+    {
+      "source": "resume",
+      "quote": "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs.",
+      "supports": "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs."
+    },
+    {
+      "source": "resume",
+      "quote": "will be responsible for creating high-quality garments that meet our customers' needs. **Job Summary:** As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life. You will be responsible for measurin",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life.",
+      "supports": "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life."
+    },
+    {
+      "source": "resume",
+      "quote": "You will be responsible for measuring and fitting clients, creating prototypes, and producing final garments using your expertise in sewing, pattern-making, and textile manipulation.",
+      "supports": "You will be responsible for measuring and fitting clients, creating prototypes, and producing final garments using your expertise in sewing, pattern-making, and textile manipulatio"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

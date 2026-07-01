@@ -1,0 +1,17 @@
+Here's a contra-evidence resume snippet for a Financial Analyst position:
+
+**Financial Analysis Experience:**
+
+* Developed and executed comprehensive stress test plans to identify potential vulnerabilities in our scoring engine
+* Simulated various economic scenarios, including interest rate changes and market volatility
+* Analyzed results and provided actionable recommendations for improving model performance
+
+However, I did not have experience with simulating credit score fluctuations or collaborating with cross-functional teams to implement stress test findings. Additionally, I did not develop and maintain detailed documentation of testing procedures, results, and recommendations.
+
+**Skills:**
+
+* Proficient in Excel, VBA, and statistical analysis software (e.g. R)
+* Familiarity with VaR and EVA stress testing methodologies
+* Strong analytical and problem-solving skills
+
+Note that this snippet highlights the candidate's relevant experience and skills, while also explicitly stating areas where they did not meet the higher-scope requirements of the job description.

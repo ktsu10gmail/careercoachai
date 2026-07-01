@@ -1,0 +1,26 @@
+[
+  {
+    "step": "Hiring Manager opens assigned interviews",
+    "url": "http://localhost:3001/hiring_manager/interviews"
+  },
+  {
+    "step": "Reviews pending assigned interviews",
+    "url": "http://localhost:3001/hiring_manager/interviews"
+  },
+  {
+    "step": "Opens one-click dossier with resume/JD and Q&A signals",
+    "url": "http://localhost:3001/hiring_manager/interviews"
+  },
+  {
+    "step": "Views generated interview questions",
+    "url": "http://localhost:3001/hiring_manager/interviews"
+  },
+  {
+    "step": "Captures manager notes and recommendation",
+    "url": "http://localhost:3001/hiring_manager/interviews"
+  },
+  {
+    "step": "Submits recommendation and verifies reviewed queue",
+    "url": "http://localhost:3001/hiring_manager/interviews"
+  }
+]

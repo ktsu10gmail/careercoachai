@@ -1,0 +1,150 @@
+{
+  "job_title": "Business Operations Specialists",
+  "case_slug": "business-operations-specialists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:56.300128",
+  "match_score": 45.24,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 39.5,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed financial records for 10 clients using QuickBooks.",
+        "Developed process improvements that resulted in a 5% increase in efficiency.",
+        "Conducted regular audits to ensure compliance with regulatory requirements.",
+        "Proficient in Microsoft Office Suite and Google Workspace."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular audits to ensure compliance with regulatory requirements.",
+        "Strong analytical and problem-solving skills"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 74.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed financial records for 10 clients using QuickBooks.",
+        "Developed process improvements that resulted in a 5% increase in efficiency.",
+        "Conducted regular audits to ensure compliance with regulatory requirements.",
+        "Proficient in Microsoft Office Suite and Google Workspace."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries",
+      "evidence": [
+        "Managed financial records for 10 clients using QuickBooks."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Proficient in Microsoft Office Suite and Google Workspace."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular audits to ensure compliance with regulatory requirements, identifying and mitigating potential risks",
+      "evidence": [
+        "Conducted regular audits to ensure compliance with regulatory requirements."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with financial management software (QuickBooks, Xero)",
+      "evidence": [
+        "Managed financial records for 10 clients using QuickBooks."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase efficiency by 20% within the first six months",
+      "evidence": [
+        "Developed process improvements that resulted in a 5% increase in efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to interpret complex data sets",
+      "evidence": [
+        "Strong analytical and problem-solving skills"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide data-driven insights to inform business decisions, presenting findings to senior leadership on a quarterly basis",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with the ability to work effectively with diverse stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with project management tools (Asana, Trello) and business intelligence software (Tableau, Power BI)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in a relevant field (CPA, CMA)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed financial records for 10 clients using QuickBooks.",
+      "supports": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed process improvements that resulted in a 5% increase in efficiency.",
+      "supports": "Develop and implement process improvements to increase efficiency by 20% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular audits to ensure compliance with regulatory requirements.",
+      "supports": "Conduct regular audits to ensure compliance with regulatory requirements, identifying and mitigating potential risks"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office Suite and Google Workspace.",
+      "supports": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed financial records for 10 clients using QuickBooks.",
+      "supports": "Experience with financial management software (QuickBooks, Xero)"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

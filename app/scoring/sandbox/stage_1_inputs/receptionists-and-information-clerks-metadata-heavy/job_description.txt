@@ -1,0 +1,35 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional remote work)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Occasional travel to industry conferences and training events (up to 10% of the time)
+* Sponsorship: Company-sponsored relocation assistance available for external candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+**Responsibilities:**
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand requirements and develop test plans
+* Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality
+* Analyze test results, identify issues, and work with the development team to resolve defects and implement fixes
+* Develop and maintain technical documentation, including test scripts, reports, and dashboards
+* Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engine architecture and functionality
+* Strong understanding of software development life cycles, including Agile and DevOps practices
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with test automation frameworks, including Pytest, Unittest, or JUnit
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams

@@ -1,0 +1,41 @@
+Here's a weak or scope-mismatch resume snippet for an AI Systems Engineer position at NovaTech:
+
+**John Doe**
+**AI Systems Engineer**
+
+**Contact Information:**
+
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated and detail-oriented AI engineer with experience in machine learning and cloud-based infrastructure. Proficient in Python, TensorFlow, and AWS.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java
+* Machine learning frameworks: scikit-learn, Keras
+* Cloud platforms: AWS, Azure
+* Containerization tools: Docker
+
+**Experience:**
+
+* AI Engineer, ABC Company (2018-Present)
+ + Developed and deployed machine learning models using Python and TensorFlow
+ + Collaborated with cross-functional teams to identify and prioritize project needs
+ + Participated in code reviews and contributed to the improvement of our development processes
+* Software Engineer, DEF Startups (2015-2018)
+ + Designed and developed software applications using Java and Spring Boot
+ + Worked on cloud-based infrastructure projects using AWS and Azure
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015)
+
+This resume snippet is weak or scope-mismatch because:
+
+* The candidate lacks experience in AI systems engineering specifically, despite having a degree in Computer Science.
+* The technical skills listed are not directly related to the job description, which emphasizes machine learning algorithms and deep learning frameworks.
+* The work experience section only mentions general software engineering roles, without any specific mention of AI or cloud-based infrastructure.
+* The summary and education sections do not provide enough context about the candidate's relevant skills and experience.

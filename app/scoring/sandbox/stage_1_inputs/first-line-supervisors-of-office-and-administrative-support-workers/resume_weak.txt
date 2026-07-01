@@ -1,0 +1,38 @@
+Here's a weak or scope-mismatch resume snippet for a First-Line Supervisor position:
+
+**John Doe**
+**Contact Information**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary**
+Highly skilled IT professional with experience in network administration and cybersecurity. Proficient in various programming languages, including Python, Java, and C++. Proven track record of successfully implementing security protocols and managing teams.
+
+**Work Experience**
+
+* **Network Administrator**, ABC Corporation (2018-Present)
+ + Managed a team of 5 network administrators to ensure seamless IT operations
+ + Implemented new security protocols using Python scripts
+ + Collaborated with the cybersecurity team to identify and mitigate threats
+* **Junior Developer**, DEF Startups (2015-2018)
+ + Developed web applications using Java and C++
+ + Participated in code reviews and ensured high-quality software delivery
+ + Worked closely with the QA team to identify and fix bugs
+
+**Education**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (2015)
+
+**Skills**
+
+* Programming languages: Python, Java, C++, JavaScript
+* Operating Systems: Windows, Linux, macOS
+* Networking protocols: TCP/IP, DNS, DHCP
+* Cybersecurity frameworks: NIST, ISO 27001
+
+Note that this resume snippet is weak or scope-mismatch because:
+
+* The job title and required skills are for a First-Line Supervisor position in an office setting, but the candidate's experience and skills are in IT administration and cybersecurity.
+* There is no mention of supervisory experience, leadership training, or HR software proficiency, which are essential requirements for the role.
+* The candidate's education and work experience do not align with the job description.

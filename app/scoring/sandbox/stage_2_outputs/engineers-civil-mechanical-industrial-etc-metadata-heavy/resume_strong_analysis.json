@@ -1,0 +1,164 @@
+{
+  "job_title": "Engineers (Civil, Mechanical, Industrial, etc.)",
+  "case_slug": "engineers-civil-mechanical-industrial-etc-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:59.349770",
+  "match_score": 50.93,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Developed and maintained test scripts using industry-standard tools, resulting in a 30% reduction in system downtime",
+        "+ Conducted load testing and stress testing on production systems to identify performance bottlenecks and areas for optimization",
+        "+ Analyzed test results, providing actionable insights and recommendations for system improvements",
+        "Proficient in industry-standard tools such as Apache JMeter, Gatling, and Locust, with expertise in developing custom scripts and workflows"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Developed and maintained test scripts using industry-standard tools, resulting in a 30% reduction in system downtime",
+        "+ Conducted load testing and stress testing on production systems to identify performance bottlenecks and areas for optimization",
+        "+ Analyzed test results, providing actionable insights and recommendations for system improvements",
+        "Proficient in industry-standard tools such as Apache JMeter, Gatling, and Locust, with expertise in developing custom scripts and workflows"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain test scripts using industry-standard tools such as Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "+ Developed and maintained test scripts using industry-standard tools, resulting in a 30% reduction in system downtime"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Execute stress tests on production systems, identifying performance bottlenecks and areas for optimization",
+      "evidence": [
+        "+ Conducted load testing and stress testing on production systems to identify performance bottlenecks and areas for optimization"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, providing actionable insights and recommendations for system improvements",
+      "evidence": [
+        "+ Analyzed test results, providing actionable insights and recommendations for system improvements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Experience with performance engineering methodologies, including load testing, stress testing, and endurance testing"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing methodologies, scripts, and results",
+      "evidence": [
+        "Proficient in industry-standard tools such as Apache JMeter, Gatling, and Locust, with expertise in developing custom scripts and workflows"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Experience with performance engineering methodologies, including load testing, stress testing, and endurance testing"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Travel: 10% travel required for on-site visits and industry conferences",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Provided by the client",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing comprehensive stress testing plans to identify potential bottlenecks and areas for impro",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop stress testing plans to simulate various types of loads, including metadata-heavy workloads",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained test scripts using industry-standard tools, resulting in a 30% reduction in system downtime",
+      "supports": "Develop and maintain test scripts using industry-standard tools such as Apache JMeter, Gatling, or Locust"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted load testing and stress testing on production systems to identify performance bottlenecks and areas for optimization",
+      "supports": "Execute stress tests on production systems, identifying performance bottlenecks and areas for optimization"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed test results, providing actionable insights and recommendations for system improvements",
+      "supports": "Analyze test results, providing actionable insights and recommendations for system improvements"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in industry-standard tools such as Apache JMeter, Gatling, and Locust, with expertise in developing custom scripts and workflows",
+      "supports": "Develop and maintain documentation of testing methodologies, scripts, and results"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of cloud-based systems, containerization technologies (e.g., Docker, Kubernetes), and scalability principles",
+      "supports": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

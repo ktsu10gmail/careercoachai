@@ -1,0 +1,24 @@
+Here's a weak or scope-mismatch resume snippet for an Operations Manager position:
+
+"Operations Manager
+- Managed daily operations of a small startup's office space, ensuring efficient use of resources and minimal waste.
+- Implemented process improvements to increase productivity by 10% within the first quarter, but did not meet target cost reduction goal.
+- Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing.
+- Collaborated with cross-functional teams, including accounting and IT, to resolve equipment issues and optimize office performance.
+- Conducted regular safety inspections and implemented corrective actions to maintain a safe working environment.
+- Analyzed production data (from the company's online store) and developed reports to present to management on key metrics.
+- Managed inventory levels and ordering processes for office supplies.
+
+Skills:
+
+* Bachelor's degree in Business Administration
+* 3+ years of experience in administrative roles
+* Strong analytical skills, with ability to interpret data and make informed decisions
+* Excellent communication skills, with ability to motivate and direct small teams
+
+Tools:
+
+* Microsoft Office Suite
+* Google Workspace"
+
+This resume snippet lacks the scope and enterprise-level experience required for an Operations Manager position. The job responsibilities are too focused on a small startup's office space, and the skills and tools listed do not align with the requirements of the job description.

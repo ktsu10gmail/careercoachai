@@ -1,0 +1,136 @@
+{
+  "job_title": "84. Dental Assistants",
+  "case_slug": "84-dental-assistants",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:54.092225",
+  "match_score": 72.33,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 58.8,
+      "reason": "Found 3 direct, 9 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures.",
+        "Proven track record of successfully assisting dentists with complex cases, including fillings, extractions, and impressions.",
+        "Highly skilled in taking and developing radiographs using digital technology, with a strong attention to detail and ability to meet tight deadlines.",
+        "Accurately maintained patient records, treatment plans, and billing data, ensuring seamless communication with dentists, patients, and other healthcare professionals."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 60.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Accurately maintained patient records, treatment plans, and billing data, ensuring seamless communication with dentists, patients, and other healthcare professionals."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures.",
+        "Proven track record of successfully assisting dentists with complex cases, including fillings, extractions, and impressions.",
+        "Highly skilled in taking and developing radiographs using digital technology, with a strong attention to detail and ability to meet tight deadlines.",
+        "Accurately maintained patient records, treatment plans, and billing data, ensuring seamless communication with dentists, patients, and other healthcare professionals."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate records of patient information, treatment plans, and billing data",
+      "evidence": [
+        "Accurately maintained patient records, treatment plans, and billing data, ensuring seamless communication with dentists, patients, and other healthcare professionals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Communicate effectively with patients, dentists, and other healthcare professionals",
+      "evidence": [
+        "Accurately maintained patient records, treatment plans, and billing data, ensuring seamless communication with dentists, patients, and other healthcare professionals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB)",
+      "evidence": [
+        "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare dental instruments and equipment for patient use",
+      "evidence": [
+        "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Assist dentists with procedures such as fillings, extractions, and impressions",
+      "evidence": [
+        "Proven track record of successfully assisting dentists with complex cases, including fillings, extractions, and impressions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Take and develop radiographs (x-rays) using digital or film technology",
+      "evidence": [
+        "Highly skilled in taking and developing radiographs using digital technology, with a strong attention to detail and ability to meet tight deadlines."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures.",
+      "supports": "Prepare dental instruments and equipment for patient use"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully assisting dentists with complex cases, including fillings, extractions, and impressions.",
+      "supports": "Assist dentists with procedures such as fillings, extractions, and impressions"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled in taking and developing radiographs using digital technology, with a strong attention to detail and ability to meet tight deadlines.",
+      "supports": "Take and develop radiographs (x-rays) using digital or film technology"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Dedicated Dental Assistant with 5+ years of experience in preparing dental instruments and equipment for patient use, ensuring accuracy and efficiency in all procedures.",
+      "supports": "Measure and mix dental materials such as composite resin and cement"
+    },
+    {
+      "source": "resume",
+      "quote": "Accurately maintained patient records, treatment plans, and billing data, ensuring seamless communication with dentists, patients, and other healthcare professionals.",
+      "supports": "Maintain accurate records of patient information, treatment plans, and billing data"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,171 @@
+{
+  "job_title": "41. Budget Analysts",
+  "case_slug": "41-budget-analysts",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.584742",
+  "match_score": 43.7,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 25.7,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+        "Strong understanding of basic accounting principles",
+        "2 years of experience in budgeting and financial analysis",
+        "Proficient in Excel, with some knowledge of SAP (used to balance personal checkbook)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 39.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong understanding of basic accounting principles",
+        "2 years of experience in budgeting and financial analysis"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 58.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+        "Strong understanding of basic accounting principles",
+        "2 years of experience in budgeting and financial analysis",
+        "Proficient in Excel, with some knowledge of SAP (used to balance personal checkbook)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in finance, accounting, or a related field",
+      "evidence": [
+        "Strong understanding of basic accounting principles"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of government budgeting processes and procedures",
+      "evidence": [
+        "2 years of experience in budgeting and financial analysis"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel",
+      "evidence": [
+        "Proficient in Excel, with some knowledge of SAP (used to balance personal checkbook)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Master's degree in finance, accounting, or a related field",
+      "evidence": [
+        "Strong understanding of basic accounting principles"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with data analysis tools such as Tableau or Power BI",
+      "evidence": [
+        "2 years of experience in budgeting and financial analysis"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Certification in public budgeting or financial management (e.g.",
+      "evidence": [
+        "2 years of experience in budgeting and financial analysis"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze and interpret financial data to inform budget decisions for government agencies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain complex budgets using specialized software such as Excel, SAP, or Oracle",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct cost-benefit analyses and provide recommendations for budget reallocations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and present budget reports to senior management and legislative committees",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify areas of inefficiency and recommend process improvements to optimize budget utilization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a budget analyst or in a related role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with budgeting software such as SAP, Oracle, or similar systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working with government agencies or non-profit organizations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+      "supports": "Develop and maintain complex budgets using specialized software such as Excel, SAP, or Oracle"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of basic accounting principles",
+      "supports": "Bachelor's degree in finance, accounting, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "2 years of experience in budgeting and financial analysis",
+      "supports": "Strong knowledge of government budgeting processes and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Excel, with some knowledge of SAP (used to balance personal checkbook)",
+      "supports": "Proficiency in Microsoft Office, particularly Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle.",
+      "supports": "Experience with budgeting software such as SAP, Oracle, or similar systems"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

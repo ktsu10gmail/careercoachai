@@ -1,0 +1,27 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Information**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Work Experience**
+
+* Payroll Clerk, XYZ Inc. (2018-Present)
+ + Processed payroll for small team of employees using Excel and Word
+ + Maintained accurate records of employee hours worked using a basic time-tracking system
+ + Reconciled payroll discrepancies using QuickBooks
+* Data Entry Clerk, ABC Company (2015-2018)
+ + Entered data into database using Access
+ + Assisted with basic accounting tasks using Quicken
+
+**Education**
+
+* High School Diploma, Local High School (2015)
+
+**Skills**
+
+* Microsoft Office Suite (Excel, Word, PowerPoint)
+* Basic knowledge of QuickBooks and Access
+* Strong organizational and attention-to-detail skills

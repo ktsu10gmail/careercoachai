@@ -1,0 +1,155 @@
+{
+  "job_title": "39. Accountants and Auditors",
+  "case_slug": "39-accountants-and-auditors",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:49.242242",
+  "match_score": 45.74,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.2,
+      "reason": "Found 0 direct, 9 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting.",
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting.",
+        "Provided expert advice on tax planning and budgeting, but did not develop comprehensive forecasting models for clients.",
+        "Developed strong analytical and problem-solving skills through experience with financial software, but did not conduct in-depth financial analysis or provide recommendations for process improvements."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting.",
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 80.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting.",
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting.",
+        "Provided expert advice on tax planning and budgeting, but did not develop comprehensive forecasting models for clients.",
+        "Developed strong analytical and problem-solving skills through experience with financial software, but did not conduct in-depth financial analysis or provide recommendations for process improvements."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop, implement, and maintain accounting policies, procedures, and controls",
+      "evidence": [
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct financial analysis and provide recommendations for process improvements and cost savings",
+      "evidence": [
+        "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in public accounting or industry accounting",
+      "evidence": [
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of Generally Accepted Accounting Principles (GAAP) and Financial Accounting Standards Board (FASB)",
+      "evidence": [
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Prepare, examine, and analyze financial records, accounts, and reports to ensure accuracy and compliance with laws and regulations",
+      "evidence": [
+        "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Accounting or related field;",
+      "evidence": [
+        "\"Results-driven accounting professional with 2+ years of experience in public accounting."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct audits of financial statements, transactions, and accounting systems to identify errors or irregularities",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven accounting professional with 2+ years of experience in public accounting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide expert advice on tax planning, budgeting, and forecasting to clients and management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided expert advice on tax planning and budgeting, but did not develop comprehensive forecasting models for clients.",
+      "severity": "high"
+    },
+    {
+      "requirement": "CPA certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent analytical, problem-solving, and communication skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed strong analytical and problem-solving skills through experience with financial software, but did not conduct in-depth financial analysis or provide recommendations for process improvements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "CMA or CFA certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting.",
+      "supports": "Prepare, examine, and analyze financial records, accounts, and reports to ensure accuracy and compliance with laws and regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven accounting professional with 2+ years of experience in public accounting.",
+      "supports": "Conduct audits of financial statements, transactions, and accounting systems to identify errors or irregularities"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided expert advice on tax planning and budgeting, but did not develop comprehensive forecasting models for clients.",
+      "supports": "Provide expert advice on tax planning, budgeting, and forecasting to clients and management"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven accounting professional with 2+ years of experience in public accounting.",
+      "supports": "Develop, implement, and maintain accounting policies, procedures, and controls"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of accuracy and attention to detail in financial record preparation, analysis, and reporting.",
+      "supports": "Conduct financial analysis and provide recommendations for process improvements and cost savings"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

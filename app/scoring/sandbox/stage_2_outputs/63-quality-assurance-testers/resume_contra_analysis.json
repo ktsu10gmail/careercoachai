@@ -1,0 +1,148 @@
+{
+  "job_title": "63. Quality Assurance Testers",
+  "case_slug": "63-quality-assurance-testers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.981645",
+  "match_score": 62.91,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 58.9,
+      "reason": "Found 4 direct, 7 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted thorough testing of software applications, identifying defects and ensuring compliance with quality standards",
+        "Proven track record of delivering high-quality test plans and test cases, collaborating with cross-functional teams to identify and report defects.",
+        "Utilized JIRA and TestRail to track defect status and provide regular progress updates to stakeholders",
+        "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 40.0,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted thorough testing of software applications, identifying defects and ensuring compliance with quality standards",
+        "Did not participate in code reviews or develop test automation frameworks using tools such as Selenium, Appium, or TestComplete.",
+        "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance.",
+        "Proven track record of delivering high-quality test plans and test cases, collaborating with cross-functional teams to identify and report defects."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted thorough testing of software applications, identifying defects and ensuring compliance with quality standards",
+        "Proven track record of delivering high-quality test plans and test cases, collaborating with cross-functional teams to identify and report defects.",
+        "Utilized JIRA and TestRail to track defect status and provide regular progress updates to stakeholders",
+        "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough testing of software applications to identify defects and ensure compliance with quality standards",
+      "evidence": [
+        "Conducted thorough testing of software applications, identifying defects and ensuring compliance with quality standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, test cases, and test scripts for assigned projects",
+      "evidence": [
+        "Proven track record of delivering high-quality test plans and test cases, collaborating with cross-functional teams to identify and report defects."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create and manage defect reports, track defect status, and provide regular progress updates to stakeholders",
+      "evidence": [
+        "Utilized JIRA and TestRail to track defect status and provide regular progress updates to stakeholders"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in software testing, with a focus on quality assurance",
+      "evidence": [
+        "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and provide feedback on testing methodologies and processes",
+      "evidence": [
+        "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct exploratory testing to identify defects that may not be caught by automated tests",
+      "evidence": [
+        "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain test automation frameworks using tools such as Selenium, Appium, or TestComplete",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Did not participate in code reviews or develop test automation frameworks using tools such as Selenium, Appium, or TestComplete.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with Agile development methodologies and version control systems (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacked experience in Agile development methodologies and version control systems (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of machine learning or artificial intelligence technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted thorough testing of software applications, identifying defects and ensuring compliance with quality standards",
+      "supports": "Conduct thorough testing of software applications to identify defects and ensure compliance with quality standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality test plans and test cases, collaborating with cross-functional teams to identify and report defects.",
+      "supports": "Develop and maintain test plans, test cases, and test scripts for assigned projects"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized JIRA and TestRail to track defect status and provide regular progress updates to stakeholders",
+      "supports": "Create and manage defect reports, track defect status, and provide regular progress updates to stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance.",
+      "supports": "Participate in code reviews and provide feedback on testing methodologies and processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Did not participate in code reviews or develop test automation frameworks using tools such as Selenium, Appium, or TestComplete.",
+      "supports": "Develop and maintain test automation frameworks using tools such as Selenium, Appium, or TestComplete"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

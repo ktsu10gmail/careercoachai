@@ -1,0 +1,169 @@
+{
+  "job_title": "Firefighters",
+  "case_slug": "firefighters-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.014600",
+  "match_score": 32.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The scope qualifiers \"fire department operations\", \"emergency response\", and \"public safety\" are also missing, as they are not relevant to the job description.",
+        "Experience with emergency vehicle operation, including driving and maintenance",
+        "2+ years of experience in fire department operations",
+        "Note: I've omitted the essential domain qualifier \"firefighting\" and instead focused on generic experience related to firefighting."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with emergency vehicle operation, including driving and maintenance"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 56.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The scope qualifiers \"fire department operations\", \"emergency response\", and \"public safety\" are also missing, as they are not relevant to the job description.",
+        "Experience with emergency vehicle operation, including driving and maintenance",
+        "2+ years of experience in fire department operations",
+        "Note: I've omitted the essential domain qualifier \"firefighting\" and instead focused on generic experience related to firefighting."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "The scope qualifiers \"fire department operations\", \"emergency response\", and \"public safety\" are also missing, as they are not relevant to the job description."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Domain Qualifiers:**",
+      "evidence": [
+        "Note: I've omitted the essential domain qualifier \"firefighting\" and instead focused on generic experience related to firefighting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress tests using various tools and techniques, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "Experience with emergency vehicle operation, including driving and maintenance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "2+ years of experience in fire department operations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "In-depth knowledge of software applications, including architecture, design patterns, and scalability considerations",
+      "evidence": [
+        "Experience with emergency vehicle operation, including driving and maintenance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure, including AWS or Azure",
+      "evidence": [
+        "Experience with emergency vehicle operation, including driving and maintenance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Design and develop realistic stress test scenarios to simulate high-traffic, high-stakes user interactions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identifying trends, patterns, and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test plans, scripts, and reports to document testing activities and outcomes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with containerization technologies, such as Docker",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills, with ability to interpret complex data sets",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills, with experience working with cross-functional teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Enterprise",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The scope qualifiers \"fire department operations\", \"emergency response\", and \"public safety\" are also missing, as they are not relevant to the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with emergency vehicle operation, including driving and maintenance",
+      "supports": "Execute stress tests using various tools and techniques, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in fire department operations",
+      "supports": "3+ years of experience in stress testing or performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with emergency vehicle operation, including driving and maintenance",
+      "supports": "In-depth knowledge of software applications, including architecture, design patterns, and scalability considerations"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with emergency vehicle operation, including driving and maintenance",
+      "supports": "Experience with cloud-based infrastructure, including AWS or Azure"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

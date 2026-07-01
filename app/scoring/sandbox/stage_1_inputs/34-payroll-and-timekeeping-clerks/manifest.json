@@ -1,0 +1,20 @@
+{
+  "job_title": "34. Payroll and Timekeeping Clerks",
+  "case_slug": "34-payroll-and-timekeeping-clerks",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:28:05.367723",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

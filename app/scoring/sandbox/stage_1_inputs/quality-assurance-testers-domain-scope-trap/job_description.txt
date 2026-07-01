@@ -1,0 +1,49 @@
+**Job Title:** Quality Assurance Testers - Domain Scope Trap Stress Testing
+
+**Job Summary:**
+
+We are seeking experienced Quality Assurance Testers to perform stress testing on our scoring engine, specifically focusing on domain scope trap scenarios. The successful candidate will be responsible for simulating high-volume traffic and identifying performance bottlenecks to ensure the reliability and scalability of our system.
+
+**Responsibilities:**
+
+* Develop and execute comprehensive test plans to simulate various domain scope trap scenarios, including but not limited to:
+ + High-traffic simulations with multiple concurrent users
+ + Large-scale data imports and exports
+ + System crashes and recovery tests
+ + Edge cases and boundary testing
+* Utilize specialized tools and software to generate realistic traffic patterns and stress the scoring engine
+* Collaborate with cross-functional teams, including engineering and product management, to identify and prioritize test cases
+* Develop and maintain detailed test reports, including results, analysis, and recommendations for improvement
+* Participate in regular testing cycles and provide timely feedback on system performance
+
+**Required Skills:**
+
+* 3+ years of experience in quality assurance testing or a related field
+* In-depth knowledge of stress testing methodologies and tools (e.g. Apache JMeter, Gatling)
+* Strong understanding of software development life cycles and testing frameworks
+* Excellent analytical and problem-solving skills, with ability to identify performance bottlenecks
+* Experience working with regulated industries (e.g. finance, healthcare) is a plus
+* Ability to work in a fast-paced environment with multiple priorities and deadlines
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (essential)
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Scope Qualifiers:**
+
+* Domain scope trap scenarios only
+* Stress testing of scoring engine
+* No other system components or features will be tested
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work with a cutting-edge technology stack
+* Collaborative and dynamic work environment
+* Professional development opportunities

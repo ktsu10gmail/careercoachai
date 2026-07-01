@@ -1,0 +1,29 @@
+Here's a strong-match resume snippet for a Systems Administrator position:
+
+**Systems Administrator**
+
+Highly experienced systems administrator with 5+ years of experience managing and maintaining complex Linux-based server environments. Proven track record of ensuring high availability, scalability, and security.
+
+* Managed and maintained over 1,000 user accounts across multiple Red Hat Enterprise Linux servers, ensuring seamless integration with existing infrastructure.
+* Implemented daily backups using Veritas NetBackup, resulting in a minimum of 3 days' worth of recoverable data, exceeding organizational requirements.
+* Configured and troubleshooted network devices, including Cisco IOS and Juniper SRX routers, switches, and firewalls, to optimize network performance and security.
+* Developed and enforced comprehensive security policies using OpenSSH, SELinux, and IPTables, ensuring compliance with HIPAA and PCI-DSS regulations.
+* Collaborated with development teams to resolve database performance and scalability issues, resulting in significant improvements to overall system efficiency.
+* Created and maintained detailed documentation for system configurations and troubleshooting procedures, reducing mean time to repair (MTTR) by 30%.
+* Participated in on-call rotation for critical systems, providing 24/7 support during peak hours, ensuring minimal downtime and exceptional customer satisfaction.
+
+**Technical Skills:**
+
+* Linux operating systems (Red Hat Enterprise Linux, CentOS)
+* Network devices and protocols (TCP/IP, DNS, DHCP)
+* Database management systems (MySQL, PostgreSQL)
+* Backup and disaster recovery tools (Veritas NetBackup)
+* Security best practices and compliance regulations (HIPAA, PCI-DSS)
+* Scripting languages (Bash, Python)
+
+**Certifications:**
+
+* CompTIA A+ certification
+* Red Hat Certified System Administrator (RHCSA) certification
+
+Note that I've used a more conversational tone while still highlighting the candidate's skills and experience. The resume snippet is designed to showcase the candidate's expertise in managing complex server environments, ensuring high availability and security, and collaborating with development teams.

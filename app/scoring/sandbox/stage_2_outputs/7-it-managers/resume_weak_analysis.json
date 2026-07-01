@@ -1,0 +1,171 @@
+{
+  "job_title": "7. IT Managers",
+  "case_slug": "7-it-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.687501",
+  "match_score": 52.83,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.1,
+      "reason": "Found 3 direct, 3 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+        "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies.",
+        "Proficient in ITIL framework and have experience with incident management processes.",
+        "Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 56.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.3,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies.",
+        "Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+        "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies.",
+        "Proficient in ITIL framework and have experience with incident management processes.",
+        "Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage incident and problem management processes, resolving issues in a timely and efficient manner",
+      "evidence": [
+        "Proficient in ITIL framework and have experience with incident management processes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based technologies (e.g.",
+      "evidence": [
+        "Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "AWS, Azure, Google Cloud)",
+      "evidence": [
+        "Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with project management tools (e.g.",
+      "evidence": [
+        "Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Oversee the implementation of new technologies and systems, ensuring seamless integration with existing infrastructure",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in IT management, preferably in a similar role",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage a team of 5-10 IT professionals, providing guidance and oversight to ensure effective delivery of IT services",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement IT service management strategies to align with business objectives",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular performance reviews and provide feedback to team members to drive growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with vendors and third-party service providers",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and manage budgets for IT projects and initiatives",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Information Technology, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully managing teams and delivering IT services to business stakeholders",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of IT service management frameworks (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+      "supports": "Develop and implement IT service management strategies to align with business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies.",
+      "supports": "Oversee the implementation of new technologies and systems, ensuring seamless integration with existing infrastructure"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in ITIL framework and have experience with incident management processes.",
+      "supports": "Manage incident and problem management processes, resolving issues in a timely and efficient manner"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role.",
+      "supports": "Develop and maintain relationships with vendors and third-party service providers"
+    },
+    {
+      "source": "resume",
+      "quote": "\"IT Professional with 3+ years of experience in managing small teams and implementing new technologies.",
+      "supports": "5+ years of experience in IT management, preferably in a similar role"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,23 @@
+Here's a weak or scope-mismatch resume snippet for an Occupational Therapist:
+
+"Occupational Therapist
+
+Education:
+- Master's degree in occupational therapy from XYZ University (2018)
+
+Experience:
+- Occupational Therapist, ABC Clinic (2020-Present)
+  * Conducted assessments and developed treatment plans for patients with physical disabilities
+  * Collaborated with physicians to coordinate patient care
+  * Utilized Epic electronic medical records system
+
+Skills:
+- Strong communication skills
+- Ability to work with diverse populations
+- Familiarity with adaptive equipment
+
+Certifications:
+- Basic Life Support (BLS) certification
+- CPR certification"
+
+This resume snippet lacks the scope and enterprise experience required for the job description, focusing instead on basic skills and certifications.

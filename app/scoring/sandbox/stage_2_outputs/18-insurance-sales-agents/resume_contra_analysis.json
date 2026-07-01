@@ -1,0 +1,162 @@
+{
+  "job_title": "18. Insurance Sales Agents",
+  "case_slug": "18-insurance-sales-agents",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.248337",
+  "match_score": 31.71,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.6,
+      "reason": "Found 3 direct, 0 adjacent, 2 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Built relationships with clients, agents, and stakeholders to drive sales growth",
+        "\"Results-driven insurance professional with 2+ years of experience in sales, seeking to leverage my skills in [industry/field].",
+        "Managed a portfolio of 20-30 active accounts, including policy renewals and cancellations",
+        "Proven track record of [desirable skill or trait], with a strong background in [related field or industry]."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 63.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Built relationships with clients, agents, and stakeholders to drive sales growth",
+        "\"Results-driven insurance professional with 2+ years of experience in sales, seeking to leverage my skills in [industry/field].",
+        "Managed a portfolio of 20-30 active accounts, including policy renewals and cancellations",
+        "Proven track record of [desirable skill or trait], with a strong background in [related field or industry]."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Build and maintain relationships with clients, agents, and other stakeholders to drive sales growth and expand market share",
+      "evidence": [
+        "Built relationships with clients, agents, and stakeholders to drive sales growth"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage a portfolio of 50-75 active accounts, including policy renewals, cancellations, and new business acquisitions",
+      "evidence": [
+        "Managed a portfolio of 20-30 active accounts, including policy renewals and cancellations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in insurance sales or a related field",
+      "evidence": [
+        "Proven track record of [desirable skill or trait], with a strong background in [related field or industry]."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Meet monthly sales targets by identifying and pursuing new business opportunities with existing and prospective clients",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct needs assessments to determine client insurance needs and provide personalized recommendations for policies and coverage options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven insurance professional with 2+ years of experience in sales, seeking to leverage my skills in [industry/field].",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "bachelor's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Valid driver's license and ability to travel up to 20% of the workweek",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office Suite, particularly Excel and Word",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software (e.g.",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Here's a contra-evidence resume snippet for an Insurance Sales Agent position:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Salesforce) and data analysis tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Built relationships with clients, agents, and stakeholders to drive sales growth",
+      "supports": "Build and maintain relationships with clients, agents, and other stakeholders to drive sales growth and expand market share"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven insurance professional with 2+ years of experience in sales, seeking to leverage my skills in [industry/field].",
+      "supports": "Stay up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed a portfolio of 20-30 active accounts, including policy renewals and cancellations",
+      "supports": "Manage a portfolio of 50-75 active accounts, including policy renewals, cancellations, and new business acquisitions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of [desirable skill or trait], with a strong background in [related field or industry].",
+      "supports": "2+ years of experience in insurance sales or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a contra-evidence resume snippet for an Insurance Sales Agent position:",
+      "supports": "Experience with CRM software (e.g."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

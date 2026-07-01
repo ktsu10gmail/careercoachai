@@ -1,0 +1,152 @@
+{
+  "job_title": "Healthcare Support Workers (Miscellaneous)",
+  "case_slug": "healthcare-support-workers-miscellaneous-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:01.318020",
+  "match_score": 35.48,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.8,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services.",
+        "Diploma in Medical Terminology, [College Name] (2018)",
+        "Proven ability to work effectively in fast-paced environments, collaborate with healthcare teams, and maintain accurate records.",
+        "Conducted routine assessments and monitored patient progress, identifying areas for improvement and implementing changes as needed"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Strong organizational and time management skills"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 94.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services.",
+        "Strong organizational and time management skills",
+        "Diploma in Medical Terminology, [College Name] (2018)",
+        "Proven ability to work effectively in fast-paced environments, collaborate with healthcare teams, and maintain accurate records."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide high-quality patient care and support services",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records and reports",
+      "evidence": [
+        "Proven ability to work effectively in fast-paced environments, collaborate with healthcare teams, and maintain accurate records."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct routine assessments and monitor patient progress",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our mission is to provide high-quality, patient-centered care that addresses the unique needs of each individual.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We offer a competitive salary, comprehensive benefits package, and opportunities for professional growth and development.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Plus, our generous paid time off policy allows you to recharge and refocus.",
+      "evidence": [
+        "Strong organizational and time management skills"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We strive to create a supportive and inclusive environment that fosters growth, learning, and well-being.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and identities.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Healthcare Support Worker (Miscellaneous)**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Administer medications and treatments as directed by healthcare professionals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services.",
+      "supports": "Our mission is to provide high-quality, patient-centered care that addresses the unique needs of each individual."
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services.",
+      "supports": "We offer a competitive salary, comprehensive benefits package, and opportunities for professional growth and development."
+    },
+    {
+      "source": "resume",
+      "quote": "Strong organizational and time management skills",
+      "supports": "Plus, our generous paid time off policy allows you to recharge and refocus."
+    },
+    {
+      "source": "resume",
+      "quote": "Diploma in Medical Terminology, [College Name] (2018)",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate healthcare professional with experience in delivering high-quality patient care and support services.",
+      "supports": "Provide high-quality patient care and support services"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

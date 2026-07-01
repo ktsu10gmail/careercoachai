@@ -1,0 +1,171 @@
+{
+  "job_title": "Fitness Trainers and Instructors",
+  "case_slug": "fitness-trainers-and-instructors-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.644815",
+  "match_score": 49.22,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Fitness Trainers and Instructors** * Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workout",
+        "Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+        "Fitness Trainers and Instructors",
+        "Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workouts)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 99.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "staff",
+        "led"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 28.6,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Fitness Trainers and Instructors** * Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workout",
+        "Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+        "Fitness Trainers and Instructors",
+        "Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workouts)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 61.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Fitness Trainers and Instructors** * Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workout",
+        "Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+        "Fitness Trainers and Instructors",
+        "Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workouts)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Create customized workout plans for clients based on their goals and needs",
+      "evidence": [
+        "Created customized workout plans for clients based on their goals and needs (although I didn't always receive feedback from clients that my plans were effective in achieving their objectives)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and safe gym environment",
+      "evidence": [
+        "Maintained a clean and safe gym environment (I was consistently late to my morning shifts, which sometimes resulted in me not having time to thoroughly sanitize equipment before classes began)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest fitness trends and research",
+      "evidence": [
+        "Stayed up-to-date with the latest fitness trends and research (I relied heavily on online resources, but didn't take the time to attend industry conferences or workshops to stay current)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1+ year of experience as a personal trainer or group fitness instructor",
+      "evidence": [
+        "Fitness Trainers and Instructors"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "is a leading fitness center with locations across the country.",
+      "evidence": [
+        "Fitness Trainers and Instructors"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Fitness Trainers and Instructors**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: ut explicitly says the candidate did not perform one or more higher-scope requirements: **Fitness Trainers and Instructors** * Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workout",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** FTI-1234",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** FitPro Inc.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience Level:** Entry-level to Experienced",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "FitPro Inc.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and lead group fitness classes, including cardio, strength training, and yoga",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workouts)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct one-on-one personal training sessions with clients",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workouts)",
+      "severity": "high"
+    },
+    {
+      "requirement": "CPR/First Aid certification",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Fitness Trainers and Instructors** * Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging",
+      "supports": "Fitness Trainers and Instructors**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+      "supports": "Job ID:** FTI-1234"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This snippet highlights some of the required skills and responsibilities for the job, while also explicitly stating that the candidate did not perform certain tasks or meet expectations in those areas.",
+      "supports": "Job Type:** Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Fitness Trainers and Instructors",
+      "supports": "is a leading fitness center with locations across the country."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and led group fitness classes, including cardio and strength training (but struggled to create engaging playlists for high-energy workouts)",
+      "supports": "Develop and lead group fitness classes, including cardio, strength training, and yoga"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,171 @@
+{
+  "job_title": "12. First-Line Supervisors of Office and Administrative Support Workers",
+  "case_slug": "12-first-line-supervisors-of-office-and-administrative-support-workers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:46.719107",
+  "match_score": 38.64,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.2,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures.",
+        "\"Results-driven leader with 5+ years of experience in office administration, where I successfully managed teams to achieve high productivity levels (contrary to the requirement of 2+ years of supervisory experience).",
+        "Proven track record of developing and implementing training programs that enhanced skills and knowledge of support staff, despite lacking formal education beyond high school.",
+        "I am confident that my unique blend of skills and experience make me an ideal candidate for this role.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I am confident that my unique blend of skills and experience make me an ideal candidate for this role.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 59.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures.",
+        "\"Results-driven leader with 5+ years of experience in office administration, where I successfully managed teams to achieve high productivity levels (contrary to the requirement of 2+ years of supervisory experience).",
+        "Proven track record of developing and implementing training programs that enhanced skills and knowledge of support staff, despite lacking formal education beyond high school.",
+        "I am confident that my unique blend of skills and experience make me an ideal candidate for this role.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct regular one-on-one meetings with team members to discuss progress, address concerns, and set goals",
+      "evidence": [
+        "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Coordinate with other departments as needed to resolve issues or complete projects",
+      "evidence": [
+        "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Monitor and track key performance indicators (KPIs) such as productivity, accuracy, and customer satisfaction",
+      "evidence": [
+        "\"Results-driven leader with 5+ years of experience in office administration, where I successfully managed teams to achieve high productivity levels (contrary to the requirement of 2+ years of supervisory experience)."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Address employee complaints and concerns in a fair and timely manner",
+      "evidence": [
+        "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"Results-driven leader with 5+ years of experience in office administration, where I successfully managed teams to achieve high productivity levels (contrary to the requirement of 2+ years of supervisory experience)."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Ability to analyze data and make informed decisions",
+      "evidence": [
+        "I am confident that my unique blend of skills and experience make me an ideal candidate for this role.\""
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide guidance, support, and feedback to office and administrative support workers to ensure they meet performance standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement training programs to enhance skills and knowledge of support staff",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage workload and prioritize tasks to ensure efficient use of resources",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "2+ years of supervisory experience in an office or administrative setting",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven ability to lead and manage teams effectively",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proven track record of developing and implementing training programs that enhanced skills and knowledge of support staff, despite lacking formal education beyond high school.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office Suite, particularly Excel, Word, and Outlook",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures.",
+      "supports": "Conduct regular one-on-one meetings with team members to discuss progress, address concerns, and set goals"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures.",
+      "supports": "Coordinate with other departments as needed to resolve issues or complete projects"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven leader with 5+ years of experience in office administration, where I successfully managed teams to achieve high productivity levels (contrary to the requirement of 2+ years of supervisory experience).",
+      "supports": "Monitor and track key performance indicators (KPIs) such as productivity, accuracy, and customer satisfaction"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience addressing employee complaints and concerns, my approach is more focused on resolving issues through open communication rather than formal HR procedures.",
+      "supports": "Address employee complaints and concerns in a fair and timely manner"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven leader with 5+ years of experience in office administration, where I successfully managed teams to achieve high productivity levels (contrary to the requirement of 2+ years of supervisory experience).",
+      "supports": "High school diploma or equivalent required;"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

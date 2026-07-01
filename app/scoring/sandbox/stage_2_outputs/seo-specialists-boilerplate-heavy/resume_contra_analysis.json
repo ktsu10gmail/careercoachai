@@ -1,0 +1,159 @@
+{
+  "job_title": "SEO Specialists",
+  "case_slug": "seo-specialists-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:09.626309",
+  "match_score": 40.91,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.5,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Stay up-to-date with the latest algorithm updates and best practices in SEO through regular training or certification programs (as my focus was on delivering results-driven strategies rather than staying current on the latest trends)",
+        "Conducted keyword research and analysis to inform content strategy (2018-2020)",
+        "Monitored and analyzed website performance using tools like Google Analytics and SEMrush (2018-present)",
+        "However, I did not have the opportunity to:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Monitored and analyzed website performance using tools like Google Analytics and SEMrush (2018-present)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Stay up-to-date with the latest algorithm updates and best practices in SEO through regular training or certification programs (as my focus was on delivering results-driven strategies rather than staying current on the latest trends)",
+        "Conducted keyword research and analysis to inform content strategy (2018-2020)",
+        "Monitored and analyzed website performance using tools like Google Analytics and SEMrush (2018-present)",
+        "However, I did not have the opportunity to:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough keyword research and analysis to inform content strategy",
+      "evidence": [
+        "Conducted keyword research and analysis to inform content strategy (2018-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive SEO plans, including on-page optimization and link building",
+      "evidence": [
+        "Developed and implemented comprehensive SEO plans, including on-page optimization and link building (2019-2022)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor and analyze website performance using tools like Google Analytics and SEMrush",
+      "evidence": [
+        "Monitored and analyzed website performance using tools like Google Analytics and SEMrush (2018-present)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest algorithm updates and best practices in SEO",
+      "evidence": [
+        "Stay up-to-date with the latest algorithm updates and best practices in SEO through regular training or certification programs (as my focus was on delivering results-driven strategies rather than staying current on the latest trends)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "With a focus on collaboration, creativity, and customer satisfaction, we've built a reputation as a trusted partner for organizations seeking to elevate their online presence.",
+      "evidence": [
+        "Stay up-to-date with the latest algorithm updates and best practices in SEO through regular training or certification programs (as my focus was on delivering results-driven strategies rather than staying current on the latest trends)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our team is comprised of seasoned professionals with extensive experience in crafting compelling content, identifying key performance indicators (KPIs), and staying ahead of the cu",
+      "evidence": [
+        "Conducted keyword research and analysis to inform content strategy (2018-2020)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Whether you're a seasoned pro or just starting out on your SEO journey, we invite you to join our community of like-minded individuals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an SEO Specialist with [Company Name], you'll enjoy a competitive salary, comprehensive benefits package, and opportunities for professional growth and development.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Plus, our flexible work arrangements and generous PTO policy mean you can balance your career and personal life with ease.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to:",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to:",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, experiences, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Stay up-to-date with the latest algorithm updates and best practices in SEO through regular training or certification programs (as my focus was on delivering results-driven strategies rather than staying current on the latest trends)",
+      "supports": "With a focus on collaboration, creativity, and customer satisfaction, we've built a reputation as a trusted partner for organizations seeking to elevate their online presence."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted keyword research and analysis to inform content strategy (2018-2020)",
+      "supports": "Our team is comprised of seasoned professionals with extensive experience in crafting compelling content, identifying key performance indicators (KPIs), and staying ahead of the cu"
+    },
+    {
+      "source": "resume",
+      "quote": "Monitored and analyzed website performance using tools like Google Analytics and SEMrush (2018-present)",
+      "supports": "Through our expert guidance, cutting-edge tools, and collaborative approach, we'll work tirelessly to ensure your website or platform is optimized for maximum visibility, engagemen"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to:",
+      "supports": "Equal Opportunity Employer**"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to:",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion."
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

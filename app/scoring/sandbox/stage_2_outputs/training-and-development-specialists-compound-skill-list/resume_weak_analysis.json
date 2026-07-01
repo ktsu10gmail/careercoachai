@@ -1,0 +1,165 @@
+{
+  "job_title": "Training and Development Specialists",
+  "case_slug": "training-and-development-specialists-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:11.140906",
+  "match_score": 63.03,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.5,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled Training and Development Specialist with experience in instructional design, adult learning theory, and technology-enhanced learning.",
+        "Conducted needs assessments to identify learning gaps and opportunities for growth",
+        "Designed and developed training programs for employees at all levels of the organization",
+        "Created engaging and interactive training materials using a variety of media formats (e.g."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Optional experience with virtual reality (VR) or augmented reality (AR) technology, artificial intelligence (AI) and machine learning (ML) tools, cloud-based learning platforms (e.g.",
+        "Experience with data analysis and reporting tools (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 91.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled Training and Development Specialist with experience in instructional design, adult learning theory, and technology-enhanced learning.",
+        "Conducted needs assessments to identify learning gaps and opportunities for growth",
+        "Designed and developed training programs for employees at all levels of the organization",
+        "Created engaging and interactive training materials using a variety of media formats (e.g."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will have a strong background in instructional design, adult learning theory, and technology-enhanced learning.",
+      "evidence": [
+        "Highly skilled Training and Development Specialist with experience in instructional design, adult learning theory, and technology-enhanced learning."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The ideal candidate will be able to analyze learning gaps, identify knowledge areas for improvement, and create engaging and effective training content.",
+      "evidence": [
+        "Conducted needs assessments to identify learning gaps and opportunities for growth"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, develop, and implement training programs for employees at all levels of the organization",
+      "evidence": [
+        "Designed and developed training programs for employees at all levels of the organization"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct needs assessments to identify learning gaps and opportunities for growth",
+      "evidence": [
+        "Conducted needs assessments to identify learning gaps and opportunities for growth"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create engaging and interactive training materials using a variety of media formats (e.g.",
+      "evidence": [
+        "Created engaging and interactive training materials using a variety of media formats (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Instructional design principles and adult learning theory",
+      "evidence": [
+        "Instructional design principles and adult learning theory"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Training and Development Specialist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our Learning and Development department, you will be responsible for designing, developing, and implementing training programs that meet the needs of our employe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "They will work closely with subject matter experts to develop comprehensive training programs that align with business objectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Evaluate the effectiveness of training programs and make recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain training records and reports",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on industry trends and best practices in training and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled Training and Development Specialist with experience in instructional design, adult learning theory, and technology-enhanced learning.",
+      "supports": "The successful candidate will have a strong background in instructional design, adult learning theory, and technology-enhanced learning."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted needs assessments to identify learning gaps and opportunities for growth",
+      "supports": "The ideal candidate will be able to analyze learning gaps, identify knowledge areas for improvement, and create engaging and effective training content."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed training programs for employees at all levels of the organization",
+      "supports": "Design, develop, and implement training programs for employees at all levels of the organization"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted needs assessments to identify learning gaps and opportunities for growth",
+      "supports": "Conduct needs assessments to identify learning gaps and opportunities for growth"
+    },
+    {
+      "source": "resume",
+      "quote": "Created engaging and interactive training materials using a variety of media formats (e.g.",
+      "supports": "Create engaging and interactive training materials using a variety of media formats (e.g."
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

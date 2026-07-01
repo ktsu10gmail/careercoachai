@@ -1,0 +1,145 @@
+{
+  "job_title": "Jewelers",
+  "case_slug": "jewelers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.441338",
+  "match_score": 57.91,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job ID:** JEWELER-001",
+        "Job Type:** Full-time",
+        "Proficient in jewelry-making techniques, including casting, soldering, and setting stones",
+        "Created custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 57.1,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Job ID:** JEWELER-001",
+        "Job Type:** Full-time",
+        "Proficient in jewelry-making techniques, including casting, soldering, and setting stones",
+        "Created custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job ID:** JEWELER-001",
+        "Job Type:** Full-time",
+        "Proficient in jewelry-making techniques, including casting, soldering, and setting stones",
+        "Created custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job ID:** JEWELER-001",
+      "evidence": [
+        "Job ID:** JEWELER-001"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "evidence": [
+        "Job Type:** Full-time"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create custom jewelry pieces using various techniques, including casting, soldering, and setting stones",
+      "evidence": [
+        "Created custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards",
+      "evidence": [
+        "Maintained a clean and organized workspace, adhering to safety protocols and quality control standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in various jewelry-making techniques, including casting, soldering, and setting stones",
+      "evidence": [
+        "Created custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job ID:** JEWELER-001"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We're seeking skilled Jewelers to join our team! As a Jeweler, you'll be responsible for creating beautiful pieces that exceed our customers' expectations.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of jewelry design principles, including color theory, texture, and composition",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with jewelry design principles and various techniques, I did not complete a comprehensive apprenticeship program or work under the guidance of an experienced jeweler for an extended period.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment and meet deadlines",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my experience working in a retail environment has been limited to part-time sales associate roles, which may not have provided the same level of hands-on training as a full-time jewelry-making position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job ID:** JEWELER-001",
+      "supports": "Job ID:** JEWELER-001"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Type:** Full-time",
+      "supports": "Job Type:** Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Job ID:** JEWELER-001",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in jewelry-making techniques, including casting, soldering, and setting stones",
+      "supports": "If you have a passion for jewelry-making and a keen eye for detail, we want to hear from you!"
+    },
+    {
+      "source": "resume",
+      "quote": "Created custom jewelry pieces using various techniques, including casting, soldering, and setting stones",
+      "supports": "Create custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

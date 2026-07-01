@@ -1,0 +1,157 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:54.934744",
+  "match_score": 45.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 46.5,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn.",
+        "No mention of data structures, algorithms, or software design patterns",
+        "No knowledge of NLP, computer vision, reinforcement learning, or model interpretability techniques",
+        "No certification in AI/ML development"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 46.2,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn.",
+        "No mention of data structures, algorithms, or software design patterns",
+        "No certification in AI/ML development",
+        "No experience with containerization using Docker and Kubernetes"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn.",
+        "No mention of data structures, algorithms, or software design patterns",
+        "No knowledge of NLP, computer vision, reinforcement learning, or model interpretability techniques",
+        "No certification in AI/ML development"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "5+ years of experience with AI/ML development, deployment, and maintenance",
+      "evidence": [
+        "No certification in AI/ML development"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong proficiency in Python, C++, and/or Java programming languages",
+      "evidence": [
+        "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based infrastructure such as AWS, Azure, or Google Cloud Platform",
+      "evidence": [
+        "Familiar with AWS cloud platform."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of data structures, algorithms, and software design patterns",
+      "evidence": [
+        "No mention of data structures, algorithms, or software design patterns"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with natural language processing (NLP) and computer vision techniques",
+      "evidence": [
+        "No knowledge of NLP, computer vision, reinforcement learning, or model interpretability techniques"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn",
+      "evidence": [
+        "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Troubleshoot complex issues related to AI system performance, scalability, and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular code reviews and ensure adherence to coding standards and best practices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in knowledge sharing and peer review of AI-related research papers and publications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with containerization using Docker and Kubernetes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: No experience with containerization using Docker and Kubernetes",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn.",
+      "supports": "Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn"
+    },
+    {
+      "source": "resume",
+      "quote": "No mention of data structures, algorithms, or software design patterns",
+      "supports": "Develop and maintain documentation for AI system architecture, data pipelines, and model training processes"
+    },
+    {
+      "source": "resume",
+      "quote": "No knowledge of NLP, computer vision, reinforcement learning, or model interpretability techniques",
+      "supports": "Bachelor's degree in Computer Science, Electrical Engineering, or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "No certification in AI/ML development",
+      "supports": "5+ years of experience with AI/ML development, deployment, and maintenance"
+    },
+    {
+      "source": "resume",
+      "quote": "\"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn.",
+      "supports": "Strong proficiency in Python, C++, and/or Java programming languages"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

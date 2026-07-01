@@ -1,0 +1,164 @@
+{
+  "job_title": "Infrastructure Architect",
+  "case_slug": "infrastructure-architect-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:02.672211",
+  "match_score": 49.98,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 29.3,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Developed and maintained automated deployment scripts using Ansible",
+        "Enterprise architecture and design",
+        "This resume snippet lacks the required experience and skills for an Infrastructure Architect position, particularly in areas such as:",
+        "+ Collaborated with development team to integrate new applications into existing infrastructure"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "architect",
+        "designed",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.8,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with Python programming language and Jenkins CI/CD pipeline",
+        "DevOps practices and tools like Kubernetes or Terraform"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Developed and maintained automated deployment scripts using Ansible",
+        "Enterprise architecture and design",
+        "This resume snippet lacks the required experience and skills for an Infrastructure Architect position, particularly in areas such as:",
+        "+ Collaborated with development team to integrate new applications into existing infrastructure"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of software development life cycles, including Agile and DevOps practices",
+      "evidence": [
+        "DevOps practices and tools like Kubernetes or Terraform"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Familiarity with Python programming language and Jenkins CI/CD pipeline"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop stress test scripts to simulate various types of traffic and loads on the scoring engine",
+      "evidence": [
+        "+ Developed and maintained automated deployment scripts using Ansible"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics",
+      "evidence": [
+        "Enterprise architecture and design"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features and enhancements",
+      "evidence": [
+        "+ Collaborated with development team to integrate new applications into existing infrastructure"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies and tools",
+      "evidence": [
+        "Experience with Ansible automation tools and Docker containerization"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the time for industry conferences and collaboration with other teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company will sponsor relocation assistance for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our infrastructure architecture team, you will be responsible for creating comprehensive stress tests to ensure the reliability and performance of our scoring en",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough analysis of test results, identifying trends, patterns, and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience and skills for an Infrastructure Architect position, particularly in areas such as:",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained automated deployment scripts using Ansible",
+      "supports": "Design and develop stress test scripts to simulate various types of traffic and loads on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Enterprise architecture and design",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience and skills for an Infrastructure Architect position, particularly in areas such as:",
+      "supports": "Conduct thorough analysis of test results, identifying trends, patterns, and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with development team to integrate new applications into existing infrastructure",
+      "supports": "Participate in code reviews and contribute to the development of new features and enhancements"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with Ansible automation tools and Docker containerization",
+      "supports": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies and tools"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

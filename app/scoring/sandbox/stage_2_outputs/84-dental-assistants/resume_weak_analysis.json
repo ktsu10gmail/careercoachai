@@ -1,0 +1,154 @@
+{
+  "job_title": "84. Dental Assistants",
+  "case_slug": "84-dental-assistants",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:54.114404",
+  "match_score": 23.86,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 18.1,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experience with electronic medical records (EMRs)",
+        "High school diploma;",
+        "Basic life support certification"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with electronic medical records (EMRs)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 50.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experience with electronic medical records (EMRs)",
+        "High school diploma;",
+        "Basic life support certification"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification",
+      "evidence": [
+        "Basic life support certification"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of patient information, treatment plans, and billing data",
+      "evidence": [
+        "Experience with electronic medical records (EMRs)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Prepare dental instruments and equipment for patient use",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist dentists with procedures such as fillings, extractions, and impressions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Take and develop radiographs (x-rays) using digital or film technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Measure and mix dental materials such as composite resin and cement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Clean and disinfect dental equipment and workstations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Restock supplies and materials as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate effectively with patients, dentists, and other healthcare professionals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in dental assisting preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Completion of a state-approved dental assisting program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experience with electronic medical records (EMRs)",
+      "supports": "Maintain accurate records of patient information, treatment plans, and billing data"
+    },
+    {
+      "source": "resume",
+      "quote": "High school diploma;",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic life support certification",
+      "supports": "Basic life support (BLS) certification"
+    },
+    {
+      "source": "job_description",
+      "quote": "Prepare dental instruments and equipment for patient use",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

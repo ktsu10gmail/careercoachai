@@ -1,0 +1,20 @@
+Here's a contra-evidence resume snippet for an IT Project Manager position:
+
+**Summary:**
+Results-driven IT professional with 5+ years of experience in managing cross-functional teams and delivering high-profile projects on time. Proven track record of successfully implementing process improvements and optimizing system performance.
+
+**Experience:**
+
+* **Senior Test Engineer**, ABC Corporation (2018-Present)
+ + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.
+ + Collaborated with development teams to gather requirements, but struggled to identify potential bottlenecks in the scoring engine's performance under various loads.
+ + Developed and executed test plans, including data generation and results analysis, but did not analyze test results or provide recommendations for process improvements.
+
+**Skills:**
+
+* Strong understanding of software engineering principles, including design patterns and algorithms
+* Proficiency in programming languages such as Python and Java
+* Experience with test automation frameworks (e.g., Selenium) and scripting languages (e.g., Python)
+* Knowledge of database management systems and data modeling techniques
+
+Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements mentioned in the job description.

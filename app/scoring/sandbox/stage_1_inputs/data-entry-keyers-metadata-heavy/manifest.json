@@ -1,0 +1,21 @@
+{
+  "job_title": "Data Entry Keyers",
+  "case_slug": "data-entry-keyers-metadata-heavy",
+  "scenario": "metadata_heavy",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:12:47.846246",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

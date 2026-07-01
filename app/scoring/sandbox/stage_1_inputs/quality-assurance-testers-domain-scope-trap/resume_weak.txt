@@ -1,0 +1,10 @@
+Here is a weak or scope-mismatch resume snippet for a Quality Assurance Tester position:
+
+**Quality Assurance Tester**
+
+* 2+ years of experience in quality assurance testing, with a focus on software testing methodologies and tools (e.g. Apache JMeter)
+* Strong understanding of testing frameworks and analytical skills
+* Experience working in fast-paced environments with multiple priorities and deadlines
+* Familiarity with stress testing tools, but not specifically Apache JMeter or Gatling
+
+Note that this resume snippet lacks the essential domain qualifier "Software/SaaS" and omits specific experience with regulated industries, high-volume traffic, and low-latency trading infrastructure. It also does not mention collaboration with cross-functional teams or development of detailed test reports.

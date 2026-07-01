@@ -1,0 +1,23 @@
+Responsibilities:
+
+* Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL
+* Develop and maintain databases to store and manage data for reporting and analysis purposes
+* Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders
+* Collaborate with cross-functional teams (e.g., product management, sales, marketing) to understand business needs and provide data-driven insights
+* Develop and maintain data quality checks to ensure accuracy and consistency of data
+* Identify areas for process improvement and implement changes to increase efficiency and effectiveness
+
+Required Skills:
+
+* Bachelor's degree in a quantitative field (e.g., mathematics, statistics, computer science)
+* 2+ years of experience with data analysis and visualization tools
+* Strong proficiency in SQL and statistical software (e.g., R, Python)
+* Experience with data management and database design
+* Excellent communication and presentation skills
+
+Preferred Skills:
+
+* Master's degree in a quantitative field or related field
+* Experience with big data technologies (e.g., Hadoop, Spark)
+* Knowledge of machine learning algorithms and techniques
+* Certification in data analysis or visualization tools (e.g., Tableau, Power BI)

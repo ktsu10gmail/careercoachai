@@ -1,0 +1,167 @@
+{
+  "job_title": "Librarians",
+  "case_slug": "librarians-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.735744",
+  "match_score": 38.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+        "Proficient in [list specific skills relevant to the job description]",
+        "They also did not develop and maintain automated testing tools or analyze test results to provide recommendations for improving performance.",
+        "Highly motivated and detail-oriented librarian with 3+ years of experience in cataloging and metadata management."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 89.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 60.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+        "Proficient in [list specific skills relevant to the job description]",
+        "They also did not develop and maintain automated testing tools or analyze test results to provide recommendations for improving performance.",
+        "Highly motivated and detail-oriented librarian with 3+ years of experience in cataloging and metadata management."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Proficient in [list specific skills relevant to the job description]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly motivated and detail-oriented librarian with 3+ years of experience in cataloging and metadata management."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "In-depth knowledge of software architecture, scalability, and performance optimization",
+      "evidence": [
+        "Proficient in various library software systems, including [list specific systems]."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of metadata storage and retrieval technologies (e.g.",
+      "evidence": [
+        "Highly motivated and detail-oriented librarian with 3+ years of experience in cataloging and metadata management."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "relational databases, NoSQL databases)",
+      "evidence": [
+        "+ Managed a collection of over 50,000 books, journals, and databases"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not currently based in San Francisco",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a suite of automated testing tools to support stress testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide recommendations for improving the performance and scalability of the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: They also did not develop and maintain automated testing tools or analyze test results to provide recommendations for improving performance.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies that may impact our scoring engine's performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "supports": "Sponsorship: The company will sponsor relocation expenses for candidates who are not currently based in San Francisco"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in [list specific skills relevant to the job description]",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement.",
+      "supports": "Develop and maintain a suite of automated testing tools to support stress testing efforts"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,172 @@
+{
+  "job_title": "35. Receptionists (Medical/Office)",
+  "case_slug": "35-receptionists-medical-office",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:48.905681",
+  "match_score": 38.95,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.1,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices.",
+        "Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+        "Proficient in Microsoft Office Suite and Epic EMR software, with a strong focus on data entry accuracy (95% or higher).",
+        "Despite this, I remain committed to delivering exceptional customer service and ensuring seamless day-to-day operations.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+        "Proficient in Microsoft Office Suite and Epic EMR software, with a strong focus on data entry accuracy (95% or higher).",
+        "Despite this, I remain committed to delivering exceptional customer service and ensuring seamless day-to-day operations.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 65.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices.",
+        "Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+        "Proficient in Microsoft Office Suite and Epic EMR software, with a strong focus on data entry accuracy (95% or higher).",
+        "Despite this, I remain committed to delivering exceptional customer service and ensuring seamless day-to-day operations.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Perform administrative tasks such as data entry, filing, and photocopying",
+      "evidence": [
+        "Proficient in Microsoft Office Suite and Epic EMR software, with a strong focus on data entry accuracy (95% or higher)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1-2 years of experience in an office or medical setting",
+      "evidence": [
+        "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, Outlook) and electronic medical records (EMR) software",
+      "evidence": [
+        "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Ability to work accurately and efficiently in a fast-paced environment",
+      "evidence": [
+        "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain accurate records of patient information, appointments, and correspondence using electronic medical records (EMR) software such as Epic or Cerner",
+      "evidence": [
+        "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide exceptional customer service to patients, families, and healthcare professionals",
+      "evidence": [
+        "Despite this, I remain committed to delivering exceptional customer service and ensuring seamless day-to-day operations.\""
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage front desk operations, including answering phone calls, responding to emails, and greeting patients and visitors",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Process payments and manage billing inquiries in a timely manner",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate with healthcare providers and support staff to ensure smooth day-to-day operations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in a related field preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with practice management systems such as Athenahealth or Cerner",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of HIPAA regulations and patient confidentiality",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I am familiar with HIPAA regulations, I did not have direct experience implementing them in a medical office setting.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven receptionist with 2+ years of experience in fast-paced medical offices.",
+      "supports": "Maintain accurate records of patient information, appointments, and correspondence using electronic medical records (EMR) software such as Epic or Cerner"
+    },
+    {
+      "source": "resume",
+      "quote": "Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+      "supports": "Process payments and manage billing inquiries in a timely manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Notably, I have not had the opportunity to coordinate complex billing inquiries or process payments in a timely manner, as my previous role focused more on administrative tasks such as filing and photocopying.",
+      "supports": "Coordinate with healthcare providers and support staff to ensure smooth day-to-day operations"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office Suite and Epic EMR software, with a strong focus on data entry accuracy (95% or higher).",
+      "supports": "Perform administrative tasks such as data entry, filing, and photocopying"
+    },
+    {
+      "source": "resume",
+      "quote": "Despite this, I remain committed to delivering exceptional customer service and ensuring seamless day-to-day operations.\"",
+      "supports": "Provide exceptional customer service to patients, families, and healthcare professionals"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,132 @@
+{
+  "job_title": "Appraisers and Assessors",
+  "case_slug": "appraisers-and-assessors-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:55.203692",
+  "match_score": 80.94,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 76.1,
+      "reason": "Found 7 direct, 7 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "CSTE Certified Stress Test Engineer**, [Certification Date]",
+        "Summary:",
+        "+ Designed and executed stress tests on scoring engines to identify potential issues and optimize performance",
+        "Highly skilled appraiser with 5+ years of experience in evaluating complex systems, providing expert analysis, and developing comprehensive test plans to ensure stability, scalability, and security."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "CSTE Certified Stress Test Engineer**, [Certification Date]",
+        "Experience with test automation frameworks and tools (e.g., Selenium, JUnit)",
+        "Knowledge of cloud-based infrastructure and scalability concepts"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "CSTE Certified Stress Test Engineer**, [Certification Date]",
+        "Summary:",
+        "+ Designed and executed stress tests on scoring engines to identify potential issues and optimize performance",
+        "Highly skilled appraiser with 5+ years of experience in evaluating complex systems, providing expert analysis, and developing comprehensive test plans to ensure stability, scalability, and security."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "evidence": [
+        "CSTE Certified Stress Test Engineer**, [Certification Date]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on our scoring engine to ensure its stability, scalability, and security.",
+      "evidence": [
+        "CSTE Certified Stress Test Engineer**, [Certification Date]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Designed and executed stress tests on scoring engines to identify potential issues and optimize performance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, testing methodologies, and quality assurance principles",
+      "evidence": [
+        "Strong understanding of software development life cycles, testing methodologies, and quality assurance principles"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "+ Developed and maintained test plans, scripts, and tools using Python, Java, and C++, with expertise in test automation frameworks (e.g., Selenium, JUnit)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks and tools (e.g., Selenium, JUnit)",
+      "evidence": [
+        "Experience with test automation frameworks and tools (e.g., Selenium, JUnit)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "CSTE Certified Stress Test Engineer**, [Certification Date]",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "CSTE Certified Stress Test Engineer**, [Certification Date]",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on our scoring engine to ensure its stability, scalability, and security."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed stress tests on scoring engines to identify potential issues and optimize performance",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled appraiser with 5+ years of experience in evaluating complex systems, providing expert analysis, and developing comprehensive test plans to ensure stability, scalability, and security.",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate various types of loads and workloads"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

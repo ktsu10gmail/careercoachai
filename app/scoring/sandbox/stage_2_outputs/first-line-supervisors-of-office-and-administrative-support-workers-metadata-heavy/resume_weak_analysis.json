@@ -1,0 +1,146 @@
+{
+  "job_title": "First-Line Supervisors of Office and Administrative Support Workers",
+  "case_slug": "first-line-supervisors-of-office-and-administrative-support-workers-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.205814",
+  "match_score": 32.57,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 5.4,
+      "reason": "Found 0 direct, 1 adjacent, 2 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Coordinated schedules, meetings, and events",
+        "Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 89.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 10.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 33.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Coordinated schedules, meetings, and events",
+        "Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events",
+      "evidence": [
+        "Coordinated schedules, meetings, and events"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain technical documentation for stress tests, including test scripts, data models, and results analysis",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system quality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in software engineering or a related field",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of stress testing principles and methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Coordinated schedules, meetings, and events",
+      "supports": "Travel: Occasional travel to industry conferences and training events"
+    },
+    {
+      "source": "resume",
+      "quote": "Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:",
+      "supports": "Develop and maintain technical documentation for stress tests, including test scripts, data models, and results analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "Here is a weak or scope-mismatch resume snippet for a First-Line Supervisor of Office and Administrative Support Workers:",
+      "supports": "5+ years of experience in software engineering or a related field"
+    },
+    {
+      "source": "job_description",
+      "quote": "Travel: Occasional travel to industry conferences and training events",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

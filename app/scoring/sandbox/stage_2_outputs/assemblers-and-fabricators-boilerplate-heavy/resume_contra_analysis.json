@@ -1,0 +1,163 @@
+{
+  "job_title": "Assemblers and Fabricators",
+  "case_slug": "assemblers-and-fabricators-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.355886",
+  "match_score": 32.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.1,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Utilized CAD design software to create custom parts and assemblies",
+        "Note: Although I have experience in assembly line work, I did not participate in the design or development of new product designs as required by this role.",
+        "Assemblers and Fabricators",
+        "Highly motivated and detail-oriented individual seeking an Assembler and Fabricator role where I can apply my skills in mechanical assembly, quality control, and problem-solving."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented individual seeking an Assembler and Fabricator role where I can apply my skills in mechanical assembly, quality control, and problem-solving."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 47.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Utilized CAD design software to create custom parts and assemblies",
+        "Note: Although I have experience in assembly line work, I did not participate in the design or development of new product designs as required by this role.",
+        "Assemblers and Fabricators",
+        "Highly motivated and detail-oriented individual seeking an Assembler and Fabricator role where I can apply my skills in mechanical assembly, quality control, and problem-solving."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Assemblers and Fabricators**",
+      "evidence": [
+        "Assemblers and Fabricators"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our mission is to design, develop, and deliver high-performance equipment that meets the evolving needs of our customers.",
+      "evidence": [
+        "+ Utilized CAD design software to create custom parts and assemblies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design, build, and test complex equipment using various materials and techniques",
+      "evidence": [
+        "+ Utilized CAD design software to create custom parts and assemblies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct quality control checks to ensure compliance with company standards",
+      "evidence": [
+        "Highly motivated and detail-oriented individual seeking an Assembler and Fabricator role where I can apply my skills in mechanical assembly, quality control, and problem-solving."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Join Our Team of Innovative Problem-Solvers!**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package, including",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: Although I have experience in assembly line work, I did not participate in the design or development of new product designs as required by this role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Utilized CAD design software to create custom parts and assemblies",
+      "supports": "Our mission is to design, develop, and deliver high-performance equipment that meets the evolving needs of our customers."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: Although I have experience in assembly line work, I did not participate in the design or development of new product designs as required by this role.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Assemblers and Fabricators",
+      "supports": "Assemblers and Fabricators**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized CAD design software to create custom parts and assemblies",
+      "supports": "Design, build, and test complex equipment using various materials and techniques"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented individual seeking an Assembler and Fabricator role where I can apply my skills in mechanical assembly, quality control, and problem-solving.",
+      "supports": "Conduct quality control checks to ensure compliance with company standards"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

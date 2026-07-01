@@ -1,0 +1,169 @@
+{
+  "job_title": "47. Treasurers and Controllers",
+  "case_slug": "47-treasurers-and-controllers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:50.137152",
+  "match_score": 32.21,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 25.8,
+      "reason": "Found 1 direct, 5 adjacent, 4 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+        "This resume snippet lacks the scope and enterprise-level experience required for the position, focusing instead on general accounting skills and experience.",
+        "Proficient in QuickBooks and Excel, with strong knowledge of GAAP and financial reporting standards.",
+        "Seeking a controller or treasurer role where I can apply my skills and experience to drive business growth and success.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 2 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+        "This resume snippet lacks the scope and enterprise-level experience required for the position, focusing instead on general accounting skills and experience.",
+        "Proficient in QuickBooks and Excel, with strong knowledge of GAAP and financial reporting standards.",
+        "Seeking a controller or treasurer role where I can apply my skills and experience to drive business growth and success.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong knowledge of generally accepted accounting principles (GAAP) and financial reporting standards",
+      "evidence": [
+        "Proficient in QuickBooks and Excel, with strong knowledge of GAAP and financial reporting standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience as a controller or treasurer in a similar organization",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficient in financial software, including QuickBooks, SAP, or other ERP systems",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide financial guidance and support to senior management and the board of directors",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in accounting or related field;",
+      "evidence": [
+        "\"Experienced accounting professional with 5+ years of experience in financial management and analysis."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Master's degree in business administration or related field;",
+      "evidence": [
+        "Seeking a controller or treasurer role where I can apply my skills and experience to drive business growth and success.\""
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Oversee and implement accounting policies and procedures to ensure accuracy and compliance with regulatory requirements",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and maintain general ledger accounts, including journal entries, reconciliations, and account analysis",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope and enterprise-level experience required for the position, focusing instead on general accounting skills and experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement budgeting processes, including forecasting and variance analysis",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct audits and reviews of financial transactions to ensure accuracy and compliance with regulatory requirements",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and maintain relationships with external auditors, banks, and other financial institutions",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "severity": "high"
+    },
+    {
+      "requirement": "CPA certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent analytical, organizational, and communication skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "supports": "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "supports": "Oversee and implement accounting policies and procedures to ensure accuracy and compliance with regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the scope and enterprise-level experience required for the position, focusing instead on general accounting skills and experience.",
+      "supports": "Manage and maintain general ledger accounts, including journal entries, reconciliations, and account analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "supports": "Provide financial guidance and support to senior management and the board of directors"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced accounting professional with 5+ years of experience in financial management and analysis.",
+      "supports": "Conduct audits and reviews of financial transactions to ensure accuracy and compliance with regulatory requirements"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

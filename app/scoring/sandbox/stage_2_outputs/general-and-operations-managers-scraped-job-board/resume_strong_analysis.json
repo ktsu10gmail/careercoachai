@@ -1,0 +1,152 @@
+{
+  "job_title": "General and Operations Managers",
+  "case_slug": "general-and-operations-managers-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:00.894721",
+  "match_score": 72.59,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The education section is also included, as it was not explicitly mentioned in the job description.",
+        "Professional Experience:",
+        "Summary:",
+        "Proven track record of leading cross-functional teams, analyzing financial performance, and implementing strategic plans to achieve business objectives."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 96.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years",
+        "senior",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Analyzed financial performance, identifying areas for cost savings and implementing initiatives to optimize resource allocation, resulting in 20% reduction in costs"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The education section is also included, as it was not explicitly mentioned in the job description.",
+        "Professional Experience:",
+        "Summary:",
+        "Proven track record of leading cross-functional teams, analyzing financial performance, and implementing strategic plans to achieve business objectives."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze financial performance, identify areas for cost savings, and implement initiatives to optimize resource allocation",
+      "evidence": [
+        "+ Analyzed financial performance, identifying areas for cost savings and implementing initiatives to optimize resource allocation, resulting in 20% reduction in costs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Foster a culture of innovation, continuous learning, and employee engagement",
+      "evidence": [
+        "+ Fostered a culture of innovation, continuous learning, and employee engagement, leading to a 50% increase in employee retention"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of driving business growth, improving processes, and delivering exceptional customer experiences",
+      "evidence": [
+        "Proven track record of leading cross-functional teams, analyzing financial performance, and implementing strategic plans to achieve business objectives."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job ID:** 123456",
+      "evidence": [
+        "The education section is also included, as it was not explicitly mentioned in the job description."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement strategic plans to achieve business objectives",
+      "evidence": [
+        "Results-driven Operations Manager with 10+ years of experience driving business growth, improving processes, and delivering exceptional customer experiences."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "General and Operations Manager**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** XYZ Corporation",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Build and maintain strong relationships with key stakeholders, including customers, suppliers, and partners",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "8+ years of experience in general management or operations leadership",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The education section is also included, as it was not explicitly mentioned in the job description.",
+      "supports": "Job ID:** 123456"
+    },
+    {
+      "source": "resume",
+      "quote": "Professional Experience:",
+      "supports": "Benefits:** Comprehensive health insurance, retirement plan, paid time off, and professional development opportunities."
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of leading cross-functional teams, analyzing financial performance, and implementing strategic plans to achieve business objectives.",
+      "supports": "As a key member of our executive staff, you'll be responsible for overseeing the overall strategy, direction, and performance of our operations."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Operations Manager with 10+ years of experience driving business growth, improving processes, and delivering exceptional customer experiences.",
+      "supports": "Develop and implement strategic plans to achieve business objectives"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,21 @@
+Here's a weak or scope-mismatch resume snippet for a Chief Executive Officer / Top Executive position:
+
+"Results-driven leader with 5 years of experience in IT project management. Proven track record of delivering high-quality software solutions on time and within budget. Skilled in Agile methodologies, version control systems (Git), and low-level programming languages such as C++ and Java.
+
+Education: Bachelor's degree in Computer Science from XYZ University.
+
+Experience:
+
+* Senior Software Engineer, ABC Company (2018-Present)
+ + Managed a team of 5 developers to deliver multiple software projects
+ + Implemented automated testing frameworks using Python and Selenium
+ + Collaborated with cross-functional teams to integrate third-party APIs
+
+Skills:
+
+* Programming languages: C++, Java, Python
+* Agile methodologies: Scrum, Kanban
+* Version control systems: Git
+* Operating Systems: Windows, Linux"
+
+This resume snippet lacks the required 10+ years of experience as a CEO or Top Executive, and instead highlights the candidate's experience in IT project management. The skills listed are also more focused on software development rather than leadership and business acumen, which is not suitable for the position of Chief Executive Officer / Top Executive.

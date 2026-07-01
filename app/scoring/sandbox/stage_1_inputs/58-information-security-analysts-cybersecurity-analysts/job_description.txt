@@ -1,0 +1,25 @@
+Responsibilities:
+
+* Conduct vulnerability assessments and penetration testing to identify security weaknesses in computer systems and networks
+* Develop and implement incident response plans to mitigate the impact of security breaches
+* Monitor network traffic and system logs to detect potential security threats in real-time
+* Collaborate with cross-functional teams, including IT, development, and operations, to ensure comprehensive security measures are in place
+* Analyze and respond to security alerts and incidents, providing recommendations for remediation and prevention
+* Stay up-to-date with emerging threats and technologies, applying this knowledge to inform security strategies and best practices
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Cybersecurity, or related field; 3+ years of experience in information security or a related field
+* CompTIA Security+ or equivalent certification; CISSP or CISM certification preferred
+* Experience with vulnerability scanning tools such as Nessus and Burp Suite
+* Proficiency in operating systems including Windows, Linux, and macOS
+* Familiarity with network protocols and devices, including firewalls and routers
+* Strong analytical and problem-solving skills
+
+Preferred Skills:
+
+* Experience with threat intelligence platforms such as ThreatConnect or IBM X-Force
+* Knowledge of cloud security frameworks and compliance regulations (e.g. HIPAA, PCI-DSS)
+* Proficiency in programming languages such as Python, C++, or Java
+* Experience with security information and event management (SIEM) systems
+* Certification in a specific security domain (e.g. CEH, OSCP)

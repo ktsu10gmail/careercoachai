@@ -1,0 +1,32 @@
+Here's a strong-match resume snippet for an Information Security Analyst/Cybersecurity Analyst position:
+
+**Summary:**
+Highly skilled cybersecurity professional with 5+ years of experience in conducting vulnerability assessments, developing incident response plans, and analyzing security threats to protect computer systems and networks.
+
+**Professional Experience:**
+
+* **Senior Cybersecurity Analyst**, XYZ Corporation (2020-Present)
+ + Conducted regular vulnerability assessments using Nessus and Burp Suite to identify security weaknesses in our network infrastructure
+ + Developed and implemented incident response plans to mitigate the impact of security breaches, resulting in a 99.9% uptime rate for critical systems
+ + Collaborated with cross-functional teams to ensure comprehensive security measures were in place, including IT, development, and operations
+ + Analyzed and responded to security alerts and incidents, providing recommendations for remediation and prevention that resulted in a 50% reduction in security breaches
+* **Cybersecurity Consultant**, ABC Firm (2018-2020)
+ + Conducted penetration testing to identify security weaknesses in client networks and provided recommendations for remediation
+ + Stayed up-to-date with emerging threats and technologies, applying this knowledge to inform security strategies and best practices that resulted in a 25% reduction in security breaches
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, [University Name] (2015-2019)
+
+**Certifications:**
+
+* **CompTIA Security+**
+* **CISSP (in progress)**
+
+**Skills:**
+
+* Vulnerability scanning tools (Nessus, Burp Suite)
+* Operating systems (Windows, Linux, macOS)
+* Network protocols and devices (firewalls, routers)
+* Strong analytical and problem-solving skills
+* Experience with security information and event management (SIEM) systems

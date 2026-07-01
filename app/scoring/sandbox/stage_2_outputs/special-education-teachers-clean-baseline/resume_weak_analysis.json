@@ -1,0 +1,163 @@
+{
+  "job_title": "Special Education Teachers",
+  "case_slug": "special-education-teachers-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.065661",
+  "match_score": 47.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 14.3,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Bachelor of Science in Education**, State University (2018)",
+        "Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies.",
+        "It also fails to demonstrate a clear understanding of computer systems, algorithms, and data structures, which are essential for the role."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also fails to demonstrate a clear understanding of computer systems, algorithms, and data structures, which are essential for the role."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 49.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Bachelor of Science in Education**, State University (2018)",
+        "Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies.",
+        "It also fails to demonstrate a clear understanding of computer systems, algorithms, and data structures, which are essential for the role."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of computer systems, algorithms, and data structures",
+      "evidence": [
+        "It also fails to demonstrate a clear understanding of computer systems, algorithms, and data structures, which are essential for the role."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor of Science in Education**, State University (2018)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure its reliability, performance, and scalabil",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for optimization and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test plans, and results",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, engineering, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools and frameworks (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apache JMeter, Gatling)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor of Science in Education**, State University (2018)",
+      "supports": "Bachelor's degree in Computer Science, Engineering, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies.",
+      "supports": "3+ years of experience in software testing, engineering, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "It also fails to demonstrate a clear understanding of computer systems, algorithms, and data structures, which are essential for the role.",
+      "supports": "Strong understanding of computer systems, algorithms, and data structures"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies.",
+      "supports": "Proficiency in programming languages such as Java, Python, or C++"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

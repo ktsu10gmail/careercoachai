@@ -1,0 +1,144 @@
+{
+  "job_title": "Infrastructure Architect",
+  "case_slug": "infrastructure-architect",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.531834",
+  "match_score": 79.97,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.2,
+      "reason": "Found 9 direct, 3 adjacent, 1 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability.",
+        "Proven track record of delivering high-availability systems that meet stringent industry standards and regulatory requirements.",
+        "Strong understanding of security best practices and compliance regulations, including HIPAA, PCI-DSS, and GDPR.",
+        "Technical Expertise:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "architect",
+        "led"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 75.5,
+      "reason": "Found 7 direct, 2 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability.",
+        "Proven track record of delivering high-availability systems that meet stringent industry standards and regulatory requirements.",
+        "Strong understanding of security best practices and compliance regulations, including HIPAA, PCI-DSS, and GDPR.",
+        "Participated in on-call rotations for production infrastructure issues, ensuring timely resolution and minimizing downtime."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability.",
+        "Proven track record of delivering high-availability systems that meet stringent industry standards and regulatory requirements.",
+        "Strong understanding of security best practices and compliance regulations, including HIPAA, PCI-DSS, and GDPR.",
+        "Technical Expertise:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and implement scalable, secure, and efficient infrastructure solutions for cloud-based applications",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and manage infrastructure as code (IaC) using tools such as Terraform or Ansible",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotations for production infrastructure issues",
+      "evidence": [
+        "Participated in on-call rotations for production infrastructure issues, ensuring timely resolution and minimizing downtime."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience designing and implementing cloud-based infrastructure solutions",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of virtualization, networking, and storage technologies",
+      "evidence": [
+        "Expertise in virtualization, networking, and storage technologies, with a strong focus on cloud migration and hybrid environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with containerization using Docker or Kubernetes",
+      "evidence": [
+        "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular security audits and vulnerability assessments",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Strong understanding of security best practices and compliance regulations, including HIPAA, PCI-DSS, and GDPR.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with infrastructure monitoring tools such as Prometheus, Grafana, or New Relic",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability.",
+      "supports": "Design and implement scalable, secure, and efficient infrastructure solutions for cloud-based applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability.",
+      "supports": "Develop and manage infrastructure as code (IaC) using tools such as Terraform or Ansible"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-availability systems that meet stringent industry standards and regulatory requirements.",
+      "supports": "Ensure compliance with industry standards and regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of security best practices and compliance regulations, including HIPAA, PCI-DSS, and GDPR.",
+      "supports": "Conduct regular security audits and vulnerability assessments"
+    },
+    {
+      "source": "resume",
+      "quote": "Technical Expertise:",
+      "supports": "Provide technical guidance and support to junior engineers and architects"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

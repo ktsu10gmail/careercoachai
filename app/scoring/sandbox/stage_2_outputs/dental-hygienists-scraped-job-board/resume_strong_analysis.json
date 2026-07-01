@@ -1,0 +1,167 @@
+{
+  "job_title": "Dental Hygienists",
+  "case_slug": "dental-hygienists-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:58.626525",
+  "match_score": 55.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with dentists to develop treatment plans and communicate patient information",
+        "+ Conducted thorough oral exams, including visual examinations and X-ray analysis",
+        "+ Provided preventative dental care, including cleanings, fluoride treatments, and sealants"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 40.4,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with dentists to develop treatment plans and communicate patient information",
+        "+ Conducted thorough oral exams, including visual examinations and X-ray analysis",
+        "+ Provided preventative dental care, including cleanings, fluoride treatments, and sealants"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 93.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with dentists to develop treatment plans and communicate patient information",
+        "+ Conducted thorough oral exams, including visual examinations and X-ray analysis",
+        "+ Provided preventative dental care, including cleanings, fluoride treatments, and sealants"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "You will also work closely with dentists to develop treatment plans and educate patients on proper oral hygiene techniques.",
+      "evidence": [
+        "+ Collaborated with dentists to develop treatment plans and communicate patient information"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough oral exams, including visual examinations and X-ray analysis",
+      "evidence": [
+        "+ Conducted thorough oral exams, including visual examinations and X-ray analysis"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide preventative dental care, including cleanings, fluoride treatments, and sealants",
+      "evidence": [
+        "+ Provided preventative dental care, including cleanings, fluoride treatments, and sealants"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Educate patients on proper oral hygiene techniques and provide personalized recommendations for improvement",
+      "evidence": [
+        "+ Educated patients on proper oral hygiene techniques and provided personalized recommendations for improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date patient records",
+      "evidence": [
+        "Compassionate and skilled dental hygienist with 2+ years of experience in clinical settings, seeking a challenging role that utilizes my expertise to deliver exceptional patient care."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Dental Hygienist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** DH-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company Rating:** 4.5/5 stars (based on 200+ reviews)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Dental Hygienist, you will be responsible for conducting thorough oral exams, taking X-rays, and providing preventative dental care to patients of all ages.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current with the latest dental technologies and techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Associate's degree in Dental Hygiene from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with dentists to develop treatment plans and communicate patient information",
+      "supports": "You will also work closely with dentists to develop treatment plans and educate patients on proper oral hygiene techniques."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted thorough oral exams, including visual examinations and X-ray analysis",
+      "supports": "Conduct thorough oral exams, including visual examinations and X-ray analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with dentists to develop treatment plans and communicate patient information",
+      "supports": "Take and develop radiographs (X-rays) as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided preventative dental care, including cleanings, fluoride treatments, and sealants",
+      "supports": "Provide preventative dental care, including cleanings, fluoride treatments, and sealants"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

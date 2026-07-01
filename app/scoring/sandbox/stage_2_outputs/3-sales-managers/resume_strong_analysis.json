@@ -1,0 +1,138 @@
+{
+  "job_title": "3. Sales Managers",
+  "case_slug": "3-sales-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:48.417784",
+  "match_score": 77.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.2,
+      "reason": "Found 8 direct, 5 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Managed a team of 15 sales representatives, achieving a 25% increase in quarterly sales targets through strategic planning and coaching.",
+        "Results-driven Sales Manager with 7+ years of experience driving revenue growth and team performance in fast-paced software sales environments.",
+        "+ Conducted regular performance reviews with individual team members, providing feedback and coaching to improve results.",
+        "+ Identified and pursued new business opportunities through networking and relationship-building, resulting in a 50% increase in new customer acquisition."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "led",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven Sales Manager with 7+ years of experience driving revenue growth and team performance in fast-paced software sales environments."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Managed a team of 15 sales representatives, achieving a 25% increase in quarterly sales targets through strategic planning and coaching.",
+        "Results-driven Sales Manager with 7+ years of experience driving revenue growth and team performance in fast-paced software sales environments.",
+        "+ Conducted regular performance reviews with individual team members, providing feedback and coaching to improve results.",
+        "+ Identified and pursued new business opportunities through networking and relationship-building, resulting in a 50% increase in new customer acquisition."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage a team of sales representatives to achieve quarterly sales targets",
+      "evidence": [
+        "+ Managed a team of 15 sales representatives, achieving a 25% increase in quarterly sales targets through strategic planning and coaching."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular sales performance reviews with individual team members, providing coaching and feedback to improve results",
+      "evidence": [
+        "+ Conducted regular performance reviews with individual team members, providing feedback and coaching to improve results."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and pursue new business opportunities through networking and relationship-building",
+      "evidence": [
+        "+ Identified and pursued new business opportunities through networking and relationship-building, resulting in a 50% increase in new customer acquisition."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in sales management or a related field",
+      "evidence": [
+        "+ Coursework included sales management, marketing, and business strategy."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of success in driving revenue growth and team performance",
+      "evidence": [
+        "Proven track record of success in driving revenue growth and team performance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and its current market trends",
+      "evidence": [
+        "Strong understanding of the software industry and its current market trends"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage a budget of $500,000 for sales-related expenses, including travel and training",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Managed a team of 15 sales representatives, achieving a 25% increase in quarterly sales targets through strategic planning and coaching.",
+      "supports": "Manage a team of sales representatives to achieve quarterly sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Manager with 7+ years of experience driving revenue growth and team performance in fast-paced software sales environments.",
+      "supports": "Develop and implement sales strategies to expand customer base and increase revenue"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted regular performance reviews with individual team members, providing feedback and coaching to improve results.",
+      "supports": "Conduct regular sales performance reviews with individual team members, providing coaching and feedback to improve results"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Manager with 7+ years of experience driving revenue growth and team performance in fast-paced software sales environments.",
+      "supports": "Analyze sales data and market trends to identify opportunities for growth and adjust sales tactics accordingly"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Identified and pursued new business opportunities through networking and relationship-building, resulting in a 50% increase in new customer acquisition.",
+      "supports": "Identify and pursue new business opportunities through networking and relationship-building"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

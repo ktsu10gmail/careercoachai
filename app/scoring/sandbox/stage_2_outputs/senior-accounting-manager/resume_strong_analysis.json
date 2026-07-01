@@ -1,0 +1,163 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:09.446484",
+  "match_score": 62.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.1,
+      "reason": "Found 6 direct, 2 adjacent, 1 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed daily accounting operations for a $75 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements",
+        "Led a team of 4 accountants, providing guidance and support to ensure successful completion of financial statements and audits",
+        "Conducted regular financial analysis and provided insights on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management",
+        "CPA Certification, [State] (2015)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years",
+        "senior",
+        "led",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed daily accounting operations for a $75 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed daily accounting operations for a $75 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements",
+        "Led a team of 4 accountants, providing guidance and support to ensure successful completion of financial statements and audits",
+        "Conducted regular financial analysis and provided insights on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management",
+        "CPA Certification, [State] (2015)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily accounting operations for a $50 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements",
+      "evidence": [
+        "Managed daily accounting operations for a $75 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage a team of 3 accountants, providing guidance and support to ensure successful completion of financial statements and audits",
+      "evidence": [
+        "Led a team of 4 accountants, providing guidance and support to ensure successful completion of financial statements and audits"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular financial analysis and provide insights to senior management on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management",
+      "evidence": [
+        "Conducted regular financial analysis and provided insights on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully managing large budgets and teams",
+      "evidence": [
+        "Proven track record of successfully managing large budgets, teams, and regulatory compliance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with financial planning and analysis tools such as Excel, Tableau, or Power BI",
+      "evidence": [
+        "Excel, Tableau, Power BI"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement accounting processes and procedures to improve efficiency and reduce costs by 15% within the next 6 months",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with accounting standards and regulatory requirements, including GAAP and tax laws",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Accounting or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "8+ years of experience in senior accounting roles, with at least 3 years in a leadership position",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based accounting software such as QuickBooks or Xero",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in financial management or leadership (e.g.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Results-driven accounting leader with 10+ years of experience in senior roles, driving efficiency improvements and strategic financial planning.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed daily accounting operations for a $75 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements",
+      "supports": "Oversee daily accounting operations for a $50 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Led a team of 4 accountants, providing guidance and support to ensure successful completion of financial statements and audits",
+      "supports": "Manage a team of 3 accountants, providing guidance and support to ensure successful completion of financial statements and audits"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular financial analysis and provided insights on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management",
+      "supports": "Conduct regular financial analysis and provide insights to senior management on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management"
+    },
+    {
+      "source": "resume",
+      "quote": "CPA Certification, [State] (2015)",
+      "supports": "CPA certification required"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully managing large budgets, teams, and regulatory compliance.",
+      "supports": "Proven track record of successfully managing large budgets and teams"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

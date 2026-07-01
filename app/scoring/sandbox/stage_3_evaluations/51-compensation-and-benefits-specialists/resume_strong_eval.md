@@ -1,0 +1,170 @@
+The provided JSON output appears to be clean and free of known failure modes. Here's a breakdown of the analysis:
+
+1. **Metadata Leakage**: The `case_slug` field contains a URL-encoded string, which is a common practice in JSON data. This does not indicate any metadata leakage.
+
+2. **Boilerplate Leakage**: There is no apparent boilerplate leakage in this output. The provided information seems to be specific to the analyzed resume and job description.
+
+3. **Contra-Evidence as Matched Evidence**: There are no instances of contra-evidence being used as matched evidence. The `evidence_quotes` field only contains quotes that support the matched requirements, without any contradictory information.
+
+4. **Generic Snippet Scattering**: The provided output does not contain generic snippets scattered throughout the data. Each piece of information is clearly related to a specific requirement or category.
+
+5. **Title/Header Proof**: There is no apparent title/header proof in this output. The `job_title` field contains a clear and descriptive job title, and there are no suspicious header or title-related issues.
+
+6. **Scope Mismatch**: The provided output does not contain any scope mismatches. Each requirement has a corresponding evidence point that supports its relevance to the analyzed resume.
+
+7. **Matched/Missing Contradiction**: There are no apparent contradictions between matched and missing requirements. Each missing requirement has a clear reason for its absence, such as "Add a specific resume bullet, project, tool, metric, or result if you have this experience."
+
+**Proposed Regression Case:**
+
+```json
+{
+  "job_title": "51. Compensation and Benefits Specialists",
+  "case_slug": "51-compensation-and-benefits-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:50.612082",
+  "match_score": 50.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 54.3,
+      "reason": "Found 5 direct, 4 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven compensation expert with 4+ years of experience designing and implementing comprehensive compensation and benefits programs that drive employee engagement and retention.",
+        "Conducted market research to identify trends and best practices in compensation and benefits, informing strategic business decisions",
+        "Bachelor's degree in Business Administration, [University Name], [Graduation Date]",
+        "Coursework: Human Resources Management, Compensation and Benefits, Labor Laws and Regulations"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "4 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven compensation expert with 4+ years of experience designing and implementing comprehensive compensation and benefits programs that drive employee engagement and retention.",
+        "Conducted market research to identify trends and best practices in compensation and benefits, informing strategic business decisions",
+        "Bachelor's degree in Business Administration, [University Name], [Graduation Date]",
+        "Coursework: Human Resources Management, Compensation and Benefits, Labor Laws and Regulations"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive compensation and benefits programs for employees across all levels of the organization.",
+      "evidence": [
+        "Results-driven compensation expert with 4+ years of experience designing and implementing comprehensive compensation and benefits programs that drive employee engagement and retention."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "payroll, performance reviews) to identify trends and areas for improvement in compensation and benefits.",
+      "evidence": [
+        "Conducted market research to identify trends and best practices in compensation and benefits, informing strategic business decisions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field;",
+      "evidence": [
+        "Bachelor's degree in Business Administration, [University Name], [Graduation Date]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Workday, ADP) and Microsoft Office Suite.",
+      "evidence": [
+        "Proficient in HRIS systems (Workday) and Microsoft Office Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent analytical, communication, and problem-solving skills.",
+      "evidence": [
+        "Excellent analytical, communication, and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of employment laws and regulations (e.g.",
+      "evidence": [
+        "Coursework: Human Resources Management, Compensation and Benefits, Labor Laws and Regulations"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct market research to stay current on industry standards and best practices in compensation and benefits.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze data from various sources (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain compliance documentation for all employment-related policies and procedures.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in compensation and benefits administration.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in compensation and benefits administration.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven compensation expert with 4+ years of experience designing and implementing comprehensive compensation and benefits programs that drive employee engagement and retention.",
+      "supports": "Develop, implement, and maintain comprehensive compensation and benefits programs for employees across all levels of the organization."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted market research to identify trends and best practices in compensation and benefits, informing strategic business decisions",
+      "supports": "payroll, performance reviews) to identify trends and areas for improvement in compensation and benefits."
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Business Administration, [University Name], [Graduation Date]",
+      "supports": "Bachelor's degree in Human Resources, Business Administration, or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "Coursework: Human Resources Management, Compensation and Benefits, Labor Laws and Regulations",
+      "supports": "Strong knowledge of employment laws and regulations (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in HRIS systems (Workday) and Microsoft Office Suite",
+      "supports": "Proficiency in HRIS systems (e.g"
+    }
+  ],
+  "

@@ -1,0 +1,139 @@
+{
+  "job_title": "47. Treasurers and Controllers",
+  "case_slug": "47-treasurers-and-controllers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:50.108711",
+  "match_score": 84.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.5,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements",
+        "Results-driven finance leader with 7+ years of experience in preparing and reviewing financial statements, managing general ledger accounts, and providing strategic financial guidance to senior management.",
+        "Develop and implement budgeting processes, including forecasting and variance analysis, to drive business growth",
+        "Conducted audits and reviews of financial transactions to identify areas for improvement and implement process enhancements"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "CPA Certification, [Certification Date]"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements",
+        "Conducted audits and reviews of financial transactions to identify areas for improvement and implement process enhancements"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements",
+        "Results-driven finance leader with 7+ years of experience in preparing and reviewing financial statements, managing general ledger accounts, and providing strategic financial guidance to senior management.",
+        "Develop and implement budgeting processes, including forecasting and variance analysis, to drive business growth",
+        "Conducted audits and reviews of financial transactions to identify areas for improvement and implement process enhancements"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements",
+      "evidence": [
+        "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Oversee and implement accounting policies and procedures to ensure accuracy and compliance with regulatory requirements",
+      "evidence": [
+        "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain general ledger accounts, including journal entries, reconciliations, and account analysis",
+      "evidence": [
+        "Results-driven finance leader with 7+ years of experience in preparing and reviewing financial statements, managing general ledger accounts, and providing strategic financial guidance to senior management."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement budgeting processes, including forecasting and variance analysis",
+      "evidence": [
+        "Develop and implement budgeting processes, including forecasting and variance analysis, to drive business growth"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct audits and reviews of financial transactions to ensure accuracy and compliance with regulatory requirements",
+      "evidence": [
+        "Conducted audits and reviews of financial transactions to identify areas for improvement and implement process enhancements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain relationships with external auditors, banks, and other financial institutions",
+      "evidence": [
+        "Managed and maintained relationships with external auditors, banks, and other financial institutions to ensure accurate financial reporting and compliance with regulatory requirements"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Excellent analytical, organizational, and communication skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements",
+      "supports": "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements"
+    },
+    {
+      "source": "resume",
+      "quote": "Prepare and review financial statements, including balance sheets, income statements, and cash flow statements, ensuring accuracy and compliance with regulatory requirements",
+      "supports": "Oversee and implement accounting policies and procedures to ensure accuracy and compliance with regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 7+ years of experience in preparing and reviewing financial statements, managing general ledger accounts, and providing strategic financial guidance to senior management.",
+      "supports": "Manage and maintain general ledger accounts, including journal entries, reconciliations, and account analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop and implement budgeting processes, including forecasting and variance analysis, to drive business growth",
+      "supports": "Develop and implement budgeting processes, including forecasting and variance analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 7+ years of experience in preparing and reviewing financial statements, managing general ledger accounts, and providing strategic financial guidance to senior management.",
+      "supports": "Provide financial guidance and support to senior management and the board of directors"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

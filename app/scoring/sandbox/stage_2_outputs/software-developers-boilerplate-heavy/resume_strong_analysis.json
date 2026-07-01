@@ -1,0 +1,167 @@
+{
+  "job_title": "Software Developers",
+  "case_slug": "software-developers-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:09.952039",
+  "match_score": 68.14,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.6,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, and maintaining high-quality software solutions.",
+        "Proven track record of delivering complex projects on time, collaborating effectively with cross-functional teams, and staying up-to-date with industry trends and emerging technologies.",
+        "Proficient in agile development methodologies and version control systems (Git, SVN)",
+        "Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring seamless integration with business stakeholders"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong understanding of computer science fundamentals, including data structures, algorithms, and software design patterns"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 88.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, and maintaining high-quality software solutions.",
+        "Proven track record of delivering complex projects on time, collaborating effectively with cross-functional teams, and staying up-to-date with industry trends and emerging technologies.",
+        "Proficient in agile development methodologies and version control systems (Git, SVN)",
+        "Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring seamless integration with business stakeholders"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Designing, developing, testing, and maintaining high-quality software solutions",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, and maintaining high-quality software solutions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborating with cross-functional teams to identify and prioritize project requirements",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring seamless integration with business stakeholders"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Staying up-to-date with industry trends and emerging technologies",
+      "evidence": [
+        "Proven track record of delivering complex projects on time, collaborating effectively with cross-functional teams, and staying up-to-date with industry trends and emerging technologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Proficient in agile development methodologies and version control systems (Git, SVN)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "With a strong commitment to delivering high-quality solutions, we've established ourselves as a leader in the industry.",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, and maintaining high-quality software solutions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Generous paid time off",
+      "evidence": [
+        "Proven track record of delivering complex projects on time, collaborating effectively with cross-functional teams, and staying up-to-date with industry trends and emerging technologies."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a software developer at [Company Name], you'll be part of a vibrant community of innovators who are shaping the future of technology.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, perspectives, and experiences.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a software developer at [Company Name], your key responsibilities will include",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, and maintaining high-quality software solutions.",
+      "supports": "With a strong commitment to delivering high-quality solutions, we've established ourselves as a leader in the industry."
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering complex projects on time, collaborating effectively with cross-functional teams, and staying up-to-date with industry trends and emerging technologies.",
+      "supports": "Generous paid time off"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in agile development methodologies and version control systems (Git, SVN)",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, and maintaining high-quality software solutions.",
+      "supports": "Designing, developing, testing, and maintaining high-quality software solutions"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring seamless integration with business stakeholders",
+      "supports": "Collaborating with cross-functional teams to identify and prioritize project requirements"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

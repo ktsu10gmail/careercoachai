@@ -1,0 +1,163 @@
+{
+  "job_title": "Real Estate Agents and Brokers",
+  "case_slug": "real-estate-agents-and-brokers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:07.721959",
+  "match_score": 27.4,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 14.6,
+      "reason": "Found 0 direct, 5 adjacent, 1 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly motivated and experienced real estate agent/broker seeking a challenging role in the industry.",
+        "+ Utilized Microsoft Office to manage client relationships and track sales",
+        "+ Developed strong communication skills through regular interactions with clients and colleagues"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 57.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly motivated and experienced real estate agent/broker seeking a challenging role in the industry.",
+        "+ Utilized Microsoft Office to manage client relationships and track sales",
+        "+ Developed strong communication skills through regular interactions with clients and colleagues"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will also be expected to stay up-to-date on market trends and industry developments.",
+      "evidence": [
+        "Highly motivated and experienced real estate agent/broker seeking a challenging role in the industry."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets",
+      "evidence": [
+        "+ Utilized Microsoft Office to manage client relationships and track sales"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide exceptional customer service to clients",
+      "evidence": [
+        "+ Developed strong communication skills through regular interactions with clients and colleagues"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Prepare and present listings for sale",
+      "evidence": [
+        "Real Estate Agent, ABC Realty (2018-Present)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Real Estate Agents and Brokers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title:** Real Estate Agent/Broker",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Real Estate Agent/Broker with [Company Name], you will be responsible for generating new business leads, building relationships with clients, and closing sales.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a strong network of contacts in the real estate industry",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct property showings and open houses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Negotiate purchase agreements and close deals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current on market trends, industry developments, and regulatory changes",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Highly motivated and experienced real estate agent/broker seeking a challenging role in the industry.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in real estate sales or brokerage",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and experienced real estate agent/broker seeking a challenging role in the industry.",
+      "supports": "You will also be expected to stay up-to-date on market trends and industry developments."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized Microsoft Office to manage client relationships and track sales",
+      "supports": "Meet or exceed monthly sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed strong communication skills through regular interactions with clients and colleagues",
+      "supports": "Provide exceptional customer service to clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Real Estate Agent, ABC Realty (2018-Present)",
+      "supports": "Prepare and present listings for sale"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

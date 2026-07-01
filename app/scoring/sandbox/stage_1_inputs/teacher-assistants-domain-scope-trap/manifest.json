@@ -1,0 +1,21 @@
+{
+  "job_title": "Teacher Assistants",
+  "case_slug": "teacher-assistants-domain-scope-trap",
+  "scenario": "domain_scope_trap",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:33:53.249867",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

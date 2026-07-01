@@ -1,0 +1,3 @@
+Here's a weak or scope-mismatch resume snippet for an office clerk position:
+
+"High school diploma, 2 years of experience with Git version control, proficient in Python programming language, and familiar with Linux operating system. Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook). Strong organizational and time management skills. Excellent communication and interpersonal skills. Experience with Docker containerization and Kubernetes orchestration."

@@ -1,0 +1,39 @@
+Here is a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Architect**
+
+**Contact Information:**
+
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated and detail-oriented Architect with 3+ years of experience in designing and developing small-scale projects. Proficient in Autodesk Revit, SketchUp, and Adobe Creative Suite.
+
+**Technical Skills:**
+
+* Autodesk Revit (2018-2022)
+* SketchUp (2015-2018)
+* Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+* Microsoft Office (Word, Excel, PowerPoint)
+
+**Experience:**
+
+* Freelance Architect (2018-Present)
+	+ Designed and developed small-scale projects for clients
+	+ Utilized Autodesk Revit to create detailed designs and specifications
+	+ Collaborated with clients to ensure project success
+* Intern, ABC Architecture Firm (Summer 2017)
+	+ Assisted in designing and developing small-scale projects
+	+ Gained experience with SketchUp and Adobe Creative Suite
+
+**Education:**
+
+* Master's Degree in Architecture, XYZ University (2015-2018)
+
+**Certifications:**
+
+* Autodesk Revit Certification (2020)
+* SketchUp Certification (2019)

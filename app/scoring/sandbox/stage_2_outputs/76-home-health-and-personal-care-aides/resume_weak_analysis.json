@@ -1,0 +1,167 @@
+{
+  "job_title": "76. Home Health and Personal Care Aides",
+  "case_slug": "76-home-health-and-personal-care-aides",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.313201",
+  "match_score": 36.4,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.5,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Familiarity with electronic medical records (EMRs) through online training modules",
+        "High school diploma, 2+ years of experience in IT support and network administration",
+        "Ability to lift 50 pounds and stand for long periods of time",
+        "Certified in CompTIA A+, Cisco CCNA, and basic life support skills (CPR/first aid)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with electronic medical records (EMRs) through online training modules"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 69.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Familiarity with electronic medical records (EMRs) through online training modules",
+        "High school diploma, 2+ years of experience in IT support and network administration",
+        "Ability to lift 50 pounds and stand for long periods of time",
+        "Certified in CompTIA A+, Cisco CCNA, and basic life support skills (CPR/first aid)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, 2+ years of experience in IT support and network administration"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to lift 50 pounds and stand for long periods of time",
+      "evidence": [
+        "Ability to lift 50 pounds and stand for long periods of time"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support skills, including CPR and first aid training",
+      "evidence": [
+        "Certified in CompTIA A+, Cisco CCNA, and basic life support skills (CPR/first aid)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain positive relationships with clients, families, and healthcare providers through effective communication and empathy",
+      "evidence": [
+        "Familiarity with electronic medical records (EMRs) through online training modules"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with medical equipment and devices, such as oxygen tanks and walkers",
+      "evidence": [
+        "Familiarity with electronic medical records (EMRs) through online training modules"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide personal care and assistance to clients with physical disabilities, chronic illnesses, or cognitive impairments in their homes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist clients with daily living activities such as bathing, dressing, grooming, and toileting",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Administer medications as prescribed by a healthcare provider",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and serve nutritious meals and snacks according to client preferences and dietary needs",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a safe and clean environment for clients, including laundry, cleaning, and organization of living spaces",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Document client interactions, progress, and concerns in a timely and accurate manner",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "CNA certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Familiarity with electronic medical records (EMRs) through online training modules",
+      "supports": "Develop and maintain positive relationships with clients, families, and healthcare providers through effective communication and empathy"
+    },
+    {
+      "source": "resume",
+      "quote": "High school diploma, 2+ years of experience in IT support and network administration",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Ability to lift 50 pounds and stand for long periods of time",
+      "supports": "Ability to lift 50 pounds and stand for long periods of time"
+    },
+    {
+      "source": "resume",
+      "quote": "Certified in CompTIA A+, Cisco CCNA, and basic life support skills (CPR/first aid)",
+      "supports": "Basic life support skills, including CPR and first aid training"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with electronic medical records (EMRs) through online training modules",
+      "supports": "Familiarity with medical equipment and devices, such as oxygen tanks and walkers"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

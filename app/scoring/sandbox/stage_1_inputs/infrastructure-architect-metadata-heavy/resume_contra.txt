@@ -1,0 +1,28 @@
+Here's a contra-evidence resume snippet for an Infrastructure Architect position:
+
+**Summary:**
+Highly motivated and detail-oriented IT professional with 8+ years of experience in designing and implementing scalable infrastructure solutions.
+
+**Technical Skills:**
+
+* Proficient in cloud computing platforms (AWS, Azure)
+* Strong understanding of containerization using Docker
+* Experience with orchestration tools like Kubernetes
+* Knowledge of network protocols and architectures
+
+**Professional Experience:**
+
+Infrastructure Architect
+ABC Corporation (2018-Present)
+
+* Designed and implemented a scalable infrastructure solution for a large-scale e-commerce platform
+* Collaborated with cross-functional teams to develop and deploy new features and enhancements
+* Conducted thorough analysis of system performance and identified areas for improvement
+
+However, I did not:
+
+* Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)
+* Create a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics (contrary to the job description's requirement)
+* Participate in code reviews and contribute to the development of new features and enhancements for the scoring engine (contrary to the job description's requirement)
+
+Note: The candidate is highlighting their relevant skills and experience, but explicitly stating that they did not perform certain higher-scope requirements mentioned in the job description.

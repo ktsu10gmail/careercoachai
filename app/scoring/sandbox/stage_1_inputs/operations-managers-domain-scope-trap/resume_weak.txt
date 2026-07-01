@@ -1,0 +1,11 @@
+Here is a weak/scoped-mismatch resume snippet:
+
+**Operations Manager**
+
+* 3+ years of experience in operations management and process improvement
+* Strong understanding of system architecture and scalability principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools, including Apache JMeter, Gatling, or Locust
+* Knowledge of cloud-based infrastructure, including AWS or Azure
+
+Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance testing, Load testing and endurance testing), as well as the required skills and experience.

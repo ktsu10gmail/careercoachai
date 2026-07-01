@@ -1,0 +1,156 @@
+{
+  "job_title": "Training and Development Specialists",
+  "case_slug": "training-and-development-specialists-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:11.105766",
+  "match_score": 59.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.8,
+      "reason": "Found 8 direct, 1 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Training and Development Specialist** Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that driv",
+        "Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that drive business results.",
+        "Expertise in instructional design principles and adult learning theory, with a strong understanding of how to apply these principles to meet the needs of diverse learners.",
+        "Collaborated with subject matter experts to develop comprehensive training content, resulting in a 95% satisfaction rate from learners."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed",
+        "delivered"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with data analysis and reporting tools (Excel, Tableau)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Training and Development Specialist** Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that driv",
+        "Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that drive business results.",
+        "Expertise in instructional design principles and adult learning theory, with a strong understanding of how to apply these principles to meet the needs of diverse learners.",
+        "Collaborated with subject matter experts to develop comprehensive training content, resulting in a 95% satisfaction rate from learners."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Training and Development Specialist**",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Training and Development Specialist** Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that driv"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our Learning and Development department, you will be responsible for designing, developing, and implementing training programs that meet the needs of our employe",
+      "evidence": [
+        "Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that drive business results."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The successful candidate will have a strong background in instructional design, adult learning theory, and technology-enhanced learning.",
+      "evidence": [
+        "Expertise in instructional design principles and adult learning theory, with a strong understanding of how to apply these principles to meet the needs of diverse learners."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "They will work closely with subject matter experts to develop comprehensive training programs that align with business objectives.",
+      "evidence": [
+        "Collaborated with subject matter experts to develop comprehensive training content, resulting in a 95% satisfaction rate from learners."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The ideal candidate will be able to analyze learning gaps, identify knowledge areas for improvement, and create engaging and effective training content.",
+      "evidence": [
+        "Conducted needs assessments to identify learning gaps and opportunities for growth, with a 90% success rate in implementing targeted training interventions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, develop, and implement training programs for employees at all levels of the organization",
+      "evidence": [
+        "Designed and delivered over 50 training programs for employees at all levels of the organization, resulting in a 25% increase in employee engagement and a 15% reduction in training costs."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create engaging and interactive training materials using a variety of media formats (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Evaluate the effectiveness of training programs and make recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain training records and reports",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on industry trends and best practices in training and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Training and Development Specialist** Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and imp",
+      "supports": "Training and Development Specialist**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Training and Development Specialist with 5+ years of experience in designing, developing, and implementing training programs that drive business results.",
+      "supports": "As a key member of our Learning and Development department, you will be responsible for designing, developing, and implementing training programs that meet the needs of our employe"
+    },
+    {
+      "source": "resume",
+      "quote": "Expertise in instructional design principles and adult learning theory, with a strong understanding of how to apply these principles to meet the needs of diverse learners.",
+      "supports": "The successful candidate will have a strong background in instructional design, adult learning theory, and technology-enhanced learning."
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with subject matter experts to develop comprehensive training content, resulting in a 95% satisfaction rate from learners.",
+      "supports": "They will work closely with subject matter experts to develop comprehensive training programs that align with business objectives."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted needs assessments to identify learning gaps and opportunities for growth, with a 90% success rate in implementing targeted training interventions.",
+      "supports": "The ideal candidate will be able to analyze learning gaps, identify knowledge areas for improvement, and create engaging and effective training content."
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

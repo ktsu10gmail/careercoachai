@@ -1,0 +1,13 @@
+Here's a weak or scope-mismatch resume snippet for a Technical Support Specialist position:
+
+"Technical Support Specialist
+
+- 1 year of experience in technical support
+- Strong understanding of Windows, macOS, and Linux operating systems
+- Familiarity with cloud-based services such as Office 365
+- Experience with Nagios and SolarWinds monitoring tools
+- Excellent communication skills
+
+Skills: Windows, macOS, Linux, Office 365, Nagios, SolarWinds"
+
+This resume snippet lacks the required experience (2+ years), IT service management tool experience, virtualization technology knowledge, network protocol familiarity, scripting language expertise, and certification in CompTIA A+. It also doesn't mention remote troubleshooting tools like TeamViewer or LogMeIn, which are mentioned in the job description.

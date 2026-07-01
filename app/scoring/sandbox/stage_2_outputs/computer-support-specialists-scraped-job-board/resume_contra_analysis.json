@@ -1,0 +1,163 @@
+{
+  "job_title": "Computer Support Specialists",
+  "case_slug": "computer-support-specialists-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.498808",
+  "match_score": 46.84,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.8,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Computer Support Specialist** * 1 year of experience in computer support, with strong technical skills in Windows and macOS operating systems * Proven ability to troubleshoot and",
+        "Proven ability to troubleshoot and resolve technical issues via phone and email",
+        "However, I'd like to clarify that my experience was limited to troubleshooting and resolving basic technical issues, and I did not have the opportunity to conduct on-site visits or collaborate with internal teams (e.g., engineering, sales) ",
+        "I'm excited about the opportunity to develop these skills further in this role, but I want to be upfront about my limitations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 40.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I've also had limited experience with hardware troubleshooting and repair, and while I'm familiar with Linux operating systems, I didn't have hands-on experience with them during my previous roles."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 54.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Computer Support Specialist** * 1 year of experience in computer support, with strong technical skills in Windows and macOS operating systems * Proven ability to troubleshoot and",
+        "Proven ability to troubleshoot and resolve technical issues via phone and email",
+        "However, I'd like to clarify that my experience was limited to troubleshooting and resolving basic technical issues, and I did not have the opportunity to conduct on-site visits or collaborate with internal teams (e.g., engineering, sales) ",
+        "I'm excited about the opportunity to develop these skills further in this role, but I want to be upfront about my limitations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Troubleshoot and resolve technical issues via phone, email, or in-person",
+      "evidence": [
+        "Proven ability to troubleshoot and resolve technical issues via phone and email"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong technical skills, including Windows, macOS, and Linux operating systems",
+      "evidence": [
+        "I've also had limited experience with hardware troubleshooting and repair, and while I'm familiar with Linux operating systems, I didn't have hands-on experience with them during my previous roles."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain knowledge of new technologies and systems",
+      "evidence": [
+        "I'm excited about the opportunity to develop these skills further in this role, but I want to be upfront about my limitations."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Computer Support Specialist**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: ut explicitly says the candidate did not perform one or more higher-scope requirements: **Computer Support Specialist** * 1 year of experience in computer support, with strong technical skills in Windows and macOS operating systems * Proven ability to troubleshoot and",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience Level:** Entry-level to Mid-level",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We're seeking highly motivated Computer Support Specialists to join our team! As a Computer Support Specialist, you'll be responsible for troubleshooting and resolving technical is",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct on-site visits to resolve hardware and software issues",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I'd like to clarify that my experience was limited to troubleshooting and resolving basic technical issues, and I did not have the opportunity to conduct on-site visits or collaborate with internal teams (e.g., engineering, sales) ",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service and support",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Document all interactions and resolutions using our ticketing system",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of experience in computer support or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with hardware troubleshooting and repair (optional)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I'd like to clarify that my experience was limited to troubleshooting and resolving basic technical issues, and I did not have the opportunity to conduct on-site visits or collaborate with internal teams (e.g., engineering, sales) ",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ut explicitly says the candidate did not perform one or more higher-scope requirements: **Computer Support Specialist** * 1 year of experience in computer support, with strong technical skills in Windows and macOS operating systems * Proven",
+      "supports": "Computer Support Specialist**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to troubleshoot and resolve technical issues via phone and email",
+      "supports": "Troubleshoot and resolve technical issues via phone, email, or in-person"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I'd like to clarify that my experience was limited to troubleshooting and resolving basic technical issues, and I did not have the opportunity to conduct on-site visits or collaborate with internal teams (e.g., engineering, sales) ",
+      "supports": "Conduct on-site visits to resolve hardware and software issues"
+    },
+    {
+      "source": "resume",
+      "quote": "I'm excited about the opportunity to develop these skills further in this role, but I want to be upfront about my limitations.",
+      "supports": "Develop and maintain knowledge of new technologies and systems"
+    },
+    {
+      "source": "resume",
+      "quote": "I've also had limited experience with hardware troubleshooting and repair, and while I'm familiar with Linux operating systems, I didn't have hands-on experience with them during my previous roles.",
+      "supports": "Strong technical skills, including Windows, macOS, and Linux operating systems"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

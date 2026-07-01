@@ -1,0 +1,154 @@
+{
+  "job_title": "Network and Computer Systems Administrators",
+  "case_slug": "network-and-computer-systems-administrators-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.107842",
+  "match_score": 66.97,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 6 direct, 4 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Network and Computer Systems Administrator** Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastruct",
+        "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+        "Network and Computer Systems Administrator",
+        "Proven expertise in Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 79.4,
+      "reason": "Found 6 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Network and Computer Systems Administrator** Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastruct",
+        "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+        "Network and Computer Systems Administrator",
+        "Proven expertise in Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Network and Computer Systems Administrator** Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastruct",
+        "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+        "Network and Computer Systems Administrator",
+        "Proven expertise in Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Network and Computer Systems Administrator**",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Network and Computer Systems Administrator** Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastruct"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our IT department, you will be responsible for designing, implementing, and maintaining our network infrastructure, as well as ensuring the security and performa",
+      "evidence": [
+        "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Network and Computer Systems Administrator, you will be responsible for",
+      "evidence": [
+        "Network and Computer Systems Administrator"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Designing, implementing, and maintaining our network infrastructure, including routers, switches, firewalls, and network protocols",
+      "evidence": [
+        "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ensuring the security and integrity of our computer systems, including vulnerability assessments and penetration testing",
+      "evidence": [
+        "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitoring and troubleshooting network and system issues, including performance optimization and capacity planning",
+      "evidence": [
+        "Proven expertise in Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participating in on-call rotations for after-hours support",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct routine system updates and patches",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement security policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Network and Computer Systems Administrator** Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, imple",
+      "supports": "Network and Computer Systems Administrator**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+      "supports": "As a key member of our IT department, you will be responsible for designing, implementing, and maintaining our network infrastructure, as well as ensuring the security and performa"
+    },
+    {
+      "source": "resume",
+      "quote": "Network and Computer Systems Administrator",
+      "supports": "As a Network and Computer Systems Administrator, you will be responsible for"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+      "supports": "Designing, implementing, and maintaining our network infrastructure, including routers, switches, firewalls, and network protocols"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.",
+      "supports": "Ensuring the security and integrity of our computer systems, including vulnerability assessments and penetration testing"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

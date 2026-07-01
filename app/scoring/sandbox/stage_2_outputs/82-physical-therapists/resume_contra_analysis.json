@@ -1,0 +1,145 @@
+{
+  "job_title": "82. Physical Therapists",
+  "case_slug": "82-physical-therapists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.890480",
+  "match_score": 50.48,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.6,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes.",
+        "Physical Therapist job:",
+        "Proven ability to work effectively with diverse populations, including [specific population(s) not mentioned].",
+        "While I am familiar with standardized assessment tools like the FIM and MDS-2, my proficiency in using electronic medical records (EMRs) is limited to basic documentation."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 43.6,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes.",
+        "Physical Therapist job:",
+        "Proven ability to work effectively with diverse populations, including [specific population(s) not mentioned].",
+        "While I am familiar with standardized assessment tools like the FIM and MDS-2, my proficiency in using electronic medical records (EMRs) is limited to basic documentation."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes.",
+        "Physical Therapist job:",
+        "Proven ability to work effectively with diverse populations, including [specific population(s) not mentioned].",
+        "While I am familiar with standardized assessment tools like the FIM and MDS-2, my proficiency in using electronic medical records (EMRs) is limited to basic documentation."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Master's degree in physical therapy from an accredited program",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current licensure to practice physical therapy in [state/province]",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement individualized physical therapy plans to improve mobility, strength, and function",
+      "evidence": [
+        "Physical Therapist job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct patient assessments to identify and prioritize treatment goals",
+      "evidence": [
+        "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide hands-on interventions, including exercises, stretches, and manual therapies, to patients with various orthopedic and neurological conditions",
+      "evidence": [
+        "Proven ability to work effectively with diverse populations, including [specific population(s) not mentioned]."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Document patient information in electronic medical records (EMRs) using standardized assessment tools, such as the FIM and MDS-2",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I am familiar with standardized assessment tools like the FIM and MDS-2, my proficiency in using electronic medical records (EMRs) is limited to basic documentation.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Educate patients and families on proper exercise techniques, home safety modifications, and self-care strategies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: In my previous role, I successfully educated patients on proper exercise techniques and home safety modifications, but have not had the opportunity to work with pediatric or geriatric populations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working with pediatric or geriatric populations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: In my previous role, I successfully educated patients on proper exercise techniques and home safety modifications, but have not had the opportunity to work with pediatric or geriatric populations.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes.",
+      "supports": "Conduct patient assessments to identify and prioritize treatment goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Physical Therapist job:",
+      "supports": "Develop and implement individualized physical therapy plans to improve mobility, strength, and function"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to work effectively with diverse populations, including [specific population(s) not mentioned].",
+      "supports": "Provide hands-on interventions, including exercises, stretches, and manual therapies, to patients with various orthopedic and neurological conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to work effectively with diverse populations, including [specific population(s) not mentioned].",
+      "supports": "Collaborate with multidisciplinary teams, including physicians, occupational therapists, and speech therapists, to ensure comprehensive care"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented physical therapist with a Master's degree in physical therapy from an accredited program, seeking to leverage my strong communication and interpersonal skills to drive patient outcomes.",
+      "supports": "Monitor patient progress and adjust treatment plans as needed"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

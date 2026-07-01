@@ -1,0 +1,13 @@
+Here is a weak or scope-mismatch resume snippet for a Systems Administrator position:
+
+**Systems Administrator**
+
+Highly skilled systems administrator with experience in stress testing, containerization, and orchestration tools.
+
+* Proficient in Java, Python, Bash scripting, Ansible, Docker, Kubernetes
+* Experience with Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+* Familiarity with MySQL and PostgreSQL databases
+
+No experience with Apache Kafka, Apache Cassandra, Redis, or AWS CloudFormation. No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines.
+
+Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.

@@ -1,0 +1,155 @@
+{
+  "job_title": "Physical Therapists",
+  "case_slug": "physical-therapists-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:06.298385",
+  "match_score": 66.21,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.0,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented Physical Therapist with 3+ years of experience in stress testing and performance evaluation.",
+        "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction",
+        "Proven track record of identifying defects and issues with complex systems, with a strong understanding of scoring engine architecture and functionality.",
+        "Agile development methodologies"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented Physical Therapist with 3+ years of experience in stress testing and performance evaluation.",
+        "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction",
+        "Proven track record of identifying defects and issues with complex systems, with a strong understanding of scoring engine architecture and functionality.",
+        "Agile development methodologies"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough testing of the scoring engine using standardized test protocols",
+      "evidence": [
+        "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues with the scoring engine's performance",
+      "evidence": [
+        "Proven track record of identifying defects and issues with complex systems, with a strong understanding of scoring engine architecture and functionality."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine architecture and functionality",
+      "evidence": [
+        "Proven track record of identifying defects and issues with complex systems, with a strong understanding of scoring engine architecture and functionality."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test plans and execution reports",
+      "evidence": [
+        "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in stress testing or performance evaluation",
+      "evidence": [
+        "Highly motivated and detail-oriented Physical Therapist with 3+ years of experience in stress testing and performance evaluation."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "evidence": [
+        "Analytical and problem-solving skills"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Physical Therapist - Stress Test**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide input on design improvements and feature enhancements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Physical Therapy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Physical Therapy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented Physical Therapist with 3+ years of experience in stress testing and performance evaluation.",
+      "supports": "As a key member of our research and development team, you will play a critical role in evaluating the performance of our scoring engine under various stress conditions."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction",
+      "supports": "Conduct thorough testing of the scoring engine using standardized test protocols"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of identifying defects and issues with complex systems, with a strong understanding of scoring engine architecture and functionality.",
+      "supports": "Identify and report defects or issues with the scoring engine's performance"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction",
+      "supports": "Develop and maintain detailed test plans and execution reports"
+    },
+    {
+      "source": "resume",
+      "quote": "Agile development methodologies",
+      "supports": "Participate in code reviews and contribute to the development of new features"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

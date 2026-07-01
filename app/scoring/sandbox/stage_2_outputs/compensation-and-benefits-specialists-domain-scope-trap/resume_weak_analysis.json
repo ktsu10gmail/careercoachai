@@ -1,0 +1,168 @@
+{
+  "job_title": "Compensation and Benefits Specialists",
+  "case_slug": "compensation-and-benefits-specialists-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:57.466860",
+  "match_score": 29.54,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 13.6,
+      "reason": "Found 0 direct, 4 adjacent, 1 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Ability to work in a fast-paced environment and prioritize multiple tasks",
+        "Highly skilled Compensation and Benefits Specialist with experience in generic sales and infrastructure, seeking a role that leverages my analytical and problem-solving skills.",
+        "+ Troubleshooted issues with network connectivity"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 57.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 13.8,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled Compensation and Benefits Specialist with experience in generic sales and infrastructure, seeking a role that leverages my analytical and problem-solving skills.",
+        "Ability to work in a fast-paced environment and prioritize multiple tasks"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 31.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Ability to work in a fast-paced environment and prioritize multiple tasks",
+        "Highly skilled Compensation and Benefits Specialist with experience in generic sales and infrastructure, seeking a role that leverages my analytical and problem-solving skills.",
+        "+ Troubleshooted issues with network connectivity"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure our scoring engine can handle high volu",
+      "evidence": [
+        "Ability to work in a fast-paced environment and prioritize multiple tasks"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Identify and report defects or issues found during testing",
+      "evidence": [
+        "+ Troubleshooted issues with network connectivity"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, preferably in a SaaS or enterprise environment",
+      "evidence": [
+        "Ability to work in a fast-paced environment and prioritize multiple tasks"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Compensation and Benefits Specialist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our testing team, you will be responsible for designing and executing comprehensive stress tests to evaluate the performance and reliability of our scoring engin",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests for scoring engines in our domain scope of Trap",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to cover various scenarios, including but not limited to",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ High-volume data ingestion",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Low-latency requirements",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Highly skilled Compensation and Benefits Specialist with experience in generic sales and infrastructure, seeking a role that leverages my analytical and problem-solving skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Multi-site and global deployment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Regulated industry compliance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute test scripts using our testing framework",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze results and provide actionable insights to improve scoring engine performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Ability to work in a fast-paced environment and prioritize multiple tasks",
+      "supports": "You will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure our scoring engine can handle high volu"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Compensation and Benefits Specialist with experience in generic sales and infrastructure, seeking a role that leverages my analytical and problem-solving skills.",
+      "supports": "+ Low-latency requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Troubleshooted issues with network connectivity",
+      "supports": "Identify and report defects or issues found during testing"
+    },
+    {
+      "source": "resume",
+      "quote": "Ability to work in a fast-paced environment and prioritize multiple tasks",
+      "supports": "3+ years of experience in software testing, preferably in a SaaS or enterprise environment"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

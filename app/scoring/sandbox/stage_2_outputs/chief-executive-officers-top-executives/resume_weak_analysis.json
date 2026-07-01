@@ -1,0 +1,161 @@
+{
+  "job_title": "Chief Executive Officers / Top Executives",
+  "case_slug": "chief-executive-officers-top-executives",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:56.869285",
+  "match_score": 28.2,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.8,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution.",
+        "Built strong relationships with stakeholders through regular communication and collaboration",
+        "Bachelor's degree in Computer Science, 2018",
+        "Proven track record of delivering high-quality results in fast-paced environments."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 34.7,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's degree in Computer Science, 2018"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 76.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution.",
+        "Built strong relationships with stakeholders through regular communication and collaboration",
+        "Bachelor's degree in Computer Science, 2018",
+        "Proven track record of delivering high-quality results in fast-paced environments."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of driving business growth and profitability",
+      "evidence": [
+        "Proven track record of delivering high-quality results in fast-paced environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "10+ years of experience as a CEO or top executive in a similar industry",
+      "evidence": [
+        "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement strategic plans to drive business growth and profitability",
+      "evidence": [
+        "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Lead and manage a high-performing executive team to achieve organizational objectives",
+      "evidence": [
+        "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Foster strong relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "Built strong relationships with stakeholders through regular communication and collaboration"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Oversee financial planning, budgeting, and forecasting to ensure alignment with company goals",
+      "evidence": [
+        "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Make informed decisions on major investments, acquisitions, and divestitures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with regulatory requirements and maintain a culture of integrity and ethics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute plans for innovation and R&D to stay competitive in the market",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "MBA preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Strong leadership and management skills, with ability to motivate and inspire high-performing teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to make informed decisions under pressure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution.",
+      "supports": "Develop and implement strategic plans to drive business growth and profitability"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution.",
+      "supports": "Lead and manage a high-performing executive team to achieve organizational objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Built strong relationships with stakeholders through regular communication and collaboration",
+      "supports": "Foster strong relationships with key stakeholders, including investors, customers, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven executive with 5+ years of experience leading teams and driving growth through strategic planning and execution.",
+      "supports": "Oversee financial planning, budgeting, and forecasting to ensure alignment with company goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science, 2018",
+      "supports": "Bachelor's degree in Business Administration, Finance, or related field;"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

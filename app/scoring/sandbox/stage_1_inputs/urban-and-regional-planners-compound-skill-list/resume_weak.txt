@@ -1,0 +1,29 @@
+Here is a weak and scope-mismatch resume snippet for an Urban and Regional Planner with adjacent low-level tools but lacking enterprise scope:
+
+Urban and Regional Planner
+
+Job Title: Stress Test Engineer
+
+Summary:
+Highly skilled planner with experience in stress testing scoring engines to identify potential bottlenecks and areas for improvement.
+
+Experience:
+
+* Stress Test Engineer, Small Firm (2018-Present)
+ + Designed and developed comprehensive stress test plans using JMeter
+ + Executed stress tests on scoring engines to analyze test results and identify areas for improvement
+ + Collaborated with cross-functional teams to integrate stress testing into the development lifecycle
+* Urban Planner, City Government (2015-2018)
+ + Conducted urban planning projects using Python and SQL
+ + Developed and maintained documentation of project plans and results
+
+Skills:
+
+* Java
+* Python
+* Docker
+* Kubernetes
+* JMeter
+* Agile methodologies
+* Scrum
+* Continuous Integration/Continuous Deployment (CI/CD) tools

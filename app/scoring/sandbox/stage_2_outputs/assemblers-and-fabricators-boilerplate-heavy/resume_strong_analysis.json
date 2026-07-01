@@ -1,0 +1,170 @@
+{
+  "job_title": "Assemblers and Fabricators",
+  "case_slug": "assemblers-and-fabricators-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:55.382903",
+  "match_score": 63.77,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.3,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled Assembler and Fabricator with 3+ years of experience in designing, building, and testing complex equipment for various industries.",
+        "OSHA Certification**, Occupational Safety and Health Administration (2019)",
+        "Proven track record of delivering high-quality products on time and exceeding customer expectations.",
+        "+ Conducted quality control checks to ensure compliance with company standards, reducing defect rates by 30%"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Conducted quality control checks to ensure compliance with company standards, reducing defect rates by 30%"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 77.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled Assembler and Fabricator with 3+ years of experience in designing, building, and testing complex equipment for various industries.",
+        "OSHA Certification**, Occupational Safety and Health Administration (2019)",
+        "Proven track record of delivering high-quality products on time and exceeding customer expectations.",
+        "+ Conducted quality control checks to ensure compliance with company standards, reducing defect rates by 30%"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design, build, and test complex equipment using various materials and techniques",
+      "evidence": [
+        "+ Designed, built, and tested complex equipment using various materials and techniques"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct quality control checks to ensure compliance with company standards",
+      "evidence": [
+        "+ Conducted quality control checks to ensure compliance with company standards, reducing defect rates by 30%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Our mission is to design, develop, and deliver high-performance equipment that meets the evolving needs of our customers.",
+      "evidence": [
+        "Highly skilled Assembler and Fabricator with 3+ years of experience in designing, building, and testing complex equipment for various industries."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "OSHA Certification**, Occupational Safety and Health Administration (2019)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "evidence": [
+        "Proven track record of delivering high-quality products on time and exceeding customer expectations."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "+ Conducted quality control checks to ensure compliance with company standards, reducing defect rates by 30%"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Join Our Team of Innovative Problem-Solvers!**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package, including",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assemblers and Fabricators**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled Assembler and Fabricator with 3+ years of experience in designing, building, and testing complex equipment for various industries.",
+      "supports": "Our mission is to design, develop, and deliver high-performance equipment that meets the evolving needs of our customers."
+    },
+    {
+      "source": "resume",
+      "quote": "OSHA Certification**, Occupational Safety and Health Administration (2019)",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality products on time and exceeding customer expectations.",
+      "supports": "Paid time off and holidays"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted quality control checks to ensure compliance with company standards, reducing defect rates by 30%",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed, built, and tested complex equipment using various materials and techniques",
+      "supports": "Design, build, and test complex equipment using various materials and techniques"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

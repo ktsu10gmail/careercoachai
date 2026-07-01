@@ -1,0 +1,22 @@
+Here's a weak or scope-mismatch resume snippet for a General and Operations Manager position:
+
+"Operations Manager
+Facility A (2018-Present)
+
+* Managed daily operations of 2 facilities, ensuring efficient use of resources and adherence to company policies
+* Developed and implemented strategic plans for facility improvement, including budgeting and resource allocation
+* Supervised a team of 3 staff members, providing guidance, training, and performance evaluations as needed
+
+Skills:
+
+* Bachelor's degree in Business Administration (2015)
+* 2+ years of experience in operations management
+* Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions
+* Excellent communication and interpersonal skills, with ability to build strong relationships with stakeholders"
+
+This resume snippet lacks the scope-mismatch because:
+
+* The job title is General and Operations Manager, but the work experience only mentions managing 2 facilities.
+* The required skills section lists 5+ years of experience, but the actual experience listed is only 2+ years.
+* There is no mention of supervising a team of 5-10 staff members or coordinating with external vendors and contractors.
+* The preferred skills section lists experience with facility management software, industry-specific regulations, and certification in operations management, but there is no evidence of these skills being used in the actual work experience.

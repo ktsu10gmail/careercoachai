@@ -1,0 +1,20 @@
+{
+  "job_title": "12. First-Line Supervisors of Office and Administrative Support Workers",
+  "case_slug": "12-first-line-supervisors-of-office-and-administrative-support-workers",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:21:38.766121",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

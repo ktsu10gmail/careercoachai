@@ -1,0 +1,160 @@
+{
+  "job_title": "Landscaping and Groundskeeping Workers",
+  "case_slug": "landscaping-and-groundskeeping-workers-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.538126",
+  "match_score": 41.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.6,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Domain Qualifiers:",
+        "Experience working outdoors in various weather conditions",
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance",
+        "Software/SaaS: No experience with software applications or APIs"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.8,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Software/SaaS: No experience with software applications or APIs",
+        "Enterprise-grade: No knowledge of enterprise-class software applications or infrastructure"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 77.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Domain Qualifiers:",
+        "Experience working outdoors in various weather conditions",
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance",
+        "Software/SaaS: No experience with software applications or APIs"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Execute test cases using various tools and techniques, such as load generators, network protocols, and API testing frameworks",
+      "evidence": [
+        "Software/SaaS: No experience with software applications or APIs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Domain Scope Trap Stress Test Engineer**",
+      "evidence": [
+        "Domain Qualifiers:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution.",
+      "evidence": [
+        "Experience working outdoors in various weather conditions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations",
+      "evidence": [
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance optimization",
+      "evidence": [
+        "Regulated Industry: No knowledge of regulatory requirements or compliance standards"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Your goal will be to identify potential bottlenecks, vulnerabilities, and areas for improvement in the system, allowing us to optimize its performance and ensure it meets the needs",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and provide recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, test cases, and reporting templates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of network protocols, API design, and software architecture",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Software/SaaS: No experience with software applications or APIs",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Domain Qualifiers:",
+      "supports": "Domain Scope Trap Stress Test Engineer**"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience working outdoors in various weather conditions",
+      "supports": "As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution."
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in manual labor, including landscaping and grounds maintenance",
+      "supports": "Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Software/SaaS: No experience with software applications or APIs",
+      "supports": "Execute test cases using various tools and techniques, such as load generators, network protocols, and API testing frameworks"
+    },
+    {
+      "source": "resume",
+      "quote": "Regulated Industry: No knowledge of regulatory requirements or compliance standards",
+      "supports": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance optimization"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

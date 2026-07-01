@@ -1,0 +1,21 @@
+{
+  "job_title": "Healthcare Support Workers (Miscellaneous)",
+  "case_slug": "healthcare-support-workers-miscellaneous-boilerplate-heavy",
+  "scenario": "boilerplate_heavy",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:32:42.648159",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

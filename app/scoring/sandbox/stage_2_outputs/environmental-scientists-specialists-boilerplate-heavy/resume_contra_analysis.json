@@ -1,0 +1,166 @@
+{
+  "job_title": "Environmental Scientists / Specialists",
+  "case_slug": "environmental-scientists-specialists-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.419241",
+  "match_score": 44.89,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 15.8,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven professional with expertise in environmental science and policy.",
+        "Proven track record of conducting comprehensive environmental assessments, developing mitigation strategies, and collaborating with cross-functional teams to identify and address environmental risks and opportunities.",
+        "Provided expert advice and guidance on environmental issues, but sometimes had to rely on secondary sources or industry reports for information due to limited access to primary data.",
+        "Conducted numerous environmental assessments, but did not develop comprehensive mitigation strategies for all projects due to limited resources and prioritization by management."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Provided expert advice and guidance on environmental issues, but sometimes had to rely on secondary sources or industry reports for information due to limited access to primary data."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven professional with expertise in environmental science and policy.",
+        "Proven track record of conducting comprehensive environmental assessments, developing mitigation strategies, and collaborating with cross-functional teams to identify and address environmental risks and opportunities.",
+        "Provided expert advice and guidance on environmental issues, but sometimes had to rely on secondary sources or industry reports for information due to limited access to primary data.",
+        "Conducted numerous environmental assessments, but did not develop comprehensive mitigation strategies for all projects due to limited resources and prioritization by management."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "With years of experience in environmental science and policy, our experts are at the forefront of addressing some of the most pressing issues facing our planet today.",
+      "evidence": [
+        "Results-driven professional with expertise in environmental science and policy."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance and retirement plan",
+      "evidence": [
+        "Proven track record of conducting comprehensive environmental assessments, developing mitigation strategies, and collaborating with cross-functional teams to identify and address environmental risks and opportunities."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Results-driven professional with expertise in environmental science and policy."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Access to cutting-edge technology and equipment",
+      "evidence": [
+        "Provided expert advice and guidance on environmental issues, but sometimes had to rely on secondary sources or industry reports for information due to limited access to primary data."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a leading provider of environmental solutions, we're committed to delivering innovative and effective solutions that make a real difference in the world.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Flexible work arrangements and remote work options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted numerous environmental assessments, but did not develop comprehensive mitigation strategies for all projects due to limited resources and prioritization by management.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Environmental Scientists / Specialists**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our organization, you will play a critical role in developing and implementing environmental solutions that make a real difference in the world.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct comprehensive environmental assessments and develop mitigation strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement environmental policies and procedures that align with company goals and objectives",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with expertise in environmental science and policy.",
+      "supports": "With years of experience in environmental science and policy, our experts are at the forefront of addressing some of the most pressing issues facing our planet today."
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of conducting comprehensive environmental assessments, developing mitigation strategies, and collaborating with cross-functional teams to identify and address environmental risks and opportunities.",
+      "supports": "Comprehensive health insurance and retirement plan"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with expertise in environmental science and policy.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided expert advice and guidance on environmental issues, but sometimes had to rely on secondary sources or industry reports for information due to limited access to primary data.",
+      "supports": "Access to cutting-edge technology and equipment"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted numerous environmental assessments, but did not develop comprehensive mitigation strategies for all projects due to limited resources and prioritization by management.",
+      "supports": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives."
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

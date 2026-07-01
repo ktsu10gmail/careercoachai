@@ -1,0 +1,11 @@
+Here is a weak and scope-mismatch resume snippet:
+
+Database Administrator
+
+* 3+ years of experience in database administration, with a focus on performance optimization and stress testing
+* Strong understanding of relational databases (e.g., MySQL) and NoSQL databases (e.g., MongoDB)
+* Experience with load testing tools such as Apache JMeter
+* Knowledge of scripting languages (e.g., Python) and ability to write custom scripts for stress testing
+* Excellent analytical and problem-solving skills, with attention to detail and ability to identify trends and patterns
+
+Note that this resume snippet lacks the essential domain qualifier "Software/SaaS" and omits any mention of enterprise scope, regulated industry, global reach, multi-site operations, high-volume data, or low-latency trading infrastructure.

@@ -1,0 +1,10 @@
+Here's a weak or scope-mismatch resume snippet for an IT Manager position:
+
+"IT Professional with 3+ years of experience managing small-scale networks and servers. Proficient in Windows Server, Linux, and cloud-based platforms (AWS). Skilled in troubleshooting and resolving technical issues. Familiarity with IT service management frameworks (ITIL) and agile methodologies. Strong communication skills, with ability to work effectively with team members."
+
+This resume snippet lacks the scope and experience required for the IT Manager position, as it:
+
+* Lacks experience managing teams of 5-7 IT professionals
+* Does not mention developing comprehensive IT strategies or collaborating with senior management
+* Does not demonstrate expertise in cybersecurity tools and technologies, database management systems, or virtualization technologies
+* Does not include any certifications in ITIL Foundation or equivalent

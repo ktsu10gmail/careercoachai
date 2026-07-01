@@ -1,0 +1,144 @@
+{
+  "job_title": "Packaging and Filling Machine Operators",
+  "case_slug": "packaging-and-filling-machine-operators-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:05.709657",
+  "match_score": 70.68,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.8,
+      "reason": "Found 8 direct, 3 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Packaging and Filling Machine Operator, XYZ Corporation (2018-2022)",
+        "+ Collaborated with production team members to meet production targets",
+        "+ Operated and maintained packaging and filling machines to produce packaged products",
+        "Strong quality control skills using software such as QCM and IQS"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Excel) to track machine performance and material usage"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Packaging and Filling Machine Operator, XYZ Corporation (2018-2022)",
+        "+ Collaborated with production team members to meet production targets",
+        "+ Operated and maintained packaging and filling machines to produce packaged products",
+        "Strong quality control skills using software such as QCM and IQS"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our production team, you will be responsible for operating and maintaining our packaging and filling machines to ensure efficient and high-quality product output",
+      "evidence": [
+        "+ Collaborated with production team members to meet production targets"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate and maintain packaging and filling machines to produce packaged products",
+      "evidence": [
+        "+ Operated and maintained packaging and filling machines to produce packaged products"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of production data, including machine performance and material usage",
+      "evidence": [
+        "Excel) to track machine performance and material usage"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, MATLAB, SolidWorks, Autodesk Inventor, 3D printing software (e.g.",
+      "evidence": [
+        "Proficient in Java, Python, C++, MATLAB, SolidWorks, Autodesk Inventor, 3D printing software (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Slic3r, Cura), CAD design tools (e.g.",
+      "evidence": [
+        "Slic3r), CAD design tools (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Fusion 360, SketchUp), PLC programming languages (e.g.",
+      "evidence": [
+        "Experienced in PLC programming languages (e.g."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Follow established procedures for loading, unloading, and handling materials",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in training and development programs to stay up-to-date on new technologies and techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Packaging and Filling Machine Operator, XYZ Corporation (2018-2022)",
+      "supports": "Job Title:** Packaging and Filling Machine Operators"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with production team members to meet production targets",
+      "supports": "As a key member of our production team, you will be responsible for operating and maintaining our packaging and filling machines to ensure efficient and high-quality product output"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated and maintained packaging and filling machines to produce packaged products",
+      "supports": "Operate and maintain packaging and filling machines to produce packaged products"
+    },
+    {
+      "source": "resume",
+      "quote": "Packaging and Filling Machine Operator, XYZ Corporation (2018-2022)",
+      "supports": "Monitor machine performance and report any issues or malfunctions to the maintenance team"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong quality control skills using software such as QCM and IQS",
+      "supports": "Conduct routine cleaning and maintenance tasks to prevent contamination and ensure product quality"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

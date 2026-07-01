@@ -1,0 +1,36 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Web Developer**
+
+**Contact Information:**
+
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly skilled web developer with experience in HTML, CSS, and JavaScript. Proficient in using Visual Studio Code for front-end development.
+
+**Technical Skills:**
+
+* Programming languages: HTML, CSS, JavaScript
+* Development tools: Visual Studio Code, Node.js
+* Frameworks: React
+* Databases: MongoDB
+
+**Experience:**
+
+* **Freelance Web Developer**, 2020-Present
+	+ Developed and maintained personal website using HTML, CSS, and JavaScript
+	+ Created responsive designs for clients using Bootstrap
+	+ Utilized Visual Studio Code for front-end development
+* **Web Development Intern**, XYZ Corporation, Summer 2019
+	+ Assisted in developing a simple web application using Node.js and Express
+	+ Contributed to the improvement of our development processes through code reviews
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, ABC University (2018-2022)
+
+This resume snippet lacks enterprise scope, as it only mentions personal projects and an internship at a small company. The technical skills listed are also limited to front-end development tools and frameworks, with no mention of back-end technologies or databases.

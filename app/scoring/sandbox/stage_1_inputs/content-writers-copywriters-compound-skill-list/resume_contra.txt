@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet for a Content Writer/Copywriter position:
+
+**Content Writers / Copywriters**
+
+* Developed engaging content strategies to drive brand awareness and customer acquisition (contrary to requirement: "Experience with cloud-based infrastructure as a service (IaaS) providers")
+* Utilized data-driven insights to inform copywriting decisions, resulting in improved conversion rates (contrary to requirement: "Understanding of DevOps practices and tools like Ansible, Terraform, or CloudFormation")
+* Collaborated with cross-functional teams to ensure seamless integration of content into overall marketing campaigns (contrary to requirement: "Experience with continuous integration and delivery (CI/CD) pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI")
+* Created high-quality, SEO-optimized content that met or exceeded client expectations (contrary to requirement: "Familiarity with serverless computing platforms like AWS Lambda or Azure Functions")
+* Conducted thorough research and analysis to stay up-to-date on industry trends and best practices in copywriting (contrary to requirement: "Knowledge of microservices architecture")

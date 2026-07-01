@@ -1,0 +1,163 @@
+{
+  "job_title": "Receptionists and Information Clerks",
+  "case_slug": "receptionists-and-information-clerks-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.836091",
+  "match_score": 25.94,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Coordinated travel arrangements and made reservations as needed",
+        "Note: This resume snippet highlights relevant terms from the job description, but explicitly states that the candidate did not perform certain higher-scope requirements.",
+        "Provided administrative support to the team, including preparing reports and presentations, but did not develop any original content or designs",
+        "Maintained accurate records and files, but did not implement any new database management systems or software"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed front desk operations, including answering phone calls and responding to customer inquiries"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 25.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Coordinated travel arrangements and made reservations as needed",
+        "Note: This resume snippet highlights relevant terms from the job description, but explicitly states that the candidate did not perform certain higher-scope requirements.",
+        "Provided administrative support to the team, including preparing reports and presentations, but did not develop any original content or designs",
+        "Maintained accurate records and files, but did not implement any new database management systems or software"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "evidence": [
+        "Coordinated travel arrangements and made reservations as needed"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain technical documentation, including test scripts, reports, and dashboards",
+      "evidence": [
+        "Managed front desk operations, including answering phone calls and responding to customer inquiries"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, including Agile and DevOps practices",
+      "evidence": [
+        "Managed front desk operations, including answering phone calls and responding to customer inquiries"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet highlights relevant terms from the job description, but explicitly states that the candidate did not perform certain higher-scope requirements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided administrative support to the team, including preparing reports and presentations, but did not develop any original content or designs",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and implement fixes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained accurate records and files, but did not implement any new database management systems or software",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Coordinated travel arrangements and made reservations as needed",
+      "supports": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet highlights relevant terms from the job description, but explicitly states that the candidate did not perform certain higher-scope requirements.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided administrative support to the team, including preparing reports and presentations, but did not develop any original content or designs",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records and files, but did not implement any new database management systems or software",
+      "supports": "Analyze test results, identify issues, and work with the development team to resolve defects and implement fixes"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed front desk operations, including answering phone calls and responding to customer inquiries",
+      "supports": "Develop and maintain technical documentation, including test scripts, reports, and dashboards"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

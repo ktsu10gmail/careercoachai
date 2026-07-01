@@ -1,0 +1,168 @@
+{
+  "job_title": "Automotive Service Technicians",
+  "case_slug": "automotive-service-technicians-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:55.477644",
+  "match_score": 47.23,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 22.1,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences.",
+        "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques.",
+        "+ Diagnosed and repaired complex problems with vehicles, resulting in a 25% increase in customer satisfaction.",
+        "Proven track record of successfully diagnosing and repairing complex problems with vehicles, including electrical systems, engine issues, and transmission malfunctions."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 22.1,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences.",
+        "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques.",
+        "+ Diagnosed and repaired complex problems with vehicles, resulting in a 25% increase in customer satisfaction.",
+        "Proven track record of successfully diagnosing and repairing complex problems with vehicles, including electrical systems, engine issues, and transmission malfunctions."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences.",
+        "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques.",
+        "+ Diagnosed and repaired complex problems with vehicles, resulting in a 25% increase in customer satisfaction.",
+        "Proven track record of successfully diagnosing and repairing complex problems with vehicles, including electrical systems, engine issues, and transmission malfunctions."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Join our team and be part of a collaborative environment that values teamwork, innovation, and customer satisfaction.",
+      "evidence": [
+        "+ Diagnosed and repaired complex problems with vehicles, resulting in a 25% increase in customer satisfaction."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "With a commitment to innovation and customer satisfaction, we've established ourselves as a leader in the industry.",
+      "evidence": [
+        "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our state-of-the-art facility is equipped with the latest technology, ensuring our technicians have access to the tools they need to get the job done right.",
+      "evidence": [
+        "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We strive to build long-lasting relationships with our customers, partners, and employees, while continuously improving our processes and services to stay ahead of the curve.",
+      "evidence": [
+        "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Competitive hourly rate",
+      "evidence": [
+        "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive benefits package, including medical, dental, and vision coverage",
+      "evidence": [
+        "Proven track record of successfully diagnosing and repairing complex problems with vehicles, including electrical systems, engine issues, and transmission malfunctions."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a valued member of our team, you'll enjoy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Overtime pay available",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "TurboTech is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences.",
+      "supports": "With a commitment to innovation and customer satisfaction, we've established ourselves as a leader in the industry."
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques.",
+      "supports": "Our state-of-the-art facility is equipped with the latest technology, ensuring our technicians have access to the tools they need to get the job done right."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Diagnosed and repaired complex problems with vehicles, resulting in a 25% increase in customer satisfaction.",
+      "supports": "Join our team and be part of a collaborative environment that values teamwork, innovation, and customer satisfaction."
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication and customer service skills, with a proven ability to work effectively with customers, technicians, and management to ensure seamless experiences.",
+      "supports": "We strive to build long-lasting relationships with our customers, partners, and employees, while continuously improving our processes and services to stay ahead of the curve."
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong diagnostic skills, with a 95% success rate in troubleshooting complex problems using advanced tools and techniques.",
+      "supports": "Competitive hourly rate"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,167 @@
+{
+  "job_title": "Roofers",
+  "case_slug": "roofers-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:08.526103",
+  "match_score": 65.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 50.0,
+      "reason": "Found 7 direct, 0 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Designed and executed comprehensive stress testing scenarios for software applications",
+        "Strong expertise in stress testing tools and frameworks (Apache JMeter, Gatling, Locust)",
+        "+ Developed and maintained a deep understanding of application architectures, component interactions, and performance optimization techniques",
+        "Experienced in cloud platforms (AWS, GCP), with a strong understanding of scalability and performance optimization"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced in cloud platforms (AWS, GCP), with a strong understanding of scalability and performance optimization"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Designed and executed comprehensive stress testing scenarios for software applications",
+        "Strong expertise in stress testing tools and frameworks (Apache JMeter, Gatling, Locust)",
+        "+ Developed and maintained a deep understanding of application architectures, component interactions, and performance optimization techniques",
+        "Experienced in cloud platforms (AWS, GCP), with a strong understanding of scalability and performance optimization"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel",
+      "evidence": [
+        "+ Designed and executed comprehensive stress testing scenarios for software applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Designed and executed comprehensive stress testing scenarios for software applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)",
+      "evidence": [
+        "Strong expertise in stress testing tools and frameworks (Apache JMeter, Gatling, Locust)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architectures, component interactions, and performance optimization techniques",
+      "evidence": [
+        "+ Developed and maintained a deep understanding of application architectures, component interactions, and performance optimization techniques"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of Linux/Unix operating systems, containerization (e.g., Docker), and cloud platforms (e.g., AWS, GCP)",
+      "evidence": [
+        "Experienced in cloud platforms (AWS, GCP), with a strong understanding of scalability and performance optimization"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Skilled in programming languages such as Python (NumPy, Pandas, scikit-learn) and Java (Spring Boot, Hibernate)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for optimization and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed comprehensive stress testing scenarios for software applications",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed comprehensive stress testing scenarios for software applications",
+      "supports": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong expertise in stress testing tools and frameworks (Apache JMeter, Gatling, Locust)",
+      "supports": "5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained a deep understanding of application architectures, component interactions, and performance optimization techniques",
+      "supports": "In-depth knowledge of scoring engine architectures, component interactions, and performance optimization techniques"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in cloud platforms (AWS, GCP), with a strong understanding of scalability and performance optimization",
+      "supports": "Strong understanding of Linux/Unix operating systems, containerization (e.g., Docker), and cloud platforms (e.g., AWS, GCP)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

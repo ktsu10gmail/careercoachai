@@ -1,0 +1,34 @@
+**Systems Administrator - Stress Test**
+
+We are seeking a highly skilled Systems Administrator to design, implement, and execute comprehensive stress tests on our scoring engine infrastructure. The successful candidate will play a critical role in ensuring the reliability, scalability, and performance of our systems under heavy loads.
+
+**Job Summary:**
+
+As a Systems Administrator, you will be responsible for designing and executing stress tests on our scoring engine infrastructure to identify potential bottlenecks and areas for improvement. You will work closely with cross-functional teams to develop and implement test plans, execute tests, analyze results, and provide recommendations for system enhancements.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine infrastructure
+* Develop and maintain test plans, scripts, and tools to simulate various types of loads and scenarios
+* Analyze test results and identify areas for improvement
+* Collaborate with cross-functional teams to develop and implement system enhancements based on test recommendations
+* Monitor system performance and troubleshoot issues as needed
+* Stay up-to-date with industry trends and emerging technologies to ensure our systems remain competitive
+
+**Required Skills:**
+
+Java, Python, C++, Bash scripting, Ansible, Docker, Kubernetes, Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Apache Kafka, Apache Cassandra, Redis, MySQL, PostgreSQL, AWS CloudFormation, Terraform, Git, Jenkins, JIRA, Slack, Microsoft Teams. Experience with containerization and orchestration tools is highly desirable.
+
+**Nice to Have:**
+
+* Experience with machine learning or AI frameworks (e.g., TensorFlow, PyTorch)
+* Knowledge of cloud-native technologies (e.g., AWS, GCP, Azure)
+* Familiarity with container security best practices
+* Experience with continuous integration and delivery pipelines
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on a cutting-edge project with a talented team
+* Professional development opportunities to help you grow in your career
+* Flexible working hours and remote work options

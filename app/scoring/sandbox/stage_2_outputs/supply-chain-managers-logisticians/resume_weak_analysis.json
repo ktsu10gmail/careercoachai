@@ -1,0 +1,168 @@
+{
+  "job_title": "Supply Chain Managers / Logisticians",
+  "case_slug": "supply-chain-managers-logisticians",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.276127",
+  "match_score": 41.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.9,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Collaborated with production team to resolve supply chain disruptions",
+        "Managed relationships with local suppliers and transportation providers",
+        "Developed KPIs using Google Sheets to track key performance indicators\"",
+        "Analyzed data using Excel and Tableau to identify trends in inventory levels"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.8,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed KPIs using Google Sheets to track key performance indicators\"",
+        "Analyzed data using Excel and Tableau to identify trends in inventory levels"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 48.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Collaborated with production team to resolve supply chain disruptions",
+        "Managed relationships with local suppliers and transportation providers",
+        "Developed KPIs using Google Sheets to track key performance indicators\"",
+        "Analyzed data using Excel and Tableau to identify trends in inventory levels"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "evidence": [
+        "Collaborated with production team to resolve supply chain disruptions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+      "evidence": [
+        "Managed relationships with local suppliers and transportation providers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+      "evidence": [
+        "Developed KPIs using Google Sheets to track key performance indicators\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+      "evidence": [
+        "Analyzed data using Excel and Tableau to identify trends in inventory levels"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement supply chain strategies to optimize inventory management, reduce lead times, and improve overall efficiency",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Implement and enforce compliance with regulatory requirements, such as customs regulations and safety standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully implementing supply chain strategies that drive business growth and efficiency gains",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with diverse stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in transportation management systems (TMS), enterprise resource planning (ERP) software, and other supply chain technology platforms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Supply Chain Management or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in senior supply chain leadership roles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working in a fast-paced, dynamic environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Collaborated with production team to resolve supply chain disruptions",
+      "supports": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed relationships with local suppliers and transportation providers",
+      "supports": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed KPIs using Google Sheets to track key performance indicators\"",
+      "supports": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed data using Excel and Tableau to identify trends in inventory levels",
+      "supports": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+    },
+    {
+      "source": "job_description",
+      "quote": "Develop and implement supply chain strategies to optimize inventory management, reduce lead times, and improve overall efficiency",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

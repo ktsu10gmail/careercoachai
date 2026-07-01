@@ -1,0 +1,148 @@
+{
+  "job_title": "2. Chief Executive Officers / Top Executives",
+  "case_slug": "2-chief-executive-officers-top-executives",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:47.450991",
+  "match_score": 73.83,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 68.8,
+      "reason": "Found 7 direct, 3 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Transformational leader with 15+ years of experience driving business growth, profitability, and strategic innovation in regulated industries.",
+        "+ Led cross-functional teams to achieve organizational goals, resulting in a 30% increase in productivity",
+        "+ Built and maintained strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 25% increase in revenue from new business partnerships",
+        "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 50% increase in M&A activity"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "MBA, Harvard Business School (2005-2007)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "15 years",
+        "led"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Oversaw financial planning, budgeting, and forecasting to ensure alignment with business objectives, resulting in a 20% reduction in costs",
+        "SVP, Finance & Operations, ABC Inc."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Transformational leader with 15+ years of experience driving business growth, profitability, and strategic innovation in regulated industries.",
+        "+ Led cross-functional teams to achieve organizational goals, resulting in a 30% increase in productivity",
+        "+ Built and maintained strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 25% increase in revenue from new business partnerships",
+        "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 50% increase in M&A activity"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Lead cross-functional teams to achieve organizational goals and objectives",
+      "evidence": [
+        "+ Led cross-functional teams to achieve organizational goals, resulting in a 30% increase in productivity"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Build and maintain strong relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "+ Built and maintained strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 25% increase in revenue from new business partnerships"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Make informed decisions on major investments, acquisitions, and divestitures",
+      "evidence": [
+        "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 50% increase in M&A activity"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration, Finance, or related field;",
+      "evidence": [
+        "SVP, Finance & Operations, ABC Inc."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of driving business growth and profitability through strategic planning and execution",
+      "evidence": [
+        "Proven track record of building high-performing teams, fostering collaborative cultures, and delivering results-driven executive leadership."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of financial management, including budgeting, forecasting, and financial analysis",
+      "evidence": [
+        "Financial management (budgeting, forecasting, financial analysis)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Ensure compliance with regulatory requirements and industry standards",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: + Oversaw financial planning, budgeting, and forecasting to ensure alignment with business objectives, resulting in a 20% reduction in costs",
+      "severity": "high"
+    },
+    {
+      "requirement": "Minimum 10 years of experience as a CEO, Top Executive, or equivalent senior leadership role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Transformational leader with 15+ years of experience driving business growth, profitability, and strategic innovation in regulated industries.",
+      "supports": "Develop and implement strategic plans to drive business growth and profitability"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Led cross-functional teams to achieve organizational goals, resulting in a 30% increase in productivity",
+      "supports": "Lead cross-functional teams to achieve organizational goals and objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Transformational leader with 15+ years of experience driving business growth, profitability, and strategic innovation in regulated industries.",
+      "supports": "Foster a culture of innovation, collaboration, and accountability within the organization"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Built and maintained strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 25% increase in revenue from new business partnerships",
+      "supports": "Build and maintain strong relationships with key stakeholders, including investors, customers, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Transformational leader with 15+ years of experience driving business growth, profitability, and strategic innovation in regulated industries.",
+      "supports": "Oversee financial planning, budgeting, and forecasting to ensure alignment with business objectives"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

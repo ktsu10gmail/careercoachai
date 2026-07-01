@@ -1,0 +1,30 @@
+Here's a weak or scope-mismatch resume snippet for an Engineer position:
+
+**John Doe**
+**Engineer**
+
+**Summary:**
+Highly motivated engineer with 3+ years of experience in software development and testing. Proficient in various programming languages, including Java and Python.
+
+**Technical Skills:**
+
+* Programming languages: Java, Python, C++
+* Development frameworks: Spring Boot, Django
+* Testing tools: JUnit, PyUnit
+* Operating Systems: Windows, Linux
+
+**Experience:**
+
+* **Junior Software Engineer**, ABC Company (2018-Present)
+ + Developed and maintained multiple web applications using Java and Spring Boot
+ + Participated in code reviews and contributed to the improvement of the codebase
+ + Collaborated with cross-functional teams to identify and resolve technical issues
+* **Quality Assurance Engineer**, DEF Startups (2015-2018)
+ + Conducted manual testing and automated testing for various software projects
+ + Created test plans, scripts, and reports to ensure high-quality deliverables
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015)
+
+This resume snippet lacks the scope-mismatch aspect by not mentioning stress testing or performance engineering experience. The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position.

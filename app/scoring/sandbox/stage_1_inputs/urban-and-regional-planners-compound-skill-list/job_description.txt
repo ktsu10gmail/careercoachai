@@ -1,0 +1,22 @@
+Urban and Regional Planners
+
+Job Title: Stress Test Engineer
+
+Job Summary:
+
+We are seeking a highly skilled Stress Test Engineer to join our team of experts in evaluating the performance and reliability of complex systems. As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on scoring engines to identify potential bottlenecks and areas for improvement.
+
+Responsibilities:
+
+* Design and develop comprehensive stress test plans to simulate various scenarios and loads on scoring engines
+* Execute stress tests using a variety of tools and platforms, including but not limited to: JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Selenium, Appium, Postman, Docker, Kubernetes, AWS CloudFormation, Azure DevOps
+* Analyze test results and identify areas for improvement in scoring engine performance and reliability
+* Collaborate with cross-functional teams to integrate stress testing into the development lifecycle
+* Develop and maintain documentation of stress test plans, test results, and recommendations for improvements
+* Stay up-to-date with industry trends and emerging technologies related to stress testing and performance engineering
+
+Required Skills:
+
+Java, Python, C++, JavaScript, SQL, HTML/CSS, Docker, Kubernetes, AWS CloudFormation, Azure DevOps, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Selenium, Appium, Postman, Agile methodologies, Scrum, Kanban, Continuous Integration/Continuous Deployment (CI/CD) tools, Performance testing frameworks, Stress testing frameworks, Cloud computing platforms, Containerization technologies
+
+Note: Essential skills include Java, Python, C++, JavaScript, SQL, Docker, Kubernetes, AWS CloudFormation, Azure DevOps. Optional skills include JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Selenium, Appium, Postman.

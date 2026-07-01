@@ -1,0 +1,170 @@
+{
+  "job_title": "Treasurers and Controllers",
+  "case_slug": "treasurers-and-controllers-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:11.233465",
+  "match_score": 52.55,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.5,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting.",
+        "Developed and implemented comprehensive financial plans tailored to individual client needs",
+        "Bachelor's Degree in Finance, [University Name] (2015)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's Degree in Finance, [University Name] (2015)",
+        "Analyzed financial data to identify trends and opportunities for growth"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting.",
+        "Developed and implemented comprehensive financial plans tailored to individual client needs",
+        "Bachelor's Degree in Finance, [University Name] (2015)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement comprehensive financial plans tailored to individual client needs",
+      "evidence": [
+        "Developed and implemented comprehensive financial plans tailored to individual client needs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide expert guidance on cash management, budgeting, and forecasting",
+      "evidence": [
+        "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our mission is to provide tailored financial solutions that meet the unique needs of each client.",
+      "evidence": [
+        "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive benefits package, including medical, dental, and vision coverage",
+      "evidence": [
+        "Developed and implemented comprehensive financial plans tailored to individual client needs"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "Bachelor's Degree in Finance, [University Name] (2015)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a rich history of success, we've established ourselves as a trusted partner for individuals, businesses, and organizations seeking personalized attention and unparalleled expe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Generous retirement plan with company match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Treasurers and Controllers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our organization, you'll play a critical role in helping us achieve our mission and deliver exceptional results for our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting.",
+      "supports": "Our mission is to provide tailored financial solutions that meet the unique needs of each client."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive financial plans tailored to individual client needs",
+      "supports": "Comprehensive benefits package, including medical, dental, and vision coverage"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented financial professional with experience in cash management, budgeting, and forecasting.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Finance, [University Name] (2015)",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive financial plans tailored to individual client needs",
+      "supports": "Develop and implement comprehensive financial plans tailored to individual client needs"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,25 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+"Call Center Representative Candidate
+
+Summary:
+Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.
+
+Experience:
+
+* Call Center Representative (2018-2020)
+ + Answered incoming customer calls in a timely and professional manner
+ + Responded to customer inquiries and resolved issues in accordance with company policies and procedures
+ + Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily call volume targets as I was a remote worker)**
+
+Skills:
+
+* Proficient in Microsoft Office Suite (Word, Excel, Outlook)
+* Basic knowledge of CRM software
+* Strong communication and problem-solving skills
+
+Education:
+
+* High school diploma, 2015"
+
+This resume snippet highlights the candidate's relevant experience and skills, but explicitly states that they did not have the opportunity to work collaboratively with internal teams or meet daily call volume targets due to being a remote worker.

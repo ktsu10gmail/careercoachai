@@ -1,0 +1,23 @@
+Responsibilities:
+
+* Conduct in-depth keyword research to identify relevant search terms for clients' websites
+* Analyze competitors' websites to determine gaps in their SEO strategies
+* Develop and implement customized SEO plans, including on-page optimization, link building, and content creation
+* Monitor website analytics to track progress and adjust SEO strategies accordingly
+* Collaborate with designers and developers to ensure seamless integration of SEO best practices into design and development processes
+* Stay up-to-date with the latest SEO trends and algorithm updates by attending conferences, workshops, and online training sessions
+
+Required Skills:
+
+* 3+ years of experience in SEO or a related field (digital marketing, content creation, etc.)
+* Proficiency in Google Analytics, Google Search Console, and SEMrush
+* Strong understanding of HTML, CSS, and JavaScript
+* Experience with keyword research tools such as Ahrefs, Moz, or SEMrush
+* Excellent written and verbal communication skills
+
+Preferred Skills:
+
+* Experience with WordPress, Drupal, or other content management systems
+* Knowledge of schema markup and structured data
+* Familiarity with Google's BERT algorithm updates
+* Certification in Google Analytics or HubSpot Inbound Marketing

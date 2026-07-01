@@ -1,0 +1,21 @@
+Here's a weak or scope-mismatch resume snippet for a Client Success Manager position:
+
+**Summary:**
+Results-driven professional with 2+ years of experience in IT project management, seeking to leverage my skills in team collaboration and process optimization to drive client success.
+
+**Experience:**
+
+* **IT Project Coordinator**, XYZ Corporation (2018-Present)
+	+ Coordinated project timelines and resource allocation for multiple IT projects
+	+ Collaborated with cross-functional teams to ensure seamless project execution
+	+ Developed and maintained project documentation and reporting tools using Python and Excel
+* **Team Lead**, ABC Startups (2015-2018)
+	+ Led a team of 3 developers in delivering software solutions for clients
+	+ Implemented agile development methodologies and automated testing frameworks using JUnit and Pytest
+	+ Conducted code reviews and ensured adherence to coding standards
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, University of Technology (2015)
+
+This resume snippet lacks the required experience, skills, and scope for a Client Success Manager position. The candidate's experience is more focused on IT project management and software development, rather than client success and account management.

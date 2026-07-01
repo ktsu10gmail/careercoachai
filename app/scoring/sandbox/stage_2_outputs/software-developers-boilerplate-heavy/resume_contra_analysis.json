@@ -1,0 +1,171 @@
+{
+  "job_title": "Software Developers",
+  "case_slug": "software-developers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:09.923783",
+  "match_score": 61.06,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions.",
+        "Implemented automated testing frameworks for multiple projects, resulting in significant time savings and improved code quality.",
+        "Experience with agile development methodologies and version control systems (Git, SVN)",
+        "Successfully led a team to develop a high-profile project that met tight deadlines and exceeded client expectations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong understanding of computer science fundamentals, including data structures, algorithms, and software design patterns"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 67.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions.",
+        "Implemented automated testing frameworks for multiple projects, resulting in significant time savings and improved code quality.",
+        "Experience with agile development methodologies and version control systems (Git, SVN)",
+        "Successfully led a team to develop a high-profile project that met tight deadlines and exceeded client expectations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Designing, developing, testing, and maintaining high-quality software solutions",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "With a strong commitment to delivering high-quality solutions, we've established ourselves as a leader in the industry.",
+      "evidence": [
+        "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Generous paid time off",
+      "evidence": [
+        "Implemented automated testing frameworks for multiple projects, resulting in significant time savings and improved code quality."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Experience with agile development methodologies and version control systems (Git, SVN)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborating with cross-functional teams to identify and prioritize project requirements",
+      "evidence": [
+        "Successfully led a team to develop a high-profile project that met tight deadlines and exceeded client expectations."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participating in code reviews and contributing to the improvement of our development processes",
+      "evidence": [
+        "Experience with agile development methodologies and version control systems (Git, SVN)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a software developer at [Company Name], you'll be part of a vibrant community of innovators who are shaping the future of technology.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, perspectives, and experiences.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a software developer at [Company Name], your key responsibilities will include",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Staying up-to-date with industry trends and emerging technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions.",
+      "supports": "With a strong commitment to delivering high-quality solutions, we've established ourselves as a leader in the industry."
+    },
+    {
+      "source": "resume",
+      "quote": "Implemented automated testing frameworks for multiple projects, resulting in significant time savings and improved code quality.",
+      "supports": "Generous paid time off"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with agile development methodologies and version control systems (Git, SVN)",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions.",
+      "supports": "Designing, developing, testing, and maintaining high-quality software solutions"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully led a team to develop a high-profile project that met tight deadlines and exceeded client expectations.",
+      "supports": "Collaborating with cross-functional teams to identify and prioritize project requirements"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

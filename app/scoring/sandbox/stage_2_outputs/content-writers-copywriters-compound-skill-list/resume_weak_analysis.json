@@ -1,0 +1,154 @@
+{
+  "job_title": "Content Writers / Copywriters",
+  "case_slug": "content-writers-copywriters-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:57.843067",
+  "match_score": 83.07,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.2,
+      "reason": "Found 8 direct, 1 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in writing scripts and developing test plans.",
+        "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements",
+        "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter",
+        "Experience with cloud-based infrastructure as a service (IaaS) providers"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "enkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter **Nice to Have:** * Experience with cloud-based infrastructure as a service (IaaS) providers * Knowledge of container orchestration tools like Docker Swarm or Kubernet"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 78.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 6 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter",
+        "Experience with cloud-based infrastructure as a service (IaaS) providers",
+        "Knowledge of container orchestration tools like Docker Swarm or Kubernetes",
+        "Familiarity with serverless computing platforms like AWS Lambda or Azure Functions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in writing scripts and developing test plans.",
+        "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements",
+        "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter",
+        "enkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter **Nice to Have:** * Experience with cloud-based infrastructure as a service (IaaS) providers * Knowledge of container orchestration tools like Docker Swarm or Kubernet"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will be responsible for identifying potential performance bottlenecks, developing test plans, and collaborating with cross-functional teams to ensure the r",
+      "evidence": [
+        "Proficient in writing scripts and developing test plans."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements",
+      "evidence": [
+        "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans, including script writing, data generation, and test automation",
+      "evidence": [
+        "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheu",
+      "evidence": [
+        "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "evidence": [
+        "enkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter **Nice to Have:** * Experience with cloud-based infrastructure as a service (IaaS) providers * Knowledge of container orchestration tools like Docker Swarm or Kubernet"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure as a service (IaaS) providers",
+      "evidence": [
+        "Experience with cloud-based infrastructure as a service (IaaS) providers"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for optimization and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in writing scripts and developing test plans.",
+      "supports": "The successful candidate will be responsible for identifying potential performance bottlenecks, developing test plans, and collaborating with cross-functional teams to ensure the r"
+    },
+    {
+      "source": "resume",
+      "quote": "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements",
+      "supports": "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter",
+      "supports": "Develop and execute test plans, including script writing, data generation, and test automation"
+    },
+    {
+      "source": "resume",
+      "quote": "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements",
+      "supports": "Develop and maintain relationships with stakeholders across the organization to ensure effective communication and collaboration"
+    },
+    {
+      "source": "resume",
+      "quote": "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter",
+      "supports": "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheu"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

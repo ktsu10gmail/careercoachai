@@ -1,0 +1,170 @@
+{
+  "job_title": "Human Resources Managers",
+  "case_slug": "human-resources-managers-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.077505",
+  "match_score": 42.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 15.0,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance",
+        "Collaborated with cross-functional teams to develop and implement diversity, equity, and inclusion strategies",
+        "Results-driven HR professional with 8+ years of experience in talent acquisition, employee engagement, and benefits administration."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "manager",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 58.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance",
+        "Collaborated with cross-functional teams to develop and implement diversity, equity, and inclusion strategies",
+        "Results-driven HR professional with 8+ years of experience in talent acquisition, employee engagement, and benefits administration."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress tests on our scoring engine platform.",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop test plans, scripts, and tools to simulate various types of loads and stresses on the scoring engine",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop and implement diversity, equity, and inclusion strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough analysis of system performance under different scenarios, including high traffic, concurrent user sessions, and resource-intensive operations",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test automation frameworks to improve efficiency and reduce manual testing time",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to enhance testing methodologies",
+      "evidence": [
+        "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Results-driven HR professional with 8+ years of experience in talent acquisition, employee engagement, and benefits administration."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for successful candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze and report on test results, identifying trends and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks (e.g., Selenium, Appium)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance",
+      "supports": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress tests on our scoring engine platform."
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop and implement diversity, equity, and inclusion strategies",
+      "supports": "Design and develop test plans, scripts, and tools to simulate various types of loads and stresses on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance",
+      "supports": "Conduct thorough analysis of system performance under different scenarios, including high traffic, concurrent user sessions, and resource-intensive operations"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance",
+      "supports": "Develop and maintain test automation frameworks to improve efficiency and reduce manual testing time"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented comprehensive training programs to enhance leadership skills and improve team performance",
+      "supports": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to enhance testing methodologies"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet for a Quality Control Inspector position:
+
+**John Doe**
+**Contact Information**
+
+* Phone: 555-555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary**
+
+Highly detail-oriented and analytical individual with experience in testing and quality control. Proficient in stress testing tools and software.
+
+**Technical Skills**
+
+* MATLAB (self-taught)
+* Simulink (certified user)
+* ANSYS (basic understanding)
+* Test planning, execution, and reporting
+
+**Work Experience**
+
+* Quality Control Specialist
+  * Tested and validated software applications for a small startup (2018-2020)
+  * Conducted basic stress testing of hardware components using MATLAB and Simulink
+  * Maintained accurate records of testing and results
+
+**Education**
+
+* Bachelor's degree in Computer Science, XYZ University (2015-2019)
+
+This resume snippet lacks the required experience and skills for the Quality Control Inspector position. The candidate has only basic knowledge of stress testing tools and software, and their work experience is not relevant to the aerospace or defense industry.

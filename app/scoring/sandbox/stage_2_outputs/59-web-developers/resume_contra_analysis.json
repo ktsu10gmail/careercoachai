@@ -1,0 +1,140 @@
+{
+  "job_title": "59. Web Developers",
+  "case_slug": "59-web-developers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.505178",
+  "match_score": 66.83,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Web Developers job title:",
+        "I have a solid grasp of web security best practices, but my implementation of secure coding standards was limited due to project constraints.",
+        "However, I am eager to learn and apply my knowledge to improve existing applications and develop new ones.",
+        "\"Results-driven web developer with 3+ years of experience in front-end development, proficient in HTML5, CSS3, and JavaScript (including React)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I have a solid grasp of web security best practices, but my implementation of secure coding standards was limited due to project constraints.",
+        "Strong understanding of version control systems such as Git and SVN."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Web Developers job title:",
+        "I have a solid grasp of web security best practices, but my implementation of secure coding standards was limited due to project constraints.",
+        "However, I am eager to learn and apply my knowledge to improve existing applications and develop new ones.",
+        "\"Results-driven web developer with 3+ years of experience in front-end development, proficient in HTML5, CSS3, and JavaScript (including React)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Stay up-to-date with the latest web development trends, technologies, and frameworks, applying this knowledge to improve existing applications and develop new ones",
+      "evidence": [
+        "However, I am eager to learn and apply my knowledge to improve existing applications and develop new ones."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in HTML5, CSS3, JavaScript (including React, Angular, or Vue.js), and responsive design principles",
+      "evidence": [
+        "\"Results-driven web developer with 3+ years of experience in front-end development, proficient in HTML5, CSS3, and JavaScript (including React)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with version control systems such as Git and SVN",
+      "evidence": [
+        "Strong understanding of version control systems such as Git and SVN."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of web security best practices and ability to implement secure coding standards",
+      "evidence": [
+        "I have a solid grasp of web security best practices, but my implementation of secure coding standards was limited due to project constraints."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement secure coding practices, ensuring compliance with industry standards and best practices",
+      "evidence": [
+        "I have a solid grasp of web security best practices, but my implementation of secure coding standards was limited due to project constraints."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in front-end or full-stack web development",
+      "evidence": [
+        "Web Developers job title:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Troubleshoot and resolve technical issues, providing timely support to end-users and stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of database management systems such as MySQL, PostgreSQL, or MongoDB",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also did not have experience with back-end programming languages such as Node.js or database management systems like MySQL.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Web Developers job title:",
+      "supports": "Design, develop, test, and maintain multiple web applications using HTML5, CSS3, JavaScript, and responsive design principles"
+    },
+    {
+      "source": "resume",
+      "quote": "I have a solid grasp of web security best practices, but my implementation of secure coding standards was limited due to project constraints.",
+      "supports": "Develop and implement secure coding practices, ensuring compliance with industry standards and best practices"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I am eager to learn and apply my knowledge to improve existing applications and develop new ones.",
+      "supports": "Stay up-to-date with the latest web development trends, technologies, and frameworks, applying this knowledge to improve existing applications and develop new ones"
+    },
+    {
+      "source": "resume",
+      "quote": "Web Developers job title:",
+      "supports": "3+ years of experience in front-end or full-stack web development"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven web developer with 3+ years of experience in front-end development, proficient in HTML5, CSS3, and JavaScript (including React).",
+      "supports": "Proficiency in HTML5, CSS3, JavaScript (including React, Angular, or Vue.js), and responsive design principles"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

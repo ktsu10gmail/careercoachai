@@ -1,0 +1,139 @@
+{
+  "job_title": "IT Project Managers",
+  "case_slug": "it-project-managers-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.398150",
+  "match_score": 68.53,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 56.5,
+      "reason": "Found 3 direct, 9 adjacent, 1 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Developed and executed test plans, including data generation and results analysis",
+        "Summary:",
+        "+ Coordinated with cross-functional teams to identify and prioritize testing efforts",
+        "Highly motivated IT project manager with 5+ years of experience in managing small-scale projects, focusing on testing and quality assurance."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 1 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Developed and executed test plans, including data generation and results analysis",
+        "+ Collaborated with development teams to gather requirements and ensure test cases aligned with project goals"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Developed and executed test plans, including data generation and results analysis",
+        "Summary:",
+        "+ Coordinated with cross-functional teams to identify and prioritize testing efforts",
+        "Highly motivated IT project manager with 5+ years of experience in managing small-scale projects, focusing on testing and quality assurance."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute comprehensive test plans, including data generation, test execution, and results analysis",
+      "evidence": [
+        "+ Developed and executed test plans, including data generation and results analysis"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in continuous improvement initiatives, contributing to the development of new testing methodologies and tools",
+      "evidence": [
+        "+ Participated in continuous improvement initiatives, contributing to the development of new testing methodologies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Python programming language"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "evidence": [
+        "+ Developed and executed test plans, including data generation and results analysis"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our ",
+      "evidence": [
+        "+ Coordinated with cross-functional teams to identify and prioritize testing efforts"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Maintain accurate records of test cases, test plans, and results, ensuring data integrity and compliance with regulatory requirements",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: + Collaborated with development teams to gather requirements and ensure test cases aligned with project goals",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed test plans, including data generation and results analysis",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Coordinated with cross-functional teams to identify and prioritize testing efforts",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our "
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated IT project manager with 5+ years of experience in managing small-scale projects, focusing on testing and quality assurance.",
+      "supports": "Design and develop stress testing scenarios to simulate real-world usage patterns and identify potential bottlenecks in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed test plans, including data generation and results analysis",
+      "supports": "Develop and execute comprehensive test plans, including data generation, test execution, and results analysis"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

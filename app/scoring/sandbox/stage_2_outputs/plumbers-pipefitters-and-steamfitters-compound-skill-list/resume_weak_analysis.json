@@ -1,0 +1,131 @@
+{
+  "job_title": "Plumbers, Pipefitters, and Steamfitters",
+  "case_slug": "plumbers-pipefitters-and-steamfitters-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:06.454309",
+  "match_score": 71.44,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 76.4,
+      "reason": "Found 8 direct, 6 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer",
+        "Certification in stress testing or quality assurance methodologies",
+        "Highly skilled engineer with experience in stress testing and simulation.",
+        "Java, Python, C++, MATLAB, Simulink, ANSYS, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 87.0,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer",
+        "Apache JMeter), cloud-based platforms (AWS)",
+        "Experience with machine learning or artificial intelligence frameworks",
+        "IBM Watson, Microsoft Azure Machine Learning)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer",
+        "Certification in stress testing or quality assurance methodologies",
+        "Highly skilled engineer with experience in stress testing and simulation.",
+        "Java, Python, C++, MATLAB, Simulink, ANSYS, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Test Engineer",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our quality assurance team, you will be responsible for designing, developing, and executing comprehensive stress testing protocols to identify potential weaknes",
+      "evidence": [
+        "Certification in stress testing or quality assurance methodologies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, MATLAB, Simulink, Scilab, ANSYS, COMSOL, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g.",
+      "evidence": [
+        "Java, Python, C++, MATLAB, Simulink, ANSYS, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Apache JMeter, Gatling), cloud-based platforms (AWS, Azure), containerization tools (Docker, Kubernetes), version control systems (Git, SVN), data analysis and visualization tools ",
+      "evidence": [
+        "Apache JMeter), cloud-based platforms (AWS)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with machine learning or artificial intelligence frameworks",
+      "evidence": [
+        "Experience with machine learning or artificial intelligence frameworks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of scoring engine-specific technologies (e.g.",
+      "evidence": [
+        "Knowledge of scoring engine-specific technologies (e.g."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "Job Title:** Scoring Engine Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Certification in stress testing or quality assurance methodologies",
+      "supports": "As a key member of our quality assurance team, you will be responsible for designing, developing, and executing comprehensive stress testing protocols to identify potential weaknes"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "Design and develop stress testing protocols to simulate real-world operating conditions and identify potential performance issues"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "Conduct thorough analysis of test results to determine the root cause of any failures or anomalies"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

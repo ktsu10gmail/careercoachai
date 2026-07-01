@@ -1,0 +1,16 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**UX/UI Design Experience:**
+
+* Designed and developed multiple prototypes for e-commerce websites, resulting in 25% increase in conversion rates (Note: While I was able to improve conversion rates, my experience was limited to small-scale projects and I didn't have the opportunity to work on a large-scale e-commerce platform like the one described in the job posting.)
+* Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key requirement for this role.)
+* Collaborated with cross-functional teams to develop wireframes and high-fidelity designs for web applications (While I worked closely with product management and engineering teams, my focus was on UX/UI design rather than performance engineering or stress testing.)
+
+**Skills:**
+
+* Proficient in Sketch, Figma, Adobe XD, and InVision (Note: While I have experience with these tools, I don't have experience with cloud-based infrastructure, containerization, or programming languages like Python or Java.)
+* Strong understanding of human-centered design principles and user research methods (However, my experience is limited to UX/UI design and I'm not familiar with software architecture, scalability, or reliability principles.)
+
+**Education:**
+
+* Bachelor's degree in Design from [University Name] (Note: While I have a strong foundation in design principles, I don't have experience with machine learning, artificial intelligence, or metadata management systems.)

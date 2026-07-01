@@ -1,0 +1,160 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:09.472161",
+  "match_score": 34.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.4,
+      "reason": "Found 1 direct, 2 adjacent, 2 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Skilled in Excel, QuickBooks, and financial reporting principles.",
+        "Lack of CPA certification",
+        "Proven track record of accuracy and compliance in daily operations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 50.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Skilled in Excel, QuickBooks, and financial reporting principles.",
+        "Lack of CPA certification",
+        "Proven track record of accuracy and compliance in daily operations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of successfully managing large budgets and teams",
+      "evidence": [
+        "Proven track record of accuracy and compliance in daily operations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of financial reporting, budgeting, and forecasting principles",
+      "evidence": [
+        "Skilled in Excel, QuickBooks, and financial reporting principles."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with financial planning and analysis tools such as Excel, Tableau, or Power BI",
+      "evidence": [
+        "Skilled in Excel, QuickBooks, and financial reporting principles."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Oversee daily accounting operations for a $50 million annual budget, ensuring accuracy and compliance with company policies and regulatory requirements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage a team of 3 accountants, providing guidance and support to ensure successful completion of financial statements and audits",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Skilled in Excel, QuickBooks, and financial reporting principles.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement accounting processes and procedures to improve efficiency and reduce costs by 15% within the next 6 months",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular financial analysis and provide insights to senior management on key performance indicators (KPIs) such as revenue growth, expense control, and cash flow management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with accounting standards and regulatory requirements, including GAAP and tax laws",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Accounting or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "CPA certification required",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lack of CPA certification",
+      "severity": "high"
+    },
+    {
+      "requirement": "8+ years of experience in senior accounting roles, with at least 3 years in a leadership position",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based accounting software such as QuickBooks or Xero",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in financial management or leadership (e.g.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Skilled in Excel, QuickBooks, and financial reporting principles.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Skilled in Excel, QuickBooks, and financial reporting principles.",
+      "supports": "Manage a team of 3 accountants, providing guidance and support to ensure successful completion of financial statements and audits"
+    },
+    {
+      "source": "resume",
+      "quote": "Lack of CPA certification",
+      "supports": "CPA certification required"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of accuracy and compliance in daily operations.",
+      "supports": "Proven track record of successfully managing large budgets and teams"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in Excel, QuickBooks, and financial reporting principles.",
+      "supports": "Strong knowledge of financial reporting, budgeting, and forecasting principles"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in Excel, QuickBooks, and financial reporting principles.",
+      "supports": "Familiarity with financial planning and analysis tools such as Excel, Tableau, or Power BI"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

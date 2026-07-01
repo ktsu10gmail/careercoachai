@@ -1,0 +1,159 @@
+{
+  "job_title": "Business Development Representatives",
+  "case_slug": "business-development-representatives-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.169945",
+  "match_score": 33.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 14.3,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted research on potential clients, but did not identify high-potential leads as I was limited to a specific set of pre-approved accounts",
+        "Built relationships with key decision-makers through regular communication, but did not have the opportunity to engage in in-depth discussions due to time constraints",
+        "Presented product offerings, but did not have a deep understanding of the value proposition as I was primarily focused on meeting sales targets rather than educating prospects",
+        "Developed and executed sales strategies, but did not have the autonomy to make changes or adjust tactics based on prospect feedback"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 50.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted research on potential clients, but did not identify high-potential leads as I was limited to a specific set of pre-approved accounts",
+        "Built relationships with key decision-makers through regular communication, but did not have the opportunity to engage in in-depth discussions due to time constraints",
+        "Presented product offerings, but did not have a deep understanding of the value proposition as I was primarily focused on meeting sales targets rather than educating prospects",
+        "Developed and executed sales strategies, but did not have the autonomy to make changes or adjust tactics based on prospect feedback"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of meeting or exceeding sales targets",
+      "evidence": [
+        "Proven track record of meeting sales targets through aggressive forecasting and pipeline management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "evidence": [
+        "Excellent communication skills, but limited experience working with diverse stakeholder groups"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Business Development Representative**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Business Development Representative, you will be responsible for identifying new business opportunities, building relationships with key decision-makers, and driving revenue g",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough research on potential clients and identify high-potential leads",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted research on potential clients, but did not identify high-potential leads as I was limited to a specific set of pre-approved accounts",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute personalized sales strategies to engage with target accounts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted research on potential clients, but did not identify high-potential leads as I was limited to a specific set of pre-approved accounts",
+      "severity": "high"
+    },
+    {
+      "requirement": "Build strong relationships with key decision-makers through regular communication and follow-up",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Built relationships with key decision-makers through regular communication, but did not have the opportunity to engage in in-depth discussions due to time constraints",
+      "severity": "high"
+    },
+    {
+      "requirement": "Present product offerings and demonstrate value proposition to prospects",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Presented product offerings, but did not have a deep understanding of the value proposition as I was primarily focused on meeting sales targets rather than educating prospects",
+      "severity": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets and contribute to overall revenue growth",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed sales strategies, but did not have the autonomy to make changes or adjust tactics based on prospect feedback",
+      "severity": "high"
+    },
+    {
+      "requirement": "Continuously monitor market trends and competitor activity to stay ahead of the competition",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in business development, sales, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of product offerings and value proposition",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Presented product offerings, but did not have a deep understanding of the value proposition as I was primarily focused on meeting sales targets rather than educating prospects",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software and Microsoft Office applications",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong understanding of CRM software, but did not have hands-on experience with sales enablement tools or platforms",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted research on potential clients, but did not identify high-potential leads as I was limited to a specific set of pre-approved accounts",
+      "supports": "Conduct thorough research on potential clients and identify high-potential leads"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted research on potential clients, but did not identify high-potential leads as I was limited to a specific set of pre-approved accounts",
+      "supports": "Develop and execute personalized sales strategies to engage with target accounts"
+    },
+    {
+      "source": "resume",
+      "quote": "Built relationships with key decision-makers through regular communication, but did not have the opportunity to engage in in-depth discussions due to time constraints",
+      "supports": "Build strong relationships with key decision-makers through regular communication and follow-up"
+    },
+    {
+      "source": "resume",
+      "quote": "Presented product offerings, but did not have a deep understanding of the value proposition as I was primarily focused on meeting sales targets rather than educating prospects",
+      "supports": "Present product offerings and demonstrate value proposition to prospects"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed sales strategies, but did not have the autonomy to make changes or adjust tactics based on prospect feedback",
+      "supports": "Meet or exceed monthly sales targets and contribute to overall revenue growth"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

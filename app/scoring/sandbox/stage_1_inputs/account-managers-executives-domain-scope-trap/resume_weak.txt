@@ -1,0 +1,25 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Account Manager**
+
+**Summary:**
+Results-driven Account Manager with 5+ years of experience in stress testing, performance engineering, and software development life cycles.
+
+**Experience:**
+
+* **Stress Test Engineer**, ABC Company (2018-Present)
+ + Designed and executed stress tests to identify system bottlenecks and areas for improvement
+ + Developed and maintained test scripts and tools using Python and Bash
+ + Collaborated with cross-functional teams to ensure alignment and effective testing
+* **Software Developer**, DEF Startups (2015-2018)
+ + Developed software applications using Java and C++
+ + Worked on low-latency trading infrastructure projects using Docker and AWS
+
+**Skills:**
+
+* Programming languages: Python, Java, C++
+* Test automation frameworks: Selenium, Appium
+* Scripting languages: Bash, Perl
+* Cloud-based infrastructure: AWS
+* Containerization technologies: Docker

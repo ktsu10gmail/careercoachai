@@ -1,0 +1,29 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Radiology Technologist**
+
+**Summary:**
+Highly skilled Radiology Technologist with 2+ years of experience in EKG interpretation and stress test analysis.
+
+**Technical Skills:**
+
+* Proficient in Windows XP and MS Office 2003
+* Experienced with DICOM image viewer (version 4.0)
+* Familiarity with Adobe Photoshop CS2 for image editing
+
+**Professional Experience:**
+
+* Radiology Technologist, XYZ Imaging Center (2018-Present)
+	+ Scored and interpreted stress test images according to established protocols
+	+ Evaluated image quality and reported defects or artifacts that impacted diagnostic accuracy
+	+ Collaborated with cardiologists on patient care and treatment plans
+* Part-time EKG Technician, ABC Medical Group (2015-2018)
+	+ Conducted EKGs for patients undergoing stress tests
+	+ Maintained accurate records of test results and patient information
+
+**Education:**
+
+* Associate's Degree in Radiologic Technology, Local Community College (2015)
+
+Note that this resume snippet lacks enterprise scope, as it doesn't mention any experience with advanced imaging technologies, electronic medical records, or certifications. The technical skills listed are also outdated and not relevant to the job description.

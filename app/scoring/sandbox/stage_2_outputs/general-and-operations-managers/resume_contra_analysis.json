@@ -1,0 +1,152 @@
+{
+  "job_title": "General and Operations Managers",
+  "case_slug": "general-and-operations-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.757045",
+  "match_score": 64.48,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully managed daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies (note: this was a smaller-scale operation with limited staff and no external vendors)",
+        "Proven track record of successfully leading cross-functional projects, developing strategic plans, and driving efficiency gains.",
+        "Conducted regular site visits to monitor progress, identify areas for improvement, and implement corrective actions (note: these were primarily focused on quality control and compliance rather than strategic planning)",
+        "Developed and maintained relationships with key stakeholders, including customers, suppliers, and regulatory agencies, but did not have experience in a fast-paced or high-stakes environment"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and problem-solving skills"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully managed daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies (note: this was a smaller-scale operation with limited staff and no external vendors)",
+        "Proven track record of successfully leading cross-functional projects, developing strategic plans, and driving efficiency gains.",
+        "Conducted regular site visits to monitor progress, identify areas for improvement, and implement corrective actions (note: these were primarily focused on quality control and compliance rather than strategic planning)",
+        "Developed and maintained relationships with key stakeholders, including customers, suppliers, and regulatory agencies, but did not have experience in a fast-paced or high-stakes environment"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies",
+      "evidence": [
+        "Successfully managed daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies (note: this was a smaller-scale operation with limited staff and no external vendors)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular site visits to monitor progress, identify areas for improvement, and implement corrective actions",
+      "evidence": [
+        "Conducted regular site visits to monitor progress, identify areas for improvement, and implement corrective actions (note: these were primarily focused on quality control and compliance rather than strategic planning)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration, Operations Management, or related field",
+      "evidence": [
+        "Bachelor's degree in Business Administration, Operations Management, or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in operations management, preferably in a similar industry",
+      "evidence": [
+        "Bachelor's degree in Business Administration, Operations Management, or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully managing teams and implementing process improvements",
+      "evidence": [
+        "Proven track record of successfully leading cross-functional projects, developing strategic plans, and driving efficiency gains."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in operations management or a related field (e.g.",
+      "evidence": [
+        "Bachelor's degree in Business Administration, Operations Management, or related field"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including customers, suppliers, and regulatory agencies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained relationships with key stakeholders, including customers, suppliers, and regulatory agencies, but did not have experience in a fast-paced or high-stakes environment",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to build strong relationships with stakeholders",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Coordinated with internal stakeholders to ensure timely completion of projects and services, but did not have experience working with external vendors or contractors",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with facility management software, such as FMX or CMMS",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and implemented budgeting and resource allocation plans for facility improvement, but did not have the opportunity to implement them at scale due to limited authority",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of industry-specific regulations and standards (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully managed daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies (note: this was a smaller-scale operation with limited staff and no external vendors)",
+      "supports": "Oversee daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully leading cross-functional projects, developing strategic plans, and driving efficiency gains.",
+      "supports": "Develop and implement strategic plans for facility improvement, including budgeting and resource allocation"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully managed daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies (note: this was a smaller-scale operation with limited staff and no external vendors)",
+      "supports": "Manage and supervise a team of 5-10 staff members, providing guidance, training, and performance evaluations as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully leading cross-functional projects, developing strategic plans, and driving efficiency gains.",
+      "supports": "Coordinate with external vendors and contractors to ensure timely completion of projects and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular site visits to monitor progress, identify areas for improvement, and implement corrective actions (note: these were primarily focused on quality control and compliance rather than strategic planning)",
+      "supports": "Conduct regular site visits to monitor progress, identify areas for improvement, and implement corrective actions"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,20 @@
+Here's a contra-evidence resume snippet for a Special Education Teacher position:
+
+**Education:**
+
+* Bachelor's degree in Special Education, XYZ University (20XX-20XX)
+
+**Experience:**
+
+* Special Education Teacher, ABC School District (20XX-Present)
+	+ Developed and implemented individualized education plans for students with diverse learning needs
+	+ Collaborated with cross-functional teams to design and implement curriculum changes
+	+ Utilized data-driven approaches to inform instruction and drive student progress
+
+However, I did not:
+
+* Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)
+* Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios (I'm not familiar with stress testing tools and frameworks like Apache JMeter or Gatling)
+* Analyze test results, identify trends, and provide recommendations for optimization and improvement (My expertise lies in education, not performance engineering)
+
+Note: I've kept the resume realistic by mentioning relevant terms from the job description, but explicitly stated that the candidate did not perform certain higher-scope requirements.

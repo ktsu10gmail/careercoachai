@@ -1,0 +1,171 @@
+{
+  "job_title": "Client Success Managers",
+  "case_slug": "client-success-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.213635",
+  "match_score": 56.93,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 5 direct, 1 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in client-facing roles, where I successfully built and maintained strong relationships with key clients to ensure satisfaction and retention.",
+        "Excel, Tableau), I did not utilize these skills to analyze client feedback and performance data to inform process improvements and optimize client success strategies as required by the job description.",
+        "While I am proficient in CRM systems and data analysis tools, I did not leverage these skills to identify and address potential issues or concerns before they escalated into major problems.",
+        "Additionally, I did not develop and maintain a thorough understanding of clients' industries, competitors, and market trends, as my experience was primarily focused on B2B software sales rather than industry-specific trends and best practic"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Excel, Tableau), I did not utilize these skills to analyze client feedback and performance data to inform process improvements and optimize client success strategies as required by the job description.",
+        "Salesforce) and data analysis tools (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in client-facing roles, where I successfully built and maintained strong relationships with key clients to ensure satisfaction and retention.",
+        "Excel, Tableau), I did not utilize these skills to analyze client feedback and performance data to inform process improvements and optimize client success strategies as required by the job description.",
+        "While I am proficient in CRM systems and data analysis tools, I did not leverage these skills to identify and address potential issues or concerns before they escalated into major problems.",
+        "Additionally, I did not develop and maintain a thorough understanding of clients' industries, competitors, and market trends, as my experience was primarily focused on B2B software sales rather than industry-specific trends and best practic"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain strong relationships with key clients to ensure satisfaction and retention",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in client-facing roles, where I successfully built and maintained strong relationships with key clients to ensure satisfaction and retention."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in client-facing roles, preferably in a B2B software or technology company",
+      "evidence": [
+        "\"Results-driven professional with 3+ years of experience in client-facing roles, where I successfully built and maintained strong relationships with key clients to ensure satisfaction and retention."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of building and maintaining strong relationships with key decision-makers",
+      "evidence": [
+        "Proven track record of delivering exceptional customer experiences through effective communication, active listening, and problem-solving skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, active listening, and problem-solving skills",
+      "evidence": [
+        "Proven track record of delivering exceptional customer experiences through effective communication, active listening, and problem-solving skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce) and data analysis tools (e.g.",
+      "evidence": [
+        "Salesforce) and data analysis tools (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM systems (e.g.",
+      "evidence": [
+        "Notably, while I have a solid understanding of CRM systems (e.g."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze client feedback and performance data to inform process improvements and optimize client success strategies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Excel, Tableau), I did not utilize these skills to analyze client feedback and performance data to inform process improvements and optimize client success strategies as required by the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and address potential issues or concerns before they escalate into major problems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I am proficient in CRM systems and data analysis tools, I did not leverage these skills to identify and address potential issues or concerns before they escalated into major problems.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of clients' industries, competitors, and market trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, I did not develop and maintain a thorough understanding of clients' industries, competitors, and market trends, as my experience was primarily focused on B2B software sales rather than industry-specific trends and best practic",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and strategic thinking abilities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business, Marketing, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with customer success platforms (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with sales operations and account management processes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, I did not develop and maintain a thorough understanding of clients' industries, competitors, and market trends, as my experience was primarily focused on B2B software sales rather than industry-specific trends and best practic",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 3+ years of experience in client-facing roles, where I successfully built and maintained strong relationships with key clients to ensure satisfaction and retention.",
+      "supports": "Develop and maintain strong relationships with key clients to ensure satisfaction and retention"
+    },
+    {
+      "source": "resume",
+      "quote": "Excel, Tableau), I did not utilize these skills to analyze client feedback and performance data to inform process improvements and optimize client success strategies as required by the job description.",
+      "supports": "Analyze client feedback and performance data to inform process improvements and optimize client success strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "While I am proficient in CRM systems and data analysis tools, I did not leverage these skills to identify and address potential issues or concerns before they escalated into major problems.",
+      "supports": "Identify and address potential issues or concerns before they escalate into major problems"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, I did not develop and maintain a thorough understanding of clients' industries, competitors, and market trends, as my experience was primarily focused on B2B software sales rather than industry-specific trends and best practic",
+      "supports": "Develop and maintain a thorough understanding of clients' industries, competitors, and market trends"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 3+ years of experience in client-facing roles, where I successfully built and maintained strong relationships with key clients to ensure satisfaction and retention.",
+      "supports": "3+ years of experience in client-facing roles, preferably in a B2B software or technology company"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

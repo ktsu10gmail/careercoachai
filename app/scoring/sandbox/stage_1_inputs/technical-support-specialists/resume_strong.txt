@@ -1,0 +1,27 @@
+Here's a strong-match resume snippet for a Technical Support Specialist position:
+
+**Technical Support Specialist**
+
+Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers. Proven track record of providing exceptional customer service, collaborating with IT teams to resolve critical technical issues, and developing knowledge base articles to improve support processes.
+
+**Technical Expertise:**
+
+* Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues.
+* Experienced with cloud-based services such as Office 365 and Google Workspace, including setup, configuration, and troubleshooting.
+* Skilled in IT service management tools such as ServiceNow and JIRA, with a strong understanding of their features and functionalities.
+
+**Problem-Solving and Communication:**
+
+* Excellent communication and problem-solving skills, with the ability to effectively communicate technical information to non-technical stakeholders.
+* Proven ability to work collaboratively with cross-functional teams to resolve complex technical issues and implement new technologies.
+
+**Tools and Technologies:**
+
+* Experienced in using remote troubleshooting tools such as TeamViewer, LogMeIn, and JIRA to conduct remote sessions and troubleshoot issues.
+* Familiarity with Nagios and SolarWinds for monitoring system performance and uptime.
+* Basic knowledge of scripting languages such as PowerShell and Bash, with a desire to expand skills in this area.
+
+**Certifications and Education:**
+
+* CompTIA A+ certification (in progress)
+* Bachelor's degree in Computer Science or related field.

@@ -1,0 +1,169 @@
+{
+  "job_title": "Project Managers",
+  "case_slug": "project-managers-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.978644",
+  "match_score": 33.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Executed stress tests on scoring engine solutions, but did not use Apache JMeter or Gatling as part of the project",
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter",
+        "Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies",
+        "Coordinated with stakeholders to gather requirements, but did not identify testing priorities due to limited stakeholder input"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 57.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Executed stress tests on scoring engine solutions, but did not use Apache JMeter or Gatling as part of the project",
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter",
+        "Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies",
+        "Coordinated with stakeholders to gather requirements, but did not identify testing priorities due to limited stakeholder input"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on the scoring engine",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "+ Python",
+      "evidence": [
+        "Analyzed test results and identified trends, patterns, and areas for improvement using Excel and Python"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results and identify trends, patterns, and areas for improvement",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts and frameworks to ensure consistency and efficiency",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Project Manager, you will be responsible for planning, coordinating, and executing stress testing activities to identify potential weaknesses and areas for improvement in our ",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Project Managers should possess a strong background in project management, stress testing, and software development.",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans using LoadRunner and JMeter"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing these tests to ensure the reliability and performance of our scoring engine solutions.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Executed stress tests on scoring engine solutions, but did not use Apache JMeter or Gatling as part of the project",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "You will work closely with cross-functional teams, including engineering, product management, and quality assurance to ensure that tests are conducted efficiently and effectively.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate with stakeholders to gather requirements and identify testing priorities",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Coordinated with stakeholders to gather requirements, but did not identify testing priorities due to limited stakeholder input",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests using a variety of tools and platforms, including but not limited to",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Apache JMeter",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Executed stress tests on scoring engine solutions, but did not use Apache JMeter or Gatling as part of the project",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate test results and recommendations to stakeholders, including product management and quality assurance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with testing standards and methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Executed stress tests on scoring engine solutions, but did not use Apache JMeter or Gatling as part of the project",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing these tests to ensure the reliability and performance of our scoring engine solutions."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress test plans using LoadRunner and JMeter",
+      "supports": "As a Project Manager, you will be responsible for planning, coordinating, and executing stress testing activities to identify potential weaknesses and areas for improvement in our "
+    },
+    {
+      "source": "resume",
+      "quote": "Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies",
+      "supports": "You will work closely with cross-functional teams, including engineering, product management, and quality assurance to ensure that tests are conducted efficiently and effectively."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress test plans using LoadRunner and JMeter",
+      "supports": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with stakeholders to gather requirements, but did not identify testing priorities due to limited stakeholder input",
+      "supports": "Coordinate with stakeholders to gather requirements and identify testing priorities"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

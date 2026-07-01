@@ -1,0 +1,25 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Summary:**
+Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing. Proficient in Python, Java, and Docker, with strong problem-solving skills and attention to detail.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java
+* Containerization tools: Docker
+* Cloud-based infrastructure: Familiarity with AWS services
+
+**Experience:**
+
+* **Senior Software Engineer**, ABC Company (2018-Present)
+ + Designed and executed stress tests on internal applications using Python and Docker
+ + Collaborated with cross-functional teams to develop test plans and identify areas for improvement
+ + Developed and maintained documentation of testing procedures and test results
+* **Performance Engineer**, DEF Startups (2015-2018)
+ + Conducted performance analysis and optimization of software applications using Java and AWS services
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Note that this resume snippet does not mention the candidate's experience with scoring engines or machine learning models, which are required skills for the job. Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.

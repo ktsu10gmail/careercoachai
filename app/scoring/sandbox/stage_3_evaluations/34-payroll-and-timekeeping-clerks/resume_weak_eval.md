@@ -1,0 +1,149 @@
+The provided JSON output appears to be clean and free of known failure modes. Here's a breakdown of the analysis:
+
+1. **Metadata leakage**: The `expected_profile` field contains a scope mismatch, which is correctly identified as "scope_mismatch". However, this is not considered a metadata leakage issue.
+2. **Boilerplate leakage**: There is no evidence of boilerplate leakage in the provided output.
+3. **Contra-evidence as matched evidence**: The issue with contra-evidence is present in the `missing_requirements` section, where requirements like "Experience with HRIS systems" and "Knowledge of federal and state labor laws" are listed as missing, despite being mentioned in the resume snippet. However, this is not considered a matched/evidence contradiction.
+4. **Generic snippet scattering**: The provided output does not exhibit generic snippet scattering.
+5. **Title/header proof**: There is no evidence of title/header proofing issues in the provided output.
+6. **Scope mismatch**: As mentioned earlier, the `expected_profile` field contains a scope mismatch, which is correctly identified as "scope_mismatch".
+7. **Matched/missing contradiction**: The issue with contra-evidence is present in the `missing_requirements` section, where requirements like "Experience with HRIS systems" and "Knowledge of federal and state labor laws" are listed as missing, despite being mentioned in the resume snippet.
+
+Proposed regression case:
+
+```json
+{
+  "job_title": "34. Payroll and Timekeeping Clerks",
+  "case_slug": "34-payroll-and-timekeeping-clerks",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:48.877019",
+  "match_score": 37.45,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.1,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in tracking employee hours worked using a manual spreadsheet system.",
+        "\"High school diploma, 2 years of experience with Microsoft Office Suite (Excel, Word), and basic knowledge of ADP Workforce Now payroll software.",
+        "Strong organizational skills, but limited attention-to-detail due to frequent distractions from social media.\"",
+        "This resume snippet lacks the required skills and experience for the position, and also fails to demonstrate any understanding of HRIS systems, federal and state labor laws, or payroll processing certifications."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 26.1,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in tracking employee hours worked using a manual spreadsheet system.",
+        "\"High school diploma, 2 years of experience with Microsoft Office Suite (Excel, Word), and basic knowledge of ADP Workforce Now payroll software.",
+        "Strong organizational skills, but limited attention-to-detail due to frequent distractions from social media.\"",
+        "This resume snippet lacks the required skills and experience for the position, and also fails to demonstrate any understanding of HRIS systems, federal and state labor laws, or payroll processing certifications."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 64.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in tracking employee hours worked using a manual spreadsheet system.",
+        "\"High school diploma, 2 years of experience with Microsoft Office Suite (Excel, Word), and basic knowledge of ADP Workforce Now payroll software.",
+        "Strong organizational skills, but limited attention-to-detail due to frequent distractions from social media.\"",
+        "This resume snippet lacks the required skills and experience for the position, and also fails to demonstrate any understanding of HRIS systems, federal and state labor laws, or payroll processing certifications."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate records of employee hours worked, including tracking overtime and leave time.",
+      "evidence": [
+        "Proficient in tracking employee hours worked using a manual spreadsheet system."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Microsoft Office Suite (Excel, Word), and basic knowledge of ADP Workforce Now payroll software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite, particularly Excel and Word.",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Microsoft Office Suite (Excel, Word), and basic knowledge of ADP Workforce Now payroll software."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong organizational and attention-to-detail skills.",
+      "evidence": [
+        "Strong organizational skills, but limited attention-to-detail due to frequent distractions from social media.\""
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide support for special projects, such as processing bonuses or adjusting employee classifications.",
+      "evidence": [
+        "Proficient in tracking employee hours worked using a manual spreadsheet system."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Process payroll for a diverse workforce of 500 employees, ensuring accurate and timely payment of wages and benefits.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and distribute pay stubs to employees via email or mail.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Reconcile payroll discrepancies and investigate errors in a timely manner.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist with the implementation of new payroll systems and processes as required by management.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Associate's degree preferred.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of experience in payroll or timekeeping operations.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with payroll software, such as ADP Workforce Now or Paychex.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with HRIS systems, such as Workday or BambooHR.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for the position, and also fails to demonstrate any understanding of HRIS systems, federal and state labor laws, or payroll processing certifications.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of

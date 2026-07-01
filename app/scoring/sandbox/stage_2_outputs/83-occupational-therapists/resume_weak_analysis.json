@@ -1,0 +1,150 @@
+{
+  "job_title": "83. Occupational Therapists",
+  "case_slug": "83-occupational-therapists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:54.034434",
+  "match_score": 50.16,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.2,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted assessments and developed treatment plans for patients with physical disabilities",
+        "Basic Life Support (BLS) certification",
+        "Ability to work with diverse populations",
+        "Master's degree in occupational therapy from XYZ University (2018)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 43.2,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted assessments and developed treatment plans for patients with physical disabilities",
+        "Basic Life Support (BLS) certification",
+        "Ability to work with diverse populations",
+        "Master's degree in occupational therapy from XYZ University (2018)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted assessments and developed treatment plans for patients with physical disabilities",
+        "Basic Life Support (BLS) certification",
+        "Ability to work with diverse populations",
+        "Master's degree in occupational therapy from XYZ University (2018)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Document patient assessments, treatment plans, and outcomes in electronic medical records",
+      "evidence": [
+        "Conducted assessments and developed treatment plans for patients with physical disabilities"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work with diverse populations, including children, adults, and older adults",
+      "evidence": [
+        "Ability to work with diverse populations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of evidence-based practices and current research in occupational therapy",
+      "evidence": [
+        "Master's degree in occupational therapy from XYZ University (2018)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Valid CPR certification",
+      "evidence": [
+        "Basic Life Support (BLS) certification"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records systems, such as Epic or Cerner",
+      "evidence": [
+        "Utilized Epic electronic medical records system"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct comprehensive assessments of patients with physical, emotional, or cognitive disabilities to identify areas for improvement",
+      "evidence": [
+        "Conducted assessments and developed treatment plans for patients with physical disabilities"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide occupational therapy services in various settings, including hospitals, clinics, schools, and community centers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in occupational therapy from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current licensure to practice as an occupational therapist in the state where the position is located",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted assessments and developed treatment plans for patients with physical disabilities",
+      "supports": "Conduct comprehensive assessments of patients with physical, emotional, or cognitive disabilities to identify areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted assessments and developed treatment plans for patients with physical disabilities",
+      "supports": "Develop and implement individualized treatment plans to enhance functional abilities and promote independence"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted assessments and developed treatment plans for patients with physical disabilities",
+      "supports": "Educate patients, families, and caregivers on proper use of adaptive equipment, home modifications, and daily living skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted assessments and developed treatment plans for patients with physical disabilities",
+      "supports": "Monitor patient progress and adjust treatment plans as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted assessments and developed treatment plans for patients with physical disabilities",
+      "supports": "Document patient assessments, treatment plans, and outcomes in electronic medical records"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

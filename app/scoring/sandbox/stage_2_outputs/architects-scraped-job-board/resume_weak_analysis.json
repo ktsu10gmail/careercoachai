@@ -1,0 +1,164 @@
+{
+  "job_title": "Architects",
+  "case_slug": "architects-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:55.326115",
+  "match_score": 41.89,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Architect",
+        "Highly motivated and detail-oriented Architect with 3+ years of experience in designing and developing small-scale projects.",
+        "+ Utilized Autodesk Revit to create detailed designs and specifications",
+        "+ Designed and developed small-scale projects for clients"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "architect",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Architect",
+        "Highly motivated and detail-oriented Architect with 3+ years of experience in designing and developing small-scale projects.",
+        "+ Utilized Autodesk Revit to create detailed designs and specifications",
+        "+ Designed and developed small-scale projects for clients"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in Autodesk Revit, SketchUp, and Adobe Creative Suite",
+      "evidence": [
+        "Proficient in Autodesk Revit, SketchUp, and Adobe Creative Suite."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As an Architect, you will play a critical role in designing and developing our projects from concept to completion.",
+      "evidence": [
+        "Architect"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Master's degree in Architecture or related field",
+      "evidence": [
+        "Intern, ABC Architecture Firm (Summer 2017)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in architectural design and project management",
+      "evidence": [
+        "Highly motivated and detail-oriented Architect with 3+ years of experience in designing and developing small-scale projects."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will be responsible for creating detailed designs, collaborating with cross-functional teams, and ensuring that all projects meet our high standards of quality and excellence.",
+      "evidence": [
+        "Highly motivated and detail-oriented Architect with 3+ years of experience in designing and developing small-scale projects."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop architectural plans and specifications",
+      "evidence": [
+        "+ Utilized Autodesk Revit to create detailed designs and specifications"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** Simulated Scraped Job Board",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct site visits and analyze building performance data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, technologies, and best practices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Architect",
+      "supports": "As an Architect, you will play a critical role in designing and developing our projects from concept to completion."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented Architect with 3+ years of experience in designing and developing small-scale projects.",
+      "supports": "You will be responsible for creating detailed designs, collaborating with cross-functional teams, and ensuring that all projects meet our high standards of quality and excellence."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized Autodesk Revit to create detailed designs and specifications",
+      "supports": "Design and develop architectural plans and specifications"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed small-scale projects for clients",
+      "supports": "Develop and maintain relationships with clients, partners, and stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "Intern, ABC Architecture Firm (Summer 2017)",
+      "supports": "Master's degree in Architecture or related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, remote work options available
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent position
+* Target Start Date: 6 weeks from application date
+* Travel: Up to 20% of the time for industry conferences and collaboration with other teams
+* Sponsorship: Company will sponsor relocation assistance for selected candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of experts in designing, developing, and testing large-scale software systems. As a key member of our infrastructure architecture team, you will be responsible for creating comprehensive stress tests to ensure the reliability and performance of our scoring engine.
+
+**Responsibilities:**
+
+* Design and develop stress test scripts to simulate various types of traffic and loads on the scoring engine
+* Collaborate with cross-functional teams, including engineering, product management, and operations, to identify and prioritize testing efforts
+* Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics
+* Conduct thorough analysis of test results, identifying trends, patterns, and areas for improvement
+* Work closely with QA engineers to develop and execute automated testing scripts
+* Participate in code reviews and contribute to the development of new features and enhancements
+* Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies and tools
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engine architecture and components (e.g., machine learning, natural language processing)
+* Strong understanding of software development life cycles, including Agile and DevOps practices
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools like Apache JMeter, Gatling, or Locust
+* Excellent analytical and problem-solving skills, with ability to interpret complex data sets
+* Strong communication and collaboration skills, with experience working with cross-functional teams

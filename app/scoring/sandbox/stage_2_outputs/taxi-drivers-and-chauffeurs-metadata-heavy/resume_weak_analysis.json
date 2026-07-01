@@ -1,0 +1,165 @@
+{
+  "job_title": "Taxi Drivers and Chauffeurs",
+  "case_slug": "taxi-drivers-and-chauffeurs-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.747969",
+  "match_score": 37.2,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.5,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Utilize GPS navigation systems to optimize routes and reduce travel time",
+        "Proven track record of providing excellent customer service and ensuring timely arrivals.",
+        "+ Maintain a clean and organized vehicle at all times",
+        "+ Provide exceptional customer service to ensure high ratings and repeat business"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 53.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Utilize GPS navigation systems to optimize routes and reduce travel time",
+        "Proven track record of providing excellent customer service and ensuring timely arrivals.",
+        "+ Maintain a clean and organized vehicle at all times",
+        "+ Provide exceptional customer service to ensure high ratings and repeat business"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)",
+      "evidence": [
+        "+ Utilize GPS navigation systems to optimize routes and reduce travel time"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability",
+      "evidence": [
+        "Proven track record of providing excellent customer service and ensuring timely arrivals."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to automate testing processes",
+      "evidence": [
+        "+ Maintain a clean and organized vehicle at all times"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for improvement",
+      "evidence": [
+        "+ Provide exceptional customer service to ensure high ratings and repeat business"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly motivated and experienced taxi driver with over 10 years of experience in the transportation industry."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance for out-of-town candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for remote work",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter or Gatling",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g., Docker)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages, including Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Utilize GPS navigation systems to optimize routes and reduce travel time",
+      "supports": "Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of providing excellent customer service and ensuring timely arrivals.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Maintain a clean and organized vehicle at all times",
+      "supports": "Develop and maintain test plans, scripts, and tools to automate testing processes"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provide exceptional customer service to ensure high ratings and repeat business",
+      "supports": "Analyze test results, identify trends, and provide recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and experienced taxi driver with over 10 years of experience in the transportation industry.",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

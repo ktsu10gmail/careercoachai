@@ -1,0 +1,30 @@
+Here's a weak or scope-mismatch resume snippet for a Private Detective/Investigator with adjacent low-level tools but lacking enterprise scope:
+
+**Name:** Jack "The Investigator" Doe
+**Contact Info:**
+
+* Phone: 555-1234
+* Email: [johndoe@gmail.com](mailto:johndoe@gmail.com)
+
+**Summary:**
+Highly skilled Private Detective/Investigator with expertise in surveillance, data analysis, and interview techniques. Proficient in using low-level tools to gather intel and conduct discreet operations.
+
+**Experience:**
+
+* **Private Investigator**, Doe Investigations (2018-Present)
+ + Conducted surveillance on high-profile targets using advanced camera equipment and software
+ + Analyzed data from various sources, including social media and online forums, to identify patterns and connections
+ + Utilized low-level programming skills in Python and C++ to develop custom tools for data analysis and visualization
+* **Security Consultant**, Small Business Security (2015-2018)
+ + Conducted security audits and risk assessments for small businesses and individuals
+ + Implemented basic security measures, such as firewalls and antivirus software, using low-level tools like Windows Defender and Malwarebytes
+
+**Skills:**
+
+* Surveillance and data analysis
+* Interview techniques and conflict resolution
+* Low-level programming in Python and C++
+* Familiarity with camera equipment and software (e.g., Adobe Premiere Pro, Camtasia)
+* Basic security measures and risk assessment
+
+Note that this resume snippet lacks the enterprise scope required for the Stress Test Engineer position, but highlights adjacent skills and experience as a Private Detective/Investigator.

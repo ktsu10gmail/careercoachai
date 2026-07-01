@@ -1,0 +1,29 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Information**
+
+**Summary:**
+Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools.
+
+**Technical Skills:**
+
+* Proficient in Python, Java, and C++
+* Experienced with test automation frameworks such as Pytest and Unittest
+* Familiarity with Docker and Kubernetes for containerization and orchestration
+
+**Experience:**
+
+* **Stress Tester**, ABC Company (2018-Present)
+	+ Designed and executed stress tests on performance evaluation tools using Python and Pytest
+	+ Developed and maintained test plans, scripts, and tools to simulate various types of loads and workloads
+	+ Collaborated with cross-functional teams to ensure alignment and effective testing
+* **Quality Assurance Engineer**, DEF Company (2015-2018)
+	+ Tested and validated software applications using Java and Unittest
+	+ Identified and reported defects and bugs in a timely manner
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015)
+
+This resume snippet lacks enterprise scope as it doesn't mention any experience with cloud-based infrastructure, scalability concepts, or machine learning/artificial intelligence concepts. The technical skills listed are also limited to low-level tools and frameworks that may not be relevant for the job description.

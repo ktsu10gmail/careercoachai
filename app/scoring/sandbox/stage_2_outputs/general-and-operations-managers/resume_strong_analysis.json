@@ -1,0 +1,152 @@
+{
+  "job_title": "General and Operations Managers",
+  "case_slug": "general-and-operations-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:00.791288",
+  "match_score": 79.13,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.8,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven operations leader with 7+ years of experience in managing high-performing teams and driving process improvements across multiple facilities.",
+        "Proven track record of successfully implementing strategic plans, improving efficiency, and fostering strong relationships with stakeholders.",
+        "Successfully managed and mentored teams of up to 10 staff members, providing guidance, training, and performance evaluations as needed",
+        "Fostered strong relationships with external vendors and contractors, ensuring timely completion of projects and services"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven operations leader with 7+ years of experience in managing high-performing teams and driving process improvements across multiple facilities.",
+        "Proven track record of successfully implementing strategic plans, improving efficiency, and fostering strong relationships with stakeholders.",
+        "Successfully managed and mentored teams of up to 10 staff members, providing guidance, training, and performance evaluations as needed",
+        "Fostered strong relationships with external vendors and contractors, ensuring timely completion of projects and services"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies",
+      "evidence": [
+        "Results-driven operations leader with 7+ years of experience in managing high-performing teams and driving process improvements across multiple facilities."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and supervise a team of 5-10 staff members, providing guidance, training, and performance evaluations as needed",
+      "evidence": [
+        "Successfully managed and mentored teams of up to 10 staff members, providing guidance, training, and performance evaluations as needed"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular site visits to monitor progress, identify areas for improvement, and implement corrective actions",
+      "evidence": [
+        "Conducted regular site visits to monitor progress, identify areas for improvement, and implement corrective actions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including customers, suppliers, and regulatory agencies",
+      "evidence": [
+        "Developed and maintained relationships with key stakeholders, including customers, suppliers, and regulatory agencies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully managing teams and implementing process improvements",
+      "evidence": [
+        "Proven track record of successfully implementing strategic plans, improving efficiency, and fostering strong relationships with stakeholders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Bachelor's degree in Business Administration, Operations Management, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in operations management, preferably in a similar industry",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of industry-specific regulations and standards (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in operations management or a related field (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven operations leader with 7+ years of experience in managing high-performing teams and driving process improvements across multiple facilities.",
+      "supports": "Oversee daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing strategic plans, improving efficiency, and fostering strong relationships with stakeholders.",
+      "supports": "Develop and implement strategic plans for facility improvement, including budgeting and resource allocation"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully managed and mentored teams of up to 10 staff members, providing guidance, training, and performance evaluations as needed",
+      "supports": "Manage and supervise a team of 5-10 staff members, providing guidance, training, and performance evaluations as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Fostered strong relationships with external vendors and contractors, ensuring timely completion of projects and services",
+      "supports": "Coordinate with external vendors and contractors to ensure timely completion of projects and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular site visits to monitor progress, identify areas for improvement, and implement corrective actions",
+      "supports": "Conduct regular site visits to monitor progress, identify areas for improvement, and implement corrective actions"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,163 @@
+{
+  "job_title": "Bartenders",
+  "case_slug": "bartenders-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.625897",
+  "match_score": 59.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.7,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success.",
+        "Skilled in crafting innovative cocktails and providing exceptional customer service.",
+        "Completed bartending certification program (20XX)",
+        "Highly motivated and enthusiastic bartender with 2+ years of experience in fast-paced environments."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 40.7,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success.",
+        "Skilled in crafting innovative cocktails and providing exceptional customer service.",
+        "Completed bartending certification program (20XX)",
+        "Highly motivated and enthusiastic bartender with 2+ years of experience in fast-paced environments."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 97.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success.",
+        "Skilled in crafting innovative cocktails and providing exceptional customer service.",
+        "Completed bartending certification program (20XX)",
+        "Highly motivated and enthusiastic bartender with 2+ years of experience in fast-paced environments."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Bartender at [Company Name], you'll be the heartbeat of our bars, cafes, and restaurants.",
+      "evidence": [
+        "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You'll be responsible for crafting innovative cocktails, managing cash handling, and providing exceptional customer service to our diverse community.",
+      "evidence": [
+        "Skilled in crafting innovative cocktails and providing exceptional customer service."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to health and safety standards",
+      "evidence": [
+        "+ Maintained a clean and organized workspace, adhering to health and safety standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage cash handling, including operating a point-of-sale system and processing transactions",
+      "evidence": [
+        "+ Managed cash handling and operated point-of-sale system with accuracy"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive training program",
+      "evidence": [
+        "Completed bartending certification program (20XX)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Competitive hourly rate",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Discounts on food and drinks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A fun and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from all qualified candidates, regardless of age, sex, race, color, national origin, disability, or any other protected characteristic.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success.",
+      "supports": "As a Bartender at [Company Name], you'll be the heartbeat of our bars, cafes, and restaurants."
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in crafting innovative cocktails and providing exceptional customer service.",
+      "supports": "You'll be responsible for crafting innovative cocktails, managing cash handling, and providing exceptional customer service to our diverse community."
+    },
+    {
+      "source": "resume",
+      "quote": "Completed bartending certification program (20XX)",
+      "supports": "Comprehensive training program"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I am eager to learn and grow in this role and would be excited to discuss how my skills can contribute to [Company Name]'s success.",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and enthusiastic bartender with 2+ years of experience in fast-paced environments.",
+      "supports": "Prepare and serve food and beverages in a fast-paced environment"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

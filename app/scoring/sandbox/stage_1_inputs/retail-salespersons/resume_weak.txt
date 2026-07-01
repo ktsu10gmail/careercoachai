@@ -1,0 +1,36 @@
+Here's a weak or scope-mismatch resume snippet:
+
+John Doe
+Retail Salesperson
+
+Objective: To utilize my technical skills to optimize retail operations.
+
+Summary:
+Highly skilled IT professional with experience in low-level programming languages, including C and Assembly. Proficient in operating systems such as Windows 10 and Linux. Profound knowledge of networking protocols and device management.
+
+Work Experience:
+
+* Senior Network Administrator
+	+ Configured and maintained network devices, including routers and switches.
+	+ Implemented security measures to prevent unauthorized access.
+	+ Collaborated with team members to resolve complex technical issues.
+* Junior Software Developer
+	+ Developed software applications using C++ and Java.
+	+ Participated in code reviews and ensured adherence to coding standards.
+	+ Troubleshooted and resolved software-related issues.
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* Programming languages: C, C++, Java
+* Operating Systems: Windows 10, Linux
+* Networking protocols: TCP/IP, DNS
+* Device management: routers, switches
+
+Certifications:
+
+* CompTIA A+ certification
+* Cisco CCNA certification

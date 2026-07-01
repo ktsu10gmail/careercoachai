@@ -1,0 +1,168 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer-real-jd-6ccbd32db0",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-07-01T00:49:45.955902",
+  "match_score": 48.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.9,
+      "reason": "Found 3 direct, 3 adjacent, 2 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+        "\"Results-driven AI engineer with 5+ years of experience in systems automation and process/data engineering."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 58.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 55.8,
+      "reason": "Found 3 direct, 1 adjacent, 2 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven AI engineer with 5+ years of experience in systems automation and process/data engineering.",
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 84.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+        "\"Results-driven AI engineer with 5+ years of experience in systems automation and process/data engineering."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As the AI Engineer at Kargo, you will architect, build, and scale AI-powered products and automations for Kargo\u2019s commercial organization.",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operating within the Data & AI team, you are the connective tissue between revenue teams and AI infrastructure \u2014 proactively identifying high-value use cases, building intelligent ",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You\u2019ve established yourself as Kargo\u2019s internal thought leader on applied AI \u2014 the person teams come to when they have a problem AI might solve",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Techies who want to build the future.",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborators to build it.",
+      "evidence": [
+        "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Data pros who turn numbers into insights.",
+      "evidence": [
+        "\"Results-driven AI engineer with 5+ years of experience in systems automation and process/data engineering."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Creatives who want to design it better.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicators to win business.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Product builders who turn ideas into innovations.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Anyone eager to be on a team that doesn\u2019t stop to ask what\u2019s next, because they\u2019re already building it.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "This is a hybrid role requiring onsite presence 4 days per week.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Outcomes - What Success Looks Like in 6-12 Months",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A governance model is in place covering prompt engineering standards, audit trails, and a feedback loop that drives continuous iteration",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Cross-functional stakeholders trust and use the tools you\u2019ve built, and Kargo\u2019s Data & AI leadership has a clear, prioritized AI Ops roadmap that you own and drive",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+      "supports": "Techies who want to build the future."
+    },
+    {
+      "source": "resume",
+      "quote": "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+      "supports": "Collaborators to build it."
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven AI engineer with 5+ years of experience in systems automation and process/data engineering.",
+      "supports": "Data pros who turn numbers into insights."
+    },
+    {
+      "source": "resume",
+      "quote": "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+      "supports": "As the AI Engineer at Kargo, you will architect, build, and scale AI-powered products and automations for Kargo\u2019s commercial organization."
+    },
+    {
+      "source": "resume",
+      "quote": "Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.",
+      "supports": "Operating within the Data & AI team, you are the connective tissue between revenue teams and AI infrastructure \u2014 proactively identifying high-value use cases, building intelligent "
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,145 @@
+{
+  "job_title": "Technical Support Specialists",
+  "case_slug": "technical-support-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:10.819708",
+  "match_score": 73.14,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers.",
+        "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues.",
+        "Experienced with cloud-based services such as Office 365 and Google Workspace, including setup, configuration, and troubleshooting.",
+        "Bachelor's degree in Computer Science or related field."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.3,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues.",
+        "Experienced with cloud-based services such as Office 365 and Google Workspace, including setup, configuration, and troubleshooting."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers.",
+        "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues.",
+        "Experienced with cloud-based services such as Office 365 and Google Workspace, including setup, configuration, and troubleshooting.",
+        "Bachelor's degree in Computer Science or related field."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "2+ years of experience in technical support or a related field",
+      "evidence": [
+        "Bachelor's degree in Computer Science or related field."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of Windows, macOS, and Linux operating systems",
+      "evidence": [
+        "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based services such as Office 365 and Google Workspace",
+      "evidence": [
+        "Experienced with cloud-based services such as Office 365 and Google Workspace, including setup, configuration, and troubleshooting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management tools such as ServiceNow and JIRA",
+      "evidence": [
+        "Skilled in IT service management tools such as ServiceNow and JIRA, with a strong understanding of their features and functionalities."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "evidence": [
+        "Excellent communication and problem-solving skills, with the ability to effectively communicate technical information to non-technical stakeholders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA",
+      "evidence": [
+        "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide technical support to internal customers via phone, email, and chat platforms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain knowledge base articles and documentation to improve customer support",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Escalate critical issues to senior technical staff for further assistance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers.",
+      "supports": "Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues.",
+      "supports": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced with cloud-based services such as Office 365 and Google Workspace, including setup, configuration, and troubleshooting.",
+      "supports": "Monitor and report on system performance and uptime using tools such as Nagios and SolarWinds"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science or related field.",
+      "supports": "2+ years of experience in technical support or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Windows, macOS, and Linux operating systems, with hands-on experience troubleshooting and resolving issues.",
+      "supports": "Strong understanding of Windows, macOS, and Linux operating systems"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

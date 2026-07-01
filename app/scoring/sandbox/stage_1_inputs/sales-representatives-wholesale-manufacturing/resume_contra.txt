@@ -1,0 +1,11 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth.
+
+* Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationships from scratch, as I was already established in a similar role prior to joining this company).
+* Conducted product demonstrations and presentations to showcase company products and services, but unfortunately, my previous experience with CRM software (Salesforce.com) was limited to basic functionality, and I did not have the chance to fully utilize its advanced features.
+* Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analysis or market research.
+* Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.
+* Collaborated with cross-functional teams, including marketing, product development, and logistics, to ensure seamless execution of sales strategies, although my previous experience was more focused on internal sales processes rather than external partnerships.
+
+I am excited to bring my skills and experience to a new role and continue to grow as a sales professional."

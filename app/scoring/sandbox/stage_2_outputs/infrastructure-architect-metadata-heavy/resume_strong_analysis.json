@@ -1,0 +1,146 @@
+{
+  "job_title": "Infrastructure Architect",
+  "case_slug": "infrastructure-architect-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.640965",
+  "match_score": 72.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.9,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and executed automated testing scripts using Python and other programming languages",
+        "Proven track record of delivering high-performance solutions that meet business requirements while ensuring scalability, reliability, and security.",
+        "Infrastructure Architecture:",
+        "Collaborated with cross-functional teams to develop and deploy cloud-based applications, ensuring seamless integration with existing systems"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "architect",
+        "led",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 83.8,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of delivering high-performance solutions that meet business requirements while ensuring scalability, reliability, and security.",
+        "Infrastructure Architecture:",
+        "Applied knowledge of machine learning and natural language processing to improve system performance and scalability",
+        "In-depth knowledge of software development life cycles, including Agile and DevOps practices"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and executed automated testing scripts using Python and other programming languages",
+        "Proven track record of delivering high-performance solutions that meet business requirements while ensuring scalability, reliability, and security.",
+        "Infrastructure Architecture:",
+        "Collaborated with cross-functional teams to develop and deploy cloud-based applications, ensuring seamless integration with existing systems"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our infrastructure architecture team, you will be responsible for creating comprehensive stress tests to ensure the reliability and performance of our scoring en",
+      "evidence": [
+        "Infrastructure Architecture:"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and components (e.g., machine learning, natural language processing)",
+      "evidence": [
+        "Applied knowledge of machine learning and natural language processing to improve system performance and scalability"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, including Agile and DevOps practices",
+      "evidence": [
+        "In-depth knowledge of software development life cycles, including Agile and DevOps practices"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in multiple programming languages, including Python, Java, and C++, with expertise in cloud-based infrastructure (AWS, Azure)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough analysis of test results, identifying trends, patterns, and areas for improvement",
+      "evidence": [
+        "Conducted thorough analysis of complex data sets to identify trends, patterns, and areas for improvement"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly accomplished infrastructure architect with 8+ years of experience in designing, developing, and implementing large-scale software systems."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company will sponsor relocation assistance for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and executed automated testing scripts using Python and other programming languages",
+      "supports": "Travel: Up to 20% of the time for industry conferences and collaboration with other teams"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-performance solutions that meet business requirements while ensuring scalability, reliability, and security.",
+      "supports": "Security Clearance: Top Secret clearance required"
+    },
+    {
+      "source": "resume",
+      "quote": "Infrastructure Architecture:",
+      "supports": "As a key member of our infrastructure architecture team, you will be responsible for creating comprehensive stress tests to ensure the reliability and performance of our scoring en"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop and deploy cloud-based applications, ensuring seamless integration with existing systems",
+      "supports": "Design and develop stress test scripts to simulate various types of traffic and loads on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-performance solutions that meet business requirements while ensuring scalability, reliability, and security.",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

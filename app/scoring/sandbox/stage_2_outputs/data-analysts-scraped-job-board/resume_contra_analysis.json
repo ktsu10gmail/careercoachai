@@ -1,0 +1,143 @@
+{
+  "job_title": "Data Analysts",
+  "case_slug": "data-analysts-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.194105",
+  "match_score": 74.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 68.6,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years.",
+        "Summary:",
+        "+ Analyzed complex data sets to identify trends and insights",
+        "Proficient in SQL, Python, and R, with experience working with large datasets."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 4 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Analyzed complex data sets to identify trends and insights",
+        "The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years.",
+        "Experience with data visualization tools such as Tableau and Power BI"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years.",
+        "Summary:",
+        "+ Analyzed complex data sets to identify trends and insights",
+        "Proficient in SQL, Python, and R, with experience working with large datasets."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Data Analyst, you will be responsible for designing, developing, and maintaining databases, as well as analyzing complex data sets to identify trends and insights.",
+      "evidence": [
+        "+ Analyzed complex data sets to identify trends and insights"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze complex data sets to identify trends and insights",
+      "evidence": [
+        "+ Analyzed complex data sets to identify trends and insights"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in data analysis or a related field",
+      "evidence": [
+        "The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in SQL, Python, R, or other programming languages",
+      "evidence": [
+        "Proficient in SQL, Python, and R, with experience working with large datasets."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with data visualization tools such as Tableau or Power BI",
+      "evidence": [
+        "Experience with data visualization tools such as Tableau and Power BI"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "evidence": [
+        "Strong analytical and problem-solving skills"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Data Analysts**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement data visualizations to communicate findings to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years.",
+      "supports": "Job ID:** 123456"
+    },
+    {
+      "source": "resume",
+      "quote": "The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years.",
+      "supports": "Company:** Scraped Job Board"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed complex data sets to identify trends and insights",
+      "supports": "As a Data Analyst, you will be responsible for designing, developing, and maintaining databases, as well as analyzing complex data sets to identify trends and insights."
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in SQL, Python, and R, with experience working with large datasets.",
+      "supports": "Design, develop, and maintain databases to store and manage large datasets"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

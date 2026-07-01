@@ -1,0 +1,43 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to design and execute comprehensive stress testing scenarios for our domain scope trap feature, ensuring its reliability and performance in various real-world environments.
+
+**Responsibilities:**
+
+* Design and develop realistic stress test scenarios to simulate high-traffic, high-volume, and low-latency conditions on the domain scope trap feature
+* Collaborate with cross-functional teams, including product management, engineering, and quality assurance, to identify and prioritize testing requirements
+* Develop and execute automated testing scripts using industry-standard tools and frameworks (e.g., Apache JMeter, Gatling)
+* Analyze test results, identify trends, and provide actionable insights to improve the feature's performance and reliability
+* Work closely with stakeholders to understand business requirements and ensure testing aligns with product goals and objectives
+* Develop and maintain comprehensive documentation of testing methodologies, scripts, and results
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Mathematics, Statistics, or related field
+* 3+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles, testing methodologies, and quality assurance principles
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with industry-standard testing tools and frameworks (e.g., Apache JMeter, Gatling)
+* Excellent analytical and problem-solving skills, with ability to interpret complex data sets
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (e.g., finance, healthcare)
+
+**Scope Qualifiers:**
+
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Essential Requirements:**
+
+* Experience with stress testing and performance engineering in a SaaS or enterprise environment
+* Strong understanding of domain scope trap functionality and its impact on system performance
+* Ability to work in a fast-paced, dynamic environment with tight deadlines and multiple priorities

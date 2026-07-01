@@ -1,0 +1,139 @@
+{
+  "job_title": "First-Line Supervisors of Retail Sales Workers",
+  "case_slug": "first-line-supervisors-of-retail-sales-workers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:00.482727",
+  "match_score": 76.56,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 86.9,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven retail management professional with 3+ years of experience leading high-performing teams to achieve sales goals and drive business growth.",
+        "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues, ensuring a positive and productive work environment.",
+        "Trained new employees on company policies, products, and sales techniques, resulting in a 90% reduction in employee turnover.",
+        "Successfully managed inventory levels and monitored stockroom organization to ensure efficient restocking and merchandising, reducing inventory discrepancies by 50%."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "lead",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 80.7,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven retail management professional with 3+ years of experience leading high-performing teams to achieve sales goals and drive business growth.",
+        "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues, ensuring a positive and productive work environment.",
+        "Trained new employees on company policies, products, and sales techniques, resulting in a 90% reduction in employee turnover.",
+        "Successfully managed inventory levels and monitored stockroom organization to ensure efficient restocking and merchandising, reducing inventory discrepancies by 50%."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven retail management professional with 3+ years of experience leading high-performing teams to achieve sales goals and drive business growth.",
+        "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues, ensuring a positive and productive work environment.",
+        "Trained new employees on company policies, products, and sales techniques, resulting in a 90% reduction in employee turnover.",
+        "Successfully managed inventory levels and monitored stockroom organization to ensure efficient restocking and merchandising, reducing inventory discrepancies by 50%."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Lead a team of retail sales workers to achieve sales goals and maintain store appearance",
+      "evidence": [
+        "Results-driven retail management professional with 3+ years of experience leading high-performing teams to achieve sales goals and drive business growth."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues",
+      "evidence": [
+        "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues, ensuring a positive and productive work environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Train new employees on company policies, products, and sales techniques",
+      "evidence": [
+        "Trained new employees on company policies, products, and sales techniques, resulting in a 90% reduction in employee turnover."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage inventory levels and monitor stockroom organization to ensure efficient restocking and merchandising",
+      "evidence": [
+        "Successfully managed inventory levels and monitored stockroom organization to ensure efficient restocking and merchandising, reducing inventory discrepancies by 50%."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Handle customer complaints and resolve issues in a professional manner",
+      "evidence": [
+        "Handled customer complaints and resolved issues in a professional manner, maintaining a customer satisfaction rating of 95%."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, ABC High School (2015-2019)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "2+ years of retail management experience preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven retail management professional with 3+ years of experience leading high-performing teams to achieve sales goals and drive business growth.",
+      "supports": "Lead a team of retail sales workers to achieve sales goals and maintain store appearance"
+    },
+    {
+      "source": "resume",
+      "quote": "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues, ensuring a positive and productive work environment.",
+      "supports": "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues"
+    },
+    {
+      "source": "resume",
+      "quote": "Trained new employees on company policies, products, and sales techniques, resulting in a 90% reduction in employee turnover.",
+      "supports": "Train new employees on company policies, products, and sales techniques"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully managed inventory levels and monitored stockroom organization to ensure efficient restocking and merchandising, reducing inventory discrepancies by 50%.",
+      "supports": "Manage inventory levels and monitor stockroom organization to ensure efficient restocking and merchandising"
+    },
+    {
+      "source": "resume",
+      "quote": "Handled customer complaints and resolved issues in a professional manner, maintaining a customer satisfaction rating of 95%.",
+      "supports": "Handle customer complaints and resolve issues in a professional manner"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,157 @@
+{
+  "job_title": "37. Mail Clerks and Mail Machine Operators",
+  "case_slug": "37-mail-clerks-and-mail-machine-operators",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.118638",
+  "match_score": 34.68,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 20.0,
+      "reason": "Found 0 direct, 8 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:",
+        "\"Highly skilled IT professional with experience in low-level programming languages such as Assembly and C.",
+        "Proficient in operating various tools including Git, Docker, and Jenkins."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 0 direct, 8 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:",
+        "\"Highly skilled IT professional with experience in low-level programming languages such as Assembly and C.",
+        "Proficient in operating various tools including Git, Docker, and Jenkins."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:",
+        "\"Highly skilled IT professional with experience in low-level programming languages such as Assembly and C.",
+        "Proficient in operating various tools including Git, Docker, and Jenkins."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Sorts and processes incoming and outgoing mail, packages, and parcels according to established procedures",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Operates postal equipment such as mail sorters, scanners, and postage meters",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Reads and interprets mail labels, addresses, and barcodes to ensure accurate sorting and delivery",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintains accurate records of mail processing, including tracking numbers and delivery confirmations",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Assists with mail-related tasks, such as addressing envelopes, affixing postage, and preparing packages for shipping",
+      "evidence": [
+        "\"Highly skilled IT professional with experience in low-level programming languages such as Assembly and C."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborates with other postal workers to achieve daily mail processing goals and objectives",
+      "evidence": [
+        "Mail Clerks and Mail Machine Operators job title:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Basic knowledge of postal procedures and regulations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with barcode scanning technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of postal codes and zip code mapping",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Mail Clerks and Mail Machine Operators job title:",
+      "supports": "Sorts and processes incoming and outgoing mail, packages, and parcels according to established procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerks and Mail Machine Operators job title:",
+      "supports": "Operates postal equipment such as mail sorters, scanners, and postage meters"
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerks and Mail Machine Operators job title:",
+      "supports": "Reads and interprets mail labels, addresses, and barcodes to ensure accurate sorting and delivery"
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerks and Mail Machine Operators job title:",
+      "supports": "Maintains accurate records of mail processing, including tracking numbers and delivery confirmations"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Highly skilled IT professional with experience in low-level programming languages such as Assembly and C.",
+      "supports": "Assists with mail-related tasks, such as addressing envelopes, affixing postage, and preparing packages for shipping"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,46 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to design, develop, and execute comprehensive stress testing for our scoring engine, specifically targeting domain_scope_trap. The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability and performance of our scoring engine.
+
+**Responsibilities:**
+
+* Design and develop stress testing plans and scripts to simulate various scenarios, including high-volume transactions, low-latency requests, and concurrent user interactions
+* Execute stress tests on our scoring engine, monitoring system performance, response times, and error rates
+* Analyze test results, identifying trends, bottlenecks, and areas for improvement
+* Collaborate with development teams to reproduce issues, provide feedback, and ensure timely fixes
+* Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing, performance engineering, or related fields (e.g., QA, DevOps)
+* In-depth knowledge of scoring engine architecture, software development life cycles, and testing methodologies
+* Proficiency in scripting languages such as Python, Java, or C#
+* Experience with load testing tools like Apache JMeter, Gatling, or Locust
+* Strong understanding of system performance, scalability, and reliability principles
+* Excellent analytical and problem-solving skills, with ability to interpret complex data sets
+* Effective communication and collaboration skills, with experience working with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (e.g., finance, healthcare)
+* Global operations (e.g., international customers, partners)
+
+**Scope Qualifiers:**
+
+* Multi-site deployment
+* High-volume transactions (>1000 concurrent users)
+* Low-latency requirements (<50ms response time)
+* Concurrent user interactions (>500 simultaneous users)
+
+**Essential Requirements:**
+
+* Experience with stress testing tools and techniques
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+
+If you're a motivated and detail-oriented individual with a passion for performance engineering, we encourage you to apply!

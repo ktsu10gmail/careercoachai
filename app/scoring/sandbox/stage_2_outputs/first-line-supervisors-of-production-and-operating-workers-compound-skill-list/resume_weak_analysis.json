@@ -1,0 +1,162 @@
+{
+  "job_title": "First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "first-line-supervisors-of-production-and-operating-workers-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.420437",
+  "match_score": 61.33,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.5,
+      "reason": "Found 8 direct, 0 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Mention of Apache JMeter, NeoLoad, LoadRunner, which are mentioned in the job description but not used by this candidate.",
+        "Analyzed test results and provided detailed reports on performance metrics",
+        "Does not demonstrate a comprehensive understanding of stress testing and performance engineering",
+        "Certification in stress testing or performance engineering (e.g."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 5 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed test results and provided detailed reports on performance metrics",
+        "Java, Python, C++, JavaScript, JMeter, Locust, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile methodologies, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD) pipelines",
+        "Knowledge of cloud-based infrastructure and scalability models",
+        "Familiarity with machine learning and artificial intelligence concepts"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Mention of Apache JMeter, NeoLoad, LoadRunner, which are mentioned in the job description but not used by this candidate.",
+        "Analyzed test results and provided detailed reports on performance metrics",
+        "Does not demonstrate a comprehensive understanding of stress testing and performance engineering",
+        "Certification in stress testing or performance engineering (e.g."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium",
+      "evidence": [
+        "Mention of Apache JMeter, NeoLoad, LoadRunner, which are mentioned in the job description but not used by this candidate."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on performance metrics, such as throughput, latency, and error rates",
+      "evidence": [
+        "Analyzed test results and provided detailed reports on performance metrics"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies in stress testing and performance engineering",
+      "evidence": [
+        "Certification in stress testing or performance engineering (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile meth",
+      "evidence": [
+        "Java, Python, C++, JavaScript, JMeter, Locust, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile methodologies, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD) pipelines"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with containerization using Docker",
+      "evidence": [
+        "Experience with containerization using Docker"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability models",
+      "evidence": [
+        "Knowledge of cloud-based infrastructure and scalability models"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement in the scoring engine",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Does not demonstrate a comprehensive understanding of stress testing and performance engineering",
+      "severity": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Mention of Apache JMeter, NeoLoad, LoadRunner, which are mentioned in the job description but not used by this candidate.",
+      "supports": "Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed test results and provided detailed reports on performance metrics",
+      "supports": "Analyze test results and provide detailed reports on performance metrics, such as throughput, latency, and error rates"
+    },
+    {
+      "source": "resume",
+      "quote": "Does not demonstrate a comprehensive understanding of stress testing and performance engineering",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Certification in stress testing or performance engineering (e.g.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies in stress testing and performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "Java, Python, C++, JavaScript, JMeter, Locust, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile methodologies, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD) pipelines",
+      "supports": "Java, Python, C++, JavaScript, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile meth"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

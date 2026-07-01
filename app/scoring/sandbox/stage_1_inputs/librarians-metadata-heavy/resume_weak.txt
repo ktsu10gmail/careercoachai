@@ -1,0 +1,27 @@
+Here's a weak or scope-mismatch resume snippet for a Librarian position:
+
+**Summary:**
+Highly detail-oriented individual with experience in cataloging and metadata management.
+
+**Work Experience:**
+
+* **Library Assistant**, XYZ Public Library (2018-Present)
+	+ Assisted patrons with research queries and provided book recommendations
+	+ Maintained accurate records of library materials using online public access catalogs
+	+ Participated in community outreach programs to promote literacy and education
+* **Metadata Curator**, ABC Academic Repository (Summer 2020)
+	+ Organized and maintained metadata for academic articles and research papers
+	+ Developed and implemented new metadata standards for improved searchability
+
+**Education:**
+
+* **Master of Library Science**, University of California, Berkeley (2018)
+
+**Skills:**
+
+* Proficient in online public access catalogs (e.g. OCLC WorldCat)
+* Experience with metadata management tools (e.g. Dublin Core)
+* Strong research and analytical skills
+* Excellent communication and interpersonal skills
+
+This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.

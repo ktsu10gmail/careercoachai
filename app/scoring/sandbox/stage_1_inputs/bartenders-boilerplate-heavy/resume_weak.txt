@@ -1,0 +1,27 @@
+Here's a weak or scope-mismatch resume snippet for a Bartender position:
+
+**Summary**
+Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems.
+
+**Experience**
+
+* Bartender
+    * Managed cash handling, including processing transactions and maintaining accuracy.
+    * Utilized basic math skills to calculate change and balance cash drawers.
+    * Collaborated with colleagues to achieve sales goals and maintain a positive team atmosphere.
+* IT Support Specialist
+    * Resolved hardware and software issues for clients using low-level tools such as nmap and Wireshark.
+    * Conducted network scans and identified vulnerabilities using tools like Nmap and OpenVAS.
+
+**Education**
+
+* Associate's Degree in Computer Science, XYZ Community College (2018-2020)
+
+**Skills**
+
+* Basic math skills
+* Cash handling accuracy
+* Point-of-sale system operation
+* Network scanning and vulnerability assessment
+
+This resume snippet lacks the required experience and skills for a Bartender position, instead highlighting IT-related skills that are not relevant to the job.

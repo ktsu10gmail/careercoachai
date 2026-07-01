@@ -1,0 +1,164 @@
+{
+  "job_title": "37. Mail Clerks and Mail Machine Operators",
+  "case_slug": "37-mail-clerks-and-mail-machine-operators",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:49.066135",
+  "match_score": 30.43,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.4,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully operated manual sorters and scanners, although I did not have experience with automated mail processing systems",
+        "Utilized excellent communication and customer service skills when assisting with mail-related tasks, such as addressing envelopes and affixing postage (though I did not prepare packages for shipping)",
+        "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques",
+        "Showed strong attention to detail and organizational skills in maintaining accurate records of mail processing, including tracking numbers and delivery confirmations (although I did not track or interpret complex barcodes)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 16.4,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Successfully operated manual sorters and scanners, although I did not have experience with automated mail processing systems",
+        "Utilized excellent communication and customer service skills when assisting with mail-related tasks, such as addressing envelopes and affixing postage (though I did not prepare packages for shipping)",
+        "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques",
+        "Showed strong attention to detail and organizational skills in maintaining accurate records of mail processing, including tracking numbers and delivery confirmations (although I did not track or interpret complex barcodes)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 49.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully operated manual sorters and scanners, although I did not have experience with automated mail processing systems",
+        "Utilized excellent communication and customer service skills when assisting with mail-related tasks, such as addressing envelopes and affixing postage (though I did not prepare packages for shipping)",
+        "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques",
+        "Showed strong attention to detail and organizational skills in maintaining accurate records of mail processing, including tracking numbers and delivery confirmations (although I did not track or interpret complex barcodes)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Basic knowledge of postal procedures and regulations",
+      "evidence": [
+        "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to operate postal equipment, including manual sorters and scanners",
+      "evidence": [
+        "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with barcode scanning technology",
+      "evidence": [
+        "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sorts and processes incoming and outgoing mail, packages, and parcels according to established procedures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Operates postal equipment such as mail sorters, scanners, and postage meters",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Reads and interprets mail labels, addresses, and barcodes to ensure accurate sorting and delivery",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintains accurate records of mail processing, including tracking numbers and delivery confirmations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully operated manual sorters and scanners, although I did not have experience with automated mail processing systems",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assists with mail-related tasks, such as addressing envelopes, affixing postage, and preparing packages for shipping",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized excellent communication and customer service skills when assisting with mail-related tasks, such as addressing envelopes and affixing postage (though I did not prepare packages for shipping)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborates with other postal workers to achieve daily mail processing goals and objectives",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Showed strong attention to detail and organizational skills in maintaining accurate records of mail processing, including tracking numbers and delivery confirmations (although I did not track or interpret complex barcodes)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized excellent communication and customer service skills when assisting with mail-related tasks, such as addressing envelopes and affixing postage (though I did not prepare packages for shipping)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lifted up to 50 pounds on occasion, but did not stand for long periods due to back issues",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with automated mail processing systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully operated manual sorters and scanners, although I did not have experience with automated mail processing systems",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of postal codes and zip code mapping",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Did not have experience with barcode scanning technology or postal codes and zip code mapping, although I was familiar with the general concept of these systems\"",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully operated manual sorters and scanners, although I did not have experience with automated mail processing systems",
+      "supports": "Maintains accurate records of mail processing, including tracking numbers and delivery confirmations"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized excellent communication and customer service skills when assisting with mail-related tasks, such as addressing envelopes and affixing postage (though I did not prepare packages for shipping)",
+      "supports": "Assists with mail-related tasks, such as addressing envelopes, affixing postage, and preparing packages for shipping"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques",
+      "supports": "Basic knowledge of postal procedures and regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated basic knowledge of postal procedures and regulations, with a focus on manual sorting and scanning techniques",
+      "supports": "Ability to operate postal equipment, including manual sorters and scanners"
+    },
+    {
+      "source": "resume",
+      "quote": "Showed strong attention to detail and organizational skills in maintaining accurate records of mail processing, including tracking numbers and delivery confirmations (although I did not track or interpret complex barcodes)",
+      "supports": "Strong attention to detail and organizational skills"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

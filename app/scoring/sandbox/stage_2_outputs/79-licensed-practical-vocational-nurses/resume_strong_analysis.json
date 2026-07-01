@@ -1,0 +1,148 @@
+{
+  "job_title": "79. Licensed Practical/Vocational Nurses",
+  "case_slug": "79-licensed-practical-vocational-nurses",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.542347",
+  "match_score": 63.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 60.0,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management.",
+        "Highly skilled LPN/LVN with 5+ years of experience providing direct patient care under the supervision of registered nurses.",
+        "Valid CPR certification and basic life support skills.",
+        "Ability to lift 50 pounds and stand for long periods, with a focus on maintaining patient safety and well-being."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 64.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 60.0,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management.",
+        "Highly skilled LPN/LVN with 5+ years of experience providing direct patient care under the supervision of registered nurses.",
+        "Valid CPR certification and basic life support skills.",
+        "Ability to lift 50 pounds and stand for long periods, with a focus on maintaining patient safety and well-being."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management.",
+        "Highly skilled LPN/LVN with 5+ years of experience providing direct patient care under the supervision of registered nurses.",
+        "Valid CPR certification and basic life support skills.",
+        "Ability to lift 50 pounds and stand for long periods, with a focus on maintaining patient safety and well-being."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement individualized care plans for patients with complex medical needs, such as diabetes, hypertension, or chronic pain management",
+      "evidence": [
+        "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Valid CPR certification",
+      "evidence": [
+        "Valid CPR certification and basic life support skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support skills",
+      "evidence": [
+        "Valid CPR certification and basic life support skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to lift 50 pounds and stand for long periods",
+      "evidence": [
+        "Ability to lift 50 pounds and stand for long periods, with a focus on maintaining patient safety and well-being."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "evidence": [
+        "Strong communication and interpersonal skills, with the ability to effectively collaborate with patients, families, and healthcare teams."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience working with patients with complex medical needs, such as those requiring dialysis or ventilator care",
+      "evidence": [
+        "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide direct patient care under the supervision of a registered nurse, including administering medications, performing vital signs, and providing wound care",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct routine assessments to identify changes in patient condition and report findings to the registered nurse",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current licensure as a Licensed Practical/Vocational Nurse (LPN) or Licensed Vocational Nurse (LVN)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management.",
+      "supports": "Develop and implement individualized care plans for patients with complex medical needs, such as diabetes, hypertension, or chronic pain management"
+    },
+    {
+      "source": "resume",
+      "quote": "Administered medications, performed vital signs, and provided wound care for patients with complex medical needs, including diabetes, hypertension, and chronic pain management.",
+      "supports": "Educate patients and families on disease management, self-care techniques, and medication adherence"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled LPN/LVN with 5+ years of experience providing direct patient care under the supervision of registered nurses.",
+      "supports": "Maintain accurate and up-to-date patient records, including progress notes and medication administration records"
+    },
+    {
+      "source": "resume",
+      "quote": "Valid CPR certification and basic life support skills.",
+      "supports": "Valid CPR certification"
+    },
+    {
+      "source": "resume",
+      "quote": "Valid CPR certification and basic life support skills.",
+      "supports": "Basic life support skills"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

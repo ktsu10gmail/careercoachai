@@ -1,0 +1,139 @@
+{
+  "job_title": "Chief Executive Officers / Top Executives",
+  "case_slug": "chief-executive-officers-top-executives-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.912027",
+  "match_score": 54.23,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 62.1,
+      "reason": "Found 5 direct, 8 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans.",
+        "Summary:",
+        "+ Successfully led and managed a team of senior executives to achieve organizational goals",
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 75.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years",
+        "senior",
+        "led",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note:** While I have experience with cloud computing platforms and migration strategies, I did not successfully implement a cloud-first strategy during my tenure at ABC Corporation.",
+        "Additionally, while I possess strong network and relationship-building skills, I did not achieve the desired level of stakeholder engagement in my previous role as Director of Business Development."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans.",
+        "Summary:",
+        "+ Successfully led and managed a team of senior executives to achieve organizational goals",
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The ideal candidate will have extensive experience in leading high-performing teams, developing and executing business plans, and making key decisions that impact the organization'",
+      "evidence": [
+        "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Leading and managing a team of senior executives to achieve organizational goals",
+      "evidence": [
+        "+ Successfully led and managed a team of senior executives to achieve organizational goals"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Building and maintaining relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Lead and manage a team of senior executives to achieve organizational goals",
+      "evidence": [
+        "+ Successfully led and managed a team of senior executives to achieve organizational goals"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Build and maintain relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Identifying and mitigating risks to ensure the organization's continued success",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans.",
+      "supports": "Chief Executive Officers / Top Executives**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans.",
+      "supports": "We are seeking a seasoned leader to join our team as a Chief Executive Officer (CEO) or top executive, responsible for driving business growth and strategy."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans.",
+      "supports": "The ideal candidate will have extensive experience in leading high-performing teams, developing and executing business plans, and making key decisions that impact the organization'"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans.",
+      "supports": "Developing and implementing strategic plans to drive business growth and expansion"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

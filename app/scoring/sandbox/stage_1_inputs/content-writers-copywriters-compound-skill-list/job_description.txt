@@ -1,0 +1,34 @@
+**Job Title:** Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to design, develop, and execute comprehensive stress testing campaigns for our software applications. The successful candidate will be responsible for identifying potential performance bottlenecks, developing test plans, and collaborating with cross-functional teams to ensure the reliability and scalability of our systems.
+
+**Responsibilities:**
+
+* Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements
+* Collaborate with development teams to gather application requirements and create test scenarios that simulate real-world usage patterns
+* Develop and execute test plans, including script writing, data generation, and test automation
+* Analyze test results, identify trends, and provide recommendations for optimization and improvement
+* Work closely with QA teams to ensure seamless integration of stress testing into the overall testing strategy
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+* Develop and maintain relationships with stakeholders across the organization to ensure effective communication and collaboration
+
+**Required Skills:**
+
+Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheus, Grafana, New Relic, Datadog, ELK Stack, Apache JMeter, Gatling, Locust, Apache Kafka, RabbitMQ, Redis, MySQL, PostgreSQL, MongoDB, SQL Server, Oracle, AWS Lambda, Azure Functions, Google Cloud Functions, Docker Swarm, Kubernetes Deployment Strategies, Containerization, Microservices Architecture, Load Testing, Performance Optimization, Stress Testing, Capacity Planning, Reliability Engineering, Communication and Collaboration.
+
+**Nice to Have:**
+
+* Experience with cloud-based infrastructure as a service (IaaS) providers
+* Knowledge of container orchestration tools like Docker Swarm or Kubernetes
+* Familiarity with serverless computing platforms like AWS Lambda or Azure Functions
+* Experience with continuous integration and delivery (CI/CD) pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI
+* Understanding of DevOps practices and tools like Ansible, Terraform, or CloudFormation
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge projects with a talented team
+* Professional development opportunities and training programs
+* Flexible working hours and remote work options

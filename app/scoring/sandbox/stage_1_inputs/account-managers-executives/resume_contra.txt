@@ -1,0 +1,12 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+"Results-driven Account Manager with 5+ years of experience in sales and business development. Proven track record of consistently meeting revenue growth targets, with a focus on building strong relationships with key decision-makers at client organizations.
+
+* Managed a portfolio of 10-15 key accounts, ensuring consistent revenue growth and customer satisfaction (note: did not meet the requirement for managing 20-30 key accounts)
+* Developed and executed strategic account plans to achieve sales targets, but did not have the opportunity to expand market share through cross-selling initiatives
+* Conducted regular business reviews with clients, identifying opportunities for upselling, but did not have a proven track record of consistently meeting or exceeding sales targets
+* Collaborated with internal teams (sales, product, marketing) on a project basis, but did not have a consistent history of seamless delivery of solutions and services
+* Analyzed sales data and market trends to inform account strategies, but did not have experience with cloud-based software solutions (e.g. SaaS)
+* Built and maintained strong relationships with key decision-makers at client organizations, but did not have fluency in a second language (e.g. Spanish, French)
+
+Note: I've highlighted the areas where the candidate did not meet the requirements, while still showcasing their relevant skills and experience."

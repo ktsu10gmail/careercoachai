@@ -1,0 +1,21 @@
+{
+  "job_title": "General and Operations Managers",
+  "case_slug": "general-and-operations-managers-scraped-job-board",
+  "scenario": "scraped_job_board",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T19:59:47.207078",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

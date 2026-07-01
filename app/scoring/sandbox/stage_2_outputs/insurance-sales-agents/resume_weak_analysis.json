@@ -1,0 +1,170 @@
+{
+  "job_title": "Insurance Sales Agents",
+  "case_slug": "insurance-sales-agents",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:02.978213",
+  "match_score": 52.58,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.2,
+      "reason": "Found 3 direct, 3 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required experience in insurance sales or a related field, as well as the specific industry knowledge and skills listed in the job description.",
+        "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite.",
+        "Valid insurance license (Life), strong communication skills.",
+        "It also fails to mention agency management systems, insurance products, or collaboration with internal teams, which are all important aspects of the role."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also fails to mention agency management systems, insurance products, or collaboration with internal teams, which are all important aspects of the role.",
+        "Experience with data analysis tools."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 74.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required experience in insurance sales or a related field, as well as the specific industry knowledge and skills listed in the job description.",
+        "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite.",
+        "Valid insurance license (Life), strong communication skills.",
+        "It also fails to mention agency management systems, insurance products, or collaboration with internal teams, which are all important aspects of the role."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate records of client interactions, sales activity, and policy details using CRM software (e.g.",
+      "evidence": [
+        "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Valid insurance license (Life, Health, Property/Casualty)",
+      "evidence": [
+        "Valid insurance license (Life), strong communication skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce) and Microsoft Office Suite",
+      "evidence": [
+        "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (e.g.",
+      "evidence": [
+        "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with data analysis tools (e.g.",
+      "evidence": [
+        "Experience with data analysis tools."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with agency management systems (AMS) such as AgencyMate or Insurity",
+      "evidence": [
+        "It also fails to mention agency management systems, insurance products, or collaboration with internal teams, which are all important aspects of the role."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Meet monthly sales targets by identifying and pursuing new business opportunities with existing and prospective clients",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct needs assessments to determine client insurance requirements and provide personalized recommendations for policies and coverage options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Build and maintain relationships with clients, agents, and other stakeholders through regular communication and follow-up meetings",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on industry trends, regulatory changes, and product offerings to effectively communicate value to clients",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience in insurance sales or a related field, as well as the specific industry knowledge and skills listed in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in insurance sales or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience in insurance sales or a related field, as well as the specific industry knowledge and skills listed in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of insurance products, including life, health, property/casualty, and specialty lines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience in insurance sales or a related field, as well as the specific industry knowledge and skills listed in the job description.",
+      "supports": "Stay up-to-date on industry trends, regulatory changes, and product offerings to effectively communicate value to clients"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite.",
+      "supports": "Manage and maintain accurate records of client interactions, sales activity, and policy details using CRM software (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience in insurance sales or a related field, as well as the specific industry knowledge and skills listed in the job description.",
+      "supports": "2+ years of experience in insurance sales or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Valid insurance license (Life), strong communication skills.",
+      "supports": "Valid insurance license (Life, Health, Property/Casualty)"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Sales experience in IT consulting, 2+ years of experience in CRM software implementation, proficient in Microsoft Office Suite.",
+      "supports": "Proficiency in CRM software (e.g."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

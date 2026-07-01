@@ -1,0 +1,164 @@
+{
+  "job_title": "Public Relations Specialists",
+  "case_slug": "public-relations-specialists-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.236549",
+  "match_score": 40.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.5,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully managed crisis communications for a Fortune 500 company, reducing negative media coverage by 75%",
+        "Key Achievements:",
+        "Managed daily PR operations, including media outreach, crisis communications, and brand storytelling",
+        "Collaborated with cross-functional teams to develop and implement comprehensive marketing strategies"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 69.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully managed crisis communications for a Fortune 500 company, reducing negative media coverage by 75%",
+        "Key Achievements:",
+        "Managed daily PR operations, including media outreach, crisis communications, and brand storytelling",
+        "Collaborated with cross-functional teams to develop and implement comprehensive marketing strategies"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco",
+      "evidence": [
+        "Successfully managed crisis communications for a Fortune 500 company, reducing negative media coverage by 75%"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for creating and executing comprehensive stress tests to ensure the reliability, scalability, and performance of ou",
+      "evidence": [
+        "Key Achievements:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "Managed daily PR operations, including media outreach, crisis communications, and brand storytelling"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop and implement comprehensive marketing strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and areas for improvement, and provide recommendations for enhancements to the scoring engine",
+      "evidence": [
+        "Conducted research and analysis to identify trends and opportunities for brand growth and awareness"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve the performance and reliability of the scoring engine",
+      "evidence": [
+        "Conducted research and analysis to identify trends and opportunities for brand growth and awareness"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of engineers responsible for designing, developing, and maintaining the scoring engine for ou",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and execute automated tests using tools such as Apache JMeter, Gatling, or similar technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of Java, Python, or C++ programming languages",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with Apache JMeter, Gatling, or similar load testing tools",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully managed crisis communications for a Fortune 500 company, reducing negative media coverage by 75%",
+      "supports": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco"
+    },
+    {
+      "source": "resume",
+      "quote": "Key Achievements:",
+      "supports": "As a key member of our engineering team, you will be responsible for creating and executing comprehensive stress tests to ensure the reliability, scalability, and performance of ou"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed daily PR operations, including media outreach, crisis communications, and brand storytelling",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop and implement comprehensive marketing strategies",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted research and analysis to identify trends and opportunities for brand growth and awareness",
+      "supports": "Analyze test results, identify trends and areas for improvement, and provide recommendations for enhancements to the scoring engine"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

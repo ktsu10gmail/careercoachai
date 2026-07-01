@@ -1,0 +1,165 @@
+{
+  "job_title": "Occupational Therapists",
+  "case_slug": "occupational-therapists-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.280091",
+  "match_score": 66.33,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.1,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Collaborate with multidisciplinary teams to coordinate care and ensure seamless transitions",
+        "Professional Experience:",
+        "MSOT, [University Name] (2018)",
+        "+ Conduct comprehensive assessments and develop treatment plans for patients with physical, cognitive, or mental health needs"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Foster strong relationships with patients, families, and healthcare providers through open communication and trust-building strategies"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 79.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Collaborate with multidisciplinary teams to coordinate care and ensure seamless transitions",
+        "Professional Experience:",
+        "MSOT, [University Name] (2018)",
+        "+ Conduct comprehensive assessments and develop treatment plans for patients with physical, cognitive, or mental health needs"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct comprehensive assessments and develop individualized treatment plans for patients with various physical, cognitive, or mental health needs",
+      "evidence": [
+        "+ Conduct comprehensive assessments and develop treatment plans for patients with physical, cognitive, or mental health needs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with patients, families, and healthcare providers to foster open communication and trust",
+      "evidence": [
+        "+ Foster strong relationships with patients, families, and healthcare providers through open communication and trust-building strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Professional Experience:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Implement evidence-based interventions and therapies to promote functional ability, mobility, and independence",
+      "evidence": [
+        "Proven track record of developing individualized treatment plans that promote functional ability, mobility, and independence."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "To deliver exceptional care and support that empowers individuals to achieve their full potential, while promoting a culture of compassion, respect, and inclusivity.",
+      "evidence": [
+        "+ Collaborate with multidisciplinary teams to coordinate care and ensure seamless transitions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "MSOT, [University Name] (2018)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and supportive work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Flexible scheduling options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Occupational Therapists**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Occupational Therapy from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Collaborate with multidisciplinary teams to coordinate care and ensure seamless transitions",
+      "supports": "To deliver exceptional care and support that empowers individuals to achieve their full potential, while promoting a culture of compassion, respect, and inclusivity."
+    },
+    {
+      "source": "resume",
+      "quote": "Professional Experience:",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "MSOT, [University Name] (2018)",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conduct comprehensive assessments and develop treatment plans for patients with physical, cognitive, or mental health needs",
+      "supports": "Conduct comprehensive assessments and develop individualized treatment plans for patients with various physical, cognitive, or mental health needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing individualized treatment plans that promote functional ability, mobility, and independence.",
+      "supports": "Implement evidence-based interventions and therapies to promote functional ability, mobility, and independence"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

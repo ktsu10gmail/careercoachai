@@ -1,0 +1,7 @@
+Here's a weak or scope-mismatch resume snippet for an Infrastructure Architect position:
+
+"Highly motivated IT professional with 3 years of experience designing and implementing small-scale, on-premises infrastructure solutions using virtualization, networking, and storage technologies. Proficient in scripting languages such as Python and Bash. Familiar with Docker and basic security best practices.
+
+Experience with cloud providers such as AWS and Azure, but mostly used for personal projects. Knowledge of Prometheus and Grafana for monitoring purposes. Currently learning about DevOps practices and tools like Jenkins and GitLab CI/CD.
+
+Certification in CompTIA A+ and no formal education in computer science or related field."

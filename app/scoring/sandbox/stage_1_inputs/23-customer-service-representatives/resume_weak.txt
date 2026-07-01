@@ -1,0 +1,28 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+"Customer Service Representative
+
+High school diploma, 1 year of experience working as a help desk technician for a small business.
+
+Skills:
+
+* Proficient in Windows XP and MS Office 2003
+* Experienced with CRM software (Salesforce) and Microsoft Office Suite (Word, Excel, Outlook)
+* Strong attention to detail and organizational skills
+* Basic knowledge of HTML and CSS
+
+Experience:
+
+* Help Desk Technician, XYZ Inc. (2018-2020)
+ + Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame
+ + Resolved customer complaints and issues in a timely manner, escalating complex issues to senior team members as needed
+ + Processed customer orders and payments accurately and efficiently, meeting daily sales targets of $5,000
+
+Education:
+
+* High School Diploma, ABC High School (2016)
+
+Certifications:
+
+* CompTIA A+ certification (2020)
+* Basic first aid and CPR certification (2019)"

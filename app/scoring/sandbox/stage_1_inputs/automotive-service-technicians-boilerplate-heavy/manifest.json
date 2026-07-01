@@ -1,0 +1,21 @@
+{
+  "job_title": "Automotive Service Technicians",
+  "case_slug": "automotive-service-technicians-boilerplate-heavy",
+  "scenario": "boilerplate_heavy",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T18:09:30.435737",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

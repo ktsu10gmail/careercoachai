@@ -1,0 +1,25 @@
+Here's a strong-match resume snippet for a Computer Systems Analyst position:
+
+**Summary:**
+Highly skilled computer systems analyst with 5+ years of experience driving business growth through optimized system performance, innovative software solutions, and exceptional technical support.
+
+**Technical Expertise:**
+
+* Proficient in Java, Python, and C++ programming languages, with expertise in Agile development methodologies and version control systems (e.g. Git)
+* Strong understanding of operating systems, database management, and software development methodologies
+* Experience with cloud-based technologies (AWS) and containerization platforms (Docker), as well as DevOps tools (Jenkins, Puppet)
+
+**Analytical and Problem-Solving Skills:**
+
+* Proven ability to analyze complex computer systems and applications, identify areas for improvement, and optimize system performance
+* Strong analytical and problem-solving skills, with ability to communicate complex technical concepts to non-technical stakeholders
+
+**Collaboration and Communication:**
+
+* Collaborated with cross-functional teams to design, implement, and maintain software solutions that meet business needs
+* Provided timely support to end-users and stakeholders, resolving technical issues and providing expert guidance
+
+**Technical Documentation and Auditing:**
+
+* Developed and maintained technical documentation, including user manuals, system diagrams, and technical specifications
+* Conducted regular system audits and assessments to identify security vulnerabilities and recommended mitigation strategies

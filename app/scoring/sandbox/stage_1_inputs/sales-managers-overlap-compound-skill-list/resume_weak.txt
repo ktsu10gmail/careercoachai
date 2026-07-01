@@ -1,0 +1,15 @@
+Here is a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Sales Manager - Stress Test**
+
+Highly skilled Sales Manager with experience in stress testing, load testing, and performance testing. Proficient in Java, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Slack, Zoom.
+
+* Designed and executed comprehensive testing protocols to identify potential bottlenecks in scoring engines
+* Collaborated with cross-functional teams to develop and implement testing strategies
+* Analyzed test results and provided recommendations for improvement
+
+**Required Skills:**
+
+Java, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Slack, Zoom.
+
+Note that this resume snippet lacks the enterprise scope required by the job description, as it only mentions stress testing and does not mention other areas such as machine learning, cloud-based technologies, or DevOps practices.

@@ -1,0 +1,65 @@
+About the job
+Who We Are
+
+Kargo creates powerful moments of connection between brands and consumers to build businesses. Every day, our 600+ employees work to radically raise the bar on what agentic AI, CTV, eCommerce, social, and mobile can do to deliver unique ad experiences across the world’s most premium platforms. Taking a creative science approach to all we do, we continuously innovate solutions that outperform industry benchmarks and client expectations. Now 20+ years strong, Kargo has offices in NYC, Chicago, LA, Dallas, Sydney, Auckland, London and Waterford, Ireland.
+
+
+
+Who We Hire
+
+Techies who want to build the future. Creatives who want to design it better. Communicators to win business. Collaborators to build it. Data pros who turn numbers into insights. Product builders who turn ideas into innovations. Anyone eager to be on a team that doesn’t stop to ask what’s next, because they’re already building it.
+
+
+
+Mission
+
+As the AI Engineer at Kargo, you will architect, build, and scale AI-powered products and automations for Kargo’s commercial organization. Operating within the Data & AI team, you are the connective tissue between revenue teams and AI infrastructure — proactively identifying high-value use cases, building intelligent workflows and agentic applications, and deploying trustworthy systems across Salesforce, Snowflake, Slack, and other internal platforms. You’re both hands-on and capable of owning the strategic roadmap for AI operations at Kargo.
+
+
+
+This is a hybrid role requiring onsite presence 4 days per week.
+
+
+
+Outcomes - What Success Looks Like in 6-12 Months
+
+At least 3 high-impact AI automations are live and actively used by commercial teams — measurably reducing manual work or improving data quality across Salesforce, Slack, or Snowflake
+A governance model is in place covering prompt engineering standards, audit trails, and a feedback loop that drives continuous iteration
+Cross-functional stakeholders trust and use the tools you’ve built, and Kargo’s Data & AI leadership has a clear, prioritized AI Ops roadmap that you own and drive
+You’ve established yourself as Kargo’s internal thought leader on applied AI — the person teams come to when they have a problem AI might solve
+Skills - Core Capabilities
+
+Design & Automation
+
+Design, build, deploy, and maintain AI-powered automations and agent workflows using modern orchestration frameworks — LangGraph, n8n, OpenAI Responses/Agents tooling, MCP-compatible architectures — with integrations across Salesforce, Slack, Snowflake, Atlassian, Google Workspace, Looker, and Airtable
+Translate business pain points into modular, extensible automation flows that are observable, debuggable, and fault-tolerant; proficient in Python or JavaScript for custom connectors and scripting
+5–8+ years in systems automation, internal tools, or process/data engineering; hands-on with orchestration platforms such as n8n, LangGraph, Zapier, or Make; strong familiarity with SaaS APIs and system interoperability
+AI Agent Deployment
+
+Build production-grade LLM applications — agent workflows, retrieval systems, internal copilots — using ChatGPT Enterprise and related LLM APIs for knowledge surfacing, workflow routing, decision support, and dynamic content generation
+Maintain a governance model for prompt engineering, agent testing, and audit trails; leverage AI-assisted development tools (Claude Code, Cursor, Codex) to accelerate velocity; familiar with evaluation and observability frameworks for LLM applications
+Internal Enablement & Strategy
+
+Work cross-functionally with Sales, Client Services, Media Strategy, Marketing, Product, and Ops to discover automation opportunities, prototype quickly, document tooling, and drive self-service adoption
+Own and communicate the AI Ops roadmap to Data & AI leadership — prioritized by business impact, sequenced by feasibility, and grounded in real discovery with commercial teams
+Nice to Have
+
+Prompt libraries, embeddings-based retrieval, or vector databases (Pinecone, Weaviate) and RAG pipelines
+Retool or Streamlit for lightweight internal UIs; ArgoCD or Kubernetes CI/CD experience
+Competencies - Behaviors We Like to See
+
+Builder’s Instinct
+
+Ships fast, iterates on real feedback, and knows when to build vs. buy — comfortable defining the problem and executing without a fully specified brief
+Cross-Functional Fluency
+
+Translates between engineers and revenue leadership, earns trust by delivering things that work, and stays close to adoption after deployment
+Bias for Impact
+
+Prioritizes automations that move a real business metric and measures success by adoption and friction reduction — not lines of code
+Ownership & Accountability
+
+Owns the roadmap end-to-end, communicates proactively, flags blockers early, and treats internal users like customers
+Growth Mindset
+
+Stays current on the LLM and AI agent landscape, applies new tooling when it matters, and shares knowledge generously to raise AI fluency across teams

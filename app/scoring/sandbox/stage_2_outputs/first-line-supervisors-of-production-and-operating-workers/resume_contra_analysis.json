@@ -1,0 +1,169 @@
+{
+  "job_title": "First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "first-line-supervisors-of-production-and-operating-workers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.237528",
+  "match_score": 45.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.1,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted regular safety inspections and enforced company policies to prevent accidents and injuries",
+        "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity.",
+        "Developed and delivered training programs for employees on new equipment and processes",
+        "Develop team leadership and development programs as I focused more on production targets and quality control"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented",
+        "delivered"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 30.7,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular safety inspections and enforced company policies to prevent accidents and injuries",
+        "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity.",
+        "Developed and delivered training programs for employees on new equipment and processes",
+        "Develop team leadership and development programs as I focused more on production targets and quality control"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted regular safety inspections and enforced company policies to prevent accidents and injuries",
+        "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity.",
+        "Developed and delivered training programs for employees on new equipment and processes",
+        "Develop team leadership and development programs as I focused more on production targets and quality control"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures",
+      "evidence": [
+        "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular safety inspections and enforce company safety policies to prevent accidents and injuries",
+      "evidence": [
+        "Conducted regular safety inspections and enforced company policies to prevent accidents and injuries"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide training and coaching to employees on new equipment, processes, and procedures",
+      "evidence": [
+        "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "evidence": [
+        "Develop team leadership and development programs as I focused more on production targets and quality control"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with lean manufacturing principles and Six Sigma methodologies",
+      "evidence": [
+        "\"Results-driven production supervisor with 3+ years of experience leading teams in fast-paced manufacturing environments."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct performance evaluations and provide constructive feedback to employees",
+      "evidence": [
+        "Developed and delivered training programs for employees on new equipment and processes"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Lead a team of production and operating workers to achieve daily production targets and maintain high levels of quality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor production schedules, track progress, and make adjustments as needed to meet production goals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage inventory levels, order supplies, and coordinate with maintenance teams to minimize downtime",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a production or supervisory role in a manufacturing environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Familiarity with ERP systems and inventory management software",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted regular safety inspections and enforced company policies to prevent accidents and injuries",
+      "supports": "Conduct regular safety inspections and enforce company safety policies to prevent accidents and injuries"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity.",
+      "supports": "Provide training and coaching to employees on new equipment, processes, and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and delivered training programs for employees on new equipment and processes",
+      "supports": "Conduct performance evaluations and provide constructive feedback to employees"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of improving quality control procedures through process improvements, resulting in [X]% increase in productivity.",
+      "supports": "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop team leadership and development programs as I focused more on production targets and quality control",
+      "supports": "Excellent communication, leadership, and problem-solving skills"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

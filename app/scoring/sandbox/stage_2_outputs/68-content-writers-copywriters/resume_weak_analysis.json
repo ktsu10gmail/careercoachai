@@ -1,0 +1,159 @@
+{
+  "job_title": "68. Content Writers / Copywriters",
+  "case_slug": "68-content-writers-copywriters",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.484900",
+  "match_score": 26.77,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.1,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Content writer with 2 years of experience writing blog posts and social media content.",
+        "Looking for a role where I can write engaging content and meet deadlines.\"",
+        "Strong research skills, but no experience with SEO tools like Ahrefs or SEMrush."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 43.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Content writer with 2 years of experience writing blog posts and social media content.",
+        "Looking for a role where I can write engaging content and meet deadlines.\"",
+        "Strong research skills, but no experience with SEO tools like Ahrefs or SEMrush."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Write high-quality, engaging content for various mediums, including blog posts, social media, email newsletters, and product descriptions",
+      "evidence": [
+        "\"Content writer with 2 years of experience writing blog posts and social media content."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet tight deadlines while maintaining quality standards",
+      "evidence": [
+        "Looking for a role where I can write engaging content and meet deadlines.\""
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent writing, editing, and proofreading skills",
+      "evidence": [
+        "\"Content writer with 2 years of experience writing blog posts and social media content."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct research to stay up-to-date on industry trends and develop well-informed content that resonates with target audiences",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a consistent tone and voice across all content channels",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Optimize content for search engines to improve visibility and drive organic traffic",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a copywriter or content writer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in English, Journalism, Communications, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of producing high-quality, engaging content that drives results",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong research and analytical skills to stay up-to-date on industry trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong research skills, but no experience with SEO tools like Ahrefs or SEMrush.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with SEO tools such as Ahrefs, SEMrush, or Moz",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong research skills, but no experience with SEO tools like Ahrefs or SEMrush.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with content management systems (CMS) such as WordPress or Drupal",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of social media platforms and their respective content strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Content writer with 2 years of experience writing blog posts and social media content.",
+      "supports": "Write high-quality, engaging content for various mediums, including blog posts, social media, email newsletters, and product descriptions"
+    },
+    {
+      "source": "resume",
+      "quote": "Looking for a role where I can write engaging content and meet deadlines.\"",
+      "supports": "Meet tight deadlines while maintaining quality standards"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Content writer with 2 years of experience writing blog posts and social media content.",
+      "supports": "Excellent writing, editing, and proofreading skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong research skills, but no experience with SEO tools like Ahrefs or SEMrush.",
+      "supports": "Strong research and analytical skills to stay up-to-date on industry trends"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong research skills, but no experience with SEO tools like Ahrefs or SEMrush.",
+      "supports": "Experience with SEO tools such as Ahrefs, SEMrush, or Moz"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

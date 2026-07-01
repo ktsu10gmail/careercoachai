@@ -1,0 +1,21 @@
+{
+  "job_title": "Hosts and Hostesses",
+  "case_slug": "hosts-and-hostesses-scraped-job-board",
+  "scenario": "scraped_job_board",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T17:50:04.031111",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

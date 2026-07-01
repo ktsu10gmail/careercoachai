@@ -1,0 +1,166 @@
+{
+  "job_title": "Logistics Coordinators",
+  "case_slug": "logistics-coordinators-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.091025",
+  "match_score": 71.2,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of identifying performance bottlenecks and ensuring the reliability of systems.",
+        "Analyzed test results, identified trends, and provided recommendations for process improvements, resulting in a 20% reduction in system costs.",
+        "Highly accomplished stress test engineer with 5+ years of experience in designing and executing comprehensive stress tests for software applications, focusing on domain scope trap scenarios.",
+        "Cloud-based infrastructure (AWS, Azure)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Cloud-based infrastructure (AWS, Azure)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of identifying performance bottlenecks and ensuring the reliability of systems.",
+        "Analyzed test results, identified trends, and provided recommendations for process improvements, resulting in a 20% reduction in system costs.",
+        "Highly accomplished stress test engineer with 5+ years of experience in designing and executing comprehensive stress tests for software applications, focusing on domain scope trap scenarios.",
+        "Cloud-based infrastructure (AWS, Azure)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for process improvements",
+      "evidence": [
+        "Analyzed test results, identified trends, and provided recommendations for process improvements, resulting in a 20% reduction in system costs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure, including AWS or Azure",
+      "evidence": [
+        "Cloud-based infrastructure (AWS, Azure)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with containerization technologies, such as Docker",
+      "evidence": [
+        "Developed and maintained test scripts, tools, and methodologies to ensure efficient and effective stress testing, including the creation of a custom stress testing framework using Python and Docker."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to identify performance bottlenecks and develop effective solutions",
+      "evidence": [
+        "Utilized stress testing tools such as Apache JMeter, Gatling, and Locust to analyze performance bottlenecks and develop effective solutions, resulting in a 50% reduction in mean time to recover (MTTR)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and analyze performance bottlenecks and areas for improvement",
+      "evidence": [
+        "Proven track record of identifying performance bottlenecks and ensuring the reliability of systems."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "evidence": [
+        "Collaborated with cross-functional teams to understand system requirements and identify testing opportunities, leading to the development of a comprehensive stress testing framework."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests to simulate various types of traffic and loads on our software applications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and methodologies to ensure efficient and effective stress testing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate test findings and recommendations to stakeholders, including product management, development, and operations teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of identifying performance bottlenecks and ensuring the reliability of systems.",
+      "supports": "Identify and analyze performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed test results, identified trends, and provided recommendations for process improvements, resulting in a 20% reduction in system costs.",
+      "supports": "Analyze test results, identify trends, and provide recommendations for process improvements"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly accomplished stress test engineer with 5+ years of experience in designing and executing comprehensive stress tests for software applications, focusing on domain scope trap scenarios.",
+      "supports": "Strong understanding of software applications, including architecture, design patterns, and scalability models"
+    },
+    {
+      "source": "resume",
+      "quote": "Cloud-based infrastructure (AWS, Azure)",
+      "supports": "Knowledge of cloud-based infrastructure, including AWS or Azure"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained test scripts, tools, and methodologies to ensure efficient and effective stress testing, including the creation of a custom stress testing framework using Python and Docker.",
+      "supports": "Familiarity with containerization technologies, such as Docker"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,134 @@
+{
+  "job_title": "Payroll and Timekeeping Clerks",
+  "case_slug": "payroll-and-timekeeping-clerks-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:06.021292",
+  "match_score": 44.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.3,
+      "reason": "Found 3 direct, 10 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Payroll Clerk, XYZ Inc.",
+        "+ Maintained accurate records of employee hours worked using a basic time-tracking system",
+        "Data Entry Clerk, ABC Company (2015-2018)",
+        "+ Processed payroll for small team of employees using Excel and Word"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Data Entry Clerk, ABC Company (2015-2018)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Payroll Clerk, XYZ Inc.",
+        "+ Maintained accurate records of employee hours worked using a basic time-tracking system",
+        "Data Entry Clerk, ABC Company (2015-2018)",
+        "+ Processed payroll for small team of employees using Excel and Word"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate records of employee hours worked, including tracking overtime and leave time",
+      "evidence": [
+        "+ Maintained accurate records of employee hours worked using a basic time-tracking system"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, Local High School (2015)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong organizational and attention-to-detail skills",
+      "evidence": [
+        "Strong organizational and attention-to-detail skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel and Word",
+      "evidence": [
+        "+ Processed payroll for small team of employees using Excel and Word"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Payroll and Timekeeping Clerks**",
+      "evidence": [
+        "Payroll Clerk, XYZ Inc."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our payroll and timekeeping department, you will play a critical role in ensuring accurate and timely payment of employee wages.",
+      "evidence": [
+        "Payroll Clerk, XYZ Inc."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Payroll Clerk, XYZ Inc.",
+      "supports": "Payroll and Timekeeping Clerks**"
+    },
+    {
+      "source": "resume",
+      "quote": "Payroll Clerk, XYZ Inc.",
+      "supports": "As a key member of our payroll and timekeeping department, you will play a critical role in ensuring accurate and timely payment of employee wages."
+    },
+    {
+      "source": "resume",
+      "quote": "Payroll Clerk, XYZ Inc.",
+      "supports": "Process payroll for all employees, including calculating salaries, benefits, and deductions"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Maintained accurate records of employee hours worked using a basic time-tracking system",
+      "supports": "Maintain accurate records of employee hours worked, including tracking overtime and leave time"
+    },
+    {
+      "source": "resume",
+      "quote": "Data Entry Clerk, ABC Company (2015-2018)",
+      "supports": "Ensure compliance with company policies and applicable laws and regulations, such as tax laws and labor laws"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,143 @@
+{
+  "job_title": "Budget Analysts",
+  "case_slug": "budget-analysts-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:55.963399",
+  "match_score": 28.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 5.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 36.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our finance department, you'll play a critical role in driving business growth through data-driven insights and expert analysis.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain accurate financial models and forecasts",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a rich history of success, we continue to push boundaries and strive for greatness.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement savings plan",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Professional development opportunities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals who share our values and are passionate about making a difference.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Budget Analysts**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze budget variance reports and provide recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis.",
+      "supports": "As a key member of our finance department, you'll play a critical role in driving business growth through data-driven insights and expert analysis."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis.",
+      "supports": "Develop and maintain accurate financial models and forecasts"
+    },
+    {
+      "source": "job_description",
+      "quote": "With a rich history of success, we continue to push boundaries and strive for greatness.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

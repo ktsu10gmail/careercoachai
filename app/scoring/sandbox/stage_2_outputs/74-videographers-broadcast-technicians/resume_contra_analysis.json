@@ -1,0 +1,152 @@
+{
+  "job_title": "74. Videographers / Broadcast Technicians",
+  "case_slug": "74-videographers-broadcast-technicians",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.069217",
+  "match_score": 41.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.5,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television.",
+        "While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+        "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts.",
+        "In terms of post-production review and editing, I have assisted with basic footage organization and shot list management, but I did not participate in the actual editing process due to limited experience with video editing software such as "
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television.",
+        "While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+        "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts.",
+        "In terms of post-production review and editing, I have assisted with basic footage organization and shot list management, but I did not participate in the actual editing process due to limited experience with video editing software such as "
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Capture high-quality video footage for broadcast television, including live events, news segments, and studio productions",
+      "evidence": [
+        "\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in operating HD cameras, Steadicams, and drone-mounted cameras",
+      "evidence": [
+        "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of lighting and sound principles for live broadcasts",
+      "evidence": [
+        "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Avid, Adobe Premiere)",
+      "evidence": [
+        "In terms of post-production review and editing, I have assisted with basic footage organization and shot list management, but I did not participate in the actual editing process due to limited experience with video editing software such as "
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in post-production review and editing of footage as needed",
+      "evidence": [
+        "\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience as a videographer or broadcast technician",
+      "evidence": [
+        "\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of shot lists, camera settings, and other production data",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with multi-camera setups and switcher operation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work well under pressure and meet deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with 4K or high-frame-rate camera systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television.",
+      "supports": "Capture high-quality video footage for broadcast television, including live events, news segments, and studio productions"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+      "supports": "Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts.",
+      "supports": "Set up and maintain camera equipment, lighting, and sound systems for live broadcasts and pre-recorded content"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts.",
+      "supports": "Troubleshoot technical issues during live broadcasts and resolve problems quickly"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role.",
+      "supports": "Maintain accurate records of shot lists, camera settings, and other production data"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,148 @@
+{
+  "job_title": "Sales Managers (overlap)",
+  "case_slug": "sales-managers-overlap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.791411",
+  "match_score": 66.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 60.7,
+      "reason": "Found 5 direct, 6 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+        "Conducted regular sales performance reviews with individual team members, providing constructive feedback and coaching (I did not have this responsibility due to lack of direct reporting authority)",
+        "Analyzed sales data and market trends to identify opportunities for growth and improvement (my analysis was limited to high-level insights, I did not drive actionable recommendations)",
+        "Collaborated with cross-functional teams, including marketing and product development, to ensure alignment and effective execution of sales plans (I worked closely with these teams, but my role was more focused on strategic planning rather "
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+        "Proven track record of success in driving revenue growth and team performance, with a strong understanding of the software industry and its current market trends."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+        "Conducted regular sales performance reviews with individual team members, providing constructive feedback and coaching (I did not have this responsibility due to lack of direct reporting authority)",
+        "Analyzed sales data and market trends to identify opportunities for growth and improvement (my analysis was limited to high-level insights, I did not drive actionable recommendations)",
+        "Collaborated with cross-functional teams, including marketing and product development, to ensure alignment and effective execution of sales plans (I worked closely with these teams, but my role was more focused on strategic planning rather "
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "5+ years of experience in sales management or a related field",
+      "evidence": [
+        "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of success in driving revenue growth and team performance",
+      "evidence": [
+        "Proven track record of success in driving revenue growth and team performance, with a strong understanding of the software industry and its current market trends."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and its current market trends",
+      "evidence": [
+        "Proven track record of success in driving revenue growth and team performance, with a strong understanding of the software industry and its current market trends."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "evidence": [
+        "Excellent communication, leadership, and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines",
+      "evidence": [
+        "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage a team of sales representatives to achieve quarterly sales targets",
+      "evidence": [
+        "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular sales performance reviews with individual team members, providing constructive feedback and coaching",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular sales performance reviews with individual team members, providing constructive feedback and coaching (I did not have this responsibility due to lack of direct reporting authority)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and pursue new business opportunities through networking and relationship-building",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed sales data and market trends to identify opportunities for growth and improvement (my analysis was limited to high-level insights, I did not drive actionable recommendations)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software (Salesforce.com) and sales analytics tools (e.g.",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: \"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+      "supports": "Manage a team of sales representatives to achieve quarterly sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+      "supports": "Develop and implement sales strategies to expand customer base and increase revenue"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular sales performance reviews with individual team members, providing constructive feedback and coaching (I did not have this responsibility due to lack of direct reporting authority)",
+      "supports": "Conduct regular sales performance reviews with individual team members, providing constructive feedback and coaching"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven sales professional with 5+ years of experience in sales management, seeking a challenging role as Sales Manager.",
+      "supports": "Analyze sales data and market trends to identify opportunities for growth and improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed sales data and market trends to identify opportunities for growth and improvement (my analysis was limited to high-level insights, I did not drive actionable recommendations)",
+      "supports": "Identify and pursue new business opportunities through networking and relationship-building"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

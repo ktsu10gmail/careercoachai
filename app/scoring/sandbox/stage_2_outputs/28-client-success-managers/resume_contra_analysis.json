@@ -1,0 +1,168 @@
+{
+  "job_title": "28. Client Success Managers",
+  "case_slug": "28-client-success-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:48.207036",
+  "match_score": 45.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.7,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of delivering high-quality solutions and services to key clients.",
+        "Specifically, the candidate does not have 3+ years of experience in Client Success or related field (Sales, Account Management), nor do they have a proven track record of delivering exceptional customer experiences and driving business grow",
+        "Strong communication, interpersonal, and problem-solving skills",
+        "Proficient in Salesforce CRM software and Microsoft Office productivity tools"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of delivering high-quality solutions and services to key clients.",
+        "Specifically, the candidate does not have 3+ years of experience in Client Success or related field (Sales, Account Management), nor do they have a proven track record of delivering exceptional customer experiences and driving business grow",
+        "Strong communication, interpersonal, and problem-solving skills",
+        "Proficient in Salesforce CRM software and Microsoft Office productivity tools"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "Strong communication, interpersonal, and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Microsoft Office, Google Workspace)",
+      "evidence": [
+        "Proficient in Salesforce CRM software and Microsoft Office productivity tools"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (e.g.",
+      "evidence": [
+        "Proficient in Salesforce CRM software and Microsoft Office productivity tools"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Salesforce) and other productivity tools (e.g.",
+      "evidence": [
+        "Proficient in Salesforce CRM software and Microsoft Office productivity tools"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree required;",
+      "evidence": [
+        "Bachelor's degree in Business Administration from XYZ University (2018)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain strong relationships with key clients to ensure satisfaction and retention",
+      "evidence": [
+        "Proven track record of delivering high-quality solutions and services to key clients."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze client feedback and performance data to inform product development and improvement initiatives",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and mitigate potential issues or risks that may impact client success",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of client industries, markets, and competitors",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and manage client onboarding processes to ensure successful transition to new products or services",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in Client Success or related field (Sales, Account Management)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Specifically, the candidate does not have 3+ years of experience in Client Success or related field (Sales, Account Management), nor do they have a proven track record of delivering exceptional customer experiences and driving business grow",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of delivering exceptional customer experiences and driving business growth",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Specifically, the candidate does not have 3+ years of experience in Client Success or related field (Sales, Account Management), nor do they have a proven track record of delivering exceptional customer experiences and driving business grow",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality solutions and services to key clients.",
+      "supports": "Develop and maintain strong relationships with key clients to ensure satisfaction and retention"
+    },
+    {
+      "source": "resume",
+      "quote": "Specifically, the candidate does not have 3+ years of experience in Client Success or related field (Sales, Account Management), nor do they have a proven track record of delivering exceptional customer experiences and driving business grow",
+      "supports": "3+ years of experience in Client Success or related field (Sales, Account Management)"
+    },
+    {
+      "source": "resume",
+      "quote": "Specifically, the candidate does not have 3+ years of experience in Client Success or related field (Sales, Account Management), nor do they have a proven track record of delivering exceptional customer experiences and driving business grow",
+      "supports": "Proven track record of delivering exceptional customer experiences and driving business growth"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong communication, interpersonal, and problem-solving skills",
+      "supports": "Strong communication, interpersonal, and problem-solving skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Salesforce CRM software and Microsoft Office productivity tools",
+      "supports": "Proficiency in CRM software (e.g."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

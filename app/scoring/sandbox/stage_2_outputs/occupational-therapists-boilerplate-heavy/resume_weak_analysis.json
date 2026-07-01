@@ -1,0 +1,168 @@
+{
+  "job_title": "Occupational Therapists",
+  "case_slug": "occupational-therapists-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.307152",
+  "match_score": 47.44,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Collaborated with multidisciplinary teams to coordinate care and ensure seamless transitions",
+        "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs",
+        "Proven track record of delivering effective interventions and therapies to promote functional ability and independence.",
+        "Education:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 61.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Collaborated with multidisciplinary teams to coordinate care and ensure seamless transitions",
+        "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs",
+        "Proven track record of delivering effective interventions and therapies to promote functional ability and independence.",
+        "Education:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct comprehensive assessments and develop individualized treatment plans for patients with various physical, cognitive, or mental health needs",
+      "evidence": [
+        "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement evidence-based interventions and therapies to promote functional ability, mobility, and independence",
+      "evidence": [
+        "Proven track record of delivering effective interventions and therapies to promote functional ability and independence."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "To deliver exceptional care and support that empowers individuals to achieve their full potential, while promoting a culture of compassion, respect, and inclusivity.",
+      "evidence": [
+        "+ Collaborated with multidisciplinary teams to coordinate care and ensure seamless transitions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain relationships with patients, families, and healthcare providers to foster open communication and trust",
+      "evidence": [
+        "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay current with industry developments and best practices through ongoing education and professional development",
+      "evidence": [
+        "Education:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and supportive work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Flexible scheduling options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Occupational Therapists**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Occupational Therapy from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with multidisciplinary teams to coordinate care and ensure seamless transitions",
+      "supports": "To deliver exceptional care and support that empowers individuals to achieve their full potential, while promoting a culture of compassion, respect, and inclusivity."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs",
+      "supports": "Conduct comprehensive assessments and develop individualized treatment plans for patients with various physical, cognitive, or mental health needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering effective interventions and therapies to promote functional ability and independence.",
+      "supports": "Implement evidence-based interventions and therapies to promote functional ability, mobility, and independence"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted comprehensive assessments and developed individualized treatment plans for patients with various physical, cognitive, or mental health needs",
+      "supports": "Develop and maintain relationships with patients, families, and healthcare providers to foster open communication and trust"
+    },
+    {
+      "source": "resume",
+      "quote": "Education:",
+      "supports": "Stay current with industry developments and best practices through ongoing education and professional development"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

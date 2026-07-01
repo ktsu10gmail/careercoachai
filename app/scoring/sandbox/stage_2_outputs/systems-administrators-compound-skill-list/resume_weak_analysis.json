@@ -1,0 +1,165 @@
+{
+  "job_title": "Systems Administrators",
+  "case_slug": "systems-administrators-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.479266",
+  "match_score": 27.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 20.8,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.",
+        "Highly skilled systems administrator with experience in stress testing, containerization, and orchestration tools.",
+        "No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines.",
+        "No experience with Apache Kafka, Apache Cassandra, Redis, or AWS CloudFormation."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.8,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled systems administrator with experience in stress testing, containerization, and orchestration tools.",
+        "No experience with Apache Kafka, Apache Cassandra, Redis, or AWS CloudFormation.",
+        "No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 42.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.",
+        "Highly skilled systems administrator with experience in stress testing, containerization, and orchestration tools.",
+        "No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines.",
+        "No experience with Apache Kafka, Apache Cassandra, Redis, or AWS CloudFormation."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Experience with containerization and orchestration tools is highly desirable.",
+      "evidence": [
+        "Proficient in Java, Python, Bash scripting, Ansible, Docker, Kubernetes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with machine learning or AI frameworks (e.g., TensorFlow, PyTorch)",
+      "evidence": [
+        "No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine infrastructure",
+      "evidence": [
+        "Highly skilled systems administrator with experience in stress testing, containerization, and orchestration tools."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to ensure our systems remain competitive",
+      "evidence": [
+        "No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Systems Administrator - Stress Test**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will play a critical role in ensuring the reliability, scalability, and performance of our systems under heavy loads.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Systems Administrator, you will be responsible for designing and executing stress tests on our scoring engine infrastructure to identify potential bottlenecks and areas for im",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "You will work closely with cross-functional teams to develop and implement test plans, execute tests, analyze results, and provide recommendations for system enhancements.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various types of loads and scenarios",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and identify areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor system performance and troubleshoot issues as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, Bash scripting, Ansible, Docker, Kubernetes, Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Apache Kafka, Apache Cassandra, Redis, MySQL, Post",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: No experience with Apache Kafka, Apache Cassandra, Redis, or AWS CloudFormation.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.",
+      "supports": "The successful candidate will play a critical role in ensuring the reliability, scalability, and performance of our systems under heavy loads."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks some of the required skills (e.g., Apache Kafka, Apache Cassandra) and does not mention stress testing, which is a critical aspect of the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled systems administrator with experience in stress testing, containerization, and orchestration tools.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine infrastructure"
+    },
+    {
+      "source": "resume",
+      "quote": "No knowledge of machine learning or AI frameworks, cloud-native technologies, or continuous integration and delivery pipelines.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to ensure our systems remain competitive"
+    },
+    {
+      "source": "resume",
+      "quote": "No experience with Apache Kafka, Apache Cassandra, Redis, or AWS CloudFormation.",
+      "supports": "Java, Python, C++, Bash scripting, Ansible, Docker, Kubernetes, Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Apache Kafka, Apache Cassandra, Redis, MySQL, Post"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

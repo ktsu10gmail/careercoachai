@@ -1,0 +1,161 @@
+{
+  "job_title": "41. Budget Analysts",
+  "case_slug": "41-budget-analysts",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:49.522535",
+  "match_score": 50.31,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.1,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making.",
+        "Bachelor's degree in finance from XYZ University (2015)",
+        "Proficient in Microsoft Office, particularly Excel",
+        "Strong analytical skills, but limited experience with data analysis tools such as Tableau or Power BI\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's degree in finance from XYZ University (2015)",
+        "Strong analytical skills, but limited experience with data analysis tools such as Tableau or Power BI\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 79.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making.",
+        "Bachelor's degree in finance from XYZ University (2015)",
+        "Proficient in Microsoft Office, particularly Excel",
+        "Strong analytical skills, but limited experience with data analysis tools such as Tableau or Power BI\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in finance, accounting, or a related field",
+      "evidence": [
+        "Bachelor's degree in finance from XYZ University (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of government budgeting processes and procedures",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience working with government agencies or non-profit organizations",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain complex budgets using specialized software such as Excel, SAP, or Oracle",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with budgeting software such as SAP, Oracle, or similar systems",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze and interpret financial data to inform budget decisions for government agencies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct cost-benefit analyses and provide recommendations for budget reallocations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and present budget reports to senior management and legislative committees",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify areas of inefficiency and recommend process improvements to optimize budget utilization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a budget analyst or in a related role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with data analysis tools such as Tableau or Power BI",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong analytical skills, but limited experience with data analysis tools such as Tableau or Power BI\"",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making.",
+      "supports": "Develop and maintain complex budgets using specialized software such as Excel, SAP, or Oracle"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in finance from XYZ University (2015)",
+      "supports": "Bachelor's degree in finance, accounting, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making.",
+      "supports": "Strong knowledge of government budgeting processes and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, particularly Excel",
+      "supports": "Proficiency in Microsoft Office, particularly Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 5+ years of experience in budgeting and financial analysis, seeking to leverage my expertise in Excel and government budgeting processes to drive informed decision-making.",
+      "supports": "Experience with budgeting software such as SAP, Oracle, or similar systems"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

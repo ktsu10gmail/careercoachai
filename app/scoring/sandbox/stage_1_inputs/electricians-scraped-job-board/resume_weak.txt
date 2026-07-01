@@ -1,0 +1,41 @@
+Here's a weak or scope-mismatch resume snippet for an Electrician position:
+
+<h2>Electrician</h2>
+
+<p>High school diploma, 1 year of experience working with electrical systems in a small shop setting.</p>
+
+<p><strong>Work Experience:</strong></p>
+
+* Assisted a licensed electrician with minor repairs and installations
+* Learned basic safety protocols and code requirements
+* Gained hands-on experience with wire stripping, soldering, and circuit testing
+
+<p><strong>Education:</strong></p>
+
+* Completed an electrical apprenticeship program (6 months)
+* Basic understanding of electrical theory and codes
+
+<p><strong>Skills:</strong></p>
+
+* Familiarity with basic electrical tools and equipment
+* Knowledge of local electrical codes and safety protocols
+* Ability to follow instructions and work independently
+
+<p><strong>Tools and Software:</p>
+
+* Basic hand tools (wrenches, pliers, screwdrivers)
+* Limited experience with circuit analysis software (e.g. Multimeter)
+
+This resume snippet lacks the required skills and experience for an Electrician position, particularly in areas such as:
+
+* Bachelor's degree or equivalent
+* 3+ years of experience in electrical work
+* Strong understanding of computer systems, algorithms, and data structures
+* Proficiency in programming languages (e.g. Python, Java, C++)
+* Experience with stress testing tools and frameworks
+
+The resume also fails to mention any relevant certifications, licenses, or specialized training in areas such as:
+
+* Electrical codes and safety protocols
+* Circuit analysis and design
+* Troubleshooting and repair techniques

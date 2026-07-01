@@ -1,0 +1,21 @@
+Here's a contra-evidence resume snippet for a Registered Nurse position:
+
+**Summary:**
+
+Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.
+
+**Experience:**
+
+* Clinical Nurse (2018-Present)
+	+ Managed high-pressure situations and prioritized tasks to ensure timely patient care
+	+ Utilized strong analytical skills to interpret complex medical data sets
+	+ Collaborated with cross-functional teams, including physicians and other healthcare professionals, to develop and implement effective treatment plans
+* Note: While I have experience working in fast-paced clinical environments, I do not have direct experience with stress testing or performance engineering. However, I am eager to apply my analytical skills and attention to detail to a new challenge.
+
+**Skills:**
+
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams
+* Excellent problem-solving skills, with ability to interpret complex data sets
+* Proficient in electronic medical records (EMRs) and other clinical software applications
+
+Note that this resume snippet omits the essential domain qualifier "Software/SaaS" and instead focuses on generic experience as a Registered Nurse.

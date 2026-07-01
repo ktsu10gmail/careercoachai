@@ -1,0 +1,25 @@
+Here's a contra-evidence resume snippet:
+
+"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management. Proven track record of successfully implementing backup and disaster recovery plans for small to medium-sized businesses.
+
+Certifications: CompTIA Network+ (2018) and CCNA (2020). Strong knowledge of Windows Server 2012, Linux (Ubuntu), and network protocols (TCP/IP, DNS, DHCP).
+
+Experience with virtualization technologies, including VMware. Familiarity with cloud computing platforms, including AWS.
+
+Skills:
+
+* LAN/WAN setup and management
+* Backup and disaster recovery planning
+* Network protocol configuration
+* Virtualization technology implementation
+
+Notable achievements:
+
+* Successfully implemented a new network infrastructure for a small business, resulting in a 30% increase in network speed.
+* Developed and implemented a comprehensive backup and disaster recovery plan for a medium-sized company.
+
+Education:
+
+* Bachelor's degree in Computer Science (2015)
+
+References available upon request."

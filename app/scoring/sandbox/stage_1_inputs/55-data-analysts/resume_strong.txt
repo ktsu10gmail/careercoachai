@@ -1,0 +1,29 @@
+Here's a strong-match resume snippet for a Data Analyst position:
+
+**Summary:**
+Results-driven data analyst with 3+ years of experience in analyzing large datasets to drive business growth and inform strategic decisions. Proven track record of delivering high-quality reports, visualizations, and insights that meet stakeholder needs.
+
+**Technical Skills:**
+
+* Proficient in SQL and statistical software (R, Python) for data analysis and visualization
+* Experienced with data management and database design using relational databases (e.g., MySQL)
+* Skilled in creating interactive dashboards and reports using tools like Tableau and Power BI
+* Strong understanding of data quality checks and processes to ensure accuracy and consistency
+
+**Experience:**
+
+Data Analyst, XYZ Corporation (2020-Present)
+
+* Analyzed large datasets to identify trends, patterns, and correlations for business growth and optimization
+* Developed and maintained databases to store and manage data for reporting and analysis purposes
+* Created reports and visualizations to present findings to stakeholders, including product management, sales, and marketing teams
+* Collaborated with cross-functional teams to understand business needs and provide data-driven insights
+
+**Education:**
+
+Bachelor's Degree in Mathematics, ABC University (2018)
+
+**Certifications:**
+
+* Certified Data Analyst, Data Science Council of America (2022)
+* Tableau Certified Associate (2020)

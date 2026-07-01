@@ -1,0 +1,20 @@
+{
+  "job_title": "32. Bookkeeping, Accounting, and Auditing Clerks",
+  "case_slug": "32-bookkeeping-accounting-and-auditing-clerks",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:27:30.628236",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

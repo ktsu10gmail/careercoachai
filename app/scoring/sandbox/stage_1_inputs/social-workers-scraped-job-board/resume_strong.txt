@@ -1,0 +1,44 @@
+Here's a strong-match resume snippet for a Social Worker position with explicit affirmative evidence for most core requirements:
+
+**Social Worker**
+**Contact Information:**
+
+* Phone: (555) 123-4567
+* Email: [john.doe@email.com](mailto:john.doe@email.com)
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Results-driven Social Worker with 5+ years of experience in conducting stress tests on scoring engines to identify performance bottlenecks. Proven track record of developing and implementing test cases, collaborating with cross-functional teams, and analyzing test data to drive actionable insights.
+
+**Professional Experience:**
+
+* **Senior Social Worker**, XYZ Non-Profit Organization (2020-Present)
+ + Conducted comprehensive stress tests on scoring engines for clients across various industries
+ + Collaborated with stakeholders to develop and implement test cases that simulated real-world scenarios
+ + Analyzed test data to identify trends and areas for improvement, resulting in a 25% increase in client satisfaction
+* **Social Worker**, ABC Government Agency (2018-2020)
+ + Worked closely with cross-functional teams to ensure test results were actionable and effective
+ + Developed and implemented test automation frameworks using Python and Selenium
+ + Provided expert testimony on stress testing methodologies and best practices
+
+**Education:**
+
+* **Master of Social Work**, University of Anytown (2015-2017)
+
+**Skills:**
+
+* Stress testing and scoring engine analysis
+* Test case development and implementation
+* Collaboration and team leadership
+* Programming languages: Python, Java, C++
+* Test automation frameworks: Selenium, Appium
+
+**Certifications:**
+
+* **Certified Social Worker**, National Association of Social Workers (2018)
+* **Certified Stress Tester**, International Society for Performance Measurement (2020)
+
+**Professional Memberships:**
+
+* National Association of Social Workers
+* International Society for Performance Measurement

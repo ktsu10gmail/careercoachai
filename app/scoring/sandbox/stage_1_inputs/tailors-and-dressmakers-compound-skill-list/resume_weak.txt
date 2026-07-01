@@ -1,0 +1,7 @@
+Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g. Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills.
+
+Note: I removed the following tools that are not relevant to tailoring or dressmaking:
+
+* Overlock Machine
+* Adobe Creative Suite (specifically InDesign)
+* CAD programs

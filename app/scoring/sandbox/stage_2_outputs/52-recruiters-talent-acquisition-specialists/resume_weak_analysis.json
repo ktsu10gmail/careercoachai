@@ -1,0 +1,155 @@
+{
+  "job_title": "52. Recruiters / Talent Acquisition Specialists",
+  "case_slug": "52-recruiters-talent-acquisition-specialists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:50.758536",
+  "match_score": 73.41,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 54.6,
+      "reason": "Found 6 direct, 3 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The candidate's experience and skills are also not aligned with the job description, which requires 2+ years of experience in talent acquisition or a related role.",
+        "Conducted interviews using Zoom and Google Forms for reference checks",
+        "Utilized Microsoft Excel to track candidate progress and ATS reports to analyze recruitment metrics",
+        "Bachelor's degree in Business Administration"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Utilized Microsoft Excel to track candidate progress and ATS reports to analyze recruitment metrics"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The candidate's experience and skills are also not aligned with the job description, which requires 2+ years of experience in talent acquisition or a related role.",
+        "Conducted interviews using Zoom and Google Forms for reference checks",
+        "Utilized Microsoft Excel to track candidate progress and ATS reports to analyze recruitment metrics",
+        "Bachelor's degree in Business Administration"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough interviews, reference checks, and background screenings to ensure quality candidates",
+      "evidence": [
+        "Conducted interviews using Zoom and Google Forms for reference checks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze recruitment metrics and provide data-driven insights to optimize future recruitment efforts",
+      "evidence": [
+        "Utilized Microsoft Excel to track candidate progress and ATS reports to analyze recruitment metrics"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field",
+      "evidence": [
+        "Bachelor's degree in Business Administration"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in talent acquisition or a related role",
+      "evidence": [
+        "The candidate's experience and skills are also not aligned with the job description, which requires 2+ years of experience in talent acquisition or a related role."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "Excellent communication skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "evidence": [
+        "Ability to work in a fast-paced environment with multiple priorities and deadlines\""
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement effective recruitment strategies to meet business objectives",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage the entire recruitment process from posting to onboarding, ensuring timely and efficient candidate flow",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Utilize applicant tracking systems (ATS) and other recruitment software to streamline processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of successful recruitment outcomes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with recruitment software such as Workday, BambooHR, or Lever",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The candidate's experience and skills are also not aligned with the job description, which requires 2+ years of experience in talent acquisition or a related role.",
+      "supports": "Source and attract top talent for open positions across various departments"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted interviews using Zoom and Google Forms for reference checks",
+      "supports": "Conduct thorough interviews, reference checks, and background screenings to ensure quality candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized Microsoft Excel to track candidate progress and ATS reports to analyze recruitment metrics",
+      "supports": "Analyze recruitment metrics and provide data-driven insights to optimize future recruitment efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Business Administration",
+      "supports": "Bachelor's degree in Human Resources, Business Administration, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "The candidate's experience and skills are also not aligned with the job description, which requires 2+ years of experience in talent acquisition or a related role.",
+      "supports": "2+ years of experience in talent acquisition or a related role"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

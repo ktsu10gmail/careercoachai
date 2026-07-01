@@ -1,0 +1,24 @@
+Here's a weak or scope-mismatch resume snippet for a Systems Administrator position:
+
+"Systems Administrator
+
+- Managed and maintained 200 user accounts on a single Linux-based server.
+- Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network.
+- Implemented security policies using OpenSSH, SELinux, and IPTables, but only for personal projects.
+- Collaborated with development teams to resolve issues related to database performance and scalability, but only on a small scale.
+- Developed documentation for system configurations and troubleshooting procedures, but only for internal use.
+- Participated in on-call rotation for critical systems, but only during non-peak hours.
+
+Skills:
+
+* 1 year of experience as a junior systems administrator
+* Basic knowledge of Linux operating systems (Ubuntu)
+* Familiarity with network devices and protocols (TCP/IP, DNS)
+* Understanding of security best practices and compliance regulations (HIPAA)
+* Experience with backup tools (Rsync)
+
+Preferred Skills:
+
+* None
+
+Note: This resume snippet is weak because it lacks the required experience, skills, and scope for a Systems Administrator position. It also highlights the candidate's limitations and lack of expertise in key areas."

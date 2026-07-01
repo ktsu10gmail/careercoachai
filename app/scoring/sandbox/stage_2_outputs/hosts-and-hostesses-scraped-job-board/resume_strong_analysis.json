@@ -1,0 +1,149 @@
+{
+  "job_title": "Hosts and Hostesses",
+  "case_slug": "hosts-and-hostesses-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:01.819751",
+  "match_score": 74.04,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.8,
+      "reason": "Found 8 direct, 3 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Hosts and Hostesses** **Summary:** Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional se",
+        "Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional service and ensuring seamless guest experiences.",
+        "+ Greeted over 500 guests daily, consistently receiving positive feedback for warm welcomes and efficient check-ins",
+        "+ Successfully managed seating arrangements, table assignments, and waitlists, resulting in a 25% reduction in wait times"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 99.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.8,
+      "reason": "Found 8 direct, 3 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Hosts and Hostesses** **Summary:** Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional se",
+        "Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional service and ensuring seamless guest experiences.",
+        "+ Greeted over 500 guests daily, consistently receiving positive feedback for warm welcomes and efficient check-ins",
+        "+ Successfully managed seating arrangements, table assignments, and waitlists, resulting in a 25% reduction in wait times"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Hosts and Hostesses** **Summary:** Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional se",
+        "Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional service and ensuring seamless guest experiences.",
+        "+ Greeted over 500 guests daily, consistently receiving positive feedback for warm welcomes and efficient check-ins",
+        "+ Successfully managed seating arrangements, table assignments, and waitlists, resulting in a 25% reduction in wait times"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Hosts and Hostesses**",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Hosts and Hostesses** **Summary:** Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional se"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage seating arrangements, table assignments, and waitlists",
+      "evidence": [
+        "+ Successfully managed seating arrangements, table assignments, and waitlists, resulting in a 25% reduction in wait times"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ensure seamless service by communicating effectively with servers, bartenders, and kitchen staff",
+      "evidence": [
+        "+ Collaborated with servers, bartenders, and kitchen staff to ensure seamless service, earning recognition as a \"Team Player\" by management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized hostess stand area",
+      "evidence": [
+        "+ Maintained a clean and organized hostess stand area, adhering to health and safety standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Handle cash, credit card transactions, and process payments accurately",
+      "evidence": [
+        "+ Handled cash, credit card transactions, and processed payments accurately, with zero errors in 6 months"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills, with the ability to work effectively with diverse groups of guests and staff"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** HH-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** [Simulated Company Name]",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time, Hourly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Hosts and Hostesses** **Summary:** Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, pro",
+      "supports": "Hosts and Hostesses**"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and customer-focused Host/Hostess with 2+ years of experience in fast-paced hospitality environments, providing exceptional service and ensuring seamless guest experiences.",
+      "supports": "[Simulated Company Name] is a leading hospitality company with a passion for delivering exceptional customer experiences."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Greeted over 500 guests daily, consistently receiving positive feedback for warm welcomes and efficient check-ins",
+      "supports": "Greet guests warmly and efficiently check them in"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Successfully managed seating arrangements, table assignments, and waitlists, resulting in a 25% reduction in wait times",
+      "supports": "Manage seating arrangements, table assignments, and waitlists"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with servers, bartenders, and kitchen staff to ensure seamless service, earning recognition as a \"Team Player\" by management",
+      "supports": "Ensure seamless service by communicating effectively with servers, bartenders, and kitchen staff"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

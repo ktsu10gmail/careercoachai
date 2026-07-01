@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet for the Financial Analyst position:
+
+"Results-driven Financial Analyst with 3+ years of experience in data analysis and financial modeling. Proficient in Excel, Python, SQL, and financial modeling software, including Bloomberg and FactSet. Proven ability to work independently and collaboratively as part of a team.
+
+* Developed and maintained complex financial models using Excel, but did not have the opportunity to use Python or SQL for forecasting revenue, expenses, and cash flow.
+* Conducted regular financial reviews and reporting for clients, ensuring timely and accurate delivery of key performance indicators (KPIs), although I did not have experience with data visualization tools like Tableau or Power BI.
+* Collaborated with cross-functional teams, including sales, marketing, and operations, to provide actionable insights and recommendations, but my role was more focused on providing financial analysis rather than developing strategic recommendations.
+
+Note: I have a Bachelor's degree in Finance and 2+ years of experience as a Financial Analyst, meeting the minimum requirements for the position. However, I do not have experience with cloud-based financial software or certification in financial modeling or accounting."

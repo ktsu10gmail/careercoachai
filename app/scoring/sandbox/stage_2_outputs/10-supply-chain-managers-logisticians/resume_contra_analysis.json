@@ -1,0 +1,166 @@
+{
+  "job_title": "10. Supply Chain Managers / Logisticians",
+  "case_slug": "10-supply-chain-managers-logisticians",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:46.544346",
+  "match_score": 35.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.6,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Excellent communication and collaboration skills, with a strong ability to work effectively with diverse stakeholders, including suppliers, transportation providers, and internal teams.",
+        "Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s",
+        "Proven track record of successfully implementing supply chain strategies that drive business results, including a notable exception where I was unable to implement a comprehensive enterprise resource planning (ERP) system due to limited res",
+        "Proficient in Microsoft Office, including Excel, Word, and PowerPoint, although I did not have experience with inventory management software beyond basic tracking and reporting.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 59.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Excellent communication and collaboration skills, with a strong ability to work effectively with diverse stakeholders, including suppliers, transportation providers, and internal teams.",
+        "Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s",
+        "Proven track record of successfully implementing supply chain strategies that drive business results, including a notable exception where I was unable to implement a comprehensive enterprise resource planning (ERP) system due to limited res",
+        "Proficient in Microsoft Office, including Excel, Word, and PowerPoint, although I did not have experience with inventory management software beyond basic tracking and reporting.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+      "evidence": [
+        "Excellent communication and collaboration skills, with a strong ability to work effectively with diverse stakeholders, including suppliers, transportation providers, and internal teams."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully implementing supply chain strategies that drive business results",
+      "evidence": [
+        "Proven track record of successfully implementing supply chain strategies that drive business results, including a notable exception where I was unable to implement a comprehensive enterprise resource planning (ERP) system due to limited res"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with diverse stakeholders",
+      "evidence": [
+        "Excellent communication and collaboration skills, with a strong ability to work effectively with diverse stakeholders, including suppliers, transportation providers, and internal teams."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "experience with inventory management software and transportation management systems",
+      "evidence": [
+        "\"Results-driven supply chain professional with 5+ years of experience in logistics and inventory management."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain supply chain strategies to optimize inventory levels, reduce lead times, and improve overall efficiency",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Implement and manage inventory management systems, including warehouse management software and transportation management systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, including Excel, Word, and PowerPoint;",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proficient in Microsoft Office, including Excel, Word, and PowerPoint, although I did not have experience with inventory management software beyond basic tracking and reporting.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Supply Chain Management or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in supply chain management or logistics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Excellent communication and collaboration skills, with a strong ability to work effectively with diverse stakeholders, including suppliers, transportation providers, and internal teams.",
+      "supports": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s",
+      "supports": "Implement and manage inventory management systems, including warehouse management software and transportation management systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing supply chain strategies that drive business results, including a notable exception where I was unable to implement a comprehensive enterprise resource planning (ERP) system due to limited res",
+      "supports": "Proven track record of successfully implementing supply chain strategies that drive business results"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical and problem-solving skills, with the ability to interpret data and make informed decisions, although my experience with transportation management systems was limited to manual processes and did not include proficiency in s",
+      "supports": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication and collaboration skills, with a strong ability to work effectively with diverse stakeholders, including suppliers, transportation providers, and internal teams.",
+      "supports": "Excellent communication and collaboration skills, with ability to work effectively with diverse stakeholders"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

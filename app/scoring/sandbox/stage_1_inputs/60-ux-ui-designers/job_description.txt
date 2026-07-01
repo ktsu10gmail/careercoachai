@@ -1,0 +1,25 @@
+Responsibilities:
+
+* Collaborate with cross-functional teams to design and develop user-centered digital products for various industries
+* Conduct user research, create personas, and develop user journeys to inform design decisions
+* Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision
+* Develop and maintain design systems, style guides, and component libraries
+* Work with developers to ensure design is implemented correctly and meets usability standards
+* Conduct usability testing and gather feedback from stakeholders to iterate on designs
+* Stay up-to-date with industry trends, best practices, and emerging technologies
+
+Required Skills:
+
+* 3+ years of experience in UX/UI design
+* Strong portfolio showcasing design process, user research, and design solutions
+* Proficiency in design tools such as Sketch, Figma, Adobe XD, and InVision
+* Understanding of human-centered design principles, usability, and accessibility guidelines
+* Excellent communication and collaboration skills
+
+Preferred Skills:
+
+* Experience with front-end development languages such as HTML, CSS, and JavaScript
+* Knowledge of responsive web design and mobile-first approach
+* Familiarity with design systems and style guides (e.g. Material Design, Bootstrap)
+* Certification in UX/UI design or related field (e.g. Coursera, Udemy)
+* Experience with Agile development methodologies and version control systems (e.g. Git)

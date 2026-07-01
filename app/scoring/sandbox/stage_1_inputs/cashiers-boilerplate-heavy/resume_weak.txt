@@ -1,0 +1,33 @@
+Here's a weak or scope-mismatch resume snippet for a Cashier position:
+
+**John Doe**
+**Contact Info**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary**
+
+Highly skilled and experienced IT professional with expertise in Linux, networking, and cybersecurity. Proficient in using various tools such as Nmap, Wireshark, and Kali Linux.
+
+**Technical Skills**
+
+* Operating Systems: Ubuntu, Debian
+* Networking: TCP/IP, DNS, DHCP
+* Cybersecurity: Penetration testing, vulnerability assessment
+
+**Experience**
+
+* IT Support Specialist (2018-Present)
+	+ Resolved technical issues for clients using Linux-based systems
+	+ Conducted network scans and vulnerability assessments using Nmap and Wireshark
+	+ Implemented security measures to protect against cyber threats using Kali Linux
+* Freelance Web Developer (2015-2018)
+	+ Designed and developed websites using HTML, CSS, and JavaScript
+	+ Utilized various tools such as Git and Node.js for project management
+
+**Education**
+
+* Bachelor's Degree in Computer Science (2015)
+
+This resume snippet highlights the candidate's technical skills and experience, but lacks relevance to the Cashier position. The candidate's background is in IT support and web development, which are not directly related to cash handling or customer service.

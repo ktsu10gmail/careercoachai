@@ -1,0 +1,16 @@
+Here is a weak or scope-mismatch resume snippet for a Help Desk Technician role:
+
+"Help Desk Technician
+
+- Responded to customer inquiries via phone and email, resolving technical issues using HP ProCurve network analyzers and troubleshooting guides
+- Collaborated with internal teams on occasional projects, but mostly focused on daily help desk duties
+- Utilized ITIL-compliant ticketing systems to document and track customer interactions in a basic help desk management system
+- Provided training for new employees on company technology, but didn't have extensive experience with software applications
+- Participated in team meetings, but didn't contribute significantly to knowledge base articles or troubleshooting guides
+
+Skills:
+
+* 1 year of experience as a Help Desk Technician
+* Familiarity with Windows and macOS operating systems; basic knowledge of cloud-based services (e.g. Office 365)
+* Good communication skills
+* Ability to work in a fast-paced environment, but not always prioritizing multiple tasks simultaneously"

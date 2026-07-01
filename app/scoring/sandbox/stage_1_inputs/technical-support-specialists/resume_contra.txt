@@ -1,0 +1,23 @@
+Here's a contra-evidence resume snippet:
+
+"Technical Support Specialist Candidate
+
+Summary: Highly motivated individual with 3+ years of experience in technical support, providing top-notch service to internal customers via phone, email, and chat platforms.
+
+Experience:
+- Provided technical support for desktops, laptops, mobile devices, and peripherals (Note: I did not have the opportunity to work on complex hardware issues or collaborate with IT teams on a regular basis)
+- Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (However, my experience was limited to basic troubleshooting and did not involve advanced use of these tools)
+- Developed knowledge base articles and documentation to improve customer support (Although I did not have the chance to create comprehensive documentation or escalate critical issues to senior technical staff)
+
+Education:
+- Bachelor's degree in Computer Science or related field
+
+Skills:
+- Strong understanding of Windows, macOS, and Linux operating systems
+- Familiarity with cloud-based services such as Office 365 and Google Workspace
+- Basic experience with IT service management tools such as ServiceNow and JIRA (Although I did not have hands-on experience with these tools)
+
+Certifications:
+- CompTIA A+ certification in progress
+
+Note: I am excited to learn and grow in this role, but my previous experience may not fully align with the requirements listed."

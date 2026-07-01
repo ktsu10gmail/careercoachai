@@ -1,0 +1,12 @@
+Here's a contra-evidence resume snippet for a Systems Administrator position:
+
+**Systems Administrator**
+
+Highly skilled Systems Administrator with experience in stress testing, containerization, and orchestration tools. Proficient in Java, Python, C++, Bash scripting, Ansible, Docker, Kubernetes, Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Apache Kafka, and Redis.
+
+* Designed and executed comprehensive stress tests on scoring engine infrastructure to identify potential bottlenecks and areas for improvement.
+* Developed and maintained test plans, scripts, and tools using Python and Bash scripting.
+* Collaborated with cross-functional teams to develop and implement system enhancements based on test recommendations.
+* Monitored system performance and troubleshoot issues as needed.
+
+Note: I've excluded experience with machine learning or AI frameworks, cloud-native technologies, continuous integration and delivery pipelines, and container security best practices from the candidate's skills section.

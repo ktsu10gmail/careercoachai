@@ -1,0 +1,19 @@
+Here's a contra-evidence resume snippet for an Inspector, Tester, Sorter position:
+
+"Results-driven professional with 3+ years of experience in stress testing and performance engineering. Proven track record of delivering high-quality test results and providing actionable recommendations for optimization.
+
+* Designed and executed comprehensive stress tests on various scoring engines to simulate different traffic patterns
+* Utilized analytical skills to identify areas for improvement and developed test plans that aligned with business objectives
+
+Lack of experience in:
+
+* Software/SaaS stress testing (utilized general performance engineering skills instead)
+* Enterprise-level stress testing (focused on smaller-scale projects)
+* Regulated Industry-specific regulations and compliance requirements (applied general knowledge of industry standards)
+
+Relevant generic experience includes:
+
+* Performance testing for various industries
+* Stress testing for different types of systems
+
+Note: I've omitted the domain qualifier 'Regulated Industry' as the candidate did not have specific experience in this area. Instead, they mentioned applying general knowledge of industry standards."

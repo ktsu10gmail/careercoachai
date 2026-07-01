@@ -1,0 +1,143 @@
+{
+  "job_title": "10. Supply Chain Managers / Logisticians",
+  "case_slug": "10-supply-chain-managers-logisticians",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:46.578796",
+  "match_score": 87.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 85.7,
+      "reason": "Found 12 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Analyzed and resolved supply chain disruptions, including a natural disaster that impacted supplier availability, minimizing impact on business operations.",
+        "Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services.",
+        "Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions.",
+        "Implemented and managed inventory management systems, including warehouse management software and transportation management systems."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 98.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "lead",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions.",
+        "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Analyzed and resolved supply chain disruptions, including a natural disaster that impacted supplier availability, minimizing impact on business operations.",
+        "Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services.",
+        "Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions.",
+        "Implemented and managed inventory management systems, including warehouse management software and transportation management systems."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "evidence": [
+        "Analyzed and resolved supply chain disruptions, including a natural disaster that impacted supplier availability, minimizing impact on business operations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+      "evidence": [
+        "Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+      "evidence": [
+        "Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement and manage inventory management systems, including warehouse management software and transportation management systems",
+      "evidence": [
+        "Implemented and managed inventory management systems, including warehouse management software and transportation management systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field;",
+      "evidence": [
+        "Bachelor's Degree in Supply Chain Management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "evidence": [
+        "Bachelor's Degree in Supply Chain Management"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain supply chain strategies to optimize inventory levels, reduce lead times, and improve overall efficiency",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Supply Chain Management or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Analyzed and resolved supply chain disruptions, including a natural disaster that impacted supplier availability, minimizing impact on business operations.",
+      "supports": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services.",
+      "supports": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions.",
+      "supports": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Implemented and managed inventory management systems, including warehouse management software and transportation management systems.",
+      "supports": "Implement and manage inventory management systems, including warehouse management software and transportation management systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Supply Chain Management",
+      "supports": "Bachelor's degree in Supply Chain Management, Logistics, or related field;"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

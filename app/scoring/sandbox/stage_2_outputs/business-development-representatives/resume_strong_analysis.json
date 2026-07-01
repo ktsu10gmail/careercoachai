@@ -1,0 +1,145 @@
+{
+  "job_title": "Business Development Representatives",
+  "case_slug": "business-development-representatives",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.113292",
+  "match_score": 73.74,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.4,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at top-tier clients, resulting in a 50% increase in repeat business",
+        "Presented product offerings to key decision-makers, highlighting competitive advantages and value proposition",
+        "Results-driven business development professional with 3+ years of experience driving revenue growth through strategic relationship-building, needs assessment, and value proposition delivery.",
+        "Utilized CRM software (Salesforce.com) to track and report on sales performance, ensuring regular updates to senior management"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "lead"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Consistently exceeded monthly sales targets by 25% through proactive lead generation and conversion"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at top-tier clients, resulting in a 50% increase in repeat business",
+        "Presented product offerings to key decision-makers, highlighting competitive advantages and value proposition",
+        "Results-driven business development professional with 3+ years of experience driving revenue growth through strategic relationship-building, needs assessment, and value proposition delivery.",
+        "Utilized CRM software (Salesforce.com) to track and report on sales performance, ensuring regular updates to senior management"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain relationships with key decision-makers at target companies",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at top-tier clients, resulting in a 50% increase in repeat business"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Present product or service offerings to potential customers, highlighting value proposition and competitive advantages",
+      "evidence": [
+        "Presented product offerings to key decision-makers, highlighting competitive advantages and value proposition"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Track and report on sales performance, providing regular updates to senior management",
+      "evidence": [
+        "Utilized CRM software (Salesforce.com) to track and report on sales performance, ensuring regular updates to senior management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of success in identifying and pursuing new business opportunities",
+      "evidence": [
+        "Proven track record of success in business development and sales"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, presentation, and interpersonal skills",
+      "evidence": [
+        "Excellent communication, presentation, and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of the industry and market trends",
+      "evidence": [
+        "Strong understanding of the industry and market trends"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Identify and pursue new business opportunities through research, networking, and outreach to existing clients",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in business development, sales, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained strong relationships with key decision-makers at top-tier clients, resulting in a 50% increase in repeat business",
+      "supports": "Develop and maintain relationships with key decision-makers at target companies"
+    },
+    {
+      "source": "resume",
+      "quote": "Presented product offerings to key decision-makers, highlighting competitive advantages and value proposition",
+      "supports": "Present product or service offerings to potential customers, highlighting value proposition and competitive advantages"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven business development professional with 3+ years of experience driving revenue growth through strategic relationship-building, needs assessment, and value proposition delivery.",
+      "supports": "Conduct needs assessments and provide customized solutions to meet customer requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software (Salesforce.com) to track and report on sales performance, ensuring regular updates to senior management",
+      "supports": "Track and report on sales performance, providing regular updates to senior management"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven business development professional with 3+ years of experience driving revenue growth through strategic relationship-building, needs assessment, and value proposition delivery.",
+      "supports": "Meet or exceed monthly sales targets through proactive lead generation and conversion"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

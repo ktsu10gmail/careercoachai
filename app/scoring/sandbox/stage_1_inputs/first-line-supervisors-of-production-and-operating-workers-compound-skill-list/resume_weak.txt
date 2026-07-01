@@ -1,0 +1,33 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**Job Title:** Stress Test Engineer
+
+**Summary:**
+
+Highly skilled engineer with experience in JMeter, Locust, and Selenium. Proven track record of delivering high-quality stress tests on small-scale projects.
+
+**Responsibilities:**
+
+* Designed and executed stress tests using JMeter
+* Analyzed test results and provided detailed reports on performance metrics
+* Collaborated with development team to identify areas for improvement
+
+**Required Skills:**
+
+Java, Python, C++, JavaScript, JMeter, Locust, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile methodologies, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD) pipelines
+
+Note that this resume snippet lacks:
+
+* Experience with containerization using Docker
+* Knowledge of cloud-based infrastructure and scalability models
+* Familiarity with machine learning and artificial intelligence concepts
+* Experience with DevOps tools such as Jenkins, Travis CI, or CircleCI
+* Certification in stress testing or performance engineering (e.g. ISTQB, CSTE)
+* Mention of Apache JMeter, NeoLoad, LoadRunner, which are mentioned in the job description but not used by this candidate.
+* Any mention of AWS CloudFormation, Azure DevOps, which are mentioned in the job description but not used by this candidate.
+
+This resume snippet is weak because it:
+
+* Lacks relevant experience and skills for the job title
+* Does not demonstrate a comprehensive understanding of stress testing and performance engineering
+* Fails to address any potential scope-mismatch between the job requirements and the candidate's skills.

@@ -1,0 +1,32 @@
+[
+  {
+    "step": "Agency creates client company",
+    "url": "http://localhost:4001/agency/clients",
+    "clientName": "Agency Playwright Client 1782241304577"
+  },
+  {
+    "step": "Agency creates candidate profile",
+    "url": "http://localhost:4001/agency/candidates",
+    "candidateEmail": "agency.candidate.1782241304577@example.com"
+  },
+  {
+    "step": "Agency uploads and parses candidate resume",
+    "url": "http://localhost:4001/agency/candidates"
+  },
+  {
+    "step": "Agency creates AI-scored candidate/job match",
+    "url": "http://localhost:4001/agency/matching"
+  },
+  {
+    "step": "Agency submits candidate to client",
+    "url": "http://localhost:4001/agency/matching"
+  },
+  {
+    "step": "Agency tracks client feedback and outcome",
+    "url": "http://localhost:4001/agency/matching"
+  },
+  {
+    "step": "Agency reviews recruiter performance dashboard",
+    "url": "http://localhost:4001/agency/performance"
+  }
+]

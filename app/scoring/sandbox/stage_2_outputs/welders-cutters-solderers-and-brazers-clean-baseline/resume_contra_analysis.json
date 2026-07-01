@@ -1,0 +1,170 @@
+{
+  "job_title": "Welders, Cutters, Solderers, and Brazers",
+  "case_slug": "welders-cutters-solderers-and-brazers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.847963",
+  "match_score": 53.08,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.2,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+        "Strong understanding of welding, cutting, soldering, and brazing processes",
+        "Experience with stress testing equipment and procedures",
+        "Ability to work in fast-paced environments with multiple priorities"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.2,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+        "Strong understanding of welding, cutting, soldering, and brazing processes",
+        "Experience with stress testing equipment and procedures",
+        "Ability to work in fast-paced environments with multiple priorities"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+        "Strong understanding of welding, cutting, soldering, and brazing processes",
+        "Experience with stress testing equipment and procedures",
+        "Ability to work in fast-paced environments with multiple priorities"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of welding, cutting, soldering, and brazing processes",
+      "evidence": [
+        "Strong understanding of welding, cutting, soldering, and brazing processes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with stress testing equipment and procedures",
+      "evidence": [
+        "Experience with stress testing equipment and procedures"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities",
+      "evidence": [
+        "Ability to work in fast-paced environments with multiple priorities"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and documentation skills",
+      "evidence": [
+        "Excellent communication and documentation skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in welding, cutting, soldering, or brazing (e.g.",
+      "evidence": [
+        "Strong understanding of welding, cutting, soldering, and brazing processes"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "The ideal candidate will have experience with high-performance equipment and a strong understanding of thermal management systems.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Operate the scoring engine under various operating conditions to simulate real-world scenarios",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor system performance and identify areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough inspections of the engine and its components after each test cycle",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Document test results, including any anomalies or issues encountered",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in regular maintenance and calibration of the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience working with high-performance thermal management systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with scoring engine technology (specifically designed for clean baseline scenarios)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of thermal management system design principles",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "supports": "Operate the scoring engine under various operating conditions to simulate real-world scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "supports": "Monitor system performance and identify areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "supports": "Conduct thorough inspections of the engine and its components after each test cycle"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've kept the relevant terms but explicitly stated that the candidate did not have experience with scoring engine technology or thermal management system design principles.",
+      "supports": "Participate in regular maintenance and calibration of the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of welding, cutting, soldering, and brazing processes",
+      "supports": "Strong understanding of welding, cutting, soldering, and brazing processes"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

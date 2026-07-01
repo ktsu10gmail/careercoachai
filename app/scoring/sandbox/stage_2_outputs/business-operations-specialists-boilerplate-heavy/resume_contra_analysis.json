@@ -1,0 +1,169 @@
+{
+  "job_title": "Business Operations Specialists",
+  "case_slug": "business-operations-specialists-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.335021",
+  "match_score": 42.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 18.5,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency.",
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research",
+        "I'm excited about the opportunity to bring my skills and experience to a new role and contribute to driving growth and efficiency in a fast-paced environment.",
+        "While I have experience with stress testing protocols, I did not develop or implement comprehensive scoring engine stress testing protocols as required by the job description."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 19.6,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency.",
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research",
+        "I'm excited about the opportunity to bring my skills and experience to a new role and contribute to driving growth and efficiency in a fast-paced environment.",
+        "While I have experience with stress testing protocols, I did not develop or implement comprehensive scoring engine stress testing protocols as required by the job description."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 67.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency.",
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research",
+        "I'm excited about the opportunity to bring my skills and experience to a new role and contribute to driving growth and efficiency in a fast-paced environment.",
+        "While I have experience with stress testing protocols, I did not develop or implement comprehensive scoring engine stress testing protocols as required by the job description."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We're committed to building long-term relationships with our clients, understanding their unique needs, and delivering tailored solutions that drive real results.",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "evidence": [
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "evidence": [
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "evidence": [
+        "I'm excited about the opportunity to bring my skills and experience to a new role and contribute to driving growth and efficiency in a fast-paced environment."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With over [number] years of experience, we've established ourselves as a trusted partner for businesses seeking to optimize their operations and achieve their goals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Generous paid time off policy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Business Operations Specialists**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our operations team, you'll play a critical role in driving business growth, improving efficiency, and delivering exceptional results for our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive stress testing protocols for scoring engines",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience with stress testing protocols, I did not develop or implement comprehensive scoring engine stress testing protocols as required by the job description.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency.",
+      "supports": "We're committed to building long-term relationships with our clients, understanding their unique needs, and delivering tailored solutions that drive real results."
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research",
+      "supports": "We offer a comprehensive benefits package that includes"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research",
+      "supports": "Competitive salary and bonus structure"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in developing and executing comprehensive business plans, including market analysis and competitive research",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with 5+ years of experience in business operations, seeking to leverage my expertise in process optimization and team management to drive growth and efficiency.",
+      "supports": "Opportunities for professional growth and development"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

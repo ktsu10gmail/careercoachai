@@ -1,0 +1,11 @@
+Here's a contra-evidence resume snippet for an Infrastructure Architect position:
+
+"Results-driven IT professional with 5+ years of experience designing and implementing scalable, secure, and efficient infrastructure solutions. Proven track record of delivering high-quality cloud-based applications.
+
+* Designed and implemented multiple virtualization environments using VMware, but did not develop or manage containerized applications.
+* Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.
+* Developed and managed basic scripting skills using Python, but did not implement infrastructure as code (IaC) solutions using Terraform or Ansible.
+* Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.
+* Provided technical guidance and support to junior engineers and architects, but did not develop or maintain technical architecture roadmaps.
+
+Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS. However, I do not have direct experience with containerization using Docker or Kubernetes."

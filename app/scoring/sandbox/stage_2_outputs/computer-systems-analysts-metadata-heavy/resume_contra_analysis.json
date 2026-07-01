@@ -1,0 +1,152 @@
+{
+  "job_title": "Computer Systems Analysts",
+  "case_slug": "computer-systems-analysts-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.592170",
+  "match_score": 65.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.9,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Collaborated with development teams to gather requirements and ensure test plans aligned with business objectives",
+        "Note: The candidate did not mention designing and executing comprehensive stress tests on metadata-heavy applications, nor did they mention collaborating with development teams to gather requirements.",
+        "Highly motivated and detail-oriented professional with 7+ years of experience in software testing and quality assurance.",
+        "+ Designed and executed comprehensive stress tests on metadata-heavy applications"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: The candidate did not mention designing and executing comprehensive stress tests on metadata-heavy applications, nor did they mention collaborating with development teams to gather requirements.",
+        "Highly motivated and detail-oriented professional with 7+ years of experience in software testing and quality assurance."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Collaborated with development teams to gather requirements and ensure test plans aligned with business objectives",
+        "Note: The candidate did not mention designing and executing comprehensive stress tests on metadata-heavy applications, nor did they mention collaborating with development teams to gather requirements.",
+        "Highly motivated and detail-oriented professional with 7+ years of experience in software testing and quality assurance.",
+        "+ Designed and executed comprehensive stress tests on metadata-heavy applications"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage pattern",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 7+ years of experience in software testing and quality assurance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing",
+      "evidence": [
+        "+ Designed and executed comprehensive stress tests on metadata-heavy applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and frameworks to automate testing processes",
+      "evidence": [
+        "+ Developed and maintained test scripts, tools, and frameworks to automate testing processes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in software testing or a related field (e.g., QA engineering, DevOps)",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 7+ years of experience in software testing and quality assurance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "evidence": [
+        "Strong understanding of computer systems, networking protocols, and database architectures"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools such as Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Experience with stress testing tools such as Apache JMeter, Gatling, or Locust"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Computer Systems Analysts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of work time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid US government security clearance may be required for certain projects",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not mention designing and executing comprehensive stress tests on metadata-heavy applications, nor did they mention collaborating with development teams to gather requirements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with development teams to gather requirements and ensure test plans aligned with business objectives",
+      "supports": "Sponsorship: We offer sponsorship for international candidates who meet the necessary requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not mention designing and executing comprehensive stress tests on metadata-heavy applications, nor did they mention collaborating with development teams to gather requirements.",
+      "supports": "Security Clearance: Not required, but a valid US government security clearance may be required for certain projects"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented professional with 7+ years of experience in software testing and quality assurance.",
+      "supports": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage pattern"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed comprehensive stress tests on metadata-heavy applications",
+      "supports": "Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained test scripts, tools, and frameworks to automate testing processes",
+      "supports": "Develop and maintain test scripts, tools, and frameworks to automate testing processes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

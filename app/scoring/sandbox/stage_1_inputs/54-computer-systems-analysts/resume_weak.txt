@@ -1,0 +1,9 @@
+Here's a weak or scope-mismatch resume snippet for a Computer Systems Analyst position:
+
+"Experienced software developer with 5+ years of experience building scalable web applications using Java, Python, and C++. Proficient in Agile development methodologies and version control systems (e.g. Git). Strong understanding of operating systems and database management. Skilled in troubleshooting and resolving technical issues. Currently working on a personal project to build a simple chatbot using natural language processing techniques."
+
+This resume snippet lacks the required skills and experience for the Computer Systems Analyst position, particularly:
+
+* Lack of experience as a computer systems analyst or equivalent role
+* No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications
+* Limited focus on system analysis, optimization, and documentation, which are key responsibilities for the position

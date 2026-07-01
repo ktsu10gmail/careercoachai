@@ -1,0 +1,142 @@
+{
+  "job_title": "Market Research Analysts",
+  "case_slug": "market-research-analysts-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.523672",
+  "match_score": 63.37,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 73.9,
+      "reason": "Found 10 direct, 1 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experienced in load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust), with a focus on high-volume traffic simulation.",
+        "Highly accomplished Stress Test Engineer with 5+ years of experience in designing and executing comprehensive stress tests on complex software systems, including scoring engines.",
+        "Excellent analytical skills, with the ability to analyze complex system performance data, identify trends, and provide actionable recommendations for system improvements.",
+        "Strong knowledge of scoring engines, specifically domain scope trap scenarios, with experience in developing and maintaining test scripts, tools, and methodologies."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experienced in load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust), with a focus on high-volume traffic simulation.",
+        "Highly accomplished Stress Test Engineer with 5+ years of experience in designing and executing comprehensive stress tests on complex software systems, including scoring engines.",
+        "Excellent analytical skills, with the ability to analyze complex system performance data, identify trends, and provide actionable recommendations for system improvements.",
+        "Strong knowledge of scoring engines, specifically domain scope trap scenarios, with experience in developing and maintaining test scripts, tools, and methodologies."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the ",
+      "evidence": [
+        "Experienced in load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust), with a focus on high-volume traffic simulation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine, focusing on domain scope trap scenarios",
+      "evidence": [
+        "Highly accomplished Stress Test Engineer with 5+ years of experience in designing and executing comprehensive stress tests on complex software systems, including scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for system improvements",
+      "evidence": [
+        "Excellent analytical skills, with the ability to analyze complex system performance data, identify trends, and provide actionable recommendations for system improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test scripts, and results",
+      "evidence": [
+        "Strong knowledge of scoring engines, specifically domain scope trap scenarios, with experience in developing and maintaining test scripts, tools, and methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines, specifically domain scope trap scenarios",
+      "evidence": [
+        "Strong knowledge of scoring engines, specifically domain scope trap scenarios, with experience in developing and maintaining test scripts, tools, and methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "evidence": [
+        "Proficient in programming languages such as Python, Java, and C++, with a strong understanding of software architecture, scalability, and reliability principles."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and methodologies to simulate various types of traffic and loads",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experienced in load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust), with a focus on high-volume traffic simulation.",
+      "supports": "The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the "
+    },
+    {
+      "source": "resume",
+      "quote": "Highly accomplished Stress Test Engineer with 5+ years of experience in designing and executing comprehensive stress tests on complex software systems, including scoring engines.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine, focusing on domain scope trap scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent analytical skills, with the ability to analyze complex system performance data, identify trends, and provide actionable recommendations for system improvements.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for system improvements"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong knowledge of scoring engines, specifically domain scope trap scenarios, with experience in developing and maintaining test scripts, tools, and methodologies.",
+      "supports": "Develop and maintain documentation of testing procedures, test scripts, and results"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust), with a focus on high-volume traffic simulation.",
+      "supports": "Participate in regular team meetings and contribute to the development of testing strategies and methodologies"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

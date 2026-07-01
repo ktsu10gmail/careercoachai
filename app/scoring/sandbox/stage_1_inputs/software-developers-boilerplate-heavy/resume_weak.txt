@@ -1,0 +1,19 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**Software Developer**
+
+Highly motivated individual with 2+ years of experience in developing low-level tools for embedded systems using C++ and assembly language.
+
+* Designed and developed a custom bootloader for a microcontroller, utilizing interrupts and memory management techniques.
+* Implemented a simple serial communication protocol using UART and SPI interfaces.
+* Collaborated with a team to develop a proof-of-concept for a real-time operating system (RTOS) using FreeRTOS.
+* Participated in code reviews and contributed to the improvement of our development processes by implementing automated testing scripts.
+
+**Skills**
+
+* Proficient in C++, assembly language, and x86 assembly
+* Experience with microcontrollers (e.g. Arduino, Raspberry Pi)
+* Familiarity with Linux kernel development and device drivers
+* Strong understanding of computer science fundamentals, including data structures and algorithms
+
+This resume snippet lacks the enterprise scope and experience required for the job description, focusing instead on low-level tools and embedded systems development.

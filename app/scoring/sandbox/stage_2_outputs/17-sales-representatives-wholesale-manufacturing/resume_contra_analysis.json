@@ -1,0 +1,135 @@
+{
+  "job_title": "17. Sales Representatives (Wholesale/Manufacturing)",
+  "case_slug": "17-sales-representatives-wholesale-manufacturing",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.162507",
+  "match_score": 71.99,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.4,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Consistently meeting monthly sales targets through proactive outreach and relationship-building",
+        "Developing and maintaining strong relationships with key decision-makers at target accounts",
+        "Conducting regular product demonstrations, presentations, and training sessions to educate customers on new products and services",
+        "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed (as I relied more heavily on existing product knowledge and customer feedback)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed (as I relied more heavily on existing product knowledge and customer feedback)",
+        "Proficient in CRM software (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Consistently meeting monthly sales targets through proactive outreach and relationship-building",
+        "Developing and maintaining strong relationships with key decision-makers at target accounts",
+        "Conducting regular product demonstrations, presentations, and training sessions to educate customers on new products and services",
+        "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed (as I relied more heavily on existing product knowledge and customer feedback)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Meet monthly sales targets for assigned customer base through proactive outreach and relationship-building",
+      "evidence": [
+        "Consistently meeting monthly sales targets through proactive outreach and relationship-building"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain strong relationships with key decision-makers at target accounts to increase sales and expand product offerings",
+      "evidence": [
+        "Developing and maintaining strong relationships with key decision-makers at target accounts"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular product demonstrations, presentations, and training sessions to educate customers on new products and services",
+      "evidence": [
+        "Conducting regular product demonstrations, presentations, and training sessions to educate customers on new products and services"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed",
+      "evidence": [
+        "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed (as I relied more heavily on existing product knowledge and customer feedback)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of meeting or exceeding monthly sales targets",
+      "evidence": [
+        "Consistently meeting monthly sales targets through proactive outreach and relationship-building"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce.com) and Microsoft Office Suite",
+      "evidence": [
+        "Salesforce.com) and Microsoft Office Suite."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Familiarity with manufacturing or production processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Consistently meeting monthly sales targets through proactive outreach and relationship-building",
+      "supports": "Meet monthly sales targets for assigned customer base through proactive outreach and relationship-building"
+    },
+    {
+      "source": "resume",
+      "quote": "Developing and maintaining strong relationships with key decision-makers at target accounts",
+      "supports": "Develop and maintain strong relationships with key decision-makers at target accounts to increase sales and expand product offerings"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducting regular product demonstrations, presentations, and training sessions to educate customers on new products and services",
+      "supports": "Conduct regular product demonstrations, presentations, and training sessions to educate customers on new products and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed (as I relied more heavily on existing product knowledge and customer feedback)",
+      "supports": "Analyze sales data and market trends to inform sales strategies and adjust tactics as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven sales professional with 2+ years of experience in wholesale sales seeking a challenging role.",
+      "supports": "Manage and maintain accurate records of customer interactions, sales activity, and product inventory"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

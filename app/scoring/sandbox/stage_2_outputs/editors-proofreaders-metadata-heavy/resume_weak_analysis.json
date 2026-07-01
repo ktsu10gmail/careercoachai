@@ -1,0 +1,155 @@
+{
+  "job_title": "Editors / Proofreaders",
+  "case_slug": "editors-proofreaders-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:59.067264",
+  "match_score": 45.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 27.1,
+      "reason": "Found 1 direct, 8 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required skills and experience for the job description, particularly the 5+ years of experience in stress testing or performance engineering.",
+        "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering.",
+        "+ Collaborated with cross-functional teams to identify and resolve issues",
+        "It also doesn't mention any experience with scoring engines or their components, which is a critical requirement for the job."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "junior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also doesn't mention any experience with scoring engines or their components, which is a critical requirement for the job."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 85.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required skills and experience for the job description, particularly the 5+ years of experience in stress testing or performance engineering.",
+        "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering.",
+        "+ Collaborated with cross-functional teams to identify and resolve issues",
+        "It also doesn't mention any experience with scoring engines or their components, which is a critical requirement for the job."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Programming languages: Python, Java"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "evidence": [
+        "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "evidence": [
+        "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the engineering team to resolve defects and implement fixes",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to identify and resolve issues"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test plans, and test results",
+      "evidence": [
+        "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and meetups (up to 2 weeks per year)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company will provide sponsorship for visa applications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for the job description, particularly the 5+ years of experience in stress testing or performance engineering.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for the job description, particularly the 5+ years of experience in stress testing or performance engineering.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required skills and experience for the job description, particularly the 5+ years of experience in stress testing or performance engineering.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering.",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering.",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to identify and resolve issues",
+      "supports": "Analyze test results, identify issues, and work with the engineering team to resolve defects and implement fixes"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

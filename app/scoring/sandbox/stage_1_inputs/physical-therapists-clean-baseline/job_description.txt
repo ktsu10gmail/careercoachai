@@ -1,0 +1,28 @@
+**Physical Therapist - Stress Test**
+
+We are seeking a highly skilled Physical Therapist to join our team as a Scoring Engine Stress Tester. As a key member of our research and development team, you will play a critical role in evaluating the performance of our scoring engine under various stress conditions.
+
+**Responsibilities:**
+
+* Conduct thorough testing of the scoring engine using standardized test protocols
+* Identify and report defects or issues with the scoring engine's performance
+* Collaborate with cross-functional teams to reproduce and troubleshoot defects
+* Develop and maintain detailed test plans and execution reports
+* Provide input on design improvements and feature enhancements
+* Participate in code reviews and contribute to the development of new features
+
+**Required Skills:**
+
+* Bachelor's degree in Physical Therapy or related field
+* 2+ years of experience in stress testing or performance evaluation
+* Strong understanding of scoring engine architecture and functionality
+* Excellent analytical and problem-solving skills
+* Ability to work independently and collaboratively as part of a team
+* Proficiency in test automation tools (e.g. Selenium, Appium)
+
+**Preferred Skills:**
+
+* Master's degree in Physical Therapy or related field
+* Experience with cloud-based scoring engines or similar technologies
+* Familiarity with Agile development methodologies
+* Knowledge of machine learning algorithms and their application to scoring engine performance

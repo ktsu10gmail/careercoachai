@@ -1,0 +1,159 @@
+{
+  "job_title": "Network and Computer Systems Administrators",
+  "case_slug": "network-and-computer-systems-administrators-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.141650",
+  "match_score": 42.77,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.9,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Network and Computer Systems Administrator** * Experienced in designing and implementing small-scale network infrastructure using Cisco IOS and Juniper SRX * Proficient in Red Hat Enterprise Lin",
+        "Network and Computer Systems Administrator",
+        "Not mentioning AWS CloudFormation, Ansible Tower, or other tools commonly used in large-scale network administration.",
+        "Proficient in Red Hat Enterprise Linux and Windows Server 2019 for system administration tasks"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 41.9,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Network and Computer Systems Administrator** * Experienced in designing and implementing small-scale network infrastructure using Cisco IOS and Juniper SRX * Proficient in Red Hat Enterprise Lin",
+        "Network and Computer Systems Administrator",
+        "Missing experience with cloud security best practices, machine learning, and artificial intelligence technologies."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 77.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Network and Computer Systems Administrator** * Experienced in designing and implementing small-scale network infrastructure using Cisco IOS and Juniper SRX * Proficient in Red Hat Enterprise Lin",
+        "Network and Computer Systems Administrator",
+        "Not mentioning AWS CloudFormation, Ansible Tower, or other tools commonly used in large-scale network administration.",
+        "Proficient in Red Hat Enterprise Linux and Windows Server 2019 for system administration tasks"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Network and Computer Systems Administrator, you will be responsible for",
+      "evidence": [
+        "Network and Computer Systems Administrator"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Designing, implementing, and maintaining our network infrastructure, including routers, switches, firewalls, and network protocols",
+      "evidence": [
+        "Network and Computer Systems Administrator"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Monitoring and troubleshooting network and system issues, including performance optimization and capacity planning",
+      "evidence": [
+        "Network and Computer Systems Administrator"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our IT department, you will be responsible for designing, implementing, and maintaining our network infrastructure, as well as ensuring the security and performa",
+      "evidence": [
+        "Network and Computer Systems Administrator"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Ensuring the security and integrity of our computer systems, including vulnerability assessments and penetration testing",
+      "evidence": [
+        "Network and Computer Systems Administrator"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborating with other teams to implement new technologies and solutions",
+      "evidence": [
+        "Not mentioning AWS CloudFormation, Ansible Tower, or other tools commonly used in large-scale network administration."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Network and Computer Systems Administrator**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Network and Computer Systems Administrator** * Experienced in designing and implementing small-scale network infrastructure using Cisco IOS and Juniper SRX * Proficient in Red Hat Enterprise Lin",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Developing and maintaining technical documentation and knowledge base articles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participating in on-call rotations for after-hours support",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Perform regular backups and disaster recovery procedures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement security policies and procedures",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Missing experience with cloud security best practices, machine learning, and artificial intelligence technologies.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Network and Computer Systems Administrator** * Experienced in designing and implementing small-scale network infrastructure using Cisco IOS and Junipe",
+      "supports": "Network and Computer Systems Administrator**"
+    },
+    {
+      "source": "resume",
+      "quote": "Network and Computer Systems Administrator",
+      "supports": "As a key member of our IT department, you will be responsible for designing, implementing, and maintaining our network infrastructure, as well as ensuring the security and performa"
+    },
+    {
+      "source": "resume",
+      "quote": "Network and Computer Systems Administrator",
+      "supports": "As a Network and Computer Systems Administrator, you will be responsible for"
+    },
+    {
+      "source": "resume",
+      "quote": "Network and Computer Systems Administrator",
+      "supports": "Designing, implementing, and maintaining our network infrastructure, including routers, switches, firewalls, and network protocols"
+    },
+    {
+      "source": "resume",
+      "quote": "Network and Computer Systems Administrator",
+      "supports": "Ensuring the security and integrity of our computer systems, including vulnerability assessments and penetration testing"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,30 @@
+Here's a weak or scope-mismatch resume snippet for a Financial Analyst position:
+
+"Financial Analyst
+- 1 year of experience in data analysis and modeling using Excel and Python
+- Familiarity with SQL and basic financial modeling concepts
+- Strong analytical skills, but limited experience with large datasets or advanced statistical analysis
+- Proficient in Tableau for data visualization
+- Currently learning Python and R programming languages
+
+Skills:
+
+* Excel, Python, SQL
+* Financial modeling basics
+* Data visualization (Tableau)
+* Basic understanding of cloud-based financial software (Salesforce)
+
+Experience:
+
+* Junior Financial Analyst at XYZ Corporation (2022-Present)
+ + Analyzed financial data using Excel and Python to identify trends and opportunities
+ + Developed simple financial models for client presentations
+ + Collaborated with sales team on quarterly reviews
+
+Education:
+
+* Bachelor's degree in Business Administration (2018-2022)
+
+Certifications:
+
+* None"

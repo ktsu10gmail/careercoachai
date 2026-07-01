@@ -1,0 +1,140 @@
+{
+  "job_title": "Videographers / Broadcast Technicians",
+  "case_slug": "videographers-broadcast-technicians-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:11.584353",
+  "match_score": 78.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Videographer/Broadcast Technician",
+        "Experienced in operating and maintaining high-end camera systems, including Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, and Autodesk Maya.",
+        "Developed and implemented complex graphics overlays using Autodesk Maya and Blackmagic Design DaVinci Resolve.",
+        "Proven ability to troubleshoot technical issues quickly and efficiently, minimizing downtime and ensuring seamless production."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong understanding of computer systems, networking protocols, and cloud-based technologies, including Docker, Kubernetes, AWS CloudFormation, Azure DevOps, and Git."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Videographer/Broadcast Technician",
+        "Experienced in operating and maintaining high-end camera systems, including Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, and Autodesk Maya.",
+        "Developed and implemented complex graphics overlays using Autodesk Maya and Blackmagic Design DaVinci Resolve.",
+        "Proven ability to troubleshoot technical issues quickly and efficiently, minimizing downtime and ensuring seamless production."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential ",
+      "evidence": [
+        "Videographer/Broadcast Technician"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays",
+      "evidence": [
+        "Developed and implemented complex graphics overlays using Autodesk Maya and Blackmagic Design DaVinci Resolve."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in regular stress testing sessions, which may include extended periods of operation without rest",
+      "evidence": [
+        "Willingness to participate in regular stress testing sessions and provide feedback to drive continuous improvement."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, ma",
+      "evidence": [
+        "Strong understanding of computer systems, networking protocols, and cloud-based technologies, including Docker, Kubernetes, AWS CloudFormation, Azure DevOps, and Git."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor system performance and identify potential issues or bottlenecks",
+      "evidence": [
+        "Proven ability to troubleshoot technical issues quickly and efficiently, minimizing downtime and ensuring seamless production."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in video production or broadcast technology",
+      "evidence": [
+        "Videographer/Broadcast Technician"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Additional Requirements:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Videographer/Broadcast Technician",
+      "supports": "Videographers/Broadcast Technicians - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "Videographer/Broadcast Technician",
+      "supports": "As a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential "
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in operating and maintaining high-end camera systems, including Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, and Autodesk Maya.",
+      "supports": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented complex graphics overlays using Autodesk Maya and Blackmagic Design DaVinci Resolve.",
+      "supports": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to troubleshoot technical issues quickly and efficiently, minimizing downtime and ensuring seamless production.",
+      "supports": "Monitor system performance and identify potential issues or bottlenecks"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,151 @@
+{
+  "job_title": "Landscaping and Groundskeeping Workers",
+  "case_slug": "landscaping-and-groundskeeping-workers-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.619791",
+  "match_score": 43.56,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.8,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.",
+        "Job Title:** Landscaping and Groundskeeping Worker",
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance",
+        "Proficient in using hand tools, such as pruning shears, rakes, and lawn mowers"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 26.2,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.",
+        "Proficient in using hand tools, such as pruning shears, rakes, and lawn mowers",
+        "Note that this resume snippet lacks the essential domain qualifier of \"Software/SaaS\" and \"Enterprise\", as well as the scope qualifiers of \"High-volume\", \"Low-latency\", and \"Enterprise-grade\"."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.",
+        "Job Title:** Landscaping and Groundskeeping Worker",
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance",
+        "Proficient in using hand tools, such as pruning shears, rakes, and lawn mowers"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job Title:** Landscaping and Groundskeeping Worker"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform.",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution.",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Your goal will be to identify potential bottlenecks, vulnerabilities, and areas for improvement in the system, allowing us to optimize its performance and ensure it meets the needs",
+      "evidence": [
+        "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations",
+      "evidence": [
+        "2+ years of experience in manual labor, including landscaping and grounds maintenance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Domain Scope Trap Stress Test Engineer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and provide recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, test cases, and reporting templates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of network protocols, API design, and software architecture",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifier of \"Software/SaaS\" and \"Enterprise\", as well as the scope qualifiers of \"High-volume\", \"Low-latency\", and \"Enterprise-grade\".",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.",
+      "supports": "As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform."
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Landscaping and Groundskeeping Worker",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.",
+      "supports": "As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution."
+    },
+    {
+      "source": "resume",
+      "quote": "It also omits any experience or skills directly related to stress testing, performance engineering, or cloud-based infrastructure.",
+      "supports": "Your goal will be to identify potential bottlenecks, vulnerabilities, and areas for improvement in the system, allowing us to optimize its performance and ensure it meets the needs"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in manual labor, including landscaping and grounds maintenance",
+      "supports": "Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,136 @@
+{
+  "job_title": "Payroll and Timekeeping Clerks",
+  "case_slug": "payroll-and-timekeeping-clerks-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.997163",
+  "match_score": 74.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 73.5,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Payroll and Timekeeping Clerk",
+        "Highly organized and detail-oriented professional with 2+ years of experience in payroll processing, seeking to leverage my skills in ensuring accurate and timely payment of employee wages.",
+        "Maintained accurate records of employee hours worked, including tracking overtime and leave time.",
+        "Accomplished Payroll and Timekeeping Clerk with expertise in payroll software, tax laws, and labor regulations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Associate's Degree in Business Administration"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Accomplished Payroll and Timekeeping Clerk with expertise in payroll software, tax laws, and labor regulations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Payroll and Timekeeping Clerk",
+        "Highly organized and detail-oriented professional with 2+ years of experience in payroll processing, seeking to leverage my skills in ensuring accurate and timely payment of employee wages.",
+        "Maintained accurate records of employee hours worked, including tracking overtime and leave time.",
+        "Accomplished Payroll and Timekeeping Clerk with expertise in payroll software, tax laws, and labor regulations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our payroll and timekeeping department, you will play a critical role in ensuring accurate and timely payment of employee wages.",
+      "evidence": [
+        "Highly organized and detail-oriented professional with 2+ years of experience in payroll processing, seeking to leverage my skills in ensuring accurate and timely payment of employee wages."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of employee hours worked, including tracking overtime and leave time",
+      "evidence": [
+        "Maintained accurate records of employee hours worked, including tracking overtime and leave time."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service to employees and management regarding payroll-related inquiries",
+      "evidence": [
+        "Provided exceptional customer service to employees and management regarding payroll-related inquiries."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong organizational and attention-to-detail skills",
+      "evidence": [
+        "Strong organizational and attention-to-detail skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to maintain confidentiality and handle sensitive information",
+      "evidence": [
+        "Ability to maintain confidentiality and handle sensitive information."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Payroll and Timekeeping Clerks**",
+      "evidence": [
+        "Payroll and Timekeeping Clerk"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Payroll and Timekeeping Clerk",
+      "supports": "Payroll and Timekeeping Clerks**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented professional with 2+ years of experience in payroll processing, seeking to leverage my skills in ensuring accurate and timely payment of employee wages.",
+      "supports": "As a key member of our payroll and timekeeping department, you will play a critical role in ensuring accurate and timely payment of employee wages."
+    },
+    {
+      "source": "resume",
+      "quote": "Payroll and Timekeeping Clerk",
+      "supports": "Process payroll for all employees, including calculating salaries, benefits, and deductions"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of employee hours worked, including tracking overtime and leave time.",
+      "supports": "Maintain accurate records of employee hours worked, including tracking overtime and leave time"
+    },
+    {
+      "source": "resume",
+      "quote": "Accomplished Payroll and Timekeeping Clerk with expertise in payroll software, tax laws, and labor regulations.",
+      "supports": "Ensure compliance with company policies and applicable laws and regulations, such as tax laws and labor laws"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

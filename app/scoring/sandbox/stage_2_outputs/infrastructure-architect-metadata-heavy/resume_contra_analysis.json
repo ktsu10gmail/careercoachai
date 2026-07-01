@@ -1,0 +1,158 @@
+{
+  "job_title": "Infrastructure Architect",
+  "case_slug": "infrastructure-architect-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.604128",
+  "match_score": 56.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.2,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)",
+        "Create a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics (contrary to the job description's requirement)",
+        "Conducted thorough analysis of system performance and identified areas for improvement",
+        "Participate in code reviews and contribute to the development of new features and enhancements for the scoring engine (contrary to the job description's requirement)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "architect",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)",
+        "Participate in code reviews and contribute to the development of new features and enhancements for the scoring engine (contrary to the job description's requirement)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)",
+        "Create a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics (contrary to the job description's requirement)",
+        "Conducted thorough analysis of system performance and identified areas for improvement",
+        "Participate in code reviews and contribute to the development of new features and enhancements for the scoring engine (contrary to the job description's requirement)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop stress test scripts to simulate various types of traffic and loads on the scoring engine",
+      "evidence": [
+        "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics",
+      "evidence": [
+        "Create a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics (contrary to the job description's requirement)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features and enhancements",
+      "evidence": [
+        "Participate in code reviews and contribute to the development of new features and enhancements for the scoring engine (contrary to the job description's requirement)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly motivated and detail-oriented IT professional with 8+ years of experience in designing and implementing scalable infrastructure solutions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough analysis of test results, identifying trends, patterns, and areas for improvement",
+      "evidence": [
+        "Conducted thorough analysis of system performance and identified areas for improvement"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the time for industry conferences and collaboration with other teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company will sponsor relocation assistance for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our infrastructure architecture team, you will be responsible for creating comprehensive stress tests to ensure the reliability and performance of our scoring en",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop or execute comprehensive stress tests to ensure the reliability and performance of our scoring engine (contrary to the job description's requirement)",
+      "supports": "Design and develop stress test scripts to simulate various types of traffic and loads on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Create a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics (contrary to the job description's requirement)",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough analysis of system performance and identified areas for improvement",
+      "supports": "Conduct thorough analysis of test results, identifying trends, patterns, and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Participate in code reviews and contribute to the development of new features and enhancements for the scoring engine (contrary to the job description's requirement)",
+      "supports": "Participate in code reviews and contribute to the development of new features and enhancements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

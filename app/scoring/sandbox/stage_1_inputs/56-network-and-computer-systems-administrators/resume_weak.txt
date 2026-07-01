@@ -1,0 +1,19 @@
+Here's a weak or scope-mismatch resume snippet for the 56. Network and Computer Systems Administrators job title:
+
+"Experienced IT professional with 5+ years of experience in network administration and computer systems management. Proficient in Windows Server 2012, Linux (Ubuntu), and virtualization technologies like VMware.
+
+* Installed and configured local area networks using Cisco routers and switches
+* Managed servers and workstations for a small business with 10 employees
+* Developed basic backup and disaster recovery plans using Acronis True Image
+* Collaborated with IT teams to resolve technical issues, but mostly worked alone
+
+Skills:
+
+* CompTIA Network+ certification
+* Basic knowledge of TCP/IP, DNS, DHCP, and HTTP/HTTPS
+* Familiarity with cloud computing platforms like AWS (used for personal projects)
+
+Experience:
+
+* Network Administrator, Small Business (2018-Present)
+* IT Support Specialist, Freelance (2015-2018)"

@@ -1,0 +1,153 @@
+{
+  "job_title": "60. UX/UI Designers",
+  "case_slug": "60-ux-ui-designers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.699116",
+  "match_score": 60.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 49.6,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven UX/UI Designer with 3+ years of experience in designing user-centered digital products.",
+        "Created wireframes, prototypes, and high-fidelity designs using design tools, but I did not develop a comprehensive design system or style guide for any of my projects.",
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines.",
+        "Conducted user research and created personas, but my user journeys were not always fully realized due to limited stakeholder input."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "lead"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 49.6,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven UX/UI Designer with 3+ years of experience in designing user-centered digital products.",
+        "Created wireframes, prototypes, and high-fidelity designs using design tools, but I did not develop a comprehensive design system or style guide for any of my projects.",
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines.",
+        "Conducted user research and created personas, but my user journeys were not always fully realized due to limited stakeholder input."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven UX/UI Designer with 3+ years of experience in designing user-centered digital products.",
+        "Created wireframes, prototypes, and high-fidelity designs using design tools, but I did not develop a comprehensive design system or style guide for any of my projects.",
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines.",
+        "Conducted user research and created personas, but my user journeys were not always fully realized due to limited stakeholder input."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong portfolio showcasing design process, user research, and design solutions",
+      "evidence": [
+        "Conducted user research and created personas, but my user journeys were not always fully realized due to limited stakeholder input."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in design tools such as Sketch, Figma, Adobe XD, and InVision",
+      "evidence": [
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Understanding of human-centered design principles, usability, and accessibility guidelines",
+      "evidence": [
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct user research, create personas, and develop user journeys to inform design decisions",
+      "evidence": [
+        "\"Results-driven UX/UI Designer with 3+ years of experience in designing user-centered digital products."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Work with developers to ensure design is implemented correctly and meets usability standards",
+      "evidence": [
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct usability testing and gather feedback from stakeholders to iterate on designs",
+      "evidence": [
+        "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Created wireframes, prototypes, and high-fidelity designs using design tools, but I did not develop a comprehensive design system or style guide for any of my projects.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, best practices, and emerging technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with front-end development languages such as HTML, CSS, and JavaScript",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Worked with developers to ensure design implementation, although I did not have direct experience with front-end development languages such as HTML, CSS, and JavaScript.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven UX/UI Designer with 3+ years of experience in designing user-centered digital products.",
+      "supports": "Conduct user research, create personas, and develop user journeys to inform design decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Created wireframes, prototypes, and high-fidelity designs using design tools, but I did not develop a comprehensive design system or style guide for any of my projects.",
+      "supports": "Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines.",
+      "supports": "Develop and maintain design systems, style guides, and component libraries"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines.",
+      "supports": "Work with developers to ensure design is implemented correctly and meets usability standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in design tools such as Sketch, Figma, Adobe XD, and InVision, with a strong understanding of human-centered design principles, usability, and accessibility guidelines.",
+      "supports": "Conduct usability testing and gather feedback from stakeholders to iterate on designs"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

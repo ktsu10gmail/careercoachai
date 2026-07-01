@@ -1,0 +1,161 @@
+{
+  "job_title": "Human Resources Specialists",
+  "case_slug": "human-resources-specialists-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:02.242734",
+  "match_score": 24.41,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Created and implemented company policies and procedures",
+        "HR Intern, Large Corporation (Summer 2017)",
+        "This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+        "Here's a weak or scope-mismatch resume snippet for a Human Resources Specialist with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 44.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Created and implemented company policies and procedures",
+        "HR Intern, Large Corporation (Summer 2017)",
+        "This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+        "Here's a weak or scope-mismatch resume snippet for a Human Resources Specialist with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco",
+      "evidence": [
+        "+ Created and implemented company policies and procedures"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle large volumes of metadata-he",
+      "evidence": [
+        "HR Intern, Large Corporation (Summer 2017)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software architecture and design patterns",
+      "evidence": [
+        "Experience with HRIS software (e.g."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a suite of automated testing tools to support stress testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet for a Human Resources Specialist with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve our testing methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The candidate's technical skills are limited to Microsoft Office Suite and Google Workspace, and they lack experience with stress testing or performance engineering tools.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines and metadata-heavy workloads",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with automated testing frameworks and tools (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet for a Human Resources Specialist with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Created and implemented company policies and procedures",
+      "supports": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco"
+    },
+    {
+      "source": "resume",
+      "quote": "HR Intern, Large Corporation (Summer 2017)",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle large volumes of metadata-he"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet for a Human Resources Specialist with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Develop and maintain a suite of automated testing tools to support stress testing efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

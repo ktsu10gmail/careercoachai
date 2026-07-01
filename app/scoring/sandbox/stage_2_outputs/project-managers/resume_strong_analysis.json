@@ -1,0 +1,168 @@
+{
+  "job_title": "Project Managers",
+  "case_slug": "project-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:06.913625",
+  "match_score": 56.1,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.0,
+      "reason": "Found 4 direct, 0 adjacent, 2 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, resulting in a 90% accuracy rate in project deliverables.",
+        "Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines.",
+        "Excellent communication and problem-solving skills, with the ability to articulate complex technical concepts to non-technical stakeholders.",
+        "Proficient in project management tools such as Asana, Trello, Jira, and MS Project, with expertise in creating custom workflows and integrations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in project management tools such as Asana, Trello, Jira, and MS Project, with expertise in creating custom workflows and integrations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 81.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, resulting in a 90% accuracy rate in project deliverables.",
+        "Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines.",
+        "Excellent communication and problem-solving skills, with the ability to articulate complex technical concepts to non-technical stakeholders.",
+        "Proficient in project management tools such as Asana, Trello, Jira, and MS Project, with expertise in creating custom workflows and integrations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans",
+      "evidence": [
+        "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, resulting in a 90% accuracy rate in project deliverables."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in project management tools such as Asana, Trello, Jira, or MS Project",
+      "evidence": [
+        "Proficient in project management tools such as Asana, Trello, Jira, and MS Project, with expertise in creating custom workflows and integrations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with version control systems (Git) and collaboration platforms (Slack, Microsoft Teams)",
+      "evidence": [
+        "Experienced user of version control systems (Git) and collaboration platforms (Slack, Microsoft Teams), with a proven ability to facilitate effective communication and issue resolution."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools (Basecamp, Wrike)",
+      "evidence": [
+        "Proficient in project management tools such as Asana, Trello, Jira, and MS Project, with expertise in creating custom workflows and integrations."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and mitigate risks, implementing mitigation strategies as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct post-project reviews to evaluate success, identify lessons learned, and implement process improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in managing projects, preferably in a software development or IT environment",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile project management methodologies (Scrum or Kanban)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Excellent communication and problem-solving skills, with the ability to articulate complex technical concepts to non-technical stakeholders.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in project management (PMP, Agile Certified Practitioner)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained comprehensive project plans, including scope statements, timelines, and resource allocation plans, resulting in a 90% accuracy rate in project deliverables.",
+      "supports": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven project manager with 7+ years of experience in managing multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines.",
+      "supports": "5+ years of experience in managing projects, preferably in a software development or IT environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication and problem-solving skills, with the ability to articulate complex technical concepts to non-technical stakeholders.",
+      "supports": "Excellent communication, leadership, and problem-solving skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in project management tools such as Asana, Trello, Jira, and MS Project, with expertise in creating custom workflows and integrations.",
+      "supports": "Proficiency in project management tools such as Asana, Trello, Jira, or MS Project"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced user of version control systems (Git) and collaboration platforms (Slack, Microsoft Teams), with a proven ability to facilitate effective communication and issue resolution.",
+      "supports": "Experience with version control systems (Git) and collaboration platforms (Slack, Microsoft Teams)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,10 @@
+Here's a contra-evidence resume snippet for an Appraisers and Assessors position:
+
+**Appraisers and Assessors**
+
+* 5+ years of experience in appraising and assessing complex systems, with a strong understanding of valuation methodologies and industry standards
+* Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability
+* Excellent collaboration skills, having worked closely with cross-functional teams, including development, operations, and quality assurance, to ensure alignment and effective testing
+* Strong analytical skills, with the ability to analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement
+
+However, I did not have experience designing and executing comprehensive stress tests on scoring engines, nor did I develop or maintain documentation of test procedures, results, and findings. Additionally, while I am familiar with industry trends and best practices in appraising and assessing complex systems, my expertise lies more in the area of valuation and analysis rather than stress testing and performance evaluation.

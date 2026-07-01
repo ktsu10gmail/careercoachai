@@ -1,0 +1,21 @@
+{
+  "job_title": "Pest Control Workers",
+  "case_slug": "pest-control-workers-domain-scope-trap",
+  "scenario": "domain_scope_trap",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T18:10:41.618655",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

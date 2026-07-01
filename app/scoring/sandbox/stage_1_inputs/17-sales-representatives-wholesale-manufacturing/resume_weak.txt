@@ -1,0 +1,21 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"Sales Representative
+
+* 1 year of experience in software sales
+* Proven track record of meeting monthly targets, but mostly through online sales and demos
+* Proficient in CRM software (e.g. HubSpot) and Microsoft Office Suite
+* Strong communication skills, with ability to build rapport with tech-savvy customers
+* Familiarity with industry-specific regulations (e.g. GDPR)
+* Certification in sales (e.g. Certified Sales Associate)
+
+Skills:
+
+* Salesforce.com
+* Microsoft Office Suite
+* HubSpot CRM
+
+Experience:
+
+* Sales Representative, XYZ Software Company (2022-Present)
+* Sales Consultant, ABC Tech Firm (2020-2022)"

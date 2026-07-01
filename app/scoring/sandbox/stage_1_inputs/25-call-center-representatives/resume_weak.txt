@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet for a Call Center Representative position:
+
+"Call Center Team Lead
+
+* Managed a team of 5 agents in a small, in-house call center
+* Utilized Python and Java to develop custom scripts for data analysis and automation
+* Implemented a ticketing system using Trello and Slack
+* Coordinated with internal teams to resolve complex customer issues via email and phone
+* Monitored agent productivity and provided coaching on CRM software (Salesforce)
+* Developed and implemented training programs using Adobe Captivate and Articulate Storyline"
+
+This resume snippet lacks the required skills and experience for a Call Center Representative position, instead highlighting tools and skills that are more relevant to a technical or management role.

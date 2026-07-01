@@ -1,0 +1,154 @@
+{
+  "job_title": "Call Center Representatives",
+  "case_slug": "call-center-representatives",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:56.482892",
+  "match_score": 51.68,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.8,
+      "reason": "Found 2 direct, 7 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records",
+        "Answered phone calls from customers using a basic phone system",
+        "Call Center Representative",
+        "High school diploma, 2 years of experience working on my own personal blog using WordPress to manage content and interact with users via Discord."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 91.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records",
+        "Answered phone calls from customers using a basic phone system",
+        "Call Center Representative",
+        "High school diploma, 2 years of experience working on my own personal blog using WordPress to manage content and interact with users via Discord."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, 2 years of experience working on my own personal blog using WordPress to manage content and interact with users via Discord."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, Outlook) and CRM software",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1-2 years of customer service experience in a fast-paced call center environment",
+      "evidence": [
+        "Call Center Representative"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with cloud-based CRM systems and customer service software",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Answer incoming customer calls in a timely and professional manner",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Utilize CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives",
+      "evidence": [
+        "Familiarity with Salesforce CRM software for tracking interactions and updating customer records"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Familiarity with Salesforce CRM software for tracking interactions and updating customer records",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication, problem-solving, and time management skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a team-oriented environment and adapt to changing priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of product offerings and technical specifications for our core products",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Familiarity with Salesforce CRM software for tracking interactions and updating customer records",
+      "supports": "Answer incoming customer calls in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with Salesforce CRM software for tracking interactions and updating customer records",
+      "supports": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with Salesforce CRM software for tracking interactions and updating customer records",
+      "supports": "Utilize CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives"
+    },
+    {
+      "source": "resume",
+      "quote": "Answered phone calls from customers using a basic phone system",
+      "supports": "Work collaboratively with internal teams, including technical support and sales, to provide comprehensive solutions for customers"
+    },
+    {
+      "source": "resume",
+      "quote": "Call Center Representative",
+      "supports": "Meet or exceed daily call volume targets and maintain a high level of productivity"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

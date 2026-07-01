@@ -1,0 +1,21 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Network and Computer Systems Administrator**
+
+Highly skilled Network and Computer Systems Administrator with experience in designing, implementing, and maintaining network infrastructure.
+
+* Designed and implemented network segmentation and access controls (although I didn't have to implement it on a large scale due to limited resources)
+* Conducted routine system updates and patches, but not as part of a comprehensive vulnerability assessment
+* Developed and maintained technical documentation and knowledge base articles, although they were mostly internal-facing and not publicly shared
+
+**Required Skills:**
+
+Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Git, Azure DevOps, Jenkins, Puppet, Chef, Ansible Tower, Cisco Umbrella, Fortinet FortiGate
+
+**Nice to Have:**
+
+* Experience with containerization using Docker and Kubernetes
+* Knowledge of cloud security best practices
+* Familiarity with machine learning and artificial intelligence technologies
+* Experience with network monitoring tools such as SolarWinds or NetFlow
+* Certification in CompTIA Network+ or Cisco CCNA

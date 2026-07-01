@@ -1,0 +1,27 @@
+Responsibilities:
+
+* Provide technical support to end-users via phone, email, and in-person assistance
+* Troubleshoot hardware and software issues with desktops, laptops, mobile devices, and peripherals
+* Install, configure, and maintain computer systems, networks, and applications
+* Perform routine maintenance tasks, such as backups, updates, and virus scans
+* Collaborate with IT teams to resolve complex technical issues and implement new technologies
+* Develop and maintain knowledge base articles and troubleshooting guides for common issues
+* Participate in on-call rotations to provide 24/7 support for critical systems
+
+Required Skills:
+
+* High school diploma or equivalent required; associate's or bachelor's degree preferred
+* 1-2 years of experience as a computer support specialist or related field
+* Proficiency in Windows, macOS, and Linux operating systems
+* Experience with hardware troubleshooting and repair
+* Familiarity with network protocols (TCP/IP, DNS, DHCP)
+* Knowledge of antivirus software and malware removal techniques
+* Strong communication and problem-solving skills
+
+Preferred Skills:
+
+* Experience with cloud-based technologies (AWS, Azure, Google Cloud)
+* Certification in CompTIA A+ or equivalent
+* Proficiency in scripting languages (Python, PowerShell)
+* Familiarity with IT service management tools (ServiceNow, JIRA)
+* Experience with virtualization software (VMware, Hyper-V)

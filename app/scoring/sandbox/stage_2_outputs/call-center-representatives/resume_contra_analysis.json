@@ -1,0 +1,166 @@
+{
+  "job_title": "Call Center Representatives",
+  "case_slug": "call-center-representatives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.421949",
+  "match_score": 39.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.8,
+      "reason": "Found 3 direct, 1 adjacent, 3 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Answered incoming customer calls in a timely and professional manner",
+        "Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.",
+        "+ Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+        "High school diploma, 2015\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 90.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 72.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Answered incoming customer calls in a timely and professional manner",
+        "Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.",
+        "+ Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+        "High school diploma, 2015\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Answer incoming customer calls in a timely and professional manner",
+      "evidence": [
+        "+ Answered incoming customer calls in a timely and professional manner"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, 2015\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, problem-solving, and time management skills",
+      "evidence": [
+        "Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in ongoing training and coaching to improve product knowledge and customer service skills",
+      "evidence": [
+        "Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Utilize CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "severity": "high"
+    },
+    {
+      "requirement": "Work collaboratively with internal teams, including technical support and sales, to provide comprehensive solutions for customers",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "severity": "high"
+    },
+    {
+      "requirement": "Meet or exceed daily call volume targets and maintain a high level of productivity",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of customer service experience in a fast-paced call center environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a team-oriented environment and adapt to changing priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, Outlook) and CRM software",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based CRM systems and customer service software",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of product offerings and technical specifications for our core products",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Answered incoming customer calls in a timely and professional manner",
+      "supports": "Answer incoming customer calls in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven customer service professional with 2+ years of experience in fast-paced call centers, utilizing excellent communication and problem-solving skills to resolve complex issues.",
+      "supports": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "supports": "Utilize CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "supports": "Work collaboratively with internal teams, including technical support and sales, to provide comprehensive solutions for customers"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives **(Note: I did not have the opportunity to work collaboratively with internal teams or meet daily cal",
+      "supports": "Meet or exceed daily call volume targets and maintain a high level of productivity"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,167 @@
+{
+  "job_title": "Social Media Managers / Specialists",
+  "case_slug": "social-media-managers-specialists-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:09.799292",
+  "match_score": 59.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.4,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+        "Results-driven digital content creator with 2+ years of experience in creating engaging social media content and managing small-scale online campaigns.",
+        "+ Monitored and responded to comments and messages in a timely manner",
+        "It also doesn't mention any collaboration with cross-functional teams or staying up-to-date on the latest social media trends and best practices."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 94.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also doesn't mention any collaboration with cross-functional teams or staying up-to-date on the latest social media trends and best practices."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 60.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+        "Results-driven digital content creator with 2+ years of experience in creating engaging social media content and managing small-scale online campaigns.",
+        "+ Monitored and responded to comments and messages in a timely manner",
+        "It also doesn't mention any collaboration with cross-functional teams or staying up-to-date on the latest social media trends and best practices."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Stay up-to-date on the latest social media trends, best practices, and platform updates",
+      "evidence": [
+        "It also doesn't mention any collaboration with cross-functional teams or staying up-to-date on the latest social media trends and best practices."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent content creation and curation skills, with the ability to create high-quality content across multiple formats (text, images, videos)",
+      "evidence": [
+        "Strong content creation and curation skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor and respond to comments, messages, and reviews in a timely and professional manner",
+      "evidence": [
+        "+ Monitored and responded to comments and messages in a timely manner"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Create and curate high-quality, engaging content (text, images, videos) that resonates with our target audience",
+      "evidence": [
+        "Results-driven digital content creator with 2+ years of experience in creating engaging social media content and managing small-scale online campaigns."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Social Media Manager/Specialist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our marketing department, you will be responsible for developing and implementing social media strategies that drive engagement, grow our online presence, and su",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive social media strategies across multiple platforms (Facebook, Twitter, Instagram, LinkedIn, YouTube)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and schedule posts using social media management tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Hootsuite, Sprout Social)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze social media metrics and adjust strategies accordingly to optimize performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in social media marketing or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of success in developing and executing social media strategies that drive engagement and growth",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to interpret social media metrics and adjust strategies accordingly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+      "supports": "As a key member of our marketing department, you will be responsible for developing and implementing social media strategies that drive engagement, grow our online presence, and su"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 3+ years of experience, proven track record of success in developing and executing social media strategies, and experience with social media advertising platforms.",
+      "supports": "Develop and execute comprehensive social media strategies across multiple platforms (Facebook, Twitter, Instagram, LinkedIn, YouTube)"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven digital content creator with 2+ years of experience in creating engaging social media content and managing small-scale online campaigns.",
+      "supports": "Create and curate high-quality, engaging content (text, images, videos) that resonates with our target audience"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Monitored and responded to comments and messages in a timely manner",
+      "supports": "Monitor and respond to comments, messages, and reviews in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "It also doesn't mention any collaboration with cross-functional teams or staying up-to-date on the latest social media trends and best practices.",
+      "supports": "Stay up-to-date on the latest social media trends, best practices, and platform updates"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

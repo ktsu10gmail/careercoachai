@@ -1,0 +1,164 @@
+{
+  "job_title": "Financial Managers",
+  "case_slug": "financial-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:59.782810",
+  "match_score": 63.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.5,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Analyzed financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+        "Proven track record of delivering actionable insights to clients, driving revenue growth, and ensuring regulatory compliance.",
+        "Developed and maintained relationships with key stakeholders, including clients, vendors, and partners",
+        "Bachelor's Degree in Finance, [University Name] (2018)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 57.5,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+        "Proven track record of delivering actionable insights to clients, driving revenue growth, and ensuring regulatory compliance.",
+        "Bachelor's Degree in Finance, [University Name] (2018)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 93.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Analyzed financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+        "Proven track record of delivering actionable insights to clients, driving revenue growth, and ensuring regulatory compliance.",
+        "Developed and maintained relationships with key stakeholders, including clients, vendors, and partners",
+        "Bachelor's Degree in Finance, [University Name] (2018)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+      "evidence": [
+        "Analyzed financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including clients, vendors, and partners",
+      "evidence": [
+        "Developed and maintained relationships with key stakeholders, including clients, vendors, and partners"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excel, Financial Planning & Analysis tools)",
+      "evidence": [
+        "Results-driven Financial Manager with 5+ years of experience driving business growth through strategic financial planning and analysis."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and monitor client accounts, ensuring compliance with regulatory requirements and maintaining accurate records",
+      "evidence": [
+        "Proven track record of delivering actionable insights to clients, driving revenue growth, and ensuring regulatory compliance."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in finance, accounting, or related field;",
+      "evidence": [
+        "Bachelor's Degree in Finance, [University Name] (2018)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with clients and internal stakeholders",
+      "evidence": [
+        "Proven track record of delivering actionable insights to clients, driving revenue growth, and ensuring regulatory compliance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive financial plans for individual clients, including budgeting, forecasting, and cash flow management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular financial reviews and provide guidance on financial planning and investment decisions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a financial analyst or manager",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in financial planning software (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong organizational and time management skills, with ability to prioritize multiple tasks and meet deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Analyzed financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+      "supports": "Analyze financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering actionable insights to clients, driving revenue growth, and ensuring regulatory compliance.",
+      "supports": "Manage and monitor client accounts, ensuring compliance with regulatory requirements and maintaining accurate records"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained relationships with key stakeholders, including clients, vendors, and partners",
+      "supports": "Develop and maintain relationships with key stakeholders, including clients, vendors, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Finance, [University Name] (2018)",
+      "supports": "Bachelor's degree in finance, accounting, or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "Professional Experience:",
+      "supports": "Professional certification (e.g."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

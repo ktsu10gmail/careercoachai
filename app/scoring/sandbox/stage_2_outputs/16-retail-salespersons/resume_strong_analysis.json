@@ -1,0 +1,142 @@
+{
+  "job_title": "16. Retail Salespersons",
+  "case_slug": "16-retail-salespersons",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:47.101935",
+  "match_score": 55.92,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 70.8,
+      "reason": "Found 6 direct, 6 adjacent, 1 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Processed transactions accurately and efficiently using point-of-sale system, meeting or exceeding daily sales targets",
+        "Demonstrated in-depth knowledge of store products, services, and promotions to provide personalized recommendations to customers",
+        "Results-driven sales professional with 1 year of retail experience, seeking a challenging role where I can utilize my excellent communication skills and product knowledge to drive sales growth and deliver exceptional customer service.",
+        "Collaborated with colleagues to achieve team goals and objectives, including visual merchandising projects and inventory management initiatives"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 40.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.7,
+      "reason": "Found 6 direct, 6 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Processed transactions accurately and efficiently using point-of-sale system, meeting or exceeding daily sales targets",
+        "Demonstrated in-depth knowledge of store products, services, and promotions to provide personalized recommendations to customers",
+        "Results-driven sales professional with 1 year of retail experience, seeking a challenging role where I can utilize my excellent communication skills and product knowledge to drive sales growth and deliver exceptional customer service.",
+        "Collaborated with colleagues to achieve team goals and objectives, including visual merchandising projects and inventory management initiatives"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Processed transactions accurately and efficiently using point-of-sale system, meeting or exceeding daily sales targets",
+        "Demonstrated in-depth knowledge of store products, services, and promotions to provide personalized recommendations to customers",
+        "Results-driven sales professional with 1 year of retail experience, seeking a challenging role where I can utilize my excellent communication skills and product knowledge to drive sales growth and deliver exceptional customer service.",
+        "Collaborated with colleagues to achieve team goals and objectives, including visual merchandising projects and inventory management initiatives"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Process customer transactions accurately and efficiently using a point-of-sale system",
+      "evidence": [
+        "Processed transactions accurately and efficiently using point-of-sale system, meeting or exceeding daily sales targets"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a thorough knowledge of store products, services, and promotions to provide excellent customer service",
+      "evidence": [
+        "Demonstrated in-depth knowledge of store products, services, and promotions to provide personalized recommendations to customers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, ABC High School (20XX-20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic math skills and accuracy with cash handling",
+      "evidence": [
+        "Basic math skills with accuracy in cash handling"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 25 pounds and stand for long periods",
+      "evidence": [
+        "Ability to lift up to 25 pounds and stand for long periods"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "1-2 years of retail experience preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with point-of-sale systems and inventory management software",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Processed transactions accurately and efficiently using point-of-sale system, meeting or exceeding daily sales targets",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Processed transactions accurately and efficiently using point-of-sale system, meeting or exceeding daily sales targets",
+      "supports": "Process customer transactions accurately and efficiently using a point-of-sale system"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated in-depth knowledge of store products, services, and promotions to provide personalized recommendations to customers",
+      "supports": "Maintain a thorough knowledge of store products, services, and promotions to provide excellent customer service"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven sales professional with 1 year of retail experience, seeking a challenging role where I can utilize my excellent communication skills and product knowledge to drive sales growth and deliver exceptional customer service.",
+      "supports": "Meet or exceed daily sales targets and achieve individual performance goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with colleagues to achieve team goals and objectives, including visual merchandising projects and inventory management initiatives",
+      "supports": "Restock shelves, face merchandise, and maintain visual merchandising standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with colleagues to achieve team goals and objectives, including visual merchandising projects and inventory management initiatives",
+      "supports": "Assist with visual merchandising projects, including layout design and implementation"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

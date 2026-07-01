@@ -1,0 +1,21 @@
+{
+  "job_title": "Warehouse Workers / Material Movers",
+  "case_slug": "warehouse-workers-material-movers-scraped-job-board",
+  "scenario": "scraped_job_board",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T17:53:39.119912",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

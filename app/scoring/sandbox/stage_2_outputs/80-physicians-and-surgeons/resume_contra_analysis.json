@@ -1,0 +1,160 @@
+{
+  "job_title": "80. Physicians and Surgeons",
+  "case_slug": "80-physicians-and-surgeons",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.697664",
+  "match_score": 57.64,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.1,
+      "reason": "Found 4 direct, 4 adjacent, 1 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care.",
+        "Successfully ordered and interpreted diagnostic tests, such as lab work and imaging studies, despite some initial difficulties with EMR systems (specifically Epic) due to my age-related cognitive decline.",
+        "Developed and implemented treatment plans, including prescribing medications, although I had to rely on my colleagues for assistance with complex surgical procedures.",
+        "Provided patient education and counseling, but unfortunately, I struggled to keep up with the latest medical research and advancements through ongoing education and training, often relying on my colleagues for updates."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 92.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "40 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care.",
+        "Successfully ordered and interpreted diagnostic tests, such as lab work and imaging studies, despite some initial difficulties with EMR systems (specifically Epic) due to my age-related cognitive decline.",
+        "Developed and implemented treatment plans, including prescribing medications, although I had to rely on my colleagues for assistance with complex surgical procedures.",
+        "Provided patient education and counseling, but unfortunately, I struggled to keep up with the latest medical research and advancements through ongoing education and training, often relying on my colleagues for updates."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Diagnose and treat patients with various medical conditions",
+      "evidence": [
+        "\"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Order and interpret diagnostic tests such as lab work, imaging studies, and other procedures",
+      "evidence": [
+        "Successfully ordered and interpreted diagnostic tests, such as lab work and imaging studies, despite some initial difficulties with EMR systems (specifically Epic) due to my age-related cognitive decline."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement treatment plans, including prescribing medications and performing surgeries",
+      "evidence": [
+        "Developed and implemented treatment plans, including prescribing medications, although I had to rely on my colleagues for assistance with complex surgical procedures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment",
+      "evidence": [
+        "Proven ability to work effectively in a fast-paced environment, although I had to take regular breaks due to fatigue and mobility issues."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with medical billing and coding systems, such as ICD-10-CM",
+      "evidence": [
+        "\"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Licensure to practice medicine in their state",
+      "evidence": [
+        "Note: While I have the required licensure and education, my age-related limitations may impact my ability to perform certain tasks, such as advanced medical procedures or data analytics.\""
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide patient education and counseling to promote health and wellness",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided patient education and counseling, but unfortunately, I struggled to keep up with the latest medical research and advancements through ongoing education and training, often relying on my colleagues for updates.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current with the latest medical research and advancements through ongoing education and training",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided patient education and counseling, but unfortunately, I struggled to keep up with the latest medical research and advancements through ongoing education and training, often relying on my colleagues for updates.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A Doctor of Medicine (M.D.) or Doctor of Osteopathic Medicine (D.O.) degree from an accredited institution",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Completion of a residency program in their chosen specialty",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in electronic medical records (EMRs) systems, such as Epic or Cerner",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: \"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven physician with over 40 years of experience in diagnosing and treating patients with various medical conditions, including complex cases that required collaboration with other healthcare professionals to coordinate care.",
+      "supports": "Diagnose and treat patients with various medical conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully ordered and interpreted diagnostic tests, such as lab work and imaging studies, despite some initial difficulties with EMR systems (specifically Epic) due to my age-related cognitive decline.",
+      "supports": "Order and interpret diagnostic tests such as lab work, imaging studies, and other procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented treatment plans, including prescribing medications, although I had to rely on my colleagues for assistance with complex surgical procedures.",
+      "supports": "Develop and implement treatment plans, including prescribing medications and performing surgeries"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided patient education and counseling, but unfortunately, I struggled to keep up with the latest medical research and advancements through ongoing education and training, often relying on my colleagues for updates.",
+      "supports": "Provide patient education and counseling to promote health and wellness"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided patient education and counseling, but unfortunately, I struggled to keep up with the latest medical research and advancements through ongoing education and training, often relying on my colleagues for updates.",
+      "supports": "Stay current with the latest medical research and advancements through ongoing education and training"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

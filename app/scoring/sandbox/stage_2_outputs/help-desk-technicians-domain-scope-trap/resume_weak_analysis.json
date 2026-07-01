@@ -1,0 +1,128 @@
+{
+  "job_title": "Help Desk Technicians",
+  "case_slug": "help-desk-technicians-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:01.660085",
+  "match_score": 69.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.6,
+      "reason": "Found 3 direct, 11 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also doesn't mention software/SaaS, enterprise, regulated industry, global, multi-site, high-volume, or low-latency scope qualifiers, which are all relevant to the job description.",
+        "Familiarity with scripting languages such as Python and basic understanding of system design principles",
+        "Experience with load testing tools like Apache JMeter for internal company use",
+        "Strong analytical skills, but not specifically in stress testing or performance engineering"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "AWS) but no specific experience with scalability models"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also doesn't mention software/SaaS, enterprise, regulated industry, global, multi-site, high-volume, or low-latency scope qualifiers, which are all relevant to the job description.",
+        "Familiarity with scripting languages such as Python and basic understanding of system design principles",
+        "Experience with load testing tools like Apache JMeter for internal company use",
+        "Strong analytical skills, but not specifically in stress testing or performance engineering"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in scripting languages such as Python, Java, or C++",
+      "evidence": [
+        "Familiarity with scripting languages such as Python and basic understanding of system design principles"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability models (e.g.",
+      "evidence": [
+        "AWS) but no specific experience with scalability models"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "AWS, Azure, Google Cloud)",
+      "evidence": [
+        "AWS) but no specific experience with scalability models"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "It also doesn't mention software/SaaS, enterprise, regulated industry, global, multi-site, high-volume, or low-latency scope qualifiers, which are all relevant to the job description."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "2+ years of experience in IT support"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software architecture and system design principles",
+      "evidence": [
+        "Familiarity with scripting languages such as Python and basic understanding of system design principles"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also doesn't mention software/SaaS, enterprise, regulated industry, global, multi-site, high-volume, or low-latency scope qualifiers, which are all relevant to the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with scripting languages such as Python and basic understanding of system design principles",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with scripting languages such as Python and basic understanding of system design principles",
+      "supports": "Design and execute stress tests to identify system bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with load testing tools like Apache JMeter for internal company use",
+      "supports": "Develop and maintain test scripts and tools to simulate high-volume traffic and loads"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with scripting languages such as Python and basic understanding of system design principles",
+      "supports": "Analyze test results and provide actionable recommendations for improving system performance and reliability"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

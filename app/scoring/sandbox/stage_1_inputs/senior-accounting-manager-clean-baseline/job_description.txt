@@ -1,0 +1,30 @@
+**Job Title:** Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to join our team of experts in evaluating the performance and reliability of complex systems. As a Senior Stress Test Engineer, you will be responsible for designing, implementing, and executing comprehensive stress testing scenarios to identify potential weaknesses and vulnerabilities in our scoring engine.
+
+**Responsibilities:**
+
+* Design and develop realistic stress test scenarios to simulate various types of loads, including high traffic, concurrent requests, and resource-intensive operations
+* Execute stress tests on the scoring engine, monitoring performance metrics and identifying areas for improvement
+* Collaborate with cross-functional teams, including engineering, product management, and quality assurance, to ensure alignment and effective communication
+* Develop and maintain test plans, scripts, and tools to support stress testing efforts
+* Analyze results, identify trends, and provide recommendations for optimizing system performance and reliability
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field; Master's degree preferred
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles, including design, implementation, and deployment
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with test automation frameworks and tools, such as JUnit, PyUnit, or Selenium
+* Knowledge of cloud-based infrastructure and containerization technologies, such as AWS or Docker
+
+**Preferred Skills:**
+
+* Experience with scoring engines, machine learning, or artificial intelligence
+* Familiarity with Agile development methodologies and version control systems, such as Git
+* Certification in stress testing or performance engineering, such as ISTQB or CSTE
+* Experience with data analysis tools, such as Excel, Tableau, or Power BI

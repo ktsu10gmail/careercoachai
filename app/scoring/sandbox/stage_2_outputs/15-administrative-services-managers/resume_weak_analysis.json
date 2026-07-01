@@ -1,0 +1,154 @@
+{
+  "job_title": "15. Administrative Services Managers",
+  "case_slug": "15-administrative-services-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:47.043911",
+  "match_score": 60.33,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.7,
+      "reason": "Found 2 direct, 8 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained organizational policies and procedures",
+        "Managed day-to-day office operations, including supplies, equipment, and personnel",
+        "\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and implementing process improvements.",
+        "Bachelor's degree in Business Administration"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained organizational policies and procedures",
+        "\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and implementing process improvements.",
+        "Managed day-to-day office operations, including supplies, equipment, and personnel"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained organizational policies and procedures",
+        "Managed day-to-day office operations, including supplies, equipment, and personnel",
+        "\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and implementing process improvements.",
+        "Bachelor's degree in Business Administration"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of successfully managing large teams and implementing process improvements",
+      "evidence": [
+        "\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and implementing process improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office Suite, particularly Excel, Word, and PowerPoint",
+      "evidence": [
+        "Skilled in Microsoft Office Suite, particularly Excel, Word, and PowerPoint."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration or related field;",
+      "evidence": [
+        "Bachelor's degree in Business Administration"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of organizational policies and procedures, including compliance regulations",
+      "evidence": [
+        "Managed day-to-day office operations, including supplies, equipment, and personnel"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Master's degree in Business Administration or related field;",
+      "evidence": [
+        "Bachelor's degree in Business Administration"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop, implement, and maintain policies and procedures to ensure compliance with organizational standards and regulatory requirements",
+      "evidence": [
+        "Developed and maintained organizational policies and procedures"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage administrative operations for a large departmental team, ensuring efficient use of resources and effective communication with staff",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Supervise and mentor administrative staff, providing guidance on performance improvement and professional development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in administrative services management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "7+ years of experience in administrative services management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained organizational policies and procedures",
+      "supports": "Develop, implement, and maintain policies and procedures to ensure compliance with organizational standards and regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day office operations, including supplies, equipment, and personnel",
+      "supports": "Coordinate and manage the implementation of new technologies and systems, including software upgrades and hardware replacements"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and implementing process improvements.",
+      "supports": "Analyze data and metrics to identify trends and areas for process improvement, implementing changes to optimize efficiency and productivity"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Business Administration",
+      "supports": "Bachelor's degree in Business Administration or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and implementing process improvements.",
+      "supports": "Proven track record of successfully managing large teams and implementing process improvements"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

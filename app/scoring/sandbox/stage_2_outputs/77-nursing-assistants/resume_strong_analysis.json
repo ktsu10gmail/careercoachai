@@ -1,0 +1,139 @@
+{
+  "job_title": "77. Nursing Assistants",
+  "case_slug": "77-nursing-assistants",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.369163",
+  "match_score": 63.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 77.3,
+      "reason": "Found 9 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Provided personal care services to residents, including bathing, dressing, grooming, feeding, and toileting, while promoting dignity and independence.",
+        "Monitored residents' physical and emotional well-being, reporting any changes or concerns to nursing staff in a timely manner.",
+        "Assisted with transferring residents using proper lifting techniques to prevent injury, ensuring resident safety and comfort.",
+        "Maintained a clean and organized living environment for residents, adhering to facility standards and promoting a healthy atmosphere."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 95.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "staff"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Dedicated and compassionate nursing assistant with experience providing high-quality care to residents in long-term care facilities."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Provided personal care services to residents, including bathing, dressing, grooming, feeding, and toileting, while promoting dignity and independence.",
+        "Monitored residents' physical and emotional well-being, reporting any changes or concerns to nursing staff in a timely manner.",
+        "Assisted with transferring residents using proper lifting techniques to prevent injury, ensuring resident safety and comfort.",
+        "Maintained a clean and organized living environment for residents, adhering to facility standards and promoting a healthy atmosphere."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide basic care to residents in long-term care facilities, including bathing, dressing, grooming, feeding, and toileting",
+      "evidence": [
+        "Provided personal care services to residents, including bathing, dressing, grooming, feeding, and toileting, while promoting dignity and independence."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor residents' physical and emotional well-being, reporting any changes or concerns to nursing staff",
+      "evidence": [
+        "Monitored residents' physical and emotional well-being, reporting any changes or concerns to nursing staff in a timely manner."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Assist with transferring residents, using proper lifting techniques to prevent injury",
+      "evidence": [
+        "Assisted with transferring residents using proper lifting techniques to prevent injury, ensuring resident safety and comfort."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized living environment for residents, adhering to facility standards",
+      "evidence": [
+        "Maintained a clean and organized living environment for residents, adhering to facility standards and promoting a healthy atmosphere."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma (20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification required",
+      "evidence": [
+        "Basic Life Support (BLS) Certification"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "CNA certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records (EMRs) systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Provided personal care services to residents, including bathing, dressing, grooming, feeding, and toileting, while promoting dignity and independence.",
+      "supports": "Provide basic care to residents in long-term care facilities, including bathing, dressing, grooming, feeding, and toileting"
+    },
+    {
+      "source": "resume",
+      "quote": "Monitored residents' physical and emotional well-being, reporting any changes or concerns to nursing staff in a timely manner.",
+      "supports": "Monitor residents' physical and emotional well-being, reporting any changes or concerns to nursing staff"
+    },
+    {
+      "source": "resume",
+      "quote": "Assisted with transferring residents using proper lifting techniques to prevent injury, ensuring resident safety and comfort.",
+      "supports": "Assist with transferring residents, using proper lifting techniques to prevent injury"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a clean and organized living environment for residents, adhering to facility standards and promoting a healthy atmosphere.",
+      "supports": "Maintain a clean and organized living environment for residents, adhering to facility standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate nursing assistant with experience providing high-quality care to residents in long-term care facilities.",
+      "supports": "Participate in resident care planning, contributing to individualized care plans as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

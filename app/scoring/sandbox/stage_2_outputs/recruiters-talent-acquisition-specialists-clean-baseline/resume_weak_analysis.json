@@ -1,0 +1,160 @@
+{
+  "job_title": "Recruiters / Talent Acquisition Specialists",
+  "case_slug": "recruiters-talent-acquisition-specialists-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:08.085989",
+  "match_score": 37.2,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.7,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++.",
+        "Proficient in Agile development methodologies and version control systems.",
+        "Bachelor's Degree in Computer Science, XYZ University (2015-2019)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 82.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++.",
+        "Proficient in Agile development methodologies and version control systems.",
+        "Bachelor's Degree in Computer Science, XYZ University (2015-2019)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute automated testing scripts using various programming languages (e.g., Python, Java)",
+      "evidence": [
+        "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, C++, or C#",
+      "evidence": [
+        "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with automated testing frameworks (e.g., Pytest, JUnit)",
+      "evidence": [
+        "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's Degree in Computer Science, XYZ University (2015-2019)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies",
+      "evidence": [
+        "Proficient in Agile development methodologies and version control systems."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team of engineers responsible for designing, developing, and testing high-performance systems.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for creating realistic stress tests to identify performance bottlenecks in our scoring engine, ensuring it can handle large volum",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test scenarios to simulate real-world usage patterns",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify performance bottlenecks, and provide recommendations for optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of test results, including data analysis and visualization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++.",
+      "supports": "Develop and execute automated testing scripts using various programming languages (e.g., Python, Java)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Agile development methodologies and version control systems.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Computer Science, XYZ University (2015-2019)",
+      "supports": "Bachelor's degree in Computer Science, Engineering, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++.",
+      "supports": "Strong understanding of computer systems, networking protocols, and software architecture"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

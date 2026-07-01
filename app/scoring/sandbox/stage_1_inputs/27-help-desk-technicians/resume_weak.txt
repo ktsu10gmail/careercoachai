@@ -1,0 +1,33 @@
+Here's a weak or scope-mismatch resume snippet for a Help Desk Technician role:
+
+"Help Desk Technician
+
+- 2 years of experience in IT support, focusing on Windows desktops and laptops.
+- Proficient in Microsoft Office, with basic knowledge of Linux and scripting languages (Bash).
+- Strong communication skills, with excellent problem-solving abilities.
+- Experience with HP ProCurve switches and Symantec antivirus software.
+- Familiarity with cloud-based technologies such as AWS.
+
+Skills:
+
+* Windows desktop/laptop support
+* Microsoft Office proficiency
+* Basic Linux knowledge
+* Scripting skills in Bash
+
+Experience:
+
+* IT Support Specialist, XYZ Corporation (2020-Present)
+    - Provided technical support for employees on company-owned devices.
+    - Resolved hardware and software issues via phone, email, and chat.
+
+Education:
+
+* Bachelor's Degree in Computer Science, ABC University (2018-2022)
+
+Certifications:
+
+* CompTIA A+ certification
+* Cisco CCNA certification
+
+References: Available upon request."

@@ -1,0 +1,147 @@
+{
+  "job_title": "Registered Nurses",
+  "case_slug": "registered-nurses-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:08.171128",
+  "match_score": 63.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 34.3,
+      "reason": "Found 1 direct, 10 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Registered Nurse - Critical Care Unit",
+        "Developed and maintained relationships with patients, families, and healthcare providers to ensure seamless transitions of care",
+        "5+ years of experience in critical care nursing, including ICU and CCU settings",
+        "Designed and implemented comprehensive care plans for critically ill patients, resulting in a 30% reduction in hospital readmissions"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "5+ years of experience in critical care nursing, including ICU and CCU settings",
+        "Strong analytical and problem-solving skills, with ability to interpret complex data sets and drive quality improvement initiatives"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Registered Nurse - Critical Care Unit",
+        "Developed and maintained relationships with patients, families, and healthcare providers to ensure seamless transitions of care",
+        "5+ years of experience in critical care nursing, including ICU and CCU settings",
+        "Designed and implemented comprehensive care plans for critically ill patients, resulting in a 30% reduction in hospital readmissions"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex data sets",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret complex data sets and drive quality improvement initiatives"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job Title:** Registered Nurse - Critical Care Unit"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou",
+      "evidence": [
+        "Developed and maintained relationships with patients, families, and healthcare providers to ensure seamless transitions of care"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "5+ years of experience in critical care nursing, including ICU and CCU settings"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload",
+      "evidence": [
+        "Designed and implemented comprehensive care plans for critically ill patients, resulting in a 30% reduction in hospital readmissions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret complex data sets and drive quality improvement initiatives"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain relationships with stakeholders to understand business requirements and ensure testing aligns with organizational goals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Registered Nurse - Critical Care Unit",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained relationships with patients, families, and healthcare providers to ensure seamless transitions of care",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "5+ years of experience in critical care nursing, including ICU and CCU settings",
+      "supports": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented comprehensive care plans for critically ill patients, resulting in a 30% reduction in hospital readmissions",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical and problem-solving skills, with ability to interpret complex data sets and drive quality improvement initiatives",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

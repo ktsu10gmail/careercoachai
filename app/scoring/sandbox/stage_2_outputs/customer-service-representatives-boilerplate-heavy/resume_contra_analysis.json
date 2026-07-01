@@ -1,0 +1,167 @@
+{
+  "job_title": "Customer Service Representatives",
+  "case_slug": "customer-service-representatives-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.104508",
+  "match_score": 36.15,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.8,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences.",
+        "Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+        "Utilized strong communication skills to de-escalate conflicts and resolve customer complaints via phone, email, and chat."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 51.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.8,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences.",
+        "Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+        "Utilized strong communication skills to de-escalate conflicts and resolve customer complaints via phone, email, and chat."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 64.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences.",
+        "Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+        "Utilized strong communication skills to de-escalate conflicts and resolve customer complaints via phone, email, and chat."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to customer inquiries via phone, email, and chat in a timely and professional manner",
+      "evidence": [
+        "Utilized strong communication skills to de-escalate conflicts and resolve customer complaints via phone, email, and chat."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Resolve customer complaints and concerns in a fair and courteous manner",
+      "evidence": [
+        "Utilized strong communication skills to de-escalate conflicts and resolve customer complaints via phone, email, and chat."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Our team of dedicated professionals is committed to providing top-notch support to our customers, ensuring their needs are met with a smile.",
+      "evidence": [
+        "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "To be the go-to partner for customers seeking exceptional support, delivering personalized experiences that foster loyalty and drive growth.",
+      "evidence": [
+        "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for career advancement and professional development",
+      "evidence": [
+        "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a rich history of excellence, we've built a reputation for trust, reliability, and outstanding customer service.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Recognition and rewards for outstanding performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Customer Service Representatives**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our support team, you'll play a vital role in delivering exceptional customer experiences that drive loyalty and growth.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences.",
+      "supports": "Our team of dedicated professionals is committed to providing top-notch support to our customers, ensuring their needs are met with a smile."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences.",
+      "supports": "To be the go-to partner for customers seeking exceptional support, delivering personalized experiences that foster loyalty and drive growth."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven customer support professional with 2+ years of experience in resolving complex issues and delivering exceptional customer experiences.",
+      "supports": "Opportunities for career advancement and professional development"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+      "supports": "Collaborative and dynamic work environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience working in a fast-paced environment with multiple priorities, I did not consistently meet the team's performance metrics for resolving complex issues within 2 hours.",
+      "supports": "Recognition and rewards for outstanding performance"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

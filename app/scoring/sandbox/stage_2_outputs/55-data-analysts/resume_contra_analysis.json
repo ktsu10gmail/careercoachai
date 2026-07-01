@@ -1,0 +1,142 @@
+{
+  "job_title": "55. Data Analysts",
+  "case_slug": "55-data-analysts",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.053099",
+  "match_score": 77.41,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 76.1,
+      "reason": "Found 9 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experience with data management and database design",
+        "Developed and maintained databases for reporting and analysis purposes",
+        "Created reports and visualizations to present findings to stakeholders",
+        "\"Results-driven Data Analyst with 3+ years of experience in data analysis and visualization."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.4,
+      "reason": "Found 3 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained databases for reporting and analysis purposes",
+        "\"Results-driven Data Analyst with 3+ years of experience in data analysis and visualization.",
+        "Experience with data management and database design",
+        "Additionally, I do not have experience with big data technologies or machine learning algorithms, but I am eager to learn and expand my skillset.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experience with data management and database design",
+        "Developed and maintained databases for reporting and analysis purposes",
+        "Created reports and visualizations to present findings to stakeholders",
+        "\"Results-driven Data Analyst with 3+ years of experience in data analysis and visualization."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL",
+      "evidence": [
+        "Experience with data management and database design"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain databases to store and manage data for reporting and analysis purposes",
+      "evidence": [
+        "Developed and maintained databases for reporting and analysis purposes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders",
+      "evidence": [
+        "Created reports and visualizations to present findings to stakeholders"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain data quality checks to ensure accuracy and consistency of data",
+      "evidence": [
+        "\"Results-driven Data Analyst with 3+ years of experience in data analysis and visualization."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a quantitative field (e.g., mathematics, statistics, computer science)",
+      "evidence": [
+        "Bachelor's degree in Mathematics, XYZ University (20XX-20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong proficiency in SQL and statistical software (e.g., R, Python)",
+      "evidence": [
+        "Experience with data management and database design"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Identify areas for process improvement and implement changes to increase efficiency and effectiveness",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of machine learning algorithms and techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, I do not have experience with big data technologies or machine learning algorithms, but I am eager to learn and expand my skillset.\"",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experience with data management and database design",
+      "supports": "Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained databases for reporting and analysis purposes",
+      "supports": "Develop and maintain databases to store and manage data for reporting and analysis purposes"
+    },
+    {
+      "source": "resume",
+      "quote": "Created reports and visualizations to present findings to stakeholders",
+      "supports": "Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Data Analyst with 3+ years of experience in data analysis and visualization.",
+      "supports": "Develop and maintain data quality checks to ensure accuracy and consistency of data"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Mathematics, XYZ University (20XX-20XX)",
+      "supports": "Bachelor's degree in a quantitative field (e.g., mathematics, statistics, computer science)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

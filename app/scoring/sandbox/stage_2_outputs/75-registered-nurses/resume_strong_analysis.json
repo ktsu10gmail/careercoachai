@@ -1,0 +1,140 @@
+{
+  "job_title": "75. Registered Nurses",
+  "case_slug": "75-registered-nurses",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.192482",
+  "match_score": 78.56,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 69.3,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled and compassionate RN with 2+ years of experience in acute care hospital settings, delivering exceptional patient care and driving outstanding outcomes.",
+        "Spearheaded patient assessments, developing individualized care plans that addressed complex physical and emotional needs.",
+        "Fostered strong relationships with patients, families, and healthcare professionals through effective communication, active listening, and empathetic care.",
+        "Utilized critical thinking and problem-solving skills to identify potential health issues early, implementing proactive interventions to optimize patient well-being."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Fostered strong relationships with patients, families, and healthcare professionals through effective communication, active listening, and empathetic care."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled and compassionate RN with 2+ years of experience in acute care hospital settings, delivering exceptional patient care and driving outstanding outcomes.",
+        "Spearheaded patient assessments, developing individualized care plans that addressed complex physical and emotional needs.",
+        "Fostered strong relationships with patients, families, and healthcare professionals through effective communication, active listening, and empathetic care.",
+        "Utilized critical thinking and problem-solving skills to identify potential health issues early, implementing proactive interventions to optimize patient well-being."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough assessments of patients' physical and emotional needs, developing individualized care plans to address these needs",
+      "evidence": [
+        "Spearheaded patient assessments, developing individualized care plans that addressed complex physical and emotional needs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Administer medications, treatments, and therapies as ordered by physicians and other healthcare professionals",
+      "evidence": [
+        "Fostered strong relationships with patients, families, and healthcare professionals through effective communication, active listening, and empathetic care."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Educate patients and families on disease management, treatment options, and self-care techniques",
+      "evidence": [
+        "Successfully educated patients on disease management, treatment options, and self-care techniques, promoting health literacy and empowerment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Document patient information accurately and thoroughly in electronic medical records",
+      "evidence": [
+        "Utilized electronic medical records (EMRs) to document patient information accurately and thoroughly"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current licensure as a Registered Nurse (RN) in the state of [insert state]",
+      "evidence": [
+        "Current licensure as a Registered Nurse (RN) in the state of [insert state]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication, critical thinking, and problem-solving skills",
+      "evidence": [
+        "Utilized critical thinking and problem-solving skills to identify potential health issues early, implementing proactive interventions to optimize patient well-being."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Registered Nurse**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in fast-paced environments with multiple priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled and compassionate RN with 2+ years of experience in acute care hospital settings, delivering exceptional patient care and driving outstanding outcomes.",
+      "supports": "Provide high-quality patient care to assigned patients in a variety of settings, including acute care hospitals, clinics, and long-term care facilities"
+    },
+    {
+      "source": "resume",
+      "quote": "Spearheaded patient assessments, developing individualized care plans that addressed complex physical and emotional needs.",
+      "supports": "Conduct thorough assessments of patients' physical and emotional needs, developing individualized care plans to address these needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Fostered strong relationships with patients, families, and healthcare professionals through effective communication, active listening, and empathetic care.",
+      "supports": "Administer medications, treatments, and therapies as ordered by physicians and other healthcare professionals"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized critical thinking and problem-solving skills to identify potential health issues early, implementing proactive interventions to optimize patient well-being.",
+      "supports": "Monitor patients' vital signs, lab results, and other health indicators to identify potential problems early"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully educated patients on disease management, treatment options, and self-care techniques, promoting health literacy and empowerment.",
+      "supports": "Educate patients and families on disease management, treatment options, and self-care techniques"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

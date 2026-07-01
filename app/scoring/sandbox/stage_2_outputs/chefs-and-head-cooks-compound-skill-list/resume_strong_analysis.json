@@ -1,0 +1,81 @@
+{
+  "job_title": "Chefs and Head Cooks",
+  "case_slug": "chefs-and-head-cooks-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.774112",
+  "match_score": 39.51,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experienced with menu planning and cost control, using tools like [list specific tools such as CostQuest or MenuPlan Pro]."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 93.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced with menu planning and cost control, using tools like [list specific tools such as CostQuest or MenuPlan Pro]."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 37.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experienced with menu planning and cost control, using tools like [list specific tools such as CostQuest or MenuPlan Pro]."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "I would recommend searching for job postings on websites like Indeed or LinkedIn to find realistic job descriptions.",
+      "evidence": [
+        "Experienced with menu planning and cost control, using tools like [list specific tools such as CostQuest or MenuPlan Pro]."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "I can\u2019t do that.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experienced with menu planning and cost control, using tools like [list specific tools such as CostQuest or MenuPlan Pro].",
+      "supports": "I would recommend searching for job postings on websites like Indeed or LinkedIn to find realistic job descriptions."
+    },
+    {
+      "source": "job_description",
+      "quote": "I can\u2019t do that.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

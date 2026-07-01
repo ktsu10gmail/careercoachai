@@ -1,0 +1,138 @@
+{
+  "job_title": "57. Database Administrators",
+  "case_slug": "57-database-administrators",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.276801",
+  "match_score": 80.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 85.7,
+      "reason": "Found 12 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+        "Collaborated with IT teams to resolve database-related issues, but did not have experience with cloud-based databases or containerization technologies like Docker and Kubernetes."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 77.8,
+      "reason": "Found 7 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+        "Collaborated with IT teams to resolve database-related issues, but did not have experience with cloud-based databases or containerization technologies like Docker and Kubernetes."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+        "Collaborated with IT teams to resolve database-related issues, but did not have experience with cloud-based databases or containerization technologies like Docker and Kubernetes."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design, implement, and maintain databases to store and manage large amounts of data for various business applications",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute database backup and recovery plans to ensure data integrity and availability",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborate with IT teams to resolve database-related issues and optimize system performance",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor database performance and identify areas for improvement through the use of tools such as SQL Server Management Studio, Oracle Enterprise Manager, or similar software",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement security measures to protect sensitive data from unauthorized access, using tools like Active Directory, Group Policy, or similar software",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain database documentation to ensure knowledge sharing and collaboration among team members",
+      "evidence": [
+        "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Experience with cloud-based databases (AWS RDS, Azure SQL Database, Google Cloud SQL)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with IT teams to resolve database-related issues, but did not have experience with cloud-based databases or containerization technologies like Docker and Kubernetes.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with containerization technologies like Docker and Kubernetes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with IT teams to resolve database-related issues, but did not have experience with cloud-based databases or containerization technologies like Docker and Kubernetes.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+      "supports": "Design, implement, and maintain databases to store and manage large amounts of data for various business applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+      "supports": "Develop and execute database backup and recovery plans to ensure data integrity and availability"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+      "supports": "Collaborate with IT teams to resolve database-related issues and optimize system performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+      "supports": "Monitor database performance and identify areas for improvement through the use of tools such as SQL Server Management Studio, Oracle Enterprise Manager, or similar software"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.",
+      "supports": "Implement security measures to protect sensitive data from unauthorized access, using tools like Active Directory, Group Policy, or similar software"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

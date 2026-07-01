@@ -1,0 +1,13 @@
+Here's a contra-evidence resume snippet for an IT Manager position:
+
+"Results-driven IT professional with 5+ years of experience in managing IT teams and projects. Proven track record of successfully implementing comprehensive IT strategies to support business objectives. Skilled in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with strong knowledge of IT service management frameworks (ITIL) and agile methodologies.
+
+* Managed a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications.
+* Developed and implemented comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals.
+* Collaborated with senior management to identify and prioritize IT projects, allocating resources and budget accordingly.
+
+However, I would like to clarify that in my previous role, I did not have the opportunity to oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devices. Additionally, while I am familiar with cybersecurity tools and technologies, I do not have direct experience with Symantec, McAfee, or Kaspersky.
+
+I also want to note that although I have a strong understanding of database management systems (DBMS) such as Oracle, SQL Server, or MySQL, I did not have the chance to apply them in my previous role. Furthermore, while I am certified in ITIL Foundation, I do not have experience with virtualization technologies (VMware, Hyper-V)."
+
+This snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements, such as overseeing hardware and software maintenance or working directly with cybersecurity tools.

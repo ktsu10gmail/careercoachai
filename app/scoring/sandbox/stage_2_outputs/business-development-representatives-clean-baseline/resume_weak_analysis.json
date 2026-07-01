@@ -1,0 +1,165 @@
+{
+  "job_title": "Business Development Representatives",
+  "case_slug": "business-development-representatives-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:56.224803",
+  "match_score": 53.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Business Development Representative",
+        "Proven track record of successfully implementing software solutions for small businesses",
+        "Excellent communication and problem-solving skills",
+        "Ability to work independently and as part of a team"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Business Development Representative",
+        "Proven track record of successfully implementing software solutions for small businesses",
+        "Excellent communication and problem-solving skills",
+        "Ability to work independently and as part of a team"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Business Development Representative**",
+      "evidence": [
+        "Business Development Representative"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Business Development Representative, you will be responsible for identifying new business opportunities, building relationships with key decision-makers, and driving revenue g",
+      "evidence": [
+        "Business Development Representative"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in business development, sales, or a related field",
+      "evidence": [
+        "Business Development Representative"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of meeting or exceeding sales targets",
+      "evidence": [
+        "Proven track record of successfully implementing software solutions for small businesses"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "evidence": [
+        "Excellent communication and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Ability to work independently and as part of a team"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct thorough research on potential clients and identify high-potential leads",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute personalized sales strategies to engage with target accounts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Build strong relationships with key decision-makers through regular communication and follow-up",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Present product offerings and demonstrate value proposition to prospects",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets and contribute to overall revenue growth",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Continuously monitor market trends and competitor activity to stay ahead of the competition",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of product offerings and value proposition",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Business Development Representative",
+      "supports": "Business Development Representative**"
+    },
+    {
+      "source": "resume",
+      "quote": "Business Development Representative",
+      "supports": "As a Business Development Representative, you will be responsible for identifying new business opportunities, building relationships with key decision-makers, and driving revenue g"
+    },
+    {
+      "source": "resume",
+      "quote": "Business Development Representative",
+      "supports": "2+ years of experience in business development, sales, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing software solutions for small businesses",
+      "supports": "Proven track record of meeting or exceeding sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication and problem-solving skills",
+      "supports": "Excellent communication, negotiation, and interpersonal skills"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

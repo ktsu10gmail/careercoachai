@@ -1,0 +1,157 @@
+{
+  "job_title": "64. IT Project Managers",
+  "case_slug": "64-it-project-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.133361",
+  "match_score": 60.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.5,
+      "reason": "Found 6 direct, 3 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "5+ years of experience in managing small-scale IT projects, primarily focusing on internal IT infrastructure upgrades and minor software implementations.",
+        "Coordinated with internal teams to deliver project milestones on time.",
+        "Proficient in MS Project, Asana, Tableau, Excel, and JIRA.",
+        "Experience with IT service management frameworks like ITIL."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with IT service management frameworks like ITIL.",
+        "Basic knowledge of cloud-based project management tools like Trello.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "5+ years of experience in managing small-scale IT projects, primarily focusing on internal IT infrastructure upgrades and minor software implementations.",
+        "Coordinated with internal teams to deliver project milestones on time.",
+        "Proficient in MS Project, Asana, Tableau, Excel, and JIRA.",
+        "Experience with IT service management frameworks like ITIL."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones",
+      "evidence": [
+        "Coordinated with internal teams to deliver project milestones on time."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in IT project management, preferably in a similar scope and scale",
+      "evidence": [
+        "Basic knowledge of cloud-based project management tools like Trello.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile methodologies, including Scrum and Kanban",
+      "evidence": [
+        "Strong knowledge of Agile methodologies, including Scrum and Kanban."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management frameworks like ITIL",
+      "evidence": [
+        "Experience with IT service management frameworks like ITIL."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in PMP, PRINCE2, or Agile methodologies",
+      "evidence": [
+        "Strong knowledge of Agile methodologies, including Scrum and Kanban."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools like Trello, Basecamp, or Smartsheet",
+      "evidence": [
+        "Basic knowledge of cloud-based project management tools like Trello.\""
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain project plans, schedules, and resource allocation plans using MS Project and Asana",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with industry standards and regulatory requirements using tools like NIST and HIPAA",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Experience with IT service management frameworks like ITIL.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and coordinate with vendors and third-party providers for IT services and solutions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in MS Project, Asana, Tableau, Excel, and JIRA",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "5+ years of experience in managing small-scale IT projects, primarily focusing on internal IT infrastructure upgrades and minor software implementations.",
+      "supports": "Manage complex IT projects with a budget of $1 million to $5 million, involving multiple stakeholders and vendors"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with internal teams to deliver project milestones on time.",
+      "supports": "Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in MS Project, Asana, Tableau, Excel, and JIRA.",
+      "supports": "Conduct regular status updates and progress reports to senior management and clients using Tableau and Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with IT service management frameworks like ITIL.",
+      "supports": "Identify and mitigate risks, issues, and dependencies using risk management tools like Riskonnect and JIRA"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with IT service management frameworks like ITIL.",
+      "supports": "Ensure compliance with industry standards and regulatory requirements using tools like NIST and HIPAA"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

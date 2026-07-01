@@ -1,0 +1,20 @@
+{
+  "job_title": "17. Sales Representatives (Wholesale/Manufacturing)",
+  "case_slug": "17-sales-representatives-wholesale-manufacturing",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:23:10.091133",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

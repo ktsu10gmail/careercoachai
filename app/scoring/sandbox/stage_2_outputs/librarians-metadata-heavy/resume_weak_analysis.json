@@ -1,0 +1,163 @@
+{
+  "job_title": "Librarians",
+  "case_slug": "librarians-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.796349",
+  "match_score": 27.64,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+        "Experience with metadata management tools (e.g.",
+        "Proficient in online public access catalogs (e.g.",
+        "Highly detail-oriented individual with experience in cataloging and metadata management."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in online public access catalogs (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 42.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+        "Experience with metadata management tools (e.g.",
+        "Proficient in online public access catalogs (e.g.",
+        "Highly detail-oriented individual with experience in cataloging and metadata management."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a suite of automated testing tools to support stress testing efforts",
+      "evidence": [
+        "Experience with metadata management tools (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g.",
+      "evidence": [
+        "Proficient in online public access catalogs (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of metadata storage and retrieval technologies (e.g.",
+      "evidence": [
+        "Highly detail-oriented individual with experience in cataloging and metadata management."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not currently based in San Francisco",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide recommendations for improving the performance and scalability of the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies that may impact our scoring engine's performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software architecture, scalability, and performance optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "relational databases, NoSQL databases)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads."
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with metadata management tools (e.g.",
+      "supports": "Develop and maintain a suite of automated testing tools to support stress testing efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "supports": "Analyze test results and provide recommendations for improving the performance and scalability of the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience and technical skills for a Stress Test Engineer - Scoring Engine position, and instead highlights more general library-related skills and experience.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies that may impact our scoring engine's performance"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

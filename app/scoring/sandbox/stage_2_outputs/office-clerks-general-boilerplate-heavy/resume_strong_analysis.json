@@ -1,0 +1,175 @@
+{
+  "job_title": "Office Clerks, General",
+  "case_slug": "office-clerks-general-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.445139",
+  "match_score": 42.69,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.5,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff.",
+        "Excellent communication, organizational, and time management skills",
+        "Provided administrative support to senior management, including preparing correspondence, reports, and presentations",
+        "Proven track record of managing accurate records, files, and databases, while maintaining excellent communication and organizational skills."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 26.4,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff.",
+        "Excellent communication, organizational, and time management skills",
+        "Provided administrative support to senior management, including preparing correspondence, reports, and presentations",
+        "Proven track record of managing accurate records, files, and databases, while maintaining excellent communication and organizational skills."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 74.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff.",
+        "Excellent communication, organizational, and time management skills",
+        "Provided administrative support to senior management, including preparing correspondence, reports, and presentations",
+        "Proven track record of managing accurate records, files, and databases, while maintaining excellent communication and organizational skills."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our administrative support team, you'll play a critical role in ensuring the smooth operation of our office.",
+      "evidence": [
+        "Provided administrative support to senior management, including preparing correspondence, reports, and presentations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional administrative support to senior management and staff",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain accurate records, files, and databases",
+      "evidence": [
+        "Proven track record of managing accurate records, files, and databases, while maintaining excellent communication and organizational skills."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We strive to deliver exceptional value to our clients, while promoting a culture of innovation, diversity, and inclusion.",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Generous paid time off policy",
+      "evidence": [
+        "Excellent communication, organizational, and time management skills"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Office Clerks, General**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff.",
+      "supports": "We strive to deliver exceptional value to our clients, while promoting a culture of innovation, diversity, and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication, organizational, and time management skills",
+      "supports": "Generous paid time off policy"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided administrative support to senior management, including preparing correspondence, reports, and presentations",
+      "supports": "As a key member of our administrative support team, you'll play a critical role in ensuring the smooth operation of our office."
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and detail-oriented administrative professional with 1-2 years of experience providing exceptional support to senior management and staff.",
+      "supports": "Provide exceptional administrative support to senior management and staff"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,34 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Contact Information**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary**
+
+Highly skilled and experienced IT professional with expertise in low-level programming languages, networking protocols, and system administration. Proficient in a range of tools including Git, Docker, and Ansible.
+
+**Technical Skills**
+
+* Programming languages: C, C++, Java
+* Networking protocols: TCP/IP, DNS, DHCP
+* System administration: Linux, Windows Server
+* Scripting languages: Bash, PowerShell
+
+**Work Experience**
+
+* **Junior Systems Administrator**, ABC Corporation (2018-Present)
+	+ Managed and maintained server infrastructure using Ansible and Docker
+	+ Implemented automated backups and disaster recovery procedures using Git
+	+ Collaborated with team to resolve network connectivity issues using TCP/IP and DNS
+* **IT Support Specialist**, DEF Company (2015-2018)
+	+ Resolved hardware and software issues for clients using C, C++, and Java
+	+ Configured and deployed network devices using Linux and Windows Server
+
+**Education**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (2015)
+
+This resume snippet highlights the candidate's technical skills but lacks experience in an administrative support role, which is required for the Office Clerks, General position. The scope of the job description does not align with the candidate's expertise and experience.

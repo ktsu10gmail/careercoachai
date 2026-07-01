@@ -1,0 +1,169 @@
+{
+  "job_title": "Nursing Assistants",
+  "case_slug": "nursing-assistants-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.196770",
+  "match_score": 52.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.8,
+      "reason": "Found 4 direct, 2 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses.",
+        "Demonstrated proficiency in transferring patients using equipment such as wheelchairs and stretchers, with a focus on patient safety and comfort",
+        "Proven ability to work effectively in fast-paced environments, prioritize tasks, and maintain accurate records.",
+        "High school diploma or equivalent (2018)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Certified Nursing Assistant (CNA) certification, State of [State] (2020)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 51.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.5,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses.",
+        "Demonstrated proficiency in transferring patients using equipment such as wheelchairs and stretchers, with a focus on patient safety and comfort",
+        "Proven ability to work effectively in fast-paced environments, prioritize tasks, and maintain accurate records.",
+        "High school diploma or equivalent (2018)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses.",
+        "Demonstrated proficiency in transferring patients using equipment such as wheelchairs and stretchers, with a focus on patient safety and comfort",
+        "Proven ability to work effectively in fast-paced environments, prioritize tasks, and maintain accurate records.",
+        "High school diploma or equivalent (2018)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide direct patient care under the supervision of licensed nurses, including vital signs, bathing, dressing, and grooming",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Assist with transferring patients, using equipment such as wheelchairs and stretchers",
+      "evidence": [
+        "Demonstrated proficiency in transferring patients using equipment such as wheelchairs and stretchers, with a focus on patient safety and comfort"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of patient information, including medical history and treatment plans",
+      "evidence": [
+        "Proven ability to work effectively in fast-paced environments, prioritize tasks, and maintain accurate records."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma or equivalent (2018)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in team meetings and contribute to the development of care plans",
+      "evidence": [
+        "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Nursing Assistants**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We believe in empowering our staff with the tools and resources they need to succeed, while promoting work-life balance and employee well-being.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Nursing Assistant at [Company Name], you'll have the opportunity to make a meaningful difference in the lives of our patients and their families.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Generous paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses.",
+      "supports": "Provide direct patient care under the supervision of licensed nurses, including vital signs, bathing, dressing, and grooming"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated proficiency in transferring patients using equipment such as wheelchairs and stretchers, with a focus on patient safety and comfort",
+      "supports": "Assist with transferring patients, using equipment such as wheelchairs and stretchers"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to work effectively in fast-paced environments, prioritize tasks, and maintain accurate records.",
+      "supports": "Maintain accurate records of patient information, including medical history and treatment plans"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate healthcare professional with 2+ years of experience providing high-quality patient care under the supervision of licensed nurses.",
+      "supports": "Participate in team meetings and contribute to the development of care plans"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

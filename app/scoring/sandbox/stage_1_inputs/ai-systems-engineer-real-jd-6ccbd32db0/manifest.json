@@ -1,0 +1,22 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer-real-jd-6ccbd32db0",
+  "scenario": "real_jd_paste",
+  "generator": "real_jd_paste_plus_ollama_resumes",
+  "generated_at": "2026-07-01T00:49:45.907730",
+  "source": "manual_real_jd_paste",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

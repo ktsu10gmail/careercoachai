@@ -1,0 +1,147 @@
+{
+  "job_title": "82. Physical Therapists",
+  "case_slug": "82-physical-therapists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.946888",
+  "match_score": 55.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.4,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in using EMRs to document patient information.",
+        "+ Provided manual therapies and exercises for patients with orthopedic conditions",
+        "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams.",
+        "\"Licensed Physical Therapist with 10 years of experience working on a small scale, focusing on individual patients with orthopedic conditions."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 75.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 41.4,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in using EMRs to document patient information.",
+        "+ Provided manual therapies and exercises for patients with orthopedic conditions",
+        "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams.",
+        "\"Licensed Physical Therapist with 10 years of experience working on a small scale, focusing on individual patients with orthopedic conditions."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in using EMRs to document patient information.",
+        "+ Provided manual therapies and exercises for patients with orthopedic conditions",
+        "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams.",
+        "\"Licensed Physical Therapist with 10 years of experience working on a small scale, focusing on individual patients with orthopedic conditions."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide hands-on interventions, including exercises, stretches, and manual therapies, to patients with various orthopedic and neurological conditions",
+      "evidence": [
+        "+ Provided manual therapies and exercises for patients with orthopedic conditions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Document patient information in electronic medical records (EMRs) using standardized assessment tools, such as the FIM and MDS-2",
+      "evidence": [
+        "Proficient in using EMRs to document patient information."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current licensure to practice physical therapy in [state/province]",
+      "evidence": [
+        "Current licensure to practice physical therapy in [state/province]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct patient assessments to identify and prioritize treatment goals",
+      "evidence": [
+        "Proficient in using EMRs to document patient information."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborate with multidisciplinary teams, including physicians, occupational therapists, and speech therapists, to ensure comprehensive care",
+      "evidence": [
+        "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Monitor patient progress and adjust treatment plans as needed",
+      "evidence": [
+        "Proficient in using EMRs to document patient information."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement individualized physical therapy plans to improve mobility, strength, and function",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in physical therapy from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in using EMRs to document patient information.",
+      "supports": "Conduct patient assessments to identify and prioritize treatment goals"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided manual therapies and exercises for patients with orthopedic conditions",
+      "supports": "Provide hands-on interventions, including exercises, stretches, and manual therapies, to patients with various orthopedic and neurological conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams.",
+      "supports": "Collaborate with multidisciplinary teams, including physicians, occupational therapists, and speech therapists, to ensure comprehensive care"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in using EMRs to document patient information.",
+      "supports": "Monitor patient progress and adjust treatment plans as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in using EMRs to document patient information.",
+      "supports": "Document patient information in electronic medical records (EMRs) using standardized assessment tools, such as the FIM and MDS-2"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

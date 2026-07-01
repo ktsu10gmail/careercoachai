@@ -1,0 +1,167 @@
+{
+  "job_title": "5. Financial Managers",
+  "case_slug": "5-financial-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:50.382527",
+  "match_score": 39.44,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 22.7,
+      "reason": "Found 1 direct, 3 adjacent, 2 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth.",
+        "Conducted regular financial analysis, but did not provide actionable recommendations that drove significant improvements in client profitability and cash flow management.",
+        "Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+        "Collaborated with junior team members on quarterly reviews of client financial performance, but did not lead or contribute to the development of annual business objectives."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 94.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "lead",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 32.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 61.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth.",
+        "Conducted regular financial analysis, but did not provide actionable recommendations that drove significant improvements in client profitability and cash flow management.",
+        "Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+        "Collaborated with junior team members on quarterly reviews of client financial performance, but did not lead or contribute to the development of annual business objectives."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of developing and executing successful financial plans that drive business growth",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop, implement, and manage comprehensive financial plans for a portfolio of 20+ clients across various industries",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with financial planning software, including Excel, QuickBooks, and financial modeling tools (e.g.",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular financial analysis and provide actionable recommendations to improve client profitability and cash flow management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular financial analysis, but did not provide actionable recommendations that drove significant improvements in client profitability and cash flow management.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and maintain accurate financial records, including accounts payable, accounts receivable, and general ledger",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including banks, investors, and other external partners",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct quarterly reviews of client financial performance, identifying areas for improvement and implementing changes as needed",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with junior team members on quarterly reviews of client financial performance, but did not lead or contribute to the development of annual business objectives.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Finance or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "MBA preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to build strong relationships with clients and stakeholders",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed comprehensive financial plans for clients, but did not have the opportunity to implement them at scale due to limited senior leadership roles (2 years).",
+      "severity": "high"
+    },
+    {
+      "requirement": "Financial Modeling Toolset)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of accounting principles and Generally Accepted Accounting Principles (GAAP) or International Financial Reporting Standards (IFRS)",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven financial professional with 5+ years of experience in financial management, seeking to leverage my analytical and problem-solving skills to drive business growth.",
+      "supports": "Develop, implement, and manage comprehensive financial plans for a portfolio of 20+ clients across various industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular financial analysis, but did not provide actionable recommendations that drove significant improvements in client profitability and cash flow management.",
+      "supports": "Conduct regular financial analysis and provide actionable recommendations to improve client profitability and cash flow management"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+      "supports": "Manage and maintain accurate financial records, including accounts payable, accounts receivable, and general ledger"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and maintained accurate financial records, including accounts payable, accounts receivable, and general ledger, using QuickBooks as my primary tool (although I did not have experience with Financial Modeling Toolset).",
+      "supports": "Develop and maintain relationships with key stakeholders, including banks, investors, and other external partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with junior team members on quarterly reviews of client financial performance, but did not lead or contribute to the development of annual business objectives.",
+      "supports": "Conduct quarterly reviews of client financial performance, identifying areas for improvement and implementing changes as needed"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

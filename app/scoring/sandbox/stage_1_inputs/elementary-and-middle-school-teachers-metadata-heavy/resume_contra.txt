@@ -1,0 +1,28 @@
+Here is a contra-evidence resume snippet for an Elementary and Middle School Teacher position:
+
+**Education:**
+
+* Bachelor of Science in Education, XYZ University (2010-2014)
+* Master of Arts in Curriculum Design, ABC University (2016-2018)
+
+**Experience:**
+
+* Elementary and Middle School Teacher, DEF School District (2018-Present)
+	+ Designed and developed lesson plans for grades K-8
+	+ Collaborated with colleagues to develop curriculum standards and assessments
+	+ Utilized data analysis tools to track student progress and identify areas for improvement
+	+ Developed and maintained a thorough understanding of educational technology platforms, including Learning Management Systems (LMS) and online resources
+
+**Skills:**
+
+* Proficient in Microsoft Office Suite and Google Workspace
+* Experienced with educational software applications, including LMS and special education tools
+* Strong communication and interpersonal skills, with the ability to work effectively with students, parents, and colleagues
+* Ability to analyze data and identify trends and patterns in student performance
+
+**Note:**
+
+* While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine. My experience is more focused on educational software applications and classroom management.
+* I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.
+
+This resume snippet highlights the candidate's relevant skills and experience in education, but also explicitly states that they did not perform one of the higher-scope requirements (developing comprehensive stress test scenarios for a scoring engine).

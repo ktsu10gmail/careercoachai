@@ -1,0 +1,15 @@
+Here's a contra-evidence resume snippet for a Public Relations Specialist position:
+
+**Public Relations Specialist**
+
+* 3+ years of experience in crisis communications and reputation management
+* Proven track record of developing and implementing effective PR strategies that drive brand awareness and engagement
+* Skilled in media relations, social media management, and content creation
+
+However, I'd like to highlight some areas where my skills may not align with the job requirements:
+
+* While I have experience with crisis communications, I don't have direct experience with stress testing or performance engineering, which is a key requirement for this role.
+* My expertise lies more in developing PR strategies that drive brand awareness and engagement, rather than creating comprehensive stress tests on scoring engines.
+* Although I'm familiar with media relations and social media management, my experience is more focused on building relationships with stakeholders and managing public perception, rather than analyzing test results or identifying trends and areas for improvement.
+
+I believe my skills and experience can still be valuable in this role, but I want to highlight some potential gaps in my background that may require additional training or support.

@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time
+* Location: Remote with occasional on-site visits at our headquarters in Silicon Valley, CA
+* Employment Type: Contract (6-12 months)
+* Target Start Date: ASAP
+* Travel: 10% travel required for on-site visits and industry conferences
+* Sponsorship: Provided by the client
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer to join our team of experts in simulating real-world scenarios to test the performance, reliability, and scalability of complex systems. As a Stress Test Engineer, you will be responsible for designing, developing, and executing comprehensive stress testing plans to identify potential bottlenecks and areas for improvement.
+
+**Responsibilities:**
+
+* Design and develop stress testing plans to simulate various types of loads, including metadata-heavy workloads
+* Develop and maintain test scripts using industry-standard tools such as Apache JMeter, Gatling, or Locust
+* Collaborate with cross-functional teams, including engineering, product management, and operations, to understand system requirements and identify areas for improvement
+* Execute stress tests on production systems, identifying performance bottlenecks and areas for optimization
+* Analyze test results, providing actionable insights and recommendations for system improvements
+* Develop and maintain documentation of testing methodologies, scripts, and results
+* Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of system architecture, scalability, and reliability principles
+* Proficiency in industry-standard tools such as Apache JMeter, Gatling, or Locust
+* Experience with cloud-based systems and containerization technologies (e.g., Docker, Kubernetes)
+* Excellent analytical and problem-solving skills, with ability to interpret complex data sets
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams

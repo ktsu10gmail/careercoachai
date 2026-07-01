@@ -1,0 +1,156 @@
+{
+  "job_title": "18. Insurance Sales Agents",
+  "case_slug": "18-insurance-sales-agents",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:47.278827",
+  "match_score": 65.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 53.1,
+      "reason": "Found 6 direct, 2 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Consistently met or exceeded monthly sales targets by identifying new business opportunities and nurturing existing client relationships",
+        "Built and maintained strong relationships with clients, agents, and internal stakeholders to drive sales growth and expand market share",
+        "Stayed up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition",
+        "Results-driven insurance sales professional with 3+ years of experience driving business growth through strategic relationship-building, needs assessment, and policy recommendations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's Degree in Business Administration"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and data analysis skills"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Consistently met or exceeded monthly sales targets by identifying new business opportunities and nurturing existing client relationships",
+        "Built and maintained strong relationships with clients, agents, and internal stakeholders to drive sales growth and expand market share",
+        "Stayed up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition",
+        "Results-driven insurance sales professional with 3+ years of experience driving business growth through strategic relationship-building, needs assessment, and policy recommendations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Meet monthly sales targets by identifying and pursuing new business opportunities with existing and prospective clients",
+      "evidence": [
+        "Consistently met or exceeded monthly sales targets by identifying new business opportunities and nurturing existing client relationships"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Build and maintain relationships with clients, agents, and other stakeholders to drive sales growth and expand market share",
+      "evidence": [
+        "Built and maintained strong relationships with clients, agents, and internal stakeholders to drive sales growth and expand market share"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition",
+      "evidence": [
+        "Stayed up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "Excellent communication, interpersonal, and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Ability to work independently and as part of a team"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office Suite, particularly Excel and Word",
+      "evidence": [
+        "Proficient in Microsoft Office Suite, particularly Excel and Word"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct needs assessments to determine client insurance needs and provide personalized recommendations for policies and coverage options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in insurance sales or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Valid driver's license and ability to travel up to 20% of the workweek",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software (e.g.",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Here's a strong-match resume snippet for an Insurance Sales Agent position:",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Consistently met or exceeded monthly sales targets by identifying new business opportunities and nurturing existing client relationships",
+      "supports": "Meet monthly sales targets by identifying and pursuing new business opportunities with existing and prospective clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Built and maintained strong relationships with clients, agents, and internal stakeholders to drive sales growth and expand market share",
+      "supports": "Build and maintain relationships with clients, agents, and other stakeholders to drive sales growth and expand market share"
+    },
+    {
+      "source": "resume",
+      "quote": "Stayed up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition",
+      "supports": "Stay up-to-date on industry trends, regulatory changes, and competitor activity to stay ahead of the competition"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven insurance sales professional with 3+ years of experience driving business growth through strategic relationship-building, needs assessment, and policy recommendations.",
+      "supports": "Manage a portfolio of 50-75 active accounts, including policy renewals, cancellations, and new business acquisitions"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Business Administration",
+      "supports": "bachelor's degree preferred"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

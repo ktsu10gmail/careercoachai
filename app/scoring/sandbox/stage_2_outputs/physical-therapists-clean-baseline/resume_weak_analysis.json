@@ -1,0 +1,161 @@
+{
+  "job_title": "Physical Therapists",
+  "case_slug": "physical-therapists-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:06.324018",
+  "match_score": 35.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 10.0,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Assisted in the development of rehabilitation programs for patients with musculoskeletal injuries",
+        "+ Conducted patient assessments and developed individualized treatment plans",
+        "Dedicated Physical Therapist with 5+ years of experience in manual therapy and exercise prescription."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 45.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Assisted in the development of rehabilitation programs for patients with musculoskeletal injuries",
+        "+ Conducted patient assessments and developed individualized treatment plans",
+        "Dedicated Physical Therapist with 5+ years of experience in manual therapy and exercise prescription."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our research and development team, you will play a critical role in evaluating the performance of our scoring engine under various stress conditions.",
+      "evidence": [
+        "+ Assisted in the development of rehabilitation programs for patients with musculoskeletal injuries"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain detailed test plans and execution reports",
+      "evidence": [
+        "+ Conducted patient assessments and developed individualized treatment plans"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features",
+      "evidence": [
+        "+ Assisted in the development of rehabilitation programs for patients with musculoskeletal injuries"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in stress testing or performance evaluation",
+      "evidence": [
+        "Dedicated Physical Therapist with 5+ years of experience in manual therapy and exercise prescription."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Physical Therapist - Stress Test**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough testing of the scoring engine using standardized test protocols",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues with the scoring engine's performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide input on design improvements and feature enhancements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Physical Therapy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in test automation tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Physical Therapy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Assisted in the development of rehabilitation programs for patients with musculoskeletal injuries",
+      "supports": "As a key member of our research and development team, you will play a critical role in evaluating the performance of our scoring engine under various stress conditions."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted patient assessments and developed individualized treatment plans",
+      "supports": "Develop and maintain detailed test plans and execution reports"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Assisted in the development of rehabilitation programs for patients with musculoskeletal injuries",
+      "supports": "Participate in code reviews and contribute to the development of new features"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated Physical Therapist with 5+ years of experience in manual therapy and exercise prescription.",
+      "supports": "2+ years of experience in stress testing or performance evaluation"
+    },
+    {
+      "source": "job_description",
+      "quote": "Physical Therapist - Stress Test**",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

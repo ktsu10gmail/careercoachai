@@ -1,0 +1,131 @@
+{
+  "job_title": "Plumbers, Pipefitters, and Steamfitters",
+  "case_slug": "plumbers-pipefitters-and-steamfitters-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:06.420470",
+  "match_score": 70.23,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.8,
+      "reason": "Found 7 direct, 7 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer",
+        "Designed and developed comprehensive stress testing protocols using Java, Python, and C++ to simulate real-world operating conditions",
+        "Conducted thorough analysis of test results to determine the root cause of any failures or anomalies, utilizing tools such as ANSYS and COMSOL",
+        "Highly skilled engineer with 5+ years of experience in designing and developing stress testing protocols to identify performance issues in scoring engines."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 64.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 74.0,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer",
+        "Cloud-based platforms: AWS, Azure",
+        "Stress testing frameworks: Apache JMeter, Gatling"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer",
+        "Designed and developed comprehensive stress testing protocols using Java, Python, and C++ to simulate real-world operating conditions",
+        "Conducted thorough analysis of test results to determine the root cause of any failures or anomalies, utilizing tools such as ANSYS and COMSOL",
+        "Highly skilled engineer with 5+ years of experience in designing and developing stress testing protocols to identify performance issues in scoring engines."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Test Engineer",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Test Engineer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop stress testing protocols to simulate real-world operating conditions and identify potential performance issues",
+      "evidence": [
+        "Designed and developed comprehensive stress testing protocols using Java, Python, and C++ to simulate real-world operating conditions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough analysis of test results to determine the root cause of any failures or anomalies",
+      "evidence": [
+        "Conducted thorough analysis of test results to determine the root cause of any failures or anomalies, utilizing tools such as ANSYS and COMSOL"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, MATLAB, Simulink, Scilab, ANSYS, COMSOL, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g.",
+      "evidence": [
+        "Designed and developed comprehensive stress testing protocols using Java, Python, and C++ to simulate real-world operating conditions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Apache JMeter, Gatling), cloud-based platforms (AWS, Azure), containerization tools (Docker, Kubernetes), version control systems (Git, SVN), data analysis and visualization tools ",
+      "evidence": [
+        "Cloud-based platforms: AWS, Azure"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "IBM Watson, Microsoft Azure Machine Learning)",
+      "evidence": [
+        "Cloud-based platforms: AWS, Azure"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "Job Title:** Scoring Engine Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Test Engineer",
+      "supports": "As a key member of our quality assurance team, you will be responsible for designing, developing, and executing comprehensive stress testing protocols to identify potential weaknes"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress testing protocols using Java, Python, and C++ to simulate real-world operating conditions",
+      "supports": "Design and develop stress testing protocols to simulate real-world operating conditions and identify potential performance issues"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough analysis of test results to determine the root cause of any failures or anomalies, utilizing tools such as ANSYS and COMSOL",
+      "supports": "Conduct thorough analysis of test results to determine the root cause of any failures or anomalies"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet for a Diesel Mechanics position:
+
+**Name:** John Doe
+
+**Contact Info:**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary:**
+Highly skilled diesel mechanic with experience in engine repair and maintenance. Proficient in using low-level tools such as multimeters, oscilloscopes, and code analyzers.
+
+**Work Experience:**
+
+* Diesel Mechanic
+  * Repaired and maintained diesel engines for various clients (2018-Present)
+  * Utilized multimeter to diagnose electrical issues and oscilloscope to troubleshoot engine performance problems
+  * Developed expertise in using code analyzers to identify and fix software-related issues
+
+**Education:**
+
+* Associate's Degree in Diesel Mechanics, Local Community College (2015-2017)
+
+**Skills:**
+
+* Engine repair and maintenance
+* Low-level tool usage (multimeters, oscilloscopes, code analyzers)
+* Basic programming skills (Python, C++)
+* Strong analytical and problem-solving skills
+
+This resume snippet lacks the required experience and skills for a Stress Test Engineer - Scoring Engine position. The candidate's experience is in diesel mechanics, not stress testing or performance engineering. Additionally, the skills listed are not relevant to the job description, which requires expertise in software development life cycles, automated testing tools, and industry trends.

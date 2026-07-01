@@ -1,0 +1,151 @@
+{
+  "job_title": "Business Operations Specialists",
+  "case_slug": "business-operations-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.251169",
+  "match_score": 44.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 39.1,
+      "reason": "Found 3 direct, 2 adjacent, 1 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+        "While I have experience with financial management software (QuickBooks) and project management tools (Asana), I did not implement process improvements to increase efficiency by 20% within the first six months as required.",
+        "Proficient in Microsoft Office Suite and Google Workspace, with strong analytical skills to interpret complex data sets.",
+        "Additionally, I do not possess certification in accounting principles or financial regulations (GAAP, tax laws)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+        "Proficient in Microsoft Office Suite and Google Workspace, with strong analytical skills to interpret complex data sets."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 72.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+        "While I have experience with financial management software (QuickBooks) and project management tools (Asana), I did not implement process improvements to increase efficiency by 20% within the first six months as required.",
+        "Proficient in Microsoft Office Suite and Google Workspace, with strong analytical skills to interpret complex data sets.",
+        "Additionally, I do not possess certification in accounting principles or financial regulations (GAAP, tax laws)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries",
+      "evidence": [
+        "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Proficient in Microsoft Office Suite and Google Workspace, with strong analytical skills to interpret complex data sets."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to interpret complex data sets",
+      "evidence": [
+        "Proficient in Microsoft Office Suite and Google Workspace, with strong analytical skills to interpret complex data sets."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with financial management software (QuickBooks, Xero)",
+      "evidence": [
+        "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with project management tools (Asana, Trello) and business intelligence software (Tableau, Power BI)",
+      "evidence": [
+        "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement process improvements to increase efficiency by 20% within the first six months",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience with financial management software (QuickBooks) and project management tools (Asana), I did not implement process improvements to increase efficiency by 20% within the first six months as required.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular audits to ensure compliance with regulatory requirements, identifying and mitigating potential risks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide data-driven insights to inform business decisions, presenting findings to senior leadership on a quarterly basis",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with the ability to work effectively with diverse stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of accounting principles and financial regulations (GAAP, tax laws)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, I do not possess certification in accounting principles or financial regulations (GAAP, tax laws).",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in a relevant field (CPA, CMA)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, I do not possess certification in accounting principles or financial regulations (GAAP, tax laws).",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+      "supports": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience with financial management software (QuickBooks) and project management tools (Asana), I did not implement process improvements to increase efficiency by 20% within the first six months as required.",
+      "supports": "Develop and implement process improvements to increase efficiency by 20% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+      "supports": "Provide data-driven insights to inform business decisions, presenting findings to senior leadership on a quarterly basis"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office Suite and Google Workspace, with strong analytical skills to interpret complex data sets.",
+      "supports": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Business Operations Specialist with experience managing financial records for multiple clients.",
+      "supports": "Experience with financial management software (QuickBooks, Xero)"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

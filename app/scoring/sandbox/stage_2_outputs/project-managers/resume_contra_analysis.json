@@ -1,0 +1,167 @@
+{
+  "job_title": "Project Managers",
+  "case_slug": "project-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.882903",
+  "match_score": 62.6,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 50.0,
+      "reason": "Found 7 direct, 0 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution (However, I've found that my team's communication style often leads to misunderstandings and delays).",
+        "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (I've had some issues with scope creep in the past, but have learned to adapt and adjust plans accordingly).",
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (Unfortunately, I've struggled with providing timely and accurate status updates due to my tendency to overcommit on tasks).",
+        "Managed project budgets, tracked expenses, and ensured compliance with organizational financial policies (I've had some issues with budgeting in the past, but have since implemented new processes to improve accuracy)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed project budgets, tracked expenses, and ensured compliance with organizational financial policies (I've had some issues with budgeting in the past, but have since implemented new processes to improve accuracy)."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution (However, I've found that my team's communication style often leads to misunderstandings and delays).",
+        "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (I've had some issues with scope creep in the past, but have learned to adapt and adjust plans accordingly).",
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (Unfortunately, I've struggled with providing timely and accurate status updates due to my tendency to overcommit on tasks).",
+        "Managed project budgets, tracked expenses, and ensured compliance with organizational financial policies (I've had some issues with budgeting in the past, but have since implemented new processes to improve accuracy)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution (However, I've found that my team's communication style often leads to misunderstandings and delays)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans",
+      "evidence": [
+        "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (I've had some issues with scope creep in the past, but have learned to adapt and adjust plans accordingly)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues",
+      "evidence": [
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (Unfortunately, I've struggled with providing timely and accurate status updates due to my tendency to overcommit on tasks)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies",
+      "evidence": [
+        "Managed project budgets, tracked expenses, and ensured compliance with organizational financial policies (I've had some issues with budgeting in the past, but have since implemented new processes to improve accuracy)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and mitigate risks, implementing mitigation strategies as needed",
+      "evidence": [
+        "Identified and mitigated risks, implementing mitigation strategies as needed (However, I've found that my risk assessment skills are not as strong as I thought, and often rely on others for input)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct post-project reviews to evaluate success, identify lessons learned, and implement process improvements",
+      "evidence": [
+        "Conducted post-project reviews to evaluate success, identify lessons learned, and implement process improvements (Unfortunately, I've struggled with providing constructive feedback and implementing changes based on those lessons)."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile project management methodologies (Scrum or Kanban)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in project management tools such as Asana, Trello, Jira, or MS Project",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with version control systems (Git) and collaboration platforms (Slack, Microsoft Teams)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in project management (PMP, Agile Certified Practitioner)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools (Basecamp, Wrike)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Coordinated with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution (However, I've found that my team's communication style often leads to misunderstandings and delays).",
+      "supports": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (I've had some issues with scope creep in the past, but have learned to adapt and adjust plans accordingly).",
+      "supports": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (Unfortunately, I've struggled with providing timely and accurate status updates due to my tendency to overcommit on tasks).",
+      "supports": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed project budgets, tracked expenses, and ensured compliance with organizational financial policies (I've had some issues with budgeting in the past, but have since implemented new processes to improve accuracy).",
+      "supports": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies"
+    },
+    {
+      "source": "resume",
+      "quote": "Identified and mitigated risks, implementing mitigation strategies as needed (However, I've found that my risk assessment skills are not as strong as I thought, and often rely on others for input).",
+      "supports": "Identify and mitigate risks, implementing mitigation strategies as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

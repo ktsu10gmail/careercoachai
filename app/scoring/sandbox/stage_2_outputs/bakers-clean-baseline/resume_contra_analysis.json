@@ -1,0 +1,151 @@
+{
+  "job_title": "Bakers",
+  "case_slug": "bakers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.539419",
+  "match_score": 67.48,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests.",
+        "Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions through self-study and industry research.",
+        "Proven analytical and problem-solving skills, with ability to interpret complex data sets.",
+        "Designed and executed comprehensive stress tests on the scoring engine for 3+ years, but did not have direct involvement in cross-functional team collaboration or implementation of changes."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven analytical and problem-solving skills, with ability to interpret complex data sets.",
+        "Git) to manage testing projects, but did not work on any cloud-based testing environments."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests.",
+        "Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions through self-study and industry research.",
+        "Proven analytical and problem-solving skills, with ability to interpret complex data sets.",
+        "Designed and executed comprehensive stress tests on the scoring engine for 3+ years, but did not have direct involvement in cross-functional team collaboration or implementation of changes."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title: Scoring Engine Stress Tester",
+      "evidence": [
+        "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement",
+      "evidence": [
+        "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions",
+      "evidence": [
+        "Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions through self-study and industry research."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in software testing or a related field",
+      "evidence": [
+        "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of designing and executing effective stress tests",
+      "evidence": [
+        "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex data sets",
+      "evidence": [
+        "Proven analytical and problem-solving skills, with ability to interpret complex data sets."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Designed and executed comprehensive stress tests on the scoring engine for 3+ years, but did not have direct involvement in cross-functional team collaboration or implementation of changes.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Docker) and cloud-based testing environments",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Git) to manage testing projects, but did not work on any cloud-based testing environments.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests.",
+      "supports": "Job Title: Scoring Engine Stress Tester"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions through self-study and industry research.",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests.",
+      "supports": "Stay up-to-date with industry developments and emerging trends in scoring engine technology"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests.",
+      "supports": "5+ years of experience in software testing or a related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

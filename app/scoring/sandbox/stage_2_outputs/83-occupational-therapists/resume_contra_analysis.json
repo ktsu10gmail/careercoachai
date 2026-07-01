@@ -1,0 +1,157 @@
+{
+  "job_title": "83. Occupational Therapists",
+  "case_slug": "83-occupational-therapists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.977900",
+  "match_score": 50.46,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.6,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings.",
+        "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care.",
+        "Strong communication skills were demonstrated through successful education of patients, families, and caregivers on proper use of adaptive equipment and daily living skills, although I did not have to navigate complex electronic medical rec",
+        "Certified in CPR and possess a strong ability to work with diverse populations, including children, adults, and older adults, although my experience was limited to working primarily with adult populations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 60.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 38.6,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings.",
+        "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care.",
+        "Strong communication skills were demonstrated through successful education of patients, families, and caregivers on proper use of adaptive equipment and daily living skills, although I did not have to navigate complex electronic medical rec",
+        "Certified in CPR and possess a strong ability to work with diverse populations, including children, adults, and older adults, although my experience was limited to working primarily with adult populations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 97.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings.",
+        "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care.",
+        "Strong communication skills were demonstrated through successful education of patients, families, and caregivers on proper use of adaptive equipment and daily living skills, although I did not have to navigate complex electronic medical rec",
+        "Certified in CPR and possess a strong ability to work with diverse populations, including children, adults, and older adults, although my experience was limited to working primarily with adult populations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Document patient assessments, treatment plans, and outcomes in electronic medical records",
+      "evidence": [
+        "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current licensure to practice as an occupational therapist in the state where the position is located",
+      "evidence": [
+        "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of evidence-based practices and current research in occupational therapy",
+      "evidence": [
+        "Knowledge of evidence-based practices and current research in occupational therapy was applied through participation in continuing education courses and professional development opportunities.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement individualized treatment plans to enhance functional abilities and promote independence",
+      "evidence": [
+        "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct comprehensive assessments of patients with physical, emotional, or cognitive disabilities to identify areas for improvement",
+      "evidence": [
+        "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide occupational therapy services in various settings, including hospitals, clinics, schools, and community centers",
+      "evidence": [
+        "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Educate patients, families, and caregivers on proper use of adaptive equipment, home modifications, and daily living skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong communication skills were demonstrated through successful education of patients, families, and caregivers on proper use of adaptive equipment and daily living skills, although I did not have to navigate complex electronic medical rec",
+      "severity": "high"
+    },
+    {
+      "requirement": "Valid CPR certification",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Certified in CPR and possess a strong ability to work with diverse populations, including children, adults, and older adults, although my experience was limited to working primarily with adult populations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work with diverse populations, including children, adults, and older adults",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Certified in CPR and possess a strong ability to work with diverse populations, including children, adults, and older adults, although my experience was limited to working primarily with adult populations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records systems, such as Epic or Cerner",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong communication skills were demonstrated through successful education of patients, families, and caregivers on proper use of adaptive equipment and daily living skills, although I did not have to navigate complex electronic medical rec",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings.",
+      "supports": "Conduct comprehensive assessments of patients with physical, emotional, or cognitive disabilities to identify areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in developing individualized treatment plans that enhance functional abilities and promote independence, but my experience was largely focused on working with patients in outpatient settings.",
+      "supports": "Develop and implement individualized treatment plans to enhance functional abilities and promote independence"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care.",
+      "supports": "Provide occupational therapy services in various settings, including hospitals, clinics, schools, and community centers"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong communication skills were demonstrated through successful education of patients, families, and caregivers on proper use of adaptive equipment and daily living skills, although I did not have to navigate complex electronic medical rec",
+      "supports": "Educate patients, families, and caregivers on proper use of adaptive equipment, home modifications, and daily living skills"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented occupational therapist with 5+ years of experience in providing high-quality patient care.",
+      "supports": "Monitor patient progress and adjust treatment plans as needed"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

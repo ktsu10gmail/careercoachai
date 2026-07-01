@@ -1,0 +1,165 @@
+{
+  "job_title": "Insurance Sales Agents",
+  "case_slug": "insurance-sales-agents-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.014636",
+  "match_score": 33.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+        "+ Developed and executed comprehensive sales strategies to penetrate new markets and expand existing customer bases",
+        "+ Collaborated with cross-functional teams, including underwriting and claims, to provide exceptional client service and drive business growth",
+        "Results-driven insurance sales professional with 3+ years of experience driving revenue growth and building strong client relationships."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+        "Proficient in CRM software, including Salesforce.com"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 67.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+        "+ Developed and executed comprehensive sales strategies to penetrate new markets and expand existing customer bases",
+        "+ Collaborated with cross-functional teams, including underwriting and claims, to provide exceptional client service and drive business growth",
+        "Results-driven insurance sales professional with 3+ years of experience driving revenue growth and building strong client relationships."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering, preferably in a metadata-heavy environment",
+      "evidence": [
+        "Results-driven insurance sales professional with 3+ years of experience driving revenue growth and building strong client relationships."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to ensure the reliability and performance ",
+      "evidence": [
+        "+ Developed and executed comprehensive sales strategies to penetrate new markets and expand existing customer bases"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress testing scenarios using various tools and techniques, including load testing, performance testing, and endurance testing",
+      "evidence": [
+        "+ Collaborated with cross-functional teams, including underwriting and claims, to provide exceptional client service and drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "evidence": [
+        "+ Collaborated with cross-functional teams, including underwriting and claims, to provide exceptional client service and drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, data structures, and algorithms",
+      "evidence": [
+        "Proficient in CRM software, including Salesforce.com"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Experience with sales analytics tools, such as Excel and Google Analytics"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios to identify potential bottlenecks and areas for improvement in the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, data flows, and performance characteristics",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a library of reusable test scripts and frameworks to improve efficiency and reduce testing time",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed comprehensive sales strategies to penetrate new markets and expand existing customer bases",
+      "supports": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to ensure the reliability and performance "
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "Design and execute stress testing scenarios to identify potential bottlenecks and areas for improvement in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, data flows, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams, including underwriting and claims, to provide exceptional client service and drive business growth",
+      "supports": "Execute stress testing scenarios using various tools and techniques, including load testing, performance testing, and endurance testing"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

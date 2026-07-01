@@ -1,0 +1,25 @@
+Medical Records Technician Candidate
+
+Summary:
+Highly detail-oriented and organized individual with experience in medical records management, proficient in electronic health record (EHR) systems, and skilled in data entry and accuracy.
+
+Work Experience:
+
+Medical Records Technician
+XYZ Hospital (2018-Present)
+
+- Managed and maintained accurate and up-to-date patient records in the hospital's EHR system.
+- Utilized strong analytical skills to identify and correct errors in medical records.
+- Demonstrated proficiency in data entry, with a high accuracy rate of 99.5% or higher.
+
+Education:
+
+* Associate's Degree in Health Information Technology, ABC College (2016)
+
+Skills:
+
+- Electronic Health Record (EHR) systems
+- Data entry and accuracy
+- Medical terminology
+
+Note: While I have experience with EHR systems and data entry, I did not implement any clinical decision support tools or participate in quality improvement initiatives during my tenure at XYZ Hospital.

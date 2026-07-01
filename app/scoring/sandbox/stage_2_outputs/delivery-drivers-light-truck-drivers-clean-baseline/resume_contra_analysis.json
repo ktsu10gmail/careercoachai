@@ -1,0 +1,150 @@
+{
+  "job_title": "Delivery Drivers / Light Truck Drivers",
+  "case_slug": "delivery-drivers-light-truck-drivers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.404548",
+  "match_score": 58.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.5,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Delivery Driver, XYZ Logistics (2018-2020)",
+        "Safely operated company-provided light truck to transport packages and goods",
+        "Demonstrated strong customer service skills by delivering packages on time and in good condition 95% of the time",
+        "Maintained a clean and organized vehicle, both inside and out, with an average rating of 4.2/5 from management"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 57.5,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Delivery Driver, XYZ Logistics (2018-2020)",
+        "Safely operated company-provided light truck to transport packages and goods",
+        "Demonstrated strong customer service skills by delivering packages on time and in good condition 95% of the time",
+        "Maintained a clean and organized vehicle, both inside and out, with an average rating of 4.2/5 from management"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Delivery Driver, XYZ Logistics (2018-2020)",
+        "Safely operated company-provided light truck to transport packages and goods",
+        "Demonstrated strong customer service skills by delivering packages on time and in good condition 95% of the time",
+        "Maintained a clean and organized vehicle, both inside and out, with an average rating of 4.2/5 from management"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Safely operate a company-provided light truck or van to transport packages and goods",
+      "evidence": [
+        "Safely operated company-provided light truck to transport packages and goods"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide excellent customer service by delivering packages on time and in good condition",
+      "evidence": [
+        "Demonstrated strong customer service skills by delivering packages on time and in good condition 95% of the time"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized vehicle, both inside and out",
+      "evidence": [
+        "Maintained a clean and organized vehicle, both inside and out, with an average rating of 4.2/5 from management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Scan packages and update delivery records accurately and efficiently",
+      "evidence": [
+        "Successfully scanned packages and updated delivery records accurately and efficiently, meeting or exceeding daily targets 90% of the time"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Valid driver's license with a clean driving record",
+      "evidence": [
+        "Valid driver's license with a clean driving record"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "evidence": [
+        "Ability to lift up to 50 pounds and stand for long periods"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title: Delivery Drivers / Light Truck Drivers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Work collaboratively with dispatch team to ensure timely delivery of packages",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Adhere to company policies and procedures for handling hazardous materials and other special cargo",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Delivery Driver, XYZ Logistics (2018-2020)",
+      "supports": "As a key member of our logistics team, you will be responsible for safely transporting packages and goods to customers in a timely manner."
+    },
+    {
+      "source": "resume",
+      "quote": "Safely operated company-provided light truck to transport packages and goods",
+      "supports": "Safely operate a company-provided light truck or van to transport packages and goods"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong customer service skills by delivering packages on time and in good condition 95% of the time",
+      "supports": "Follow all traffic laws and regulations, including hours of service and weight limits"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong customer service skills by delivering packages on time and in good condition 95% of the time",
+      "supports": "Provide excellent customer service by delivering packages on time and in good condition"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a clean and organized vehicle, both inside and out, with an average rating of 4.2/5 from management",
+      "supports": "Maintain a clean and organized vehicle, both inside and out"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

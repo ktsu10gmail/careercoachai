@@ -1,0 +1,172 @@
+{
+  "job_title": "Web Developers",
+  "case_slug": "web-developers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.757340",
+  "match_score": 44.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Web Development Experience",
+        "Collaborated with cross-functional teams to deliver a high-quality digital marketing campaign for a mid-sized company.",
+        "Designed and developed a responsive e-commerce website for a small business client using HTML5, CSS3, and JavaScript.",
+        "Proven track record of delivering high-quality digital solutions that meet client needs."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "mid",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Web Development Experience",
+        "Collaborated with cross-functional teams to deliver a high-quality digital marketing campaign for a mid-sized company.",
+        "Designed and developed a responsive e-commerce website for a small business client using HTML5, CSS3, and JavaScript.",
+        "Proven track record of delivering high-quality digital solutions that meet client needs."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 59.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Web Development Experience",
+        "Collaborated with cross-functional teams to deliver a high-quality digital marketing campaign for a mid-sized company.",
+        "Designed and developed a responsive e-commerce website for a small business client using HTML5, CSS3, and JavaScript.",
+        "Proven track record of delivering high-quality digital solutions that meet client needs."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design, develop, and test web applications using HTML5, CSS3, JavaScript, and other relevant technologies",
+      "evidence": [
+        "Designed and developed a responsive e-commerce website for a small business client using HTML5, CSS3, and JavaScript."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of our development processes",
+      "evidence": [
+        "Web Development Experience"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Web Development Experience"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "Collaborated with cross-functional teams to deliver a high-quality digital marketing campaign for a mid-sized company."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to ensure our solutions remain cutting-edge",
+      "evidence": [
+        "Proven track record of delivering high-quality digital solutions that meet client needs."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a valued member of our team, you'll enjoy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Flexible working hours and remote work options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Access to cutting-edge technology and tools",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, experiences, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Web Developers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We're seeking highly skilled web developers to join our team! As a web developer at [Company Name], you'll be responsible for designing, developing, and maintaining high-quality di",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Web Development Experience",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to deliver a high-quality digital marketing campaign for a mid-sized company.",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed a responsive e-commerce website for a small business client using HTML5, CSS3, and JavaScript.",
+      "supports": "Design, develop, and test web applications using HTML5, CSS3, JavaScript, and other relevant technologies"
+    },
+    {
+      "source": "resume",
+      "quote": "Web Development Experience",
+      "supports": "Participate in code reviews and contribute to the improvement of our development processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality digital solutions that meet client needs.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to ensure our solutions remain cutting-edge"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

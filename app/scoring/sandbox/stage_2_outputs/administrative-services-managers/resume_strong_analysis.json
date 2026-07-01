@@ -1,0 +1,141 @@
+{
+  "job_title": "Administrative Services Managers",
+  "case_slug": "administrative-services-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:54.678167",
+  "match_score": 83.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 75.7,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained comprehensive policies and procedures to ensure compliance with organizational standards and regulatory requirements, ensuring seamless day-to-day operations.",
+        "Spearheaded the implementation of new technology systems, including software upgrades and hardware replacements, resulting in a 25% increase in productivity and a 30% reduction in operational costs.",
+        "Analyzed key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes that resulted in a 20% reduction in operational expenses.",
+        "Results-driven administrative leader with 7+ years of experience in managing large-scale departmental teams and implementing process improvements to drive efficiency and cost savings."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 95.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "staff"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained comprehensive policies and procedures to ensure compliance with organizational standards and regulatory requirements, ensuring seamless day-to-day operations.",
+        "Strong knowledge of organizational policies and procedures, including compliance with regulatory requirements."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained comprehensive policies and procedures to ensure compliance with organizational standards and regulatory requirements, ensuring seamless day-to-day operations.",
+        "Spearheaded the implementation of new technology systems, including software upgrades and hardware replacements, resulting in a 25% increase in productivity and a 30% reduction in operational costs.",
+        "Analyzed key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes that resulted in a 20% reduction in operational expenses.",
+        "Results-driven administrative leader with 7+ years of experience in managing large-scale departmental teams and implementing process improvements to drive efficiency and cost savings."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop, implement, and maintain policies and procedures to ensure compliance with organizational standards and regulatory requirements",
+      "evidence": [
+        "Developed and maintained comprehensive policies and procedures to ensure compliance with organizational standards and regulatory requirements, ensuring seamless day-to-day operations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate and manage the implementation of new technology systems, including software upgrades and hardware replacements",
+      "evidence": [
+        "Spearheaded the implementation of new technology systems, including software upgrades and hardware replacements, resulting in a 25% increase in productivity and a 30% reduction in operational costs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze and report on key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes as needed",
+      "evidence": [
+        "Analyzed key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes that resulted in a 20% reduction in operational expenses."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully managing administrative operations and leading teams",
+      "evidence": [
+        "Proven track record of successfully managing large-scale departmental teams and implementing process improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of organizational policies and procedures, including compliance with regulatory requirements",
+      "evidence": [
+        "Strong knowledge of organizational policies and procedures, including compliance with regulatory requirements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "Excellent communication, interpersonal, and problem-solving skills."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage administrative operations for a large departmental team, ensuring efficient use of resources and effective communication with staff",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Supervise and mentor administrative staff, providing guidance on performance improvement and professional development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained comprehensive policies and procedures to ensure compliance with organizational standards and regulatory requirements, ensuring seamless day-to-day operations.",
+      "supports": "Develop, implement, and maintain policies and procedures to ensure compliance with organizational standards and regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Spearheaded the implementation of new technology systems, including software upgrades and hardware replacements, resulting in a 25% increase in productivity and a 30% reduction in operational costs.",
+      "supports": "Coordinate and manage the implementation of new technology systems, including software upgrades and hardware replacements"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes that resulted in a 20% reduction in operational expenses.",
+      "supports": "Analyze and report on key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes that resulted in a 20% reduction in operational expenses.",
+      "supports": "Bachelor's degree in Business Administration or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven administrative leader with 7+ years of experience in managing large-scale departmental teams and implementing process improvements to drive efficiency and cost savings.",
+      "supports": "5+ years of experience in administration or a related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

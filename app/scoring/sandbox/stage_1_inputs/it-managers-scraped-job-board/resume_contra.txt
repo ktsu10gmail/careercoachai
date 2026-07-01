@@ -1,0 +1,27 @@
+Here's a contra-evidence resume snippet for an IT Manager position:
+
+"Results-driven IT professional with 8+ years of experience in managing infrastructure and systems. Proven track record of successfully leading teams and delivering projects on time. Skilled in cloud computing, cybersecurity, and network architecture.
+
+* Managed a team of 5 IT professionals, but did not have direct supervisory responsibilities for more than 2 people at any given time.
+* Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.
+* Conducted regular risk assessments and vulnerability testing, but did not identify and prioritize IT projects and initiatives in collaboration with cross-functional teams.
+* Developed and managed budgets for IT projects, but did not have to deal with budget constraints or make difficult financial decisions on a daily basis.
+* Stayed up-to-date with emerging technologies and trends in the industry through online courses and webinars, rather than attending industry conferences or workshops.
+
+Education:
+
+* Bachelor's degree in Computer Science, XYZ University (2010-2014)
+
+Experience:
+
+IT Manager, ABC Corporation (2018-Present)
+
+* Managed a team of 5 IT professionals
+* Implemented new cloud infrastructure
+* Conducted regular risk assessments and vulnerability testing
+
+Senior IT Specialist, DEF Company (2015-2018)
+
+* Developed and implemented comprehensive IT strategies to support business objectives
+* Collaborated with cross-functional teams to identify and prioritize IT projects and initiatives
+* Designed, implemented, and maintained infrastructure and systems"

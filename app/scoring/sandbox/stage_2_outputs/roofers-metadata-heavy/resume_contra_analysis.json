@@ -1,0 +1,161 @@
+{
+  "job_title": "Roofers",
+  "case_slug": "roofers-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.494066",
+  "match_score": 28.22,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 10.0,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Conducted safety inspections to ensure compliance with industry standards",
+        "Proficient in operating power tools, including drills, saws, and hammers",
+        "Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not meet some of the higher-scope requirements for the position, such as completing a formal education program"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in operating power tools, including drills, saws, and hammers"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 47.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Conducted safety inspections to ensure compliance with industry standards",
+        "Proficient in operating power tools, including drills, saws, and hammers",
+        "Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not meet some of the higher-scope requirements for the position, such as completing a formal education program"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "evidence": [
+        "+ Conducted safety inspections to ensure compliance with industry standards"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "evidence": [
+        "+ Conducted safety inspections to ensure compliance with industry standards"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of Linux/Unix operating systems, containerization (e.g., Docker), and cloud platforms (e.g., AWS, GCP)",
+      "evidence": [
+        "Proficient in operating power tools, including drills, saws, and hammers"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with stress testing tools and frameworks (e.g., Apache JMeter, Gatling, Locust)",
+      "evidence": [
+        "Proficient in operating power tools, including drills, saws, and hammers"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for optimization and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architectures, component interactions, and performance optimization techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not meet some of the higher-scope requirements for the position, such as completing a formal education program",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Conducted safety inspections to ensure compliance with industry standards",
+      "supports": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted safety inspections to ensure compliance with industry standards",
+      "supports": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in operating power tools, including drills, saws, and hammers",
+      "supports": "Strong understanding of Linux/Unix operating systems, containerization (e.g., Docker), and cloud platforms (e.g., AWS, GCP)"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not meet some of the higher-scope requirements for the position, such as completing a formal education program",
+      "supports": "Proficiency in programming languages such as Python, Java, or C++"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in operating power tools, including drills, saws, and hammers",
+      "supports": "Experience with stress testing tools and frameworks (e.g., Apache JMeter, Gatling, Locust)"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

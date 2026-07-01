@@ -1,0 +1,166 @@
+{
+  "job_title": "First-Line Supervisors of Office and Administrative Support Workers",
+  "case_slug": "first-line-supervisors-of-office-and-administrative-support-workers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.106830",
+  "match_score": 41.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 26.2,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Managed a team of 5 network administrators to ensure seamless IT operations",
+        "There is no mention of supervisory experience, leadership training, or HR software proficiency, which are essential requirements for the role.",
+        "Proven track record of successfully implementing security protocols and managing teams.",
+        "The job title and required skills are for a First-Line Supervisor position in an office setting, but the candidate's experience and skills are in IT administration and cybersecurity."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's Degree in Computer Science**, XYZ University (2015)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 41.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "junior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 28.9,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Managed a team of 5 network administrators to ensure seamless IT operations",
+        "There is no mention of supervisory experience, leadership training, or HR software proficiency, which are essential requirements for the role.",
+        "Proven track record of successfully implementing security protocols and managing teams.",
+        "Bachelor's Degree in Computer Science**, XYZ University (2015)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 81.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Managed a team of 5 network administrators to ensure seamless IT operations",
+        "There is no mention of supervisory experience, leadership training, or HR software proficiency, which are essential requirements for the role.",
+        "Proven track record of successfully implementing security protocols and managing teams.",
+        "Bachelor's Degree in Computer Science**, XYZ University (2015)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of successfully managing teams and improving performance",
+      "evidence": [
+        "Proven track record of successfully implementing security protocols and managing teams."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "evidence": [
+        "Bachelor's Degree in Computer Science**, XYZ University (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of supervisory experience in an office or administrative setting",
+      "evidence": [
+        "The job title and required skills are for a First-Line Supervisor position in an office setting, but the candidate's experience and skills are in IT administration and cybersecurity."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide guidance, support, and feedback to office and administrative support workers to ensure they meet performance standards",
+      "evidence": [
+        "+ Managed a team of 5 network administrators to ensure seamless IT operations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement training programs to enhance skills and knowledge of support staff",
+      "evidence": [
+        "There is no mention of supervisory experience, leadership training, or HR software proficiency, which are essential requirements for the role."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Manage workload and prioritize tasks to ensure efficient use of resources",
+      "evidence": [
+        "+ Managed a team of 5 network administrators to ensure seamless IT operations"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular one-on-one meetings with team members to discuss progress, address concerns, and set goals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate with other departments as needed to resolve issues or complete projects",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Address employee complaints and concerns in a fair and timely manner",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Managed a team of 5 network administrators to ensure seamless IT operations",
+      "supports": "Provide guidance, support, and feedback to office and administrative support workers to ensure they meet performance standards"
+    },
+    {
+      "source": "resume",
+      "quote": "There is no mention of supervisory experience, leadership training, or HR software proficiency, which are essential requirements for the role.",
+      "supports": "Develop and implement training programs to enhance skills and knowledge of support staff"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Managed a team of 5 network administrators to ensure seamless IT operations",
+      "supports": "Manage workload and prioritize tasks to ensure efficient use of resources"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing security protocols and managing teams.",
+      "supports": "Monitor and track key performance indicators (KPIs) such as productivity, accuracy, and customer satisfaction"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Computer Science**, XYZ University (2015)",
+      "supports": "associate's degree preferred"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

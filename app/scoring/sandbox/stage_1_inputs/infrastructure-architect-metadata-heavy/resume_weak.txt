@@ -1,0 +1,33 @@
+Here's a weak or scope-mismatch resume snippet for an Infrastructure Architect position:
+
+**Summary:**
+Highly motivated IT professional with 3+ years of experience in network administration and cloud computing.
+
+**Technical Skills:**
+
+* Proficient in Windows Server, Cisco routers, and AWS CloudFormation
+* Experience with Ansible automation tools and Docker containerization
+* Familiarity with Python programming language and Jenkins CI/CD pipeline
+
+**Professional Experience:**
+
+* Network Administrator, XYZ Corporation (2018-Present)
+	+ Managed day-to-day network operations, including router configuration and troubleshooting
+	+ Implemented cloud-based backup solutions using AWS S3 and RDS
+	+ Collaborated with development team to integrate new applications into existing infrastructure
+* Cloud Engineer, ABC Startups (2015-2018)
+	+ Designed and implemented cloud-based infrastructure for web applications using AWS EC2 and ELB
+	+ Developed and maintained automated deployment scripts using Ansible
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+This resume snippet lacks the required experience and skills for an Infrastructure Architect position, particularly in areas such as:
+
+* Enterprise architecture and design
+* Cloud migration and management
+* DevOps practices and tools like Kubernetes or Terraform
+* Strong understanding of software development life cycles and Agile methodologies
+
+The candidate's experience is mostly focused on network administration and cloud computing, which are not directly relevant to the Infrastructure Architect role.

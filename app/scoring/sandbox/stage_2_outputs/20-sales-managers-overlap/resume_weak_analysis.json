@@ -1,0 +1,168 @@
+{
+  "job_title": "20. Sales Managers (overlap)",
+  "case_slug": "20-sales-managers-overlap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:47.579952",
+  "match_score": 48.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 20.7,
+      "reason": "Found 2 direct, 2 adjacent, 2 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Business Administration, XYZ University (2018)",
+        "The candidate's experience is limited to small businesses, and they lack the required 5+ years of experience in sales management or a related field.",
+        "Proven track record of success in software sales, with a focus on CRM implementation and sales analytics.",
+        "Excellent communication and problem-solving skills\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in cloud-based software solutions and their applications in the enterprise market."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 63.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Bachelor's degree in Business Administration, XYZ University (2018)",
+        "The candidate's experience is limited to small businesses, and they lack the required 5+ years of experience in sales management or a related field.",
+        "Proven track record of success in software sales, with a focus on CRM implementation and sales analytics.",
+        "Excellent communication and problem-solving skills\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of success in driving revenue growth and team performance",
+      "evidence": [
+        "Proven track record of success in software sales, with a focus on CRM implementation and sales analytics."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based software solutions and their applications in the enterprise market",
+      "evidence": [
+        "Skilled in cloud-based software solutions and their applications in the enterprise market."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and pursue new business opportunities through networking and relationship-building",
+      "evidence": [
+        "Bachelor's degree in Business Administration, XYZ University (2018)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and its current market trends",
+      "evidence": [
+        "Proven track record of success in software sales, with a focus on CRM implementation and sales analytics."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage a team of sales representatives to achieve quarterly sales targets",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement sales strategies to expand customer base and increase revenue",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular sales performance reviews with individual team members, providing constructive feedback and coaching",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to identify opportunities for growth and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage a budget of $500,000 for sales-related expenses, including travel and training",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in sales management or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The candidate's experience is limited to small businesses, and they lack the required 5+ years of experience in sales management or a related field.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Excellent communication and problem-solving skills\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software (Salesforce.com) and sales analytics tools (e.g.",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Sales analytics tools (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in sales or business management (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Business Administration, XYZ University (2018)",
+      "supports": "Identify and pursue new business opportunities through networking and relationship-building"
+    },
+    {
+      "source": "resume",
+      "quote": "The candidate's experience is limited to small businesses, and they lack the required 5+ years of experience in sales management or a related field.",
+      "supports": "5+ years of experience in sales management or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in software sales, with a focus on CRM implementation and sales analytics.",
+      "supports": "Proven track record of success in driving revenue growth and team performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in software sales, with a focus on CRM implementation and sales analytics.",
+      "supports": "Strong understanding of the software industry and its current market trends"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication and problem-solving skills\"",
+      "supports": "Excellent communication, leadership, and problem-solving skills"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

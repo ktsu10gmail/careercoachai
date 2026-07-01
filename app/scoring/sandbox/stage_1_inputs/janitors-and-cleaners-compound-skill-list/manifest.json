@@ -1,0 +1,21 @@
+{
+  "job_title": "Janitors and Cleaners",
+  "case_slug": "janitors-and-cleaners-compound-skill-list",
+  "scenario": "compound_skill_list",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T17:58:03.511139",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

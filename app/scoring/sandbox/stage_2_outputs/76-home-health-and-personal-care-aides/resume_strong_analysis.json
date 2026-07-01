@@ -1,0 +1,129 @@
+{
+  "job_title": "76. Home Health and Personal Care Aides",
+  "case_slug": "76-home-health-and-personal-care-aides",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.289790",
+  "match_score": 75.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 86.9,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Dedicated and compassionate caregiver with experience providing personal care and assistance to individuals with physical disabilities, chronic illnesses, or cognitive impairments in their homes.",
+        "Provided personalized care and support to clients with varying levels of physical and cognitive abilities, including bathing, dressing, grooming, and toileting.",
+        "XYZ Healthcare (20XX-20XX)",
+        "Prepared nutritious meals and snacks according to client preferences and dietary needs, promoting healthy eating habits."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Certified Nursing Assistant (CNA) certification, State of [State] (20XX)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 82.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "XYZ Healthcare (20XX-20XX)",
+        "Developed strong relationships with clients, families, and healthcare providers through effective communication and empathy."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Dedicated and compassionate caregiver with experience providing personal care and assistance to individuals with physical disabilities, chronic illnesses, or cognitive impairments in their homes.",
+        "Provided personalized care and support to clients with varying levels of physical and cognitive abilities, including bathing, dressing, grooming, and toileting.",
+        "XYZ Healthcare (20XX-20XX)",
+        "Prepared nutritious meals and snacks according to client preferences and dietary needs, promoting healthy eating habits."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide personal care and assistance to clients with physical disabilities, chronic illnesses, or cognitive impairments in their homes",
+      "evidence": [
+        "Dedicated and compassionate caregiver with experience providing personal care and assistance to individuals with physical disabilities, chronic illnesses, or cognitive impairments in their homes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare and serve nutritious meals and snacks according to client preferences and dietary needs",
+      "evidence": [
+        "Prepared nutritious meals and snacks according to client preferences and dietary needs, promoting healthy eating habits."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a safe and clean environment for clients, including laundry, cleaning, and organization of living spaces",
+      "evidence": [
+        "Maintained a safe and clean environment for clients, including laundry, cleaning, and organization of living spaces."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain positive relationships with clients, families, and healthcare providers through effective communication and empathy",
+      "evidence": [
+        "Developed strong relationships with clients, families, and healthcare providers through effective communication and empathy."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, ABC High School (20XX-20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support skills, including CPR and first aid training",
+      "evidence": [
+        "Basic life support skills, including CPR and first aid training"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Dedicated and compassionate caregiver with experience providing personal care and assistance to individuals with physical disabilities, chronic illnesses, or cognitive impairments in their homes.",
+      "supports": "Provide personal care and assistance to clients with physical disabilities, chronic illnesses, or cognitive impairments in their homes"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided personalized care and support to clients with varying levels of physical and cognitive abilities, including bathing, dressing, grooming, and toileting.",
+      "supports": "Assist clients with daily living activities such as bathing, dressing, grooming, and toileting"
+    },
+    {
+      "source": "resume",
+      "quote": "XYZ Healthcare (20XX-20XX)",
+      "supports": "Administer medications as prescribed by a healthcare provider"
+    },
+    {
+      "source": "resume",
+      "quote": "Prepared nutritious meals and snacks according to client preferences and dietary needs, promoting healthy eating habits.",
+      "supports": "Prepare and serve nutritious meals and snacks according to client preferences and dietary needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a safe and clean environment for clients, including laundry, cleaning, and organization of living spaces.",
+      "supports": "Maintain a safe and clean environment for clients, including laundry, cleaning, and organization of living spaces"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

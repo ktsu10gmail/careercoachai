@@ -1,0 +1,149 @@
+{
+  "job_title": "Insurance Sales Agents",
+  "case_slug": "insurance-sales-agents-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.077334",
+  "match_score": 55.03,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.1,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven sales professional with experience in software testing and quality assurance.",
+        "+ Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms",
+        "+ Collaborated with cross-functional teams to develop test plans and identify system requirements",
+        "Experience with load testing tools, such as Apache JMeter"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven sales professional with experience in software testing and quality assurance.",
+        "+ Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms",
+        "+ Collaborated with cross-functional teams to develop test plans and identify system requirements",
+        "Experience with load testing tools, such as Apache JMeter"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to ensure the reliability and performance ",
+      "evidence": [
+        "Results-driven sales professional with experience in software testing and quality assurance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, data flows, and performance characteristics",
+      "evidence": [
+        "+ Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, data structures, and algorithms",
+      "evidence": [
+        "+ Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, such as Apache JMeter or Gatling",
+      "evidence": [
+        "Results-driven sales professional with experience in software testing and quality assurance."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios to identify potential bottlenecks and areas for improvement in the scoring engine",
+      "evidence": [
+        "Results-driven sales professional with experience in software testing and quality assurance."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress testing scenarios using various tools and techniques, including load testing, performance testing, and endurance testing",
+      "evidence": [
+        "Results-driven sales professional with experience in software testing and quality assurance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven sales professional with experience in software testing and quality assurance.",
+      "supports": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to ensure the reliability and performance "
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven sales professional with experience in software testing and quality assurance.",
+      "supports": "Design and execute stress testing scenarios to identify potential bottlenecks and areas for improvement in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, data flows, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven sales professional with experience in software testing and quality assurance.",
+      "supports": "Execute stress testing scenarios using various tools and techniques, including load testing, performance testing, and endurance testing"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop test plans and identify system requirements",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

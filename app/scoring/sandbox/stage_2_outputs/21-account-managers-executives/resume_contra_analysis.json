@@ -1,0 +1,157 @@
+{
+  "job_title": "21. Account Managers / Executives",
+  "case_slug": "21-account-managers-executives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.611656",
+  "match_score": 59.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.5,
+      "reason": "Found 6 direct, 3 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully managed a portfolio of 20-30 key accounts, resulting in [X]% revenue growth",
+        "However, I've also explicitly stated that they did not manage a portfolio of 20-30 key accounts, develop and execute strategic account plans, or conduct regular business reviews with clients, as per the job description requirements.",
+        "Key Accomplishments:",
+        "\"Results-driven professional with 5+ years of experience in account management and sales development."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets in a fast-paced software industry environment.",
+        "Proficient in CRM software (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully managed a portfolio of 20-30 key accounts, resulting in [X]% revenue growth",
+        "However, I've also explicitly stated that they did not manage a portfolio of 20-30 key accounts, develop and execute strategic account plans, or conduct regular business reviews with clients, as per the job description requirements.",
+        "Key Accomplishments:",
+        "\"Results-driven professional with 5+ years of experience in account management and sales development."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction",
+      "evidence": [
+        "Successfully managed a portfolio of 20-30 key accounts, resulting in [X]% revenue growth"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in account management or a related field (sales, business development)",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in account management and sales development."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of consistently meeting or exceeding sales targets",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets in a fast-paced software industry environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and current market trends",
+      "evidence": [
+        "Strong understanding of the software industry and current market trends"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficient in CRM software (e.g.",
+      "evidence": [
+        "Proficient in CRM software (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce) and Microsoft Office",
+      "evidence": [
+        "Salesforce) and Microsoft Office"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and execute strategic account plans to achieve sales targets and expand market share",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular business reviews with clients, identifying opportunities for upselling and cross-selling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I've also explicitly stated that they did not manage a portfolio of 20-30 key accounts, develop and execute strategic account plans, or conduct regular business reviews with clients, as per the job description requirements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to inform account strategies and identify new business opportunities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully managed a portfolio of 20-30 key accounts, resulting in [X]% revenue growth",
+      "supports": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I've also explicitly stated that they did not manage a portfolio of 20-30 key accounts, develop and execute strategic account plans, or conduct regular business reviews with clients, as per the job description requirements.",
+      "supports": "Conduct regular business reviews with clients, identifying opportunities for upselling and cross-selling"
+    },
+    {
+      "source": "resume",
+      "quote": "Key Accomplishments:",
+      "supports": "Build and maintain strong relationships with key decision-makers at client organizations"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 5+ years of experience in account management and sales development.",
+      "supports": "5+ years of experience in account management or a related field (sales, business development)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting or exceeding sales targets in a fast-paced software industry environment.",
+      "supports": "Proven track record of consistently meeting or exceeding sales targets"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

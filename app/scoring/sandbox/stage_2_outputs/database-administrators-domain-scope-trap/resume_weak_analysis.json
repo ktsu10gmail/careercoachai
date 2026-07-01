@@ -1,0 +1,139 @@
+{
+  "job_title": "Database Administrators",
+  "case_slug": "database-administrators-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:58.372264",
+  "match_score": 76.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.6,
+      "reason": "Found 7 direct, 5 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Database Administrator",
+        "3+ years of experience in database administration, with a focus on performance optimization and stress testing",
+        "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, global reach, multi-site operations, high-volume data, or low-latency trading infrastructure.",
+        "Excellent analytical and problem-solving skills, with attention to detail and ability to identify trends and patterns"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, global reach, multi-site operations, high-volume data, or low-latency trading infrastructure."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Database Administrator",
+        "3+ years of experience in database administration, with a focus on performance optimization and stress testing",
+        "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, global reach, multi-site operations, high-volume data, or low-latency trading infrastructure.",
+        "Excellent analytical and problem-solving skills, with attention to detail and ability to identify trends and patterns"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Database Administrator - Stress Test**",
+      "evidence": [
+        "Database Administrator"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Database Administrator, you will design, implement, and execute comprehensive stress tests to identify potential bottlenecks and areas for improvement in our scoring engine.",
+      "evidence": [
+        "Database Administrator"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Utilize various tools and techniques to measure system performance, including CPU utilization, memory usage, and latency",
+      "evidence": [
+        "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, global reach, multi-site operations, high-volume data, or low-latency trading infrastructure."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and best practices in stress testing and performance optimization",
+      "evidence": [
+        "3+ years of experience in database administration, with a focus on performance optimization and stress testing"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in database administration, stress testing, or performance optimization",
+      "evidence": [
+        "Database Administrator"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB)",
+      "evidence": [
+        "Database Administrator"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test plans and reports to document findings and recommendations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Database Administrator",
+      "supports": "Database Administrator - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in database administration, with a focus on performance optimization and stress testing",
+      "supports": "The successful candidate will be responsible for simulating high-traffic scenarios to evaluate the performance, scalability, and reliability of our system."
+    },
+    {
+      "source": "resume",
+      "quote": "Database Administrator",
+      "supports": "As a Database Administrator, you will design, implement, and execute comprehensive stress tests to identify potential bottlenecks and areas for improvement in our scoring engine."
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in database administration, with a focus on performance optimization and stress testing",
+      "supports": "You will work closely with our development team to ensure that our system can handle increased traffic and user demand, without compromising performance or reliability."
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in database administration, with a focus on performance optimization and stress testing",
+      "supports": "Design and execute stress testing scenarios to simulate high-traffic conditions"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,28 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**UX/UI Designer**
+
+* 2+ years of experience in designing user interfaces for web applications
+* Proficient in Sketch, Figma, Adobe XD, and InVision
+* Strong understanding of human-centered design principles and user research methods
+* Experience with wireframing, prototyping, and usability testing
+* Familiarity with HTML, CSS, and JavaScript basics
+
+**Skills:**
+
+* User experience (UX) design
+* User interface (UI) design
+* Human-centered design
+* Wireframing
+* Prototyping
+* Usability testing
+
+**Tools:**
+
+* Sketch
+* Figma
+* Adobe XD
+* InVision
+* HTML
+* CSS
+* JavaScript

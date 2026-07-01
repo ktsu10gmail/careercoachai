@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, remote work options available
+* Location: Remote (with occasional on-site visits to testing facilities)
+* Employment Type: Contract
+* Target Start Date: ASAP
+* Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)
+* Sponsorship: Provided by the employer
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, performance, and scalability.
+
+**Responsibilities:**
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including product management, engineering, and quality assurance, to understand testing requirements and develop test plans
+* Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions
+* Identify and report defects or issues found during stress testing, working closely with the development team to reproduce and resolve them
+* Develop and maintain automated testing frameworks and scripts to support ongoing testing efforts
+* Analyze test results and provide recommendations for process improvements and optimization
+* Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our testing methodologies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engine architecture and components
+* Strong understanding of software development life cycles and testing methodologies
+* Experience with automated testing frameworks (e.g., JUnit, Pytest) and scripting languages (e.g., Python, C++)
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+* Bachelor's degree in Computer Science, Engineering, or related field; Master's degree preferred.

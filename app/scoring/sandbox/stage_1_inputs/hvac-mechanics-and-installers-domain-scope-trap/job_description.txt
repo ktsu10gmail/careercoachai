@@ -1,0 +1,42 @@
+Job Title: Stress Test Engineer - Domain Scope Trap
+
+Job Type: Full-time
+
+Location: Remote (with occasional on-site testing)
+
+Job Description:
+
+We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress tests for our software applications. The successful candidate will have expertise in identifying and exploiting vulnerabilities in complex systems, ensuring the reliability and performance of our products.
+
+Responsibilities:
+
+* Design and develop stress test scenarios that simulate real-world usage patterns, including high-traffic, high-load, and low-latency conditions
+* Utilize industry-standard tools and techniques to identify and exploit vulnerabilities in software applications
+* Collaborate with cross-functional teams, including development, QA, and product management, to ensure alignment and effective testing
+* Develop and maintain test plans, scripts, and reports to document test results and provide actionable insights for improvement
+* Conduct regular testing and analysis of new features and updates to ensure seamless integration and minimal impact on existing functionality
+
+Required Skills:
+
+* 3+ years of experience in stress testing or performance engineering
+* In-depth knowledge of software applications, including domain scope trap scenarios (essential)
+* Strong understanding of industry-standard tools and techniques, such as Apache JMeter, Gatling, or Locust
+* Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Excellent problem-solving skills and attention to detail
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+Domain Qualifiers:
+
+* Software/SaaS: Essential
+* Enterprise: Highly desirable
+* Regulated Industry: Essential
+* Global: Highly desirable
+* Multi-site: Highly desirable
+* High-volume: Essential
+* Low-latency: Essential
+
+Scope Qualifiers:
+
+* Cloud-based infrastructure: Essential
+* Containerization technologies: Highly desirable
+* DevOps practices: Highly desirable

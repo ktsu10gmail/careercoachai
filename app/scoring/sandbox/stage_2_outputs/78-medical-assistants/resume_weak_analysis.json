@@ -1,0 +1,159 @@
+{
+  "job_title": "78. Medical Assistants",
+  "case_slug": "78-medical-assistants",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.483462",
+  "match_score": 27.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 20.8,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"High school diploma, completed online course in basic computer programming.",
+        "Strong communication skills, with experience working on team projects in a startup environment.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong communication skills, with experience working on team projects in a startup environment.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"High school diploma, completed online course in basic computer programming.",
+        "Strong communication skills, with experience working on team projects in a startup environment.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, completed online course in basic computer programming."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience working in a healthcare setting, preferably as a medical assistant",
+      "evidence": [
+        "Strong communication skills, with experience working on team projects in a startup environment.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct basic lab tests such as taking blood samples and processing specimens",
+      "evidence": [
+        "\"High school diploma, completed online course in basic computer programming."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification",
+      "evidence": [
+        "\"High school diploma, completed online course in basic computer programming."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Prepare patients for exams and procedures by collecting medical history, vital signs, and other necessary information",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date patient records and medical histories",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist healthcare professionals with administrative tasks, such as scheduling appointments and preparing medical records",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Perform various clinical tasks, including ECGs, blood pressure checks, and vital sign monitoring",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Clean and maintain exam rooms, equipment, and other facilities to ensure a safe and hygienic environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in medical assisting preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Completion of a state-approved medical assistant program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current certification as a medical assistant (CMA) or registered medical assistant (RMA)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records (EMRs) systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, completed online course in basic computer programming.",
+      "supports": "Conduct basic lab tests such as taking blood samples and processing specimens"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, completed online course in basic computer programming.",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, completed online course in basic computer programming.",
+      "supports": "Basic life support (BLS) certification"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong communication skills, with experience working on team projects in a startup environment.\"",
+      "supports": "Experience working in a healthcare setting, preferably as a medical assistant"
+    },
+    {
+      "source": "job_description",
+      "quote": "Prepare patients for exams and procedures by collecting medical history, vital signs, and other necessary information",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

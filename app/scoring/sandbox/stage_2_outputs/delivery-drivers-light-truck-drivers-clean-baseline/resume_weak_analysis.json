@@ -1,0 +1,161 @@
+{
+  "job_title": "Delivery Drivers / Light Truck Drivers",
+  "case_slug": "delivery-drivers-light-truck-drivers-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:58.459378",
+  "match_score": 34.15,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 9.6,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary",
+        "Results-driven delivery professional with 2+ years of experience in logistics operations, seeking a challenging role that leverages my expertise in supply chain management and inventory control.",
+        "+ Managed daily shipments and inventory levels to ensure timely delivery and minimize costs"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "lead",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 9.6,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Summary",
+        "Results-driven delivery professional with 2+ years of experience in logistics operations, seeking a challenging role that leverages my expertise in supply chain management and inventory control.",
+        "+ Managed daily shipments and inventory levels to ensure timely delivery and minimize costs"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary",
+        "Results-driven delivery professional with 2+ years of experience in logistics operations, seeking a challenging role that leverages my expertise in supply chain management and inventory control.",
+        "+ Managed daily shipments and inventory levels to ensure timely delivery and minimize costs"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary**",
+      "evidence": [
+        "Summary"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our logistics team, you will be responsible for safely transporting packages and goods to customers in a timely manner.",
+      "evidence": [
+        "Results-driven delivery professional with 2+ years of experience in logistics operations, seeking a challenging role that leverages my expertise in supply chain management and inventory control."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Perform pre- and post-trip inspections of vehicle to ensure safety and efficiency",
+      "evidence": [
+        "+ Managed daily shipments and inventory levels to ensure timely delivery and minimize costs"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title: Delivery Drivers / Light Truck Drivers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Safely operate a company-provided light truck or van to transport packages and goods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Follow all traffic laws and regulations, including hours of service and weight limits",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide excellent customer service by delivering packages on time and in good condition",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized vehicle, both inside and out",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Scan packages and update delivery records accurately and efficiently",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Work collaboratively with dispatch team to ensure timely delivery of packages",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Adhere to company policies and procedures for handling hazardous materials and other special cargo",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Valid driver's license with a clean driving record",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary",
+      "supports": "Job Summary**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven delivery professional with 2+ years of experience in logistics operations, seeking a challenging role that leverages my expertise in supply chain management and inventory control.",
+      "supports": "As a key member of our logistics team, you will be responsible for safely transporting packages and goods to customers in a timely manner."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Managed daily shipments and inventory levels to ensure timely delivery and minimize costs",
+      "supports": "Perform pre- and post-trip inspections of vehicle to ensure safety and efficiency"
+    },
+    {
+      "source": "job_description",
+      "quote": "Job Title: Delivery Drivers / Light Truck Drivers",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

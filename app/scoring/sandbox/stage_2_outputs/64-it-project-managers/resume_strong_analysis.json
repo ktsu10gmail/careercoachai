@@ -1,0 +1,151 @@
+{
+  "job_title": "64. IT Project Managers",
+  "case_slug": "64-it-project-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.107437",
+  "match_score": 58.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 6 direct, 4 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven IT Project Manager with 7+ years of experience in managing complex projects with budgets up to $10 million, delivering high-quality solutions on time and within budget.",
+        "Coordinated with cross-functional teams, including development, QA, and operations, to ensure seamless project execution.",
+        "Conducted regular status updates and progress reports using Tableau and Excel, providing actionable insights to senior management and clients.",
+        "Proven track record of successfully coordinating cross-functional teams, identifying and mitigating risks, and ensuring compliance with industry standards."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of successfully coordinating cross-functional teams, identifying and mitigating risks, and ensuring compliance with industry standards."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven IT Project Manager with 7+ years of experience in managing complex projects with budgets up to $10 million, delivering high-quality solutions on time and within budget.",
+        "Coordinated with cross-functional teams, including development, QA, and operations, to ensure seamless project execution.",
+        "Conducted regular status updates and progress reports using Tableau and Excel, providing actionable insights to senior management and clients.",
+        "Proven track record of successfully coordinating cross-functional teams, identifying and mitigating risks, and ensuring compliance with industry standards."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, QA, and operations, to ensure seamless project execution."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular status updates and progress reports to senior management and clients using Tableau and Excel",
+      "evidence": [
+        "Conducted regular status updates and progress reports using Tableau and Excel, providing actionable insights to senior management and clients."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in IT project management, preferably in a similar scope and scale",
+      "evidence": [
+        "Skilled in cloud-based project management tools such as Trello, Basecamp, or Smartsheet."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management frameworks like ITIL",
+      "evidence": [
+        "Experienced in Agile methodologies, including Scrum and Kanban, with a strong understanding of IT service management frameworks like ITIL."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "evidence": [
+        "Demonstrated excellent communication, leadership, and problem-solving skills, ensuring effective collaboration with stakeholders and team members."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in PMP, PRINCE2, or Agile methodologies",
+      "evidence": [
+        "Experienced in Agile methodologies, including Scrum and Kanban, with a strong understanding of IT service management frameworks like ITIL."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain project plans, schedules, and resource allocation plans using MS Project and Asana",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with industry standards and regulatory requirements using tools like NIST and HIPAA",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Proven track record of successfully coordinating cross-functional teams, identifying and mitigating risks, and ensuring compliance with industry standards.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in MS Project, Asana, Tableau, Excel, and JIRA",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools like Trello, Basecamp, or Smartsheet",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven IT Project Manager with 7+ years of experience in managing complex projects with budgets up to $10 million, delivering high-quality solutions on time and within budget.",
+      "supports": "Manage complex IT projects with a budget of $1 million to $5 million, involving multiple stakeholders and vendors"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with cross-functional teams, including development, QA, and operations, to ensure seamless project execution.",
+      "supports": "Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular status updates and progress reports using Tableau and Excel, providing actionable insights to senior management and clients.",
+      "supports": "Conduct regular status updates and progress reports to senior management and clients using Tableau and Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully coordinating cross-functional teams, identifying and mitigating risks, and ensuring compliance with industry standards.",
+      "supports": "Identify and mitigate risks, issues, and dependencies using risk management tools like Riskonnect and JIRA"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully coordinating cross-functional teams, identifying and mitigating risks, and ensuring compliance with industry standards.",
+      "supports": "Ensure compliance with industry standards and regulatory requirements using tools like NIST and HIPAA"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

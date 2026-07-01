@@ -1,0 +1,168 @@
+{
+  "job_title": "Mail Clerks and Mail Machine Operators",
+  "case_slug": "mail-clerks-and-mail-machine-operators-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.263846",
+  "match_score": 32.31,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.8,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Processed and delivered mail to customers, ensuring timely delivery and excellent customer service",
+        "Strong organizational and time management skills",
+        "Summary:",
+        "Proven ability to work efficiently in a fast-paced environment, prioritize tasks, and maintain accurate records."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "delivered"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 16.8,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Processed and delivered mail to customers, ensuring timely delivery and excellent customer service",
+        "Strong organizational and time management skills",
+        "Summary:",
+        "Proven ability to work efficiently in a fast-paced environment, prioritize tasks, and maintain accurate records."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 57.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Processed and delivered mail to customers, ensuring timely delivery and excellent customer service",
+        "Strong organizational and time management skills",
+        "Summary:",
+        "Proven ability to work efficiently in a fast-paced environment, prioritize tasks, and maintain accurate records."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "This is an excellent opportunity for individuals who enjoy working in a fast-paced environment and are committed to providing excellent customer service.",
+      "evidence": [
+        "Proven ability to work efficiently in a fast-paced environment, prioritize tasks, and maintain accurate records."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Company:** USPS (United States Postal Service)",
+      "evidence": [
+        "+ Processed and delivered mail to customers, ensuring timely delivery and excellent customer service"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "evidence": [
+        "Strong organizational and time management skills"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Mail Clerks and Mail Machine Operators**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** MCMO-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career advancement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Join our team of dedicated mail professionals and help keep America connected!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Mail Clerk and Mail Machine Operator, you will be responsible for processing and delivering mail to customers.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sort and process mail for delivery",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Processed and delivered mail to customers, ensuring timely delivery and excellent customer service",
+      "supports": "Company:** USPS (United States Postal Service)"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong organizational and time management skills",
+      "supports": "Paid time off and holidays"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to work efficiently in a fast-paced environment, prioritize tasks, and maintain accurate records.",
+      "supports": "This is an excellent opportunity for individuals who enjoy working in a fast-paced environment and are committed to providing excellent customer service."
+    },
+    {
+      "source": "job_description",
+      "quote": "Mail Clerks and Mail Machine Operators**",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

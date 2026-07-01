@@ -1,0 +1,169 @@
+{
+  "job_title": "Machinists",
+  "case_slug": "machinists-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:04.151078",
+  "match_score": 53.92,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.5,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I believe these experiences will allow me to grow and develop as a Machinist, and I am excited about the opportunity to join XYZ Manufacturing Co.",
+        "Strong understanding of machining principles and practices, including 5-axis milling and turning operations",
+        "Physical stamina to work in a fast-paced production environment, with ability to lift up to 50 pounds",
+        "Excellent attention to detail and quality control skills, with experience in implementing lean manufacturing techniques"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "associate's degree in Mechanical Engineering preferred"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 31.1,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I believe these experiences will allow me to grow and develop as a Machinist, and I am excited about the opportunity to join XYZ Manufacturing Co.",
+        "Strong understanding of machining principles and practices, including 5-axis milling and turning operations",
+        "Physical stamina to work in a fast-paced production environment, with ability to lift up to 50 pounds",
+        "Excellent attention to detail and quality control skills, with experience in implementing lean manufacturing techniques"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 79.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I believe these experiences will allow me to grow and develop as a Machinist, and I am excited about the opportunity to join XYZ Manufacturing Co.",
+        "Strong understanding of machining principles and practices, including 5-axis milling and turning operations",
+        "Physical stamina to work in a fast-paced production environment, with ability to lift up to 50 pounds",
+        "Excellent attention to detail and quality control skills, with experience in implementing lean manufacturing techniques"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Company:** XYZ Manufacturing Co.",
+      "evidence": [
+        "I believe these experiences will allow me to grow and develop as a Machinist, and I am excited about the opportunity to join XYZ Manufacturing Co."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Read blueprints and technical drawings to understand production requirements",
+      "evidence": [
+        "Physical stamina to work in a fast-paced production environment, with ability to lift up to 50 pounds"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "evidence": [
+        "associate's degree in Mechanical Engineering preferred"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Operate various machine tools and equipment, including lathes, mills, grinders, and drill presses",
+      "evidence": [
+        "Strong understanding of machining principles and practices, including 5-axis milling and turning operations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Measure and inspect parts for accuracy and quality",
+      "evidence": [
+        "Excellent attention to detail and quality control skills, with experience in implementing lean manufacturing techniques"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Machinist, you'll be responsible for operating machine tools and equipment to manufacture precision parts and components.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Perform routine maintenance tasks on machinery and equipment",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience operating various machine tools and equipment, I did not demonstrate proficiency in operating complex CNC machines during my previous role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a Machinist or in a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I believe these experiences will allow me to grow and develop as a Machinist, and I am excited about the opportunity to join XYZ Manufacturing Co.",
+      "supports": "Company:** XYZ Manufacturing Co."
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of machining principles and practices, including 5-axis milling and turning operations",
+      "supports": "Operate various machine tools and equipment, including lathes, mills, grinders, and drill presses"
+    },
+    {
+      "source": "resume",
+      "quote": "Physical stamina to work in a fast-paced production environment, with ability to lift up to 50 pounds",
+      "supports": "Read blueprints and technical drawings to understand production requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent attention to detail and quality control skills, with experience in implementing lean manufacturing techniques",
+      "supports": "Measure and inspect parts for accuracy and quality"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience operating various machine tools and equipment, I did not demonstrate proficiency in operating complex CNC machines during my previous role.",
+      "supports": "Perform routine maintenance tasks on machinery and equipment"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

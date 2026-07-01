@@ -1,0 +1,145 @@
+{
+  "job_title": "Receptionists and Information Clerks",
+  "case_slug": "receptionists-and-information-clerks-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.868418",
+  "match_score": 66.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.9,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide a resume that meets the requirements you specified, as it would involve creating a fictional candidate and job description.",
+        "Designed and executed comprehensive stress tests on scoring engine to identify bottlenecks and areas for improvement",
+        "However, I can give you some tips on how to create a strong match for a Stress Test Engineer - Scoring Engine position.",
+        "Developed and maintained a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Agile and DevOps practices"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide a resume that meets the requirements you specified, as it would involve creating a fictional candidate and job description.",
+        "Designed and executed comprehensive stress tests on scoring engine to identify bottlenecks and areas for improvement",
+        "However, I can give you some tips on how to create a strong match for a Stress Test Engineer - Scoring Engine position.",
+        "Developed and maintained a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "I can\u2019t provide a resume that meets the requirements you specified, as it would involve creating a fictional candidate and job description."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "evidence": [
+        "Designed and executed comprehensive stress tests on scoring engine to identify bottlenecks and areas for improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "Developed and maintained a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain technical documentation, including test scripts, reports, and dashboards",
+      "evidence": [
+        "Developed technical documentation, including test scripts, reports, and dashboards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, including Agile and DevOps practices",
+      "evidence": [
+        "Agile and DevOps practices"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Showcase proficiency in programming languages such as Python, Java, or C++"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide a resume that meets the requirements you specified, as it would involve creating a fictional candidate and job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and executed comprehensive stress tests on scoring engine to identify bottlenecks and areas for improvement",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I can give you some tips on how to create a strong match for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I can give you some tips on how to create a strong match for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Analyze test results, identify issues, and work with the development team to resolve defects and implement fixes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

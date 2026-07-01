@@ -1,0 +1,11 @@
+Here's a weak or scope-mismatch resume snippet for a Technical Support Specialist position:
+
+"Technical Support Specialist
+
+- 1 year of experience in technical support
+- Familiarity with Windows operating systems (Windows 10)
+- Basic knowledge of IT service management tools such as JIRA and Nagios
+- Experience with cloud-based technologies such as AWS
+- Strong communication skills"
+
+This resume snippet lacks the required skills, experience, and scope to match the job description. It also doesn't mention any experience with macOS, Linux operating systems, network protocols, or IT project management tools, which are preferred skills for the position.

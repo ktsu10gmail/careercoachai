@@ -1,0 +1,166 @@
+{
+  "job_title": "Client Success Managers",
+  "case_slug": "client-success-managers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.304728",
+  "match_score": 33.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 13.9,
+      "reason": "Found 0 direct, 5 adjacent, 1 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Analyzed customer data to identify trends and opportunities for growth",
+        "Managed client relationships and provided account support to ensure customer satisfaction",
+        "Collaborated with cross-functional teams to develop and implement sales strategies",
+        "Bachelor's degree in Business Administration, ABC University (2015-2019)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 55.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Analyzed customer data to identify trends and opportunities for growth",
+        "Managed client relationships and provided account support to ensure customer satisfaction",
+        "Collaborated with cross-functional teams to develop and implement sales strategies",
+        "Bachelor's degree in Business Administration, ABC University (2015-2019)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to identify potential bottlenecks and area",
+      "evidence": [
+        "Analyzed customer data to identify trends and opportunities for growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts and frameworks to ensure consistency and efficiency in testing",
+      "evidence": [
+        "Managed client relationships and provided account support to ensure customer satisfaction"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and provide actionable insights to inform product development and optimization strategies",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop and implement sales strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to ensure our testing practices remain current and effective",
+      "evidence": [
+        "Managed client relationships and provided account support to ensure customer satisfaction"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's degree in Business Administration, ABC University (2015-2019)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on our scoring engine to evaluate its performance under various loads and conditions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture and design patterns",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Senior Account Manager, XYZ Corporation (2018-2022)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "JUnit, Pytest)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Analyzed customer data to identify trends and opportunities for growth",
+      "supports": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to identify potential bottlenecks and area"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed client relationships and provided account support to ensure customer satisfaction",
+      "supports": "Develop and maintain test scripts and frameworks to ensure consistency and efficiency in testing"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop and implement sales strategies",
+      "supports": "Analyze test results and provide actionable insights to inform product development and optimization strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed client relationships and provided account support to ensure customer satisfaction",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to ensure our testing practices remain current and effective"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Business Administration, ABC University (2015-2019)",
+      "supports": "Bachelor's degree in Computer Science, Engineering, or related field"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

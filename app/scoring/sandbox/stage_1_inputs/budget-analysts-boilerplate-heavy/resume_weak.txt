@@ -1,0 +1,27 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Budget Analyst**
+
+Highly detail-oriented and analytical individual with experience in financial modeling and budget analysis.
+
+**Technical Skills:**
+
+* Proficient in Microsoft Excel (2010-2019 versions)
+* Familiarity with Access 2007
+* Basic knowledge of SQL Server 2008
+
+**Experience:**
+
+* Budget Analyst, Small Business (2015-Present)
+	+ Developed and maintained financial models using Excel
+	+ Analyzed budget variance reports to identify areas for improvement
+	+ Collaborated with management to prepare and present financial reports
+* Financial Assistant, Non-Profit Organization (2012-2015)
+	+ Assisted in the preparation of annual budgets and financial statements
+	+ Conducted basic financial analysis using Excel
+
+**Education:**
+
+* Associate's Degree in Business Administration, Local Community College (2008-2010)
+
+This resume snippet lacks enterprise scope as it only mentions experience with small business and non-profit organizations, and does not highlight any experience with large-scale budgeting or financial planning. The technical skills listed are also limited to basic versions of Microsoft Office tools, which may not be sufficient for the role of a Budget Analyst in a larger organization.

@@ -1,0 +1,131 @@
+{
+  "job_title": "Psychologists",
+  "case_slug": "psychologists-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.129755",
+  "match_score": 61.51,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 48.6,
+      "reason": "Found 2 direct, 12 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Psychologist",
+        "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions.",
+        "Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments.",
+        "Analyzed assessment data to identify trends, patterns, and areas for improvement in patient outcomes, informing evidence-based practice and program development."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments.",
+        "Analyzed assessment data to identify trends, patterns, and areas for improvement in patient outcomes, informing evidence-based practice and program development."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Psychologist",
+        "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions.",
+        "Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments.",
+        "Analyzed assessment data to identify trends, patterns, and areas for improvement in patient outcomes, informing evidence-based practice and program development."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in scripting languages such as Python, Java, or C#",
+      "evidence": [
+        "Proficiency in programming languages such as R or Python, with experience using data visualization tools like Tableau or Power BI"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Effective communication and collaboration skills, with experience working with cross-functional teams",
+      "evidence": [
+        "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job Title:** Psychologist"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identifying trends, bottlenecks, and areas for improvement",
+      "evidence": [
+        "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an",
+      "evidence": [
+        "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop stress testing plans and scripts to simulate various scenarios, including high-volume transactions, low-latency requests, and concurrent user interactions",
+      "evidence": [
+        "Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Psychologist",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions.",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments.",
+      "supports": "Design and develop stress testing plans and scripts to simulate various scenarios, including high-volume transactions, low-latency requests, and concurrent user interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments.",
+      "supports": "Execute stress tests on our scoring engine, monitoring system performance, response times, and error rates"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions.",
+      "supports": "Analyze test results, identifying trends, bottlenecks, and areas for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

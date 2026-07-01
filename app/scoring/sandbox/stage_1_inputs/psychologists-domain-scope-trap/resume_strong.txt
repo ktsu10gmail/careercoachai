@@ -1,0 +1,33 @@
+Here's a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Job Title:** Psychologist
+
+**Summary:**
+Highly skilled psychologist with 5+ years of experience in designing and executing comprehensive psychological assessments, including cognitive evaluations, personality tests, and neuropsychological assessments. Proven track record of developing and implementing effective treatment plans, collaborating with cross-functional teams to identify and prioritize assessment needs, and analyzing results to ensure accurate diagnoses and interventions.
+
+**Responsibilities:**
+
+* Designed and implemented cognitive rehabilitation programs for individuals with traumatic brain injuries, resulting in significant improvements in cognitive function and daily living skills.
+* Conducted comprehensive neuropsychological assessments for patients with neurological disorders, including attention deficits, memory impairments, and executive function deficits.
+* Collaborated with multidisciplinary teams to develop and implement individualized treatment plans, ensuring seamless integration of psychological services with medical and educational interventions.
+* Analyzed assessment data to identify trends, patterns, and areas for improvement in patient outcomes, informing evidence-based practice and program development.
+
+**Required Skills:**
+
+* 5+ years of experience in psychology, with a strong foundation in assessment, diagnosis, and treatment planning
+* In-depth knowledge of psychological theories, research methods, and statistical analysis techniques
+* Proficiency in programming languages such as R or Python, with experience using data visualization tools like Tableau or Power BI
+* Experience with electronic health records (EHRs) systems, including data management and analysis
+* Strong understanding of human development, learning theory, and cognitive psychology principles
+
+**Domain Qualifiers:**
+
+* Clinical Psychology
+* Neuropsychology
+* Cognitive Rehabilitation
+
+**Scope Qualifiers:**
+
+* Individualized treatment planning for diverse patient populations
+* Comprehensive assessment and diagnosis of complex psychological conditions
+* Development and implementation of evidence-based interventions and programs

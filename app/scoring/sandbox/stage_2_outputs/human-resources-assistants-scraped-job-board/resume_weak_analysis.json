@@ -1,0 +1,159 @@
+{
+  "job_title": "Human Resources Assistants",
+  "case_slug": "human-resources-assistants-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:01.948264",
+  "match_score": 34.82,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 20.0,
+      "reason": "Found 0 direct, 8 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Maintained accurate records in HRIS system",
+        "Performance management and evaluation",
+        "Coordinated recruitment efforts and interviewed candidates",
+        "2+ years of experience in HR administration"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 32.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Coordinated recruitment efforts and interviewed candidates"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 69.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Maintained accurate records in HRIS system",
+        "Performance management and evaluation",
+        "Coordinated recruitment efforts and interviewed candidates",
+        "2+ years of experience in HR administration"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and develop comprehensive stress test plans to identify system bottlenecks and areas for improvement",
+      "evidence": [
+        "Maintained accurate records in HRIS system"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress tests using various tools and techniques, including load testing, performance testing, and endurance testing",
+      "evidence": [
+        "Performance management and evaluation"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and provide actionable recommendations for system enhancements and optimizations",
+      "evidence": [
+        "Maintained accurate records in HRIS system"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test automation frameworks to improve efficiency and reduce manual testing efforts",
+      "evidence": [
+        "Coordinated recruitment efforts and interviewed candidates"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "2+ years of experience in HR administration"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software systems, including architecture, design patterns, and scalability principles",
+      "evidence": [
+        "HR software proficiency (Workday, BambooHR)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** Simulated Company Name",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We're seeking a highly skilled and experienced Stress Test Engineer to join our team! As a key member of our engineering team, you will be responsible for designing, developing, an",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to inform stress test strategies and recommendations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records in HRIS system",
+      "supports": "Design and develop comprehensive stress test plans to identify system bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Performance management and evaluation",
+      "supports": "Execute stress tests using various tools and techniques, including load testing, performance testing, and endurance testing"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records in HRIS system",
+      "supports": "Analyze test results and provide actionable recommendations for system enhancements and optimizations"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated recruitment efforts and interviewed candidates",
+      "supports": "Develop and maintain test automation frameworks to improve efficiency and reduce manual testing efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in HR administration",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

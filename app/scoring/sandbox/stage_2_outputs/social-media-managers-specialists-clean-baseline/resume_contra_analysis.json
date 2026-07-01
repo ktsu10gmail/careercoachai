@@ -1,0 +1,167 @@
+{
+  "job_title": "Social Media Managers / Specialists",
+  "case_slug": "social-media-managers-specialists-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:09.732353",
+  "match_score": 43.65,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.2,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies across multiple platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (2+ years)",
+        "Created and curated high-quality content that resonated with our target audience, but unfortunately, did not see significant engagement or growth as a result",
+        "Monitored and responded to comments, messages, and reviews in a timely manner, but often found myself overwhelmed by the volume of interactions",
+        "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (self-taught)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 81.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies across multiple platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (2+ years)",
+        "Created and curated high-quality content that resonated with our target audience, but unfortunately, did not see significant engagement or growth as a result",
+        "Monitored and responded to comments, messages, and reviews in a timely manner, but often found myself overwhelmed by the volume of interactions",
+        "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (self-taught)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our marketing department, you will be responsible for developing and implementing social media strategies that drive engagement, grow our online presence, and su",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies across multiple platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (2+ years)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive social media strategies across multiple platforms (Facebook, Twitter, Instagram, LinkedIn, YouTube)",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies across multiple platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (2+ years)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube",
+      "evidence": [
+        "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (self-taught)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to interpret social media metrics and adjust strategies accordingly",
+      "evidence": [
+        "Strong analytical skills, but was unable to interpret social media metrics in a way that drove meaningful insights or strategy adjustments"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor and respond to comments, messages, and reviews in a timely and professional manner",
+      "evidence": [
+        "Monitored and responded to comments, messages, and reviews in a timely manner, but often found myself overwhelmed by the volume of interactions"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Social Media Manager/Specialist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and curate high-quality, engaging content (text, images, videos) that resonates with our target audience",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Created and curated high-quality content that resonated with our target audience, but unfortunately, did not see significant engagement or growth as a result",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and schedule posts using social media management tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Hootsuite, Sprout Social)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze social media metrics and adjust strategies accordingly to optimize performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on the latest social media trends, best practices, and platform updates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in social media marketing or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of success in developing and executing social media strategies that drive engagement and growth",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent content creation and curation skills, with the ability to create high-quality content across multiple formats (text, images, videos)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Excellent content creation skills, with the ability to create high-quality content across multiple formats (text, images, videos), but often struggled to make my work stand out in a crowded online space",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and executed comprehensive social media strategies across multiple platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (2+ years)",
+      "supports": "As a key member of our marketing department, you will be responsible for developing and implementing social media strategies that drive engagement, grow our online presence, and su"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed comprehensive social media strategies across multiple platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (2+ years)",
+      "supports": "Develop and execute comprehensive social media strategies across multiple platforms (Facebook, Twitter, Instagram, LinkedIn, YouTube)"
+    },
+    {
+      "source": "resume",
+      "quote": "Created and curated high-quality content that resonated with our target audience, but unfortunately, did not see significant engagement or growth as a result",
+      "supports": "Create and curate high-quality, engaging content (text, images, videos) that resonates with our target audience"
+    },
+    {
+      "source": "resume",
+      "quote": "Monitored and responded to comments, messages, and reviews in a timely manner, but often found myself overwhelmed by the volume of interactions",
+      "supports": "Monitor and respond to comments, messages, and reviews in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube (self-taught)",
+      "supports": "Strong understanding of social media platforms, including Facebook, Twitter, Instagram, LinkedIn, and YouTube"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

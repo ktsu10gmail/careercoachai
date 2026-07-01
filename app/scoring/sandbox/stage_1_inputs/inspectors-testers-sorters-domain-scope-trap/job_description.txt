@@ -1,0 +1,37 @@
+**Job Title:** Scoring Engine Stress Tester
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Scoring Engine Stress Tester to join our team of experts in evaluating the performance and reliability of our scoring engine under various stress test scenarios. The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify potential bottlenecks and areas for improvement.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on our scoring engine to simulate high-volume, low-latency, and multi-site traffic patterns
+* Utilize domain-specific knowledge to create realistic test scenarios that mimic real-world usage patterns in regulated industries (e.g. finance, healthcare)
+* Collaborate with cross-functional teams to gather requirements and ensure test plans align with business objectives
+* Develop and maintain a thorough understanding of our scoring engine's architecture, components, and performance metrics
+* Analyze test results, identify areas for improvement, and provide actionable recommendations for optimization
+* Communicate test findings and recommendations to stakeholders, including product management, engineering, and quality assurance teams
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engine technology and architecture (essential)
+* Strong understanding of domain-specific regulations and compliance requirements (e.g. GDPR, HIPAA) (essential)
+* Experience with multi-site, high-volume, and low-latency traffic patterns (highly desirable)
+* Proficiency in stress testing tools such as Apache JMeter, Gatling, or Locust (highly desirable)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated Industry (e.g. finance, healthcare)
+
+**Scope Qualifiers:**
+
+* Global
+* Multi-site
+* High-volume
+* Low-latency

@@ -1,0 +1,33 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**Job Title:** Psychologist
+
+**Summary:**
+
+Highly skilled psychologist with experience in stress testing and performance engineering.
+
+**Responsibilities:**
+
+* Designed and developed stress testing plans and scripts
+* Executed stress tests on various systems
+* Analyzed test results to identify trends and areas for improvement
+* Collaborated with development teams to reproduce issues and provide feedback
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing, performance engineering, or related fields (e.g., QA, DevOps)
+* Proficiency in scripting languages such as Python, Java, or C#
+* Experience with load testing tools like Apache JMeter
+* Strong analytical and problem-solving skills
+
+**Experience:**
+
+* Stress Test Engineer, XYZ Corporation (2018-Present)
+	+ Designed and developed stress testing plans and scripts
+	+ Executed stress tests on various systems
+	+ Analyzed test results to identify trends and areas for improvement
+* Psychologist, ABC Clinic (2015-2018)
+	+ Conducted psychological assessments and evaluations
+	+ Developed treatment plans and provided therapy services
+
+Note that this resume snippet lacks the essential domain qualifier of "Software/SaaS" and omits any experience with low-latency requirements or concurrent user interactions.

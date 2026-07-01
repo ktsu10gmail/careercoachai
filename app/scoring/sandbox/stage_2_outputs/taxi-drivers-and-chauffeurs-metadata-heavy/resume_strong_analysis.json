@@ -1,0 +1,170 @@
+{
+  "job_title": "Taxi Drivers and Chauffeurs",
+  "case_slug": "taxi-drivers-and-chauffeurs-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:10.722072",
+  "match_score": 39.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 15.0,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Utilized GPS navigation systems to optimize route efficiency and reduce travel time.",
+        "Possess a valid CDL with a clean driving record",
+        "Results-driven taxi driver with 5+ years of experience in managing high-volume routes, ensuring timely arrivals, and providing exceptional customer service.",
+        "+ Managed complex route planning, including navigating through heavy traffic and construction zones."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Possess a valid CDL with a clean driving record"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 64.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Utilized GPS navigation systems to optimize route efficiency and reduce travel time.",
+        "Possess a valid CDL with a clean driving record",
+        "Results-driven taxi driver with 5+ years of experience in managing high-volume routes, ensuring timely arrivals, and providing exceptional customer service.",
+        "+ Managed complex route planning, including navigating through heavy traffic and construction zones."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)",
+      "evidence": [
+        "+ Utilized GPS navigation systems to optimize route efficiency and reduce travel time."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for remote work",
+      "evidence": [
+        "Possess a valid CDL with a clean driving record"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability",
+      "evidence": [
+        "Results-driven taxi driver with 5+ years of experience in managing high-volume routes, ensuring timely arrivals, and providing exceptional customer service."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "+ Managed complex route planning, including navigating through heavy traffic and construction zones."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Results-driven taxi driver with 5+ years of experience in managing high-volume routes, ensuring timely arrivals, and providing exceptional customer service."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in programming languages, including Python, Java, or C++",
+      "evidence": [
+        "+ Managed complex route planning, including navigating through heavy traffic and construction zones."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance for out-of-town candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to automate testing processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter or Gatling",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g., Docker)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Utilized GPS navigation systems to optimize route efficiency and reduce travel time.",
+      "supports": "Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Possess a valid CDL with a clean driving record",
+      "supports": "Security Clearance: Not required, but a valid passport is necessary for remote work"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven taxi driver with 5+ years of experience in managing high-volume routes, ensuring timely arrivals, and providing exceptional customer service.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Managed complex route planning, including navigating through heavy traffic and construction zones.",
+      "supports": "Design and execute stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven taxi driver with 5+ years of experience in managing high-volume routes, ensuring timely arrivals, and providing exceptional customer service.",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

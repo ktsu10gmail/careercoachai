@@ -1,0 +1,151 @@
+{
+  "job_title": "Computer Systems Analysts",
+  "case_slug": "computer-systems-analysts-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:57.626119",
+  "match_score": 68.48,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Collaborated with development teams to gather requirements and ensure test plans aligned with business objectives",
+        "Winner, ABC Corporation's Quality Assurance Award (2020)",
+        "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems.",
+        "Proven track record of improving testing methodologies, collaborating with cross-functional teams, and driving process improvements."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 55.0,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Collaborated with development teams to gather requirements and ensure test plans aligned with business objectives",
+        "Winner, ABC Corporation's Quality Assurance Award (2020)",
+        "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems.",
+        "Proven track record of improving testing methodologies, collaborating with cross-functional teams, and driving process improvements."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage pattern",
+      "evidence": [
+        "Winner, ABC Corporation's Quality Assurance Award (2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing",
+      "evidence": [
+        "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for process improvements",
+      "evidence": [
+        "Proven track record of improving testing methodologies, collaborating with cross-functional teams, and driving process improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies",
+      "evidence": [
+        "Proven track record of improving testing methodologies, collaborating with cross-functional teams, and driving process improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in software testing or a related field (e.g., QA engineering, DevOps)",
+      "evidence": [
+        "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "evidence": [
+        "Experienced in stress testing tools (Apache JMeter, Gatling) and database architectures"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Computer Systems Analysts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of work time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid US government security clearance may be required for certain projects",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Collaborated with development teams to gather requirements and ensure test plans aligned with business objectives",
+      "supports": "Sponsorship: We offer sponsorship for international candidates who meet the necessary requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Winner, ABC Corporation's Quality Assurance Award (2020)",
+      "supports": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage pattern"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems.",
+      "supports": "Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled software testing professional with 7+ years of experience in designing and executing comprehensive stress tests on complex systems.",
+      "supports": "Develop and maintain test scripts, tools, and frameworks to automate testing processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of improving testing methodologies, collaborating with cross-functional teams, and driving process improvements.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for process improvements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

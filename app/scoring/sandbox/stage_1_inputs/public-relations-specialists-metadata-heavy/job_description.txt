@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Up to 20% of the work time will be spent at client sites in the US and Europe
+* Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of engineers responsible for designing, developing, and maintaining the scoring engine for our metadata-heavy applications. As a key member of our engineering team, you will be responsible for creating and executing comprehensive stress tests to ensure the reliability, scalability, and performance of our scoring engine.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to identify and prioritize test cases
+* Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions
+* Create and execute automated tests using tools such as Apache JMeter, Gatling, or similar technologies
+* Analyze test results, identify trends and areas for improvement, and provide recommendations for enhancements to the scoring engine
+* Work closely with QA teams to ensure that test cases are comprehensive and effective in identifying defects
+* Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve the performance and reliability of the scoring engine
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of Java, Python, or C++ programming languages
+* Experience with Apache JMeter, Gatling, or similar load testing tools
+* Strong understanding of database systems, including data modeling and query optimization
+* Familiarity with cloud-based infrastructure, including AWS or Azure
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams

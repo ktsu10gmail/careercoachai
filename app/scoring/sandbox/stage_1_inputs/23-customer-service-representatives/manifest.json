@@ -1,0 +1,20 @@
+{
+  "job_title": "23. Customer Service Representatives",
+  "case_slug": "23-customer-service-representatives",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:24:56.662486",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

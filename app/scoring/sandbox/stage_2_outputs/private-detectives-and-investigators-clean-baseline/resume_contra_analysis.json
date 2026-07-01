@@ -1,0 +1,165 @@
+{
+  "job_title": "Private Detectives and Investigators",
+  "case_slug": "private-detectives-and-investigators-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.688606",
+  "match_score": 34.81,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans to simulate various types of loads and scenarios, but unfortunately, I did not have the opportunity to execute these tests due to limited resources and prioritization by management.",
+        "Developed a strong understanding of software architecture, design patterns, and system behavior through self-study and online courses, but I did not have the chance to apply this knowledge in real-world scenarios.",
+        "Collaborated with cross-functional teams, including engineering, product management, and operations, to ensure alignment and effective communication, although our team's efforts were often hindered by inadequate communication from stakehold",
+        "I also took online courses in stress testing and performance evaluation to supplement my education, but these efforts were not formally recognized or credited by my university."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans to simulate various types of loads and scenarios, but unfortunately, I did not have the opportunity to execute these tests due to limited resources and prioritization by management.",
+        "Developed a strong understanding of software architecture, design patterns, and system behavior through self-study and online courses, but I did not have the chance to apply this knowledge in real-world scenarios.",
+        "Collaborated with cross-functional teams, including engineering, product management, and operations, to ensure alignment and effective communication, although our team's efforts were often hindered by inadequate communication from stakehold",
+        "I also took online courses in stress testing and performance evaluation to supplement my education, but these efforts were not formally recognized or credited by my university."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in stress testing, performance evaluation, or a related field",
+      "evidence": [
+        "I also took online courses in stress testing and performance evaluation to supplement my education, but these efforts were not formally recognized or credited by my university."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Programming languages: Python (self-taught), Java (online course)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools and frameworks (e.g., Apache JMeter, Gatling)",
+      "evidence": [
+        "Load testing tools and frameworks: Familiarity with Apache JMeter through online tutorials"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Collaborated with cross-functional teams, including engineering, product management, and operations, to ensure alignment and effective communication, although our team's efforts were often hindered by inadequate communication from stakehold"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills, with attention to detail and ability to identify complex issues",
+      "evidence": [
+        "Analytical and problem-solving skills: Developed through personal projects and self-study, but not formally assessed or recognized."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will design, implement, and execute stress tests to identify potential weaknesses and vulnerabilities in our scoring engine.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to simulate various types of loads and scenarios",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Designed and developed comprehensive stress test plans to simulate various types of loads and scenarios, but unfortunately, I did not have the opportunity to execute these tests due to limited resources and prioritization by management.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests on the scoring engine, monitoring performance metrics and identifying areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, providing detailed reports and recommendations for optimization and enhancement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed a strong understanding of software architecture, design patterns, and system behavior through self-study and online courses, but I did not have the chance to apply this knowledge in real-world scenarios.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance evaluation",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, design patterns, and system behavior",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed a strong understanding of software architecture, design patterns, and system behavior through self-study and online courses, but I did not have the chance to apply this knowledge in real-world scenarios.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress test plans to simulate various types of loads and scenarios, but unfortunately, I did not have the opportunity to execute these tests due to limited resources and prioritization by management.",
+      "supports": "Design and develop comprehensive stress test plans to simulate various types of loads and scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed a strong understanding of software architecture, design patterns, and system behavior through self-study and online courses, but I did not have the chance to apply this knowledge in real-world scenarios.",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams, including engineering, product management, and operations, to ensure alignment and effective communication, although our team's efforts were often hindered by inadequate communication from stakehold",
+      "supports": "Bachelor's degree in Computer Science, Engineering, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "I also took online courses in stress testing and performance evaluation to supplement my education, but these efforts were not formally recognized or credited by my university.",
+      "supports": "3+ years of experience in stress testing, performance evaluation, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed a strong understanding of software architecture, design patterns, and system behavior through self-study and online courses, but I did not have the chance to apply this knowledge in real-world scenarios.",
+      "supports": "Strong understanding of software architecture, design patterns, and system behavior"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

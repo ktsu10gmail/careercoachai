@@ -1,0 +1,158 @@
+{
+  "job_title": "Carpenters",
+  "case_slug": "carpenters-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.610648",
+  "match_score": 24.13,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 5.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+        "Built and installed various types of wood structures, including cabinets, shelving units, and furniture",
+        "Utilized hand tools and power equipment to complete projects efficiently and effectively"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Built and installed various types of wood structures, including cabinets, shelving units, and furniture",
+        "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 35.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+        "Built and installed various types of wood structures, including cabinets, shelving units, and furniture",
+        "Utilized hand tools and power equipment to complete projects efficiently and effectively"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Utilize industry-standard tools and techniques to simulate various types of loads (e.g., concurrent requests, data ingestion, query patterns) on the scoring engine",
+      "evidence": [
+        "Built and installed various types of wood structures, including cabinets, shelving units, and furniture"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in industry-standard tools such as Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Utilized hand tools and power equipment to complete projects efficiently and effectively"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for performance optimization and improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain automated testing frameworks to support ongoing testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architectures, component interactions, and data ingestion pipelines",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Built and installed various types of wood structures, including cabinets, shelving units, and furniture",
+      "supports": "Utilize industry-standard tools and techniques to simulate various types of loads (e.g., concurrent requests, data ingestion, query patterns) on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which are required skills for the Stress Test Engineer - Scoring Engine position.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for performance optimization and improvement"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,146 @@
+{
+  "job_title": "63. Quality Assurance Testers",
+  "case_slug": "63-quality-assurance-testers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.042013",
+  "match_score": 64.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 2 direct, 9 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Currently learning Python programming language to expand test automation capabilities.\"",
+        "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+        "Proficient in JIRA and TestRail, with basic knowledge of Agile development methodologies and Git version control system.",
+        "Strong analytical skills, with ability to identify defects accurately."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 54.0,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+        "Experience with AWS Device Farm for cloud-based testing.",
+        "Currently learning Python programming language to expand test automation capabilities.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 98.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Currently learning Python programming language to expand test automation capabilities.\"",
+        "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+        "Proficient in JIRA and TestRail, with basic knowledge of Agile development methodologies and Git version control system.",
+        "Strong analytical skills, with ability to identify defects accurately."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Experience with cloud-based testing frameworks and tools (e.g.",
+      "evidence": [
+        "Experience with AWS Device Farm for cloud-based testing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "AWS Device Farm, Google Cloud Test Lab)",
+      "evidence": [
+        "Experience with AWS Device Farm for cloud-based testing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles and testing methodologies",
+      "evidence": [
+        "\"Experienced software tester with 3 years of experience in testing web applications using Selenium."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in testing tools such as JIRA, TestRail, or Trello",
+      "evidence": [
+        "\"Experienced software tester with 3 years of experience in testing web applications using Selenium."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with Agile development methodologies and version control systems (e.g.",
+      "evidence": [
+        "Proficient in JIRA and TestRail, with basic knowledge of Agile development methodologies and Git version control system."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to identify and report defects accurately",
+      "evidence": [
+        "Strong analytical skills, with ability to identify defects accurately."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct thorough testing of software applications to identify defects and ensure compliance with quality standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and manage defect reports, track defect status, and provide regular progress updates to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in software testing, with a focus on quality assurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Currently learning Python programming language to expand test automation capabilities.\"",
+      "supports": "Develop and maintain test plans, test cases, and test scripts for assigned projects"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+      "supports": "Participate in code reviews and provide feedback on testing methodologies and processes"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+      "supports": "Develop and maintain test automation frameworks using tools such as Selenium, Appium, or TestComplete"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+      "supports": "Conduct exploratory testing to identify defects that may not be caught by automated tests"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced software tester with 3 years of experience in testing web applications using Selenium.",
+      "supports": "Strong understanding of software development life cycles and testing methodologies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

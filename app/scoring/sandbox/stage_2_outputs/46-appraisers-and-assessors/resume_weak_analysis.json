@@ -1,0 +1,158 @@
+{
+  "job_title": "46. Appraisers and Assessors",
+  "case_slug": "46-appraisers-and-assessors",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:50.038834",
+  "match_score": 55.69,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.8,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of creating efficient algorithms and data structures.",
+        "Bachelor's degree in Computer Science, XYZ University (2010-2014)",
+        "\"Experienced software developer with 5+ years of experience in low-level programming languages such as C and Assembly."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of creating efficient algorithms and data structures.",
+        "Bachelor's degree in Computer Science, XYZ University (2010-2014)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 55.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of creating efficient algorithms and data structures.",
+        "Bachelor's degree in Computer Science, XYZ University (2010-2014)",
+        "\"Experienced software developer with 5+ years of experience in low-level programming languages such as C and Assembly."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Review and analyze market data, sales records, and other relevant information to estimate property values",
+      "evidence": [
+        "Proven track record of creating efficient algorithms and data structures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a field such as real estate, business, or finance",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2010-2014)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in software such as AutoCAD, Excel, or GIS mapping tools",
+      "evidence": [
+        "\"Experienced software developer with 5+ years of experience in low-level programming languages such as C and Assembly."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct on-site inspections of properties to determine their value",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare written appraisals and reports that provide a detailed explanation of the valuation methodology used",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Testify in court as an expert witness if necessary",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date records of all appraisal work performed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current with changes in local, state, and federal laws and regulations related to property taxation",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Completion of a state-approved appraiser training program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2-5 years of experience as an appraiser or assessor",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with property tax assessment and appeals processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of creating efficient algorithms and data structures.",
+      "supports": "Review and analyze market data, sales records, and other relevant information to estimate property values"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science, XYZ University (2010-2014)",
+      "supports": "Bachelor's degree in a field such as real estate, business, or finance"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced software developer with 5+ years of experience in low-level programming languages such as C and Assembly.",
+      "supports": "Proficiency in software such as AutoCAD, Excel, or GIS mapping tools"
+    },
+    {
+      "source": "job_description",
+      "quote": "Conduct on-site inspections of properties to determine their value",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,164 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager-real-jd-1de4848fb1",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T20:56:45.776445",
+  "match_score": 22.23,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 8.1,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet lacks the scope-mismatch by not highlighting any experience or skills directly related to account management, project management, growth marketing, or ASO.",
+        "Developed and implemented financial models to drive business growth",
+        "Financial reporting and compliance",
+        "Proven track record of delivering accurate financial reports and providing strategic financial guidance to senior leadership."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet lacks the scope-mismatch by not highlighting any experience or skills directly related to account management, project management, growth marketing, or ASO.",
+        "Developed and implemented financial models to drive business growth",
+        "Financial reporting and compliance",
+        "Proven track record of delivering accurate financial reports and providing strategic financial guidance to senior leadership."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Day-to-day, you'll get deep into ASO and other Growth deliverables, lead quarterly contract conversations, navigate complex corporate structures, and bring a consultative lens to c",
+      "evidence": [
+        "Developed and implemented financial models to drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Build the kind of trust with clients and internal teams that makes you the go-to person when something needs thinking through, not just reporting out.",
+      "evidence": [
+        "Financial reporting and compliance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Act as a strategic consultant.",
+      "evidence": [
+        "Proven track record of delivering accurate financial reports and providing strategic financial guidance to senior leadership."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Become the person our clients call when they need to think something through, not just get a status update.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the scope-mismatch by not highlighting any experience or skills directly related to account management, project management, growth marketing, or ASO.",
+      "severity": "high"
+    },
+    {
+      "requirement": "East Coast location preferred for time zone alignment with our European teams.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Be the first call.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Own the accounts.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage a portfolio of 3\u20134 enterprise-level US clients end-to-end, from strategy to delivery to renewals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Get into the weeds.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Run status meetings, manage scopes, chase down the details, and make sure nothing falls through the cracks across internal teams and client stakeholders.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Facilitate roadmap development, push back when needed, and help clients think beyond the immediate brief.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Navigate complexity.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Work confidently with large corporate organizations, manage multiple internal stakeholders, and keep projects moving without losing anyone along the way.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Scope and price new work.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks the scope-mismatch by not highlighting any experience or skills directly related to account management, project management, growth marketing, or ASO.",
+      "supports": "Become the person our clients call when they need to think something through, not just get a status update."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented financial models to drive business growth",
+      "supports": "Day-to-day, you'll get deep into ASO and other Growth deliverables, lead quarterly contract conversations, navigate complex corporate structures, and bring a consultative lens to c"
+    },
+    {
+      "source": "resume",
+      "quote": "Financial reporting and compliance",
+      "supports": "Build the kind of trust with clients and internal teams that makes you the go-to person when something needs thinking through, not just reporting out."
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering accurate financial reports and providing strategic financial guidance to senior leadership.",
+      "supports": "Act as a strategic consultant."
+    },
+    {
+      "source": "job_description",
+      "quote": "Become the person our clients call when they need to think something through, not just get a status update.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

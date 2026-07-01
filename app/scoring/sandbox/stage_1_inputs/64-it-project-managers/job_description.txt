@@ -1,0 +1,24 @@
+Responsibilities:
+
+* Manage complex IT projects with a budget of $1 million to $5 million, involving multiple stakeholders and vendors
+* Develop and maintain project plans, schedules, and resource allocation plans using MS Project and Asana
+* Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones
+* Conduct regular status updates and progress reports to senior management and clients using Tableau and Excel
+* Identify and mitigate risks, issues, and dependencies using risk management tools like Riskonnect and JIRA
+* Ensure compliance with industry standards and regulatory requirements using tools like NIST and HIPAA
+* Manage and coordinate with vendors and third-party providers for IT services and solutions
+
+Required Skills:
+
+* 5+ years of experience in IT project management, preferably in a similar scope and scale
+* Strong knowledge of Agile methodologies, including Scrum and Kanban
+* Experience with IT service management frameworks like ITIL
+* Proficiency in MS Project, Asana, Tableau, Excel, and JIRA
+* Excellent communication, leadership, and problem-solving skills
+
+Preferred Skills:
+
+* Certification in PMP, PRINCE2, or Agile methodologies
+* Experience with cloud-based project management tools like Trello, Basecamp, or Smartsheet
+* Knowledge of cybersecurity principles and practices
+* Familiarity with IT service management best practices using tools like ServiceNow

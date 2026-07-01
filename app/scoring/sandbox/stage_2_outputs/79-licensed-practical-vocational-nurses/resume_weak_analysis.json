@@ -1,0 +1,170 @@
+{
+  "job_title": "79. Licensed Practical/Vocational Nurses",
+  "case_slug": "79-licensed-practical-vocational-nurses",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.568992",
+  "match_score": 39.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.4,
+      "reason": "Found 3 direct, 3 adjacent, 1 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs.",
+        "Educated patients on disease management and self-care techniques, but didn't have much experience with medication adherence",
+        "Conducted routine assessments to identify changes in patient condition, but mostly focused on wound care",
+        "Maintained accurate records using a basic electronic medical record system"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 30.4,
+      "reason": "Found 3 direct, 3 adjacent, 1 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs.",
+        "Educated patients on disease management and self-care techniques, but didn't have much experience with medication adherence",
+        "Conducted routine assessments to identify changes in patient condition, but mostly focused on wound care",
+        "Maintained accurate records using a basic electronic medical record system"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 64.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs.",
+        "Educated patients on disease management and self-care techniques, but didn't have much experience with medication adherence",
+        "Conducted routine assessments to identify changes in patient condition, but mostly focused on wound care",
+        "Maintained accurate records using a basic electronic medical record system"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement individualized care plans for patients with complex medical needs, such as diabetes, hypertension, or chronic pain management",
+      "evidence": [
+        "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Educate patients and families on disease management, self-care techniques, and medication adherence",
+      "evidence": [
+        "Educated patients on disease management and self-care techniques, but didn't have much experience with medication adherence"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience working with patients with complex medical needs, such as those requiring dialysis or ventilator care",
+      "evidence": [
+        "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date patient records, including progress notes and medication administration records",
+      "evidence": [
+        "Conducted routine assessments to identify changes in patient condition, but mostly focused on wound care"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Basic life support skills",
+      "evidence": [
+        "Maintained accurate records using a basic electronic medical record system"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Certification in wound care or other specialized areas of practice",
+      "evidence": [
+        "Developed care plans for patients with diabetes and hypertension"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide direct patient care under the supervision of a registered nurse, including administering medications, performing vital signs, and providing wound care",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct routine assessments to identify changes in patient condition and report findings to the registered nurse",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current licensure as a Licensed Practical/Vocational Nurse (LPN) or Licensed Vocational Nurse (LVN)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Valid CPR certification",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of electronic medical records (EMRs) and ability to navigate clinical software systems",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Maintained accurate records using a basic electronic medical record system",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs.",
+      "supports": "Develop and implement individualized care plans for patients with complex medical needs, such as diabetes, hypertension, or chronic pain management"
+    },
+    {
+      "source": "resume",
+      "quote": "Educated patients on disease management and self-care techniques, but didn't have much experience with medication adherence",
+      "supports": "Educate patients and families on disease management, self-care techniques, and medication adherence"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted routine assessments to identify changes in patient condition, but mostly focused on wound care",
+      "supports": "Maintain accurate and up-to-date patient records, including progress notes and medication administration records"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records using a basic electronic medical record system",
+      "supports": "Basic life support skills"
+    },
+    {
+      "source": "resume",
+      "quote": "It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs.",
+      "supports": "Experience working with patients with complex medical needs, such as those requiring dialysis or ventilator care"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

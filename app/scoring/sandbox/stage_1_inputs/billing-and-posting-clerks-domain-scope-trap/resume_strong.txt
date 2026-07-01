@@ -1,0 +1,12 @@
+Here's a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Stress Test Engineer**
+
+* 5+ years of experience in stress testing and performance engineering, with a focus on enterprise billing and posting systems
+* Proven expertise in designing and developing comprehensive test plans, scripts, and tools to simulate high-volume transactions, low-latency requirements, and multi-site interactions
+* Skilled in scripting languages such as Python, Java, and C#, with experience using load testing tools like Apache JMeter and Gatling
+* Strong understanding of cloud-based infrastructure and scalability principles, with a focus on regulated industries (financial services, healthcare) and global testing requirements
+* Excellent analytical and problem-solving skills, with the ability to work independently and collaboratively as part of a team
+* Experience working in fast-paced environments, prioritizing tasks, and meeting deadlines
+
+Note: I've omitted the domain qualifier "Domain Scope Trap" from the resume snippet, as it's not explicitly mentioned in the job description. However, I've included relevant keywords such as "enterprise billing and posting systems", "high-volume transactions", and "low-latency requirements" to demonstrate expertise in the required domain.

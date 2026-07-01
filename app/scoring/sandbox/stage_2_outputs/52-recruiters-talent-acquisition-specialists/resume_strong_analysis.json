@@ -1,0 +1,135 @@
+{
+  "job_title": "52. Recruiters / Talent Acquisition Specialists",
+  "case_slug": "52-recruiters-talent-acquisition-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:50.728080",
+  "match_score": 84.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.2,
+      "reason": "Found 8 direct, 5 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven Talent Acquisition Specialist with 3+ years of experience in sourcing and attracting top talent across various departments.",
+        "Proven track record of delivering high-quality candidates that meet business objectives, with a strong focus on collaboration, data analysis, and process optimization.",
+        "Conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, with a 95% pass rate for background checks",
+        "Developed and implemented effective recruitment strategies that aligned with business objectives, resulting in a 15% reduction in time-to-hire"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with the ability to analyze recruitment metrics and provide data-driven insights"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven Talent Acquisition Specialist with 3+ years of experience in sourcing and attracting top talent across various departments.",
+        "Proven track record of delivering high-quality candidates that meet business objectives, with a strong focus on collaboration, data analysis, and process optimization.",
+        "Conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, with a 95% pass rate for background checks",
+        "Developed and implemented effective recruitment strategies that aligned with business objectives, resulting in a 15% reduction in time-to-hire"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Source and attract top talent for open positions across various departments",
+      "evidence": [
+        "Results-driven Talent Acquisition Specialist with 3+ years of experience in sourcing and attracting top talent across various departments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement effective recruitment strategies to meet business objectives",
+      "evidence": [
+        "Proven track record of delivering high-quality candidates that meet business objectives, with a strong focus on collaboration, data analysis, and process optimization."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough interviews, reference checks, and background screenings to ensure quality candidates",
+      "evidence": [
+        "Conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, with a 95% pass rate for background checks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze recruitment metrics and provide data-driven insights to optimize future recruitment efforts",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with the ability to analyze recruitment metrics and provide data-driven insights"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in talent acquisition or a related role",
+      "evidence": [
+        "Results-driven Talent Acquisition Specialist with 3+ years of experience in sourcing and attracting top talent across various departments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successful recruitment outcomes",
+      "evidence": [
+        "Proven track record of delivering high-quality candidates that meet business objectives, with a strong focus on collaboration, data analysis, and process optimization."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Knowledge of employment laws and regulations (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven Talent Acquisition Specialist with 3+ years of experience in sourcing and attracting top talent across various departments.",
+      "supports": "Source and attract top talent for open positions across various departments"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality candidates that meet business objectives, with a strong focus on collaboration, data analysis, and process optimization.",
+      "supports": "Develop and implement effective recruitment strategies to meet business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough interviews, reference checks, and background screenings to ensure quality candidates, with a 95% pass rate for background checks",
+      "supports": "Conduct thorough interviews, reference checks, and background screenings to ensure quality candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality candidates that meet business objectives, with a strong focus on collaboration, data analysis, and process optimization.",
+      "supports": "Manage the entire recruitment process from posting to onboarding, ensuring timely and efficient candidate flow"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented effective recruitment strategies that aligned with business objectives, resulting in a 15% reduction in time-to-hire",
+      "supports": "Utilize applicant tracking systems (ATS) and other recruitment software to streamline processes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,11 @@
+Jordan Rivera
+jordan.playwright@example.com
+
+Senior backend engineer with 7 years of experience building Python, FastAPI,
+PostgreSQL, and cloud services. Led API platform reliability work, improved
+deployment automation, and partnered with product teams to ship user-facing
+features. Strong experience with distributed systems, observability, SQL
+performance tuning, and cross-functional communication.
+
+Skills: Python, FastAPI, PostgreSQL, Docker, AWS, TypeScript, React, CI/CD,
+system design, API architecture, monitoring, incident response.

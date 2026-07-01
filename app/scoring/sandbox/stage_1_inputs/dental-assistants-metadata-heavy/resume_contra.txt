@@ -1,0 +1,22 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Summary:**
+Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles.
+
+**Experience:**
+
+* **Test Engineer**, XYZ Corporation (2018-Present)
+ + Designed and executed stress tests on various systems, including web applications and databases
+ + Collaborated with cross-functional teams to understand requirements and develop test plans
+ + Developed and maintained a comprehensive testing framework using Python and Selenium
+ + Analyzed test results and identified issues, working with the development team to resolve defects and implement fixes
+* **Quality Assurance Specialist**, ABC Startups (2015-2018)
+ + Conducted manual testing of software applications, identifying bugs and defects
+ + Created test cases and test plans for new feature releases
+ + Participated in code reviews and contributed to the improvement of the application's architecture and design
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, [University Name] (2015)
+
+Note that this resume snippet does not mention experience with cloud-based technologies, containerization, or orchestration tools, nor does it highlight proficiency in programming languages such as Java or C++. This is because the candidate did not have these skills, despite mentioning them in the job description.

@@ -1,0 +1,168 @@
+{
+  "job_title": "Sales Representatives (Wholesale/Manufacturing)",
+  "case_slug": "sales-representatives-wholesale-manufacturing",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.989692",
+  "match_score": 57.35,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 37.9,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys",
+        "Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+        "\"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 37.9,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys",
+        "Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+        "\"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys",
+        "Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+        "\"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Negotiate prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets",
+      "evidence": [
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and capitalize on new business opportunities through market research, competitor analysis, and industry trends",
+      "evidence": [
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in sales or marketing, such as the Certified Sales Professional (CSP) designation",
+      "evidence": [
+        "\"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct product demonstrations and presentations to showcase company products and services",
+      "evidence": [
+        "Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in wholesale or manufacturing sales, preferably in a B2B environment",
+      "evidence": [
+        "\"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "evidence": [
+        "\"Results-driven sales professional with 3+ years of experience in wholesale sales, seeking to leverage my strong communication and negotiation skills to drive business growth."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain relationships with key decision-makers at manufacturing facilities and distribution centers to identify sales opportunities",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and track customer orders, inventory levels, and payment status in real-time using Salesforce.com and Excel",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of the manufacturing industry, including product types, production processes, and supply chain management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Salesforce.com, Excel, and Microsoft Office Suite (Word, PowerPoint, Outlook)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted product demonstrations and presentations to showcase company products and services, but unfortunately, my previous experience with CRM software (Salesforce.com) was limited to basic functionality, and I did not have the chance to ",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to travel up to 50% of the workweek to customer sites and trade shows",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software, such as HubSpot or Zoho CRM",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted product demonstrations and presentations to showcase company products and services, but unfortunately, my previous experience with CRM software (Salesforce.com) was limited to basic functionality, and I did not have the chance to ",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with inventory management systems, such as TradeGecko or Skubana",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+      "supports": "Develop and maintain relationships with key decision-makers at manufacturing facilities and distribution centers to identify sales opportunities"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained relationships with key decision-makers at manufacturing facilities and distribution centers, consistently meeting or exceeding monthly sales targets (note: I did not have the opportunity to develop these relationshi",
+      "supports": "Conduct product demonstrations and presentations to showcase company products and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys",
+      "supports": "Negotiate prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and tracked customer orders, inventory levels, and payment status in real-time using Excel, but I did not have experience with inventory management systems like TradeGecko or Skubana.",
+      "supports": "Manage and track customer orders, inventory levels, and payment status in real-time using Salesforce.com and Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, often relying on industry benchmarks and market research to inform my decisions rather than conducting in-depth competitor analys",
+      "supports": "Identify and capitalize on new business opportunities through market research, competitor analysis, and industry trends"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

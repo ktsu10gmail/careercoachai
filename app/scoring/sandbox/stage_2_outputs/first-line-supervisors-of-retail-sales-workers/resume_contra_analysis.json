@@ -1,0 +1,166 @@
+{
+  "job_title": "First-Line Supervisors of Retail Sales Workers",
+  "case_slug": "first-line-supervisors-of-retail-sales-workers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.450155",
+  "match_score": 28.23,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 10.4,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven retail professional with 3+ years of experience in leading teams to achieve sales goals.",
+        "Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+        "Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+        "Proven track record of effectively communicating with employees, customers, and district managers to drive business results."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 92.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 9.6,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 12 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven retail professional with 3+ years of experience in leading teams to achieve sales goals.",
+        "Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+        "Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+        "Proven track record of effectively communicating with employees, customers, and district managers to drive business results."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 42.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven retail professional with 3+ years of experience in leading teams to achieve sales goals.",
+        "Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+        "Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+        "Proven track record of effectively communicating with employees, customers, and district managers to drive business results."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Lead a team of retail sales workers to achieve sales goals and maintain store appearance",
+      "evidence": [
+        "\"Results-driven retail professional with 3+ years of experience in leading teams to achieve sales goals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct performance evaluations and provide constructive feedback to employees",
+      "evidence": [
+        "Proven track record of effectively communicating with employees, customers, and district managers to drive business results."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct daily meetings with employees to discuss sales performance, customer feedback, and operational issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Train new employees on company policies, products, and sales techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage inventory levels and monitor stockroom organization to ensure efficient restocking and merchandising",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Handle customer complaints and resolve issues in a professional manner",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor employee attendance and tardiness, addressing any issues promptly",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of retail management experience preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment and adapt to changing situations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Basic math skills and accuracy with cash handling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with point-of-sale systems and inventory management software",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized point-of-sale systems and inventory management software to optimize sales performance, but did not have experience with sales analysis and performance metrics.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with visual merchandising and store displays",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven retail professional with 3+ years of experience in leading teams to achieve sales goals.",
+      "supports": "Lead a team of retail sales workers to achieve sales goals and maintain store appearance"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+      "supports": "Train new employees on company policies, products, and sales techniques"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully trained new employees on company policies and products, but did not implement visual merchandising strategies as requested by the store manager.",
+      "supports": "Manage inventory levels and monitor stockroom organization to ensure efficient restocking and merchandising"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+      "supports": "Handle customer complaints and resolve issues in a professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated excellent customer service skills, handling complaints in a professional manner, but did not receive any formal training or certification in retail management.",
+      "supports": "Monitor employee attendance and tardiness, addressing any issues promptly"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

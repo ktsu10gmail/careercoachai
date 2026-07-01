@@ -1,0 +1,168 @@
+{
+  "job_title": "45. Claims Adjusters, Examiners, and Investigators",
+  "case_slug": "45-claims-adjusters-examiners-and-investigators",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.947285",
+  "match_score": 24.2,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 18.1,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also does not mention any relevant certifications or software proficiency.",
+        "Objective: To obtain a claims adjusting position in an insurance company.",
+        "High School Diploma, Anytown High School (2015)",
+        "Proficient in Microsoft Office applications."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 16.8,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also does not mention any relevant certifications or software proficiency.",
+        "Objective: To obtain a claims adjusting position in an insurance company.",
+        "High School Diploma, Anytown High School (2015)",
+        "Proficient in Microsoft Office applications."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 55.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also does not mention any relevant certifications or software proficiency.",
+        "Objective: To obtain a claims adjusting position in an insurance company.",
+        "High School Diploma, Anytown High School (2015)",
+        "Proficient in Microsoft Office applications."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, Anytown High School (2015)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office applications, including Word, Excel, and PowerPoint",
+      "evidence": [
+        "Proficient in Microsoft Office applications."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Determine the amount of compensation or settlement that should be paid to claimants based on company policies and applicable laws",
+      "evidence": [
+        "Objective: To obtain a claims adjusting position in an insurance company."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience working in the insurance industry or a related field",
+      "evidence": [
+        "Objective: To obtain a claims adjusting position in an insurance company."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct thorough investigations of insurance claims to determine their validity and extent of loss",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Gather and analyze evidence from claimants, witnesses, and other relevant sources",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: It also does not mention any relevant certifications or software proficiency.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Evaluate and assess damage or losses reported by claimants, including property damage, personal injury, and business interruption",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and submit reports detailing findings and recommendations for claims resolution",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with claimants, agents, brokers, and other stakeholders to facilitate smooth claims processing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's or bachelor's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in insurance claims adjusting, examining, or investigating",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to evaluate complex evidence and make informed decisions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with diverse stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also does not mention any relevant certifications or software proficiency.",
+      "supports": "Gather and analyze evidence from claimants, witnesses, and other relevant sources"
+    },
+    {
+      "source": "resume",
+      "quote": "Objective: To obtain a claims adjusting position in an insurance company.",
+      "supports": "Determine the amount of compensation or settlement that should be paid to claimants based on company policies and applicable laws"
+    },
+    {
+      "source": "resume",
+      "quote": "High School Diploma, Anytown High School (2015)",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office applications.",
+      "supports": "Proficiency in Microsoft Office applications, including Word, Excel, and PowerPoint"
+    },
+    {
+      "source": "resume",
+      "quote": "Objective: To obtain a claims adjusting position in an insurance company.",
+      "supports": "Experience working in the insurance industry or a related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

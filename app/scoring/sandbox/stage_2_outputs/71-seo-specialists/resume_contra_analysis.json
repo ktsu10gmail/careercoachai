@@ -1,0 +1,163 @@
+{
+  "job_title": "71. SEO Specialists",
+  "case_slug": "71-seo-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.821011",
+  "match_score": 41.79,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth.",
+        "Analyzed competitors' websites to determine gaps in their SEO strategies, but unfortunately, I did not identify any significant opportunities for improvement",
+        "Developed and implemented customized SEO plans, including on-page optimization, link building, and content creation (although I did not receive direct feedback on the effectiveness of these strategies)",
+        "Monitored website analytics using Google Analytics, but my tracking was limited to basic metrics only (I did not have access to advanced features like Google Search Console)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 74.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth.",
+        "Analyzed competitors' websites to determine gaps in their SEO strategies, but unfortunately, I did not identify any significant opportunities for improvement",
+        "Developed and implemented customized SEO plans, including on-page optimization, link building, and content creation (although I did not receive direct feedback on the effectiveness of these strategies)",
+        "Monitored website analytics using Google Analytics, but my tracking was limited to basic metrics only (I did not have access to advanced features like Google Search Console)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in SEO or a related field (digital marketing, content creation, etc.)",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct in-depth keyword research to identify relevant search terms for clients' websites",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with keyword research tools such as Ahrefs, Moz, or SEMrush",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Certification in Google Analytics or HubSpot Inbound Marketing",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Monitor website analytics to track progress and adjust SEO strategies accordingly",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest SEO trends and algorithm updates by attending conferences, workshops, and online training sessions",
+      "evidence": [
+        "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze competitors' websites to determine gaps in their SEO strategies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed competitors' websites to determine gaps in their SEO strategies, but unfortunately, I did not identify any significant opportunities for improvement",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement customized SEO plans, including on-page optimization, link building, and content creation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and implemented customized SEO plans, including on-page optimization, link building, and content creation (although I did not receive direct feedback on the effectiveness of these strategies)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Google Analytics, Google Search Console, and SEMrush",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Monitored website analytics using Google Analytics, but my tracking was limited to basic metrics only (I did not have access to advanced features like Google Search Console)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of HTML, CSS, and JavaScript",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of schema markup and structured data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with Google's BERT algorithm updates",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Monitored website analytics using Google Analytics, but my tracking was limited to basic metrics only (I did not have access to advanced features like Google Search Console)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth.",
+      "supports": "Conduct in-depth keyword research to identify relevant search terms for clients' websites"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed competitors' websites to determine gaps in their SEO strategies, but unfortunately, I did not identify any significant opportunities for improvement",
+      "supports": "Analyze competitors' websites to determine gaps in their SEO strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented customized SEO plans, including on-page optimization, link building, and content creation (although I did not receive direct feedback on the effectiveness of these strategies)",
+      "supports": "Develop and implement customized SEO plans, including on-page optimization, link building, and content creation"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth.",
+      "supports": "Monitor website analytics to track progress and adjust SEO strategies accordingly"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven SEO Specialist with 3+ years of experience in digital marketing, seeking to leverage my skills in keyword research, competitor analysis, and content creation to drive business growth.",
+      "supports": "Stay up-to-date with the latest SEO trends and algorithm updates by attending conferences, workshops, and online training sessions"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

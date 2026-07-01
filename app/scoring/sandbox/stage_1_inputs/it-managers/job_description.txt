@@ -1,0 +1,26 @@
+Responsibilities:
+
+* Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications
+* Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals
+* Collaborate with senior management to identify and prioritize IT projects, allocating resources and budget accordingly
+* Oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devices
+* Ensure compliance with industry regulations and standards, such as HIPAA, PCI-DSS, and GDPR
+* Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently
+* Develop and manage budgets for IT projects, tracking expenses and ensuring cost-effectiveness
+* Conduct regular security audits and vulnerability assessments to identify potential threats
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Information Technology, or related field; 5+ years of experience as an IT professional or manager
+* Proven track record of successfully managing IT teams and projects
+* Strong knowledge of Windows Server, Linux, and cloud-based platforms (AWS, Azure)
+* Experience with IT service management frameworks (ITIL) and agile methodologies
+* Excellent communication and interpersonal skills, with ability to work effectively with senior management and external partners
+
+Preferred Skills:
+
+* Experience with cybersecurity tools and technologies (e.g. Symantec, McAfee, Kaspersky)
+* Knowledge of database management systems (DBMS) such as Oracle, SQL Server, or MySQL
+* Familiarity with IT project management methodologies (e.g. Scrum, Kanban)
+* Certification in ITIL Foundation or equivalent
+* Experience with virtualization technologies (VMware, Hyper-V)

@@ -1,0 +1,24 @@
+Responsibilities:
+
+* Provide technical support to internal customers via phone, email, and chat platforms
+* Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals
+* Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA
+* Collaborate with IT teams to resolve complex technical issues and implement new technologies
+* Develop and maintain knowledge base articles and documentation to improve customer support
+* Participate in on-call rotations for 24/7 support coverage
+* Monitor and report system performance and security incidents using tools such as Nagios, SolarWinds, and Splunk
+
+Required Skills:
+
+* 2+ years of experience in technical support or a related field
+* Strong knowledge of Windows operating systems (Windows 10, Server 2019) and macOS
+* Experience with IT service management tools such as ServiceNow, JIRA, and BMC Helix
+* Familiarity with cloud-based technologies such as AWS, Azure, and Google Cloud Platform
+* Excellent communication and problem-solving skills
+
+Preferred Skills:
+
+* Experience with Linux operating systems (Ubuntu, Red Hat)
+* Knowledge of network protocols and devices (TCP/IP, DNS, DHCP)
+* Certification in CompTIA A+ or equivalent
+* Experience with IT project management tools such as Asana, Trello, or MS Project

@@ -1,0 +1,161 @@
+{
+  "job_title": "42. Loan Officers",
+  "case_slug": "42-loan-officers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.670955",
+  "match_score": 52.53,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 18.9,
+      "reason": "Found 2 direct, 1 adjacent, 1 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Experienced financial professional with 5+ years of experience in IT project management and software development.",
+        "Valid mortgage license (obtained within 1 month) and strong knowledge of loan products, including residential loans.",
+        "Proficient in Microsoft Office, particularly Excel and Word."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Experienced financial professional with 5+ years of experience in IT project management and software development."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 54.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Experienced financial professional with 5+ years of experience in IT project management and software development.",
+        "Valid mortgage license (obtained within 1 month) and strong knowledge of loan products, including residential loans.",
+        "Proficient in Microsoft Office, particularly Excel and Word."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Valid mortgage license (or ability to obtain within 6 months)",
+      "evidence": [
+        "Valid mortgage license (obtained within 1 month) and strong knowledge of loan products, including residential loans."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office, particularly Excel and Word",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel and Word."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in a banking or financial institution environment",
+      "evidence": [
+        "\"Experienced financial professional with 5+ years of experience in IT project management and software development."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Originate new loan business by identifying potential customers and presenting loan products that meet their needs",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough credit analyses to determine borrowers' ability to repay loans",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and submit loan applications for review and approval",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Work with internal stakeholders, including underwriters and closing departments, to ensure timely and accurate processing of loan applications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of loan activity, including borrower contact information and loan status updates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets and contribute to the growth of the loan portfolio",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of loan products, including residential and commercial loans",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working with loan software, such as LoanGenius or LenderLogic",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with regulatory requirements, including TRID and RESPA",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Valid mortgage license (obtained within 1 month) and strong knowledge of loan products, including residential loans.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Experienced financial professional with 5+ years of experience in IT project management and software development.",
+      "supports": "2+ years of experience in a banking or financial institution environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Valid mortgage license (obtained within 1 month) and strong knowledge of loan products, including residential loans.",
+      "supports": "Valid mortgage license (or ability to obtain within 6 months)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, particularly Excel and Word.",
+      "supports": "Proficient in Microsoft Office, particularly Excel and Word"
+    },
+    {
+      "source": "resume",
+      "quote": "Valid mortgage license (obtained within 1 month) and strong knowledge of loan products, including residential loans.",
+      "supports": "Familiarity with regulatory requirements, including TRID and RESPA"
+    },
+    {
+      "source": "job_description",
+      "quote": "Originate new loan business by identifying potential customers and presenting loan products that meet their needs",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

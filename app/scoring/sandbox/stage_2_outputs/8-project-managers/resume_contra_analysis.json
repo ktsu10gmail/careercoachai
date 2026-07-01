@@ -1,0 +1,164 @@
+{
+  "job_title": "8. Project Managers",
+  "case_slug": "8-project-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.606135",
+  "match_score": 48.14,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, design, and QA, to ensure seamless project execution (I've worked closely with these teams, but primarily in a single-project capacity.)",
+        "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (While I have experience creating project plans, my current role has not required the same level of complexity or scope as this pos",
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)",
+        "\"Results-driven project manager with 5+ years of experience in managing projects in software development environments."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 94.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, design, and QA, to ensure seamless project execution (I've worked closely with these teams, but primarily in a single-project capacity.)",
+        "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (While I have experience creating project plans, my current role has not required the same level of complexity or scope as this pos",
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)",
+        "\"Results-driven project manager with 5+ years of experience in managing projects in software development environments."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution",
+      "evidence": [
+        "Coordinated with cross-functional teams, including development, design, and QA, to ensure seamless project execution (I've worked closely with these teams, but primarily in a single-project capacity.)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues",
+      "evidence": [
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in managing projects, preferably in a software development or IT environment",
+      "evidence": [
+        "\"Results-driven project manager with 5+ years of experience in managing projects in software development environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of delivering projects on time, within budget, and to the required quality standards",
+      "evidence": [
+        "Proven track record of delivering projects on time, within budget, and to required quality standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and mitigate risks, implementing mitigation strategies as needed",
+      "evidence": [
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct post-project reviews to evaluate success, identify areas for improvement, and implement process changes",
+      "evidence": [
+        "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (While I have experience creating project plans, my current role has not required the same level of complexity or scope as this pos",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile project management methodologies, including Scrum and Kanban",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in project management tools, such as Asana, Trello, Jira, or MS Project",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools, such as AWS Project Manager or Azure DevOps",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Coordinated with cross-functional teams, including development, design, and QA, to ensure seamless project execution (I've worked closely with these teams, but primarily in a single-project capacity.)",
+      "supports": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained project plans, including scope statements, timelines, and resource allocation plans (While I have experience creating project plans, my current role has not required the same level of complexity or scope as this pos",
+      "supports": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)",
+      "supports": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)",
+      "supports": "Identify and mitigate risks, implementing mitigation strategies as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular project status updates, progress reports, and risk assessments to identify potential issues (I've provided project updates, but primarily for internal stakeholders rather than external clients or stakeholders.)",
+      "supports": "Conduct post-project reviews to evaluate success, identify areas for improvement, and implement process changes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

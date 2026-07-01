@@ -1,0 +1,164 @@
+{
+  "job_title": "Accountants and Auditors",
+  "case_slug": "accountants-and-auditors-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:54.611601",
+  "match_score": 48.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 26.8,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in Microsoft Office, including Excel",
+        "Note: I've omitted the domain qualifiers (Software/SaaS, Enterprise, Regulated industry) and scope qualifiers (Global, Multi-site, High-volume, Low-latency) as per your request.",
+        "2+ years of experience in accounting",
+        "Familiarity with cloud-based accounting software (e.g."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with cloud-based accounting software (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in Microsoft Office, including Excel",
+        "Note: I've omitted the domain qualifiers (Software/SaaS, Enterprise, Regulated industry) and scope qualifiers (Global, Multi-site, High-volume, Low-latency) as per your request.",
+        "2+ years of experience in accounting",
+        "Familiarity with cloud-based accounting software (e.g."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "AWS, Docker)",
+      "evidence": [
+        "Familiarity with cloud-based accounting software (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent problem-solving skills, attention to detail, and analytical thinking",
+      "evidence": [
+        "Excellent problem-solving skills, attention to detail, and analytical thinking"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans, including setting up test environments, running tests, and analyzing results",
+      "evidence": [
+        "Proficient in Microsoft Office, including Excel"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and best practices in stress testing and performance engineering",
+      "evidence": [
+        "Note: I've omitted the domain qualifiers (Software/SaaS, Enterprise, Regulated industry) and scope qualifiers (Global, Multi-site, High-volume, Low-latency) as per your request."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "2+ years of experience in accounting"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, including design, development, testing, and deployment",
+      "evidence": [
+        "Proficient in Microsoft Office, including Excel"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop stress testing scenarios for domain scope trap, including identifying key performance indicators (KPIs) and developing test scripts to simulate various loads and",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues found during testing, working closely with the development team to reproduce and resolve them",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide regular progress updates and status reports to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, including Excel",
+      "supports": "Develop and execute test plans, including setting up test environments, running tests, and analyzing results"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've omitted the domain qualifiers (Software/SaaS, Enterprise, Regulated industry) and scope qualifiers (Global, Multi-site, High-volume, Low-latency) as per your request.",
+      "supports": "Stay up-to-date with industry trends and best practices in stress testing and performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in accounting",
+      "supports": "3+ years of experience in stress testing, performance engineering, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, including Excel",
+      "supports": "Strong understanding of software development life cycles, including design, development, testing, and deployment"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with cloud-based accounting software (e.g.",
+      "supports": "Knowledge of cloud-based infrastructure and containerization technologies (e.g."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

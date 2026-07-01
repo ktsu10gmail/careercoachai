@@ -1,0 +1,148 @@
+{
+  "job_title": "Operations Managers",
+  "case_slug": "operations-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:05.503259",
+  "match_score": 70.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.8,
+      "reason": "Found 8 direct, 3 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven operations professional with 5+ years of experience in managing daily operations of large-scale manufacturing facilities.",
+        "Proven track record of implementing process improvements and increasing productivity through data-driven decision making.",
+        "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+        "Analyzed production data to identify trends and opportunities for cost reduction, but did not achieve the desired 5% decrease in material costs within the next year (shortfall of 2%)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed production data to identify trends and opportunities for cost reduction, but did not achieve the desired 5% decrease in material costs within the next year (shortfall of 2%)",
+        "Strong analytical and problem-solving skills, with the ability to interpret production data and make informed decisions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven operations professional with 5+ years of experience in managing daily operations of large-scale manufacturing facilities.",
+        "Proven track record of implementing process improvements and increasing productivity through data-driven decision making.",
+        "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+        "Analyzed production data to identify trends and opportunities for cost reduction, but did not achieve the desired 5% decrease in material costs within the next year (shortfall of 2%)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage daily operations of a 50-person team across two manufacturing facilities, ensuring efficient production and quality control",
+      "evidence": [
+        "\"Results-driven operations professional with 5+ years of experience in managing daily operations of large-scale manufacturing facilities."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+      "evidence": [
+        "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Operations Management, Business Administration, or related field",
+      "evidence": [
+        "Bachelor's degree in Operations Management, Business Administration, or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in operations management or a related field",
+      "evidence": [
+        "Bachelor's degree in Operations Management, Business Administration, or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of implementing process improvements and increasing productivity",
+      "evidence": [
+        "Proven track record of implementing process improvements and increasing productivity through data-driven decision making."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with the ability to interpret production data and make informed decisions",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with the ability to interpret production data and make informed decisions"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed production data to identify trends and opportunities for cost reduction, but did not achieve the desired 5% decrease in material costs within the next year (shortfall of 2%)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key suppliers and vendors to negotiate better pricing and terms",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained relationships with key suppliers and vendors, but did not successfully negotiate better pricing and terms",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with ERP systems (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven operations professional with 5+ years of experience in managing daily operations of large-scale manufacturing facilities.",
+      "supports": "Manage daily operations of a 50-person team across two manufacturing facilities, ensuring efficient production and quality control"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of implementing process improvements and increasing productivity through data-driven decision making.",
+      "supports": "Develop and implement process improvements to increase productivity by 15% within the next 6 months"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+      "supports": "Conduct regular site visits to monitor production, identify areas for improvement, and provide coaching to team members"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed production data to identify trends and opportunities for cost reduction, but did not achieve the desired 5% decrease in material costs within the next year (shortfall of 2%)",
+      "supports": "Analyze production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained relationships with key suppliers and vendors, but did not successfully negotiate better pricing and terms",
+      "supports": "Develop and maintain relationships with key suppliers and vendors to negotiate better pricing and terms"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

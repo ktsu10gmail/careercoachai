@@ -1,0 +1,142 @@
+{
+  "job_title": "Inspectors, Testers, Sorters",
+  "case_slug": "inspectors-testers-sorters-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.746249",
+  "match_score": 68.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Tester",
+        "Designed and executed comprehensive stress tests on our scoring engine, simulating 10,000 concurrent users with 99.9% uptime (2018-2020)",
+        "Collaborated with cross-functional teams to gather requirements and ensure test plans aligned with business objectives, resulting in a 30% reduction in latency (2020-2022)",
+        "Developed and maintained a thorough understanding of our scoring engine's architecture, components, and performance metrics, including a 99.95% uptime record during peak hours (2019-2021)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Designed and executed comprehensive stress tests on our scoring engine, simulating 10,000 concurrent users with 99.9% uptime (2018-2020)",
+        "Highly experienced stress tester with 5+ years of expertise in evaluating scoring engine performance under extreme conditions, utilizing Apache JMeter and Gatling to simulate high-volume, low-latency traffic patterns."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Tester",
+        "Designed and executed comprehensive stress tests on our scoring engine, simulating 10,000 concurrent users with 99.9% uptime (2018-2020)",
+        "Collaborated with cross-functional teams to gather requirements and ensure test plans aligned with business objectives, resulting in a 30% reduction in latency (2020-2022)",
+        "Developed and maintained a thorough understanding of our scoring engine's architecture, components, and performance metrics, including a 99.95% uptime record during peak hours (2019-2021)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Tester",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Tester"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on our scoring engine to simulate high-volume, low-latency, and multi-site traffic patterns",
+      "evidence": [
+        "Designed and executed comprehensive stress tests on our scoring engine, simulating 10,000 concurrent users with 99.9% uptime (2018-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of our scoring engine's architecture, components, and performance metrics",
+      "evidence": [
+        "Developed and maintained a thorough understanding of our scoring engine's architecture, components, and performance metrics, including a 99.95% uptime record during peak hours (2019-2021)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with multi-site, high-volume, and low-latency traffic patterns (highly desirable)",
+      "evidence": [
+        "Highly experienced stress tester with 5+ years of expertise in evaluating scoring engine performance under extreme conditions, utilizing Apache JMeter and Gatling to simulate high-volume, low-latency traffic patterns."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job Title:** Scoring Engine Stress Tester"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify areas for improvement, and provide actionable recommendations for optimization",
+      "evidence": [
+        "Proven track record of identifying bottlenecks and providing actionable recommendations for optimization."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "finance, healthcare)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of domain-specific regulations and compliance requirements (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Tester",
+      "supports": "Job Title:** Scoring Engine Stress Tester"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Tester",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Scoring Engine Stress Tester",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify potential bottlenecks and areas for improvement."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and executed comprehensive stress tests on our scoring engine, simulating 10,000 concurrent users with 99.9% uptime (2018-2020)",
+      "supports": "Design and execute comprehensive stress tests on our scoring engine to simulate high-volume, low-latency, and multi-site traffic patterns"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to gather requirements and ensure test plans aligned with business objectives, resulting in a 30% reduction in latency (2020-2022)",
+      "supports": "Utilize domain-specific knowledge to create realistic test scenarios that mimic real-world usage patterns in regulated industries (e.g."
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

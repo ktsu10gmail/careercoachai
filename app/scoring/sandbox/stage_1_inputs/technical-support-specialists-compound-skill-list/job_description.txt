@@ -1,0 +1,34 @@
+**Job Title:** Technical Support Specialists
+
+**Job Summary:**
+
+We are seeking highly skilled Technical Support Specialists to join our team. As a Technical Support Specialist, you will be responsible for providing exceptional technical support to our customers, resolving complex issues, and collaborating with internal teams to resolve escalated cases. You will also participate in stress testing of our scoring engine to ensure its performance and reliability.
+
+**Responsibilities:**
+
+* Provide timely and effective technical support to customers via phone, email, and chat
+* Troubleshoot and resolve complex technical issues using various tools and platforms
+* Collaborate with internal teams, including engineering and product management, to resolve escalated cases
+* Participate in stress testing of our scoring engine to identify performance bottlenecks and areas for improvement
+* Develop and maintain knowledge of our products and services through ongoing training and research
+* Stay up-to-date on industry trends and emerging technologies
+* Communicate effectively with customers and internal stakeholders to ensure timely resolution of issues
+
+**Required Skills:**
+
+Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite. Essential tools include Java, Python, and C++. Optional tools include Docker, Kubernetes, Ansible, Puppet, and Chef.
+
+**Additional Requirements:**
+
+* 2+ years of experience in technical support or a related field
+* Strong problem-solving skills and ability to think critically
+* Excellent communication and interpersonal skills
+* Ability to work in a fast-paced environment with multiple priorities
+* High school diploma or equivalent required; associate's or bachelor's degree preferred
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunities for professional growth and development
+* Collaborative and dynamic work environment
+* Flexible work arrangements, including remote work options

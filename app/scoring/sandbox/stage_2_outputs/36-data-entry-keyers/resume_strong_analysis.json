@@ -1,0 +1,141 @@
+{
+  "job_title": "36. Data Entry Keyers",
+  "case_slug": "36-data-entry-keyers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:49.014680",
+  "match_score": 69.22,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 76.9,
+      "reason": "Found 9 direct, 2 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly detail-oriented and organized individual with 2+ years of experience in accurately entering data into database systems, ensuring 99% accuracy rate or higher.",
+        "Proven track record of meeting productivity standards, consistently completing assigned tasks on time (95% or higher).",
+        "Excellent attention to detail and organizational skills, with the ability to maintain confidentiality and handle sensitive information with discretion.",
+        "Proficient in Microsoft Office applications, including Excel, Word, and Outlook, with a strong typing speed of 70 words per minute."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 51.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 73.0,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly detail-oriented and organized individual with 2+ years of experience in accurately entering data into database systems, ensuring 99% accuracy rate or higher.",
+        "Familiarity with electronic health records (EHR) software, with a strong understanding of HIPAA regulations and data security protocols."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly detail-oriented and organized individual with 2+ years of experience in accurately entering data into database systems, ensuring 99% accuracy rate or higher.",
+        "Proven track record of meeting productivity standards, consistently completing assigned tasks on time (95% or higher).",
+        "Excellent attention to detail and organizational skills, with the ability to maintain confidentiality and handle sensitive information with discretion.",
+        "Proficient in Microsoft Office applications, including Excel, Word, and Outlook, with a strong typing speed of 70 words per minute."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Enter data from various sources into a database using a keyboard",
+      "evidence": [
+        "Highly detail-oriented and organized individual with 2+ years of experience in accurately entering data into database systems, ensuring 99% accuracy rate or higher."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain confidentiality and handle sensitive information with discretion",
+      "evidence": [
+        "Excellent attention to detail and organizational skills, with the ability to maintain confidentiality and handle sensitive information with discretion."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic computer skills, including proficiency in Microsoft Office applications",
+      "evidence": [
+        "Proficient in Microsoft Office applications, including Excel, Word, and Outlook, with a strong typing speed of 70 words per minute."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong typing skills, with a minimum speed of 60 words per minute",
+      "evidence": [
+        "Proficient in Microsoft Office applications, including Excel, Word, and Outlook, with a strong typing speed of 70 words per minute."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to accurately enter data into a database system",
+      "evidence": [
+        "Highly detail-oriented and organized individual with 2+ years of experience in accurately entering data into database systems, ensuring 99% accuracy rate or higher."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic math skills for handling monetary transactions and calculations",
+      "evidence": [
+        "Basic math skills for handling monetary transactions and calculations"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Verify accuracy of entered data against original documents or other sources as required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and organized individual with 2+ years of experience in accurately entering data into database systems, ensuring 99% accuracy rate or higher.",
+      "supports": "Enter data from various sources into a database using a keyboard"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of meeting productivity standards, consistently completing assigned tasks on time (95% or higher).",
+      "supports": "Meet productivity standards by completing assigned tasks within set timeframes (e.g., 95% of all entries must be completed on time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent attention to detail and organizational skills, with the ability to maintain confidentiality and handle sensitive information with discretion.",
+      "supports": "Maintain confidentiality and handle sensitive information with discretion"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office applications, including Excel, Word, and Outlook, with a strong typing speed of 70 words per minute.",
+      "supports": "Basic computer skills, including proficiency in Microsoft Office applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office applications, including Excel, Word, and Outlook, with a strong typing speed of 70 words per minute.",
+      "supports": "Strong typing skills, with a minimum speed of 60 words per minute"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

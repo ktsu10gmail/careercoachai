@@ -1,0 +1,159 @@
+{
+  "job_title": "Human Resources Specialists",
+  "case_slug": "human-resources-specialists-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.179897",
+  "match_score": 22.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 5.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "While I have experience with HRIS systems, my previous role did not involve implementing or managing a large-scale system, which is a key requirement for this position.",
+        "In my current role, I was responsible for handling employee complaints and grievances, but I did not have the opportunity to develop and implement comprehensive training programs or provide coaching and development opportunities to employee",
+        "Proven ability to analyze data and provide actionable insights to drive business decisions",
+        "3+ years of experience in HR generalist roles, with a focus on employee relations and benefits administration"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 36.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "While I have experience with HRIS systems, my previous role did not involve implementing or managing a large-scale system, which is a key requirement for this position.",
+        "In my current role, I was responsible for handling employee complaints and grievances, but I did not have the opportunity to develop and implement comprehensive training programs or provide coaching and development opportunities to employee",
+        "Proven ability to analyze data and provide actionable insights to drive business decisions",
+        "3+ years of experience in HR generalist roles, with a focus on employee relations and benefits administration"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability",
+      "evidence": [
+        "Proven ability to analyze data and provide actionable insights to drive business decisions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "3+ years of experience in HR generalist roles, with a focus on employee relations and benefits administration"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience with HRIS systems, my previous role did not involve implementing or managing a large-scale system, which is a key requirement for this position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle large volumes of metadata-he",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience with HRIS systems, my previous role did not involve implementing or managing a large-scale system, which is a key requirement for this position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: In my current role, I was responsible for handling employee complaints and grievances, but I did not have the opportunity to develop and implement comprehensive training programs or provide coaching and development opportunities to employee",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a suite of automated testing tools to support stress testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: In my current role, I was responsible for handling employee complaints and grievances, but I did not have the opportunity to develop and implement comprehensive training programs or provide coaching and development opportunities to employee",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve our testing methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines and metadata-heavy workloads",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture and design patterns",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with automated testing frameworks and tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "While I have experience with HRIS systems, my previous role did not involve implementing or managing a large-scale system, which is a key requirement for this position.",
+      "supports": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience with HRIS systems, my previous role did not involve implementing or managing a large-scale system, which is a key requirement for this position.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle large volumes of metadata-he"
+    },
+    {
+      "source": "resume",
+      "quote": "In my current role, I was responsible for handling employee complaints and grievances, but I did not have the opportunity to develop and implement comprehensive training programs or provide coaching and development opportunities to employee",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "In my current role, I was responsible for handling employee complaints and grievances, but I did not have the opportunity to develop and implement comprehensive training programs or provide coaching and development opportunities to employee",
+      "supports": "Develop and maintain a suite of automated testing tools to support stress testing efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to analyze data and provide actionable insights to drive business decisions",
+      "supports": "Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

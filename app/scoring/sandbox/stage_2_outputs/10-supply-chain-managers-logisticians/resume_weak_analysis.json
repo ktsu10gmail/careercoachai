@@ -1,0 +1,167 @@
+{
+  "job_title": "10. Supply Chain Managers / Logisticians",
+  "case_slug": "10-supply-chain-managers-logisticians",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:46.607558",
+  "match_score": 44.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.7,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experience with inventory management software (e.g.",
+        "2 years of experience in supply chain management",
+        "Strong analytical skills",
+        "Proficient in Microsoft Office (Excel, Word, PowerPoint)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 64.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical skills"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 80.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experience with inventory management software (e.g.",
+        "2 years of experience in supply chain management",
+        "Strong analytical skills",
+        "Proficient in Microsoft Office (Excel, Word, PowerPoint)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field;",
+      "evidence": [
+        "2 years of experience in supply chain management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "evidence": [
+        "2 years of experience in supply chain management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in supply chain management or logistics",
+      "evidence": [
+        "2 years of experience in supply chain management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, including Excel, Word, and PowerPoint;",
+      "evidence": [
+        "Proficient in Microsoft Office (Excel, Word, PowerPoint)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "experience with inventory management software and transportation management systems",
+      "evidence": [
+        "Experience with inventory management software (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Implement and manage inventory management systems, including warehouse management software and transportation management systems",
+      "evidence": [
+        "Experience with inventory management software (e.g."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain supply chain strategies to optimize inventory levels, reduce lead times, and improve overall efficiency",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully implementing supply chain strategies that drive business results",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with diverse stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Supply Chain Management or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experience with inventory management software (e.g.",
+      "supports": "Implement and manage inventory management systems, including warehouse management software and transportation management systems"
+    },
+    {
+      "source": "resume",
+      "quote": "2 years of experience in supply chain management",
+      "supports": "Bachelor's degree in Supply Chain Management, Logistics, or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "2 years of experience in supply chain management",
+      "supports": "3+ years of experience in supply chain management or logistics"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical skills",
+      "supports": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office (Excel, Word, PowerPoint)",
+      "supports": "Proficiency in Microsoft Office, including Excel, Word, and PowerPoint;"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

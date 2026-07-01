@@ -1,0 +1,22 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Summary:**
+Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.
+
+**Technical Skills:**
+
+* Proficient in FICO, VantageScore, and proprietary scoring engines
+* Experienced user of Excel, Tableau, and Power BI for data analysis and visualization
+* Familiarity with Bloomberg Terminal and Thomson Reuters Eikon
+
+**Experience:**
+
+* Conducted credit analysis using various scoring models (did not develop and maintain relationships with clients to understand their financial needs)
+* Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)
+* Provided expert counsel on credit management strategies and debt consolidation options (did not collaborate with internal teams, including underwriting and risk management)
+
+**Education:**
+
+* Bachelor's degree in Finance
+
+Note that this resume snippet highlights some relevant skills and experience, but also explicitly states that the candidate did not perform certain higher-scope requirements. This is intended to create a contra-evidence profile for a weak or contra candidate.

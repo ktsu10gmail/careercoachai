@@ -1,0 +1,21 @@
+{
+  "job_title": "Cooks (Restaurant, Fast Food, etc.)",
+  "case_slug": "cooks-restaurant-fast-food-etc-domain-scope-trap",
+  "scenario": "domain_scope_trap",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T17:48:46.655414",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "job_title": "78. Medical Assistants",
+  "case_slug": "78-medical-assistants",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.424055",
+  "match_score": 48.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.8,
+      "reason": "Found 5 direct, 2 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Possess basic life support (BLS) certification and have experience working in a healthcare setting.",
+        "Proficient in preparing patients for exams and procedures, maintaining accurate patient records, and assisting healthcare professionals with administrative tasks.",
+        "Completed a state-approved medical assistant program and hold current certification as a CMA."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.3,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in preparing patients for exams and procedures, maintaining accurate patient records, and assisting healthcare professionals with administrative tasks.",
+        "Possess basic life support (BLS) certification and have experience working in a healthcare setting."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 80.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Possess basic life support (BLS) certification and have experience working in a healthcare setting.",
+        "Proficient in preparing patients for exams and procedures, maintaining accurate patient records, and assisting healthcare professionals with administrative tasks.",
+        "Completed a state-approved medical assistant program and hold current certification as a CMA."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Assist healthcare professionals with administrative tasks, such as scheduling appointments and preparing medical records",
+      "evidence": [
+        "Proficient in preparing patients for exams and procedures, maintaining accurate patient records, and assisting healthcare professionals with administrative tasks."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Completion of a state-approved medical assistant program",
+      "evidence": [
+        "Completed a state-approved medical assistant program and hold current certification as a CMA."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current certification as a medical assistant (CMA) or registered medical assistant (RMA)",
+      "evidence": [
+        "Completed a state-approved medical assistant program and hold current certification as a CMA."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification",
+      "evidence": [
+        "Possess basic life support (BLS) certification and have experience working in a healthcare setting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience working in a healthcare setting, preferably as a medical assistant",
+      "evidence": [
+        "Possess basic life support (BLS) certification and have experience working in a healthcare setting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct basic lab tests such as taking blood samples and processing specimens",
+      "evidence": [
+        "Possess basic life support (BLS) certification and have experience working in a healthcare setting."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Prepare patients for exams and procedures by collecting medical history, vital signs, and other necessary information",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date patient records and medical histories",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Clean and maintain exam rooms, equipment, and other facilities to ensure a safe and hygienic environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in medical assisting preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records (EMRs) systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Possess basic life support (BLS) certification and have experience working in a healthcare setting.",
+      "supports": "Conduct basic lab tests such as taking blood samples and processing specimens"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in preparing patients for exams and procedures, maintaining accurate patient records, and assisting healthcare professionals with administrative tasks.",
+      "supports": "Assist healthcare professionals with administrative tasks, such as scheduling appointments and preparing medical records"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in preparing patients for exams and procedures, maintaining accurate patient records, and assisting healthcare professionals with administrative tasks.",
+      "supports": "Perform various clinical tasks, including ECGs, blood pressure checks, and vital sign monitoring"
+    },
+    {
+      "source": "resume",
+      "quote": "Completed a state-approved medical assistant program and hold current certification as a CMA.",
+      "supports": "Completion of a state-approved medical assistant program"
+    },
+    {
+      "source": "resume",
+      "quote": "Completed a state-approved medical assistant program and hold current certification as a CMA.",
+      "supports": "Current certification as a medical assistant (CMA) or registered medical assistant (RMA)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

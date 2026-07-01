@@ -1,0 +1,152 @@
+{
+  "job_title": "Heavy Equipment Operators (Excavator, etc.)",
+  "case_slug": "heavy-equipment-operators-excavator-etc-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:01.421519",
+  "match_score": 70.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings.",
+        "+ Conducted pre-operational checks on equipment before each use, ensuring compliance with OSHA regulations",
+        "+ Loaded and unloaded materials from the excavator bucket or bed, maintaining a clean and organized work area",
+        "+ Operated hydraulic excavators, including Caterpillar 349F and Komatsu PC200-6, to dig foundations, trenches, and other excavation sites"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 59.3,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings.",
+        "+ Conducted pre-operational checks on equipment before each use, ensuring compliance with OSHA regulations",
+        "+ Loaded and unloaded materials from the excavator bucket or bed, maintaining a clean and organized work area",
+        "+ Operated hydraulic excavators, including Caterpillar 349F and Komatsu PC200-6, to dig foundations, trenches, and other excavation sites"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings.",
+        "+ Conducted pre-operational checks on equipment before each use, ensuring compliance with OSHA regulations",
+        "+ Loaded and unloaded materials from the excavator bucket or bed, maintaining a clean and organized work area",
+        "+ Operated hydraulic excavators, including Caterpillar 349F and Komatsu PC200-6, to dig foundations, trenches, and other excavation sites"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operate excavators, backhoes, and other heavy equipment safely and efficiently",
+      "evidence": [
+        "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct pre-operational checks on equipment before each use",
+      "evidence": [
+        "+ Conducted pre-operational checks on equipment before each use, ensuring compliance with OSHA regulations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Load and unload materials from the excavator bucket or bed",
+      "evidence": [
+        "+ Loaded and unloaded materials from the excavator bucket or bed, maintaining a clean and organized work area"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Dig foundations, trenches, and other excavation sites as required",
+      "evidence": [
+        "+ Operated hydraulic excavators, including Caterpillar 349F and Komatsu PC200-6, to dig foundations, trenches, and other excavation sites"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience operating heavy equipment in construction or maintenance settings",
+      "evidence": [
+        "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of excavator operation, safety procedures, and maintenance requirements",
+      "evidence": [
+        "+ Developed strong knowledge of excavator operation, safety procedures, and maintenance requirements through on-the-job training and manufacturer certifications"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Heavy Equipment Operator - Excavator Operations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an Excavator Operator, you will be responsible for operating heavy equipment in various construction and maintenance projects.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Valid Heavy Equipment Operator certification (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings.",
+      "supports": "Operate excavators, backhoes, and other heavy equipment safely and efficiently"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted pre-operational checks on equipment before each use, ensuring compliance with OSHA regulations",
+      "supports": "Conduct pre-operational checks on equipment before each use"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Loaded and unloaded materials from the excavator bucket or bed, maintaining a clean and organized work area",
+      "supports": "Load and unload materials from the excavator bucket or bed"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated hydraulic excavators, including Caterpillar 349F and Komatsu PC200-6, to dig foundations, trenches, and other excavation sites",
+      "supports": "Dig foundations, trenches, and other excavation sites as required"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Heavy Equipment Operator with 5+ years of experience operating excavators, backhoes, and other heavy equipment in construction and maintenance settings.",
+      "supports": "Assist in the placement of concrete, asphalt, and other materials"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,170 @@
+{
+  "job_title": "11. Business Operations Specialists",
+  "case_slug": "11-business-operations-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:46.638217",
+  "match_score": 38.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven business professional with experience in financial record management and process improvement.",
+        "Conducted regular audits to ensure compliance with regulatory requirements and internal policies, although I did not have the opportunity to implement any significant changes due to limited access to senior leadership.",
+        "Business Operations Specialists job:",
+        "I also do not have certification in operations management or Six Sigma, but I am confident that my experience and skills can be adapted to meet the needs of the position.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular audits to ensure compliance with regulatory requirements and internal policies, although I did not have the opportunity to implement any significant changes due to limited access to senior leadership.",
+        "Business Operations Specialists job:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 64.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven business professional with experience in financial record management and process improvement.",
+        "Conducted regular audits to ensure compliance with regulatory requirements and internal policies, although I did not have the opportunity to implement any significant changes due to limited access to senior leadership.",
+        "Business Operations Specialists job:",
+        "I also do not have certification in operations management or Six Sigma, but I am confident that my experience and skills can be adapted to meet the needs of the position.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel, Word, and PowerPoint",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel, Word, and PowerPoint."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries",
+      "evidence": [
+        "\"Results-driven business professional with experience in financial record management and process improvement."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase efficiency by 20% within the first six months",
+      "evidence": [
+        "\"Results-driven business professional with experience in financial record management and process improvement."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze financial data to identify trends and provide insights for business growth strategies",
+      "evidence": [
+        "Business Operations Specialists job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration or related field;",
+      "evidence": [
+        "Business Operations Specialists job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Certification in operations management or a related field (e.g.",
+      "evidence": [
+        "Business Operations Specialists job:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular audits to ensure compliance with regulatory requirements and internal policies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular audits to ensure compliance with regulatory requirements and internal policies, although I did not have the opportunity to implement any significant changes due to limited access to senior leadership.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in operations management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also do not have certification in operations management or Six Sigma, but I am confident that my experience and skills can be adapted to meet the needs of the position.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with accounting software such as QuickBooks or Xero",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I possess strong analytical skills, I did not have experience with financial modeling and forecasting techniques as required by the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with project management tools such as Asana or Trello",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of financial modeling and forecasting techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I possess strong analytical skills, I did not have experience with financial modeling and forecasting techniques as required by the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Six Sigma)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also do not have certification in operations management or Six Sigma, but I am confident that my experience and skills can be adapted to meet the needs of the position.\"",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business professional with experience in financial record management and process improvement.",
+      "supports": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business professional with experience in financial record management and process improvement.",
+      "supports": "Develop and implement process improvements to increase efficiency by 20% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular audits to ensure compliance with regulatory requirements and internal policies, although I did not have the opportunity to implement any significant changes due to limited access to senior leadership.",
+      "supports": "Conduct regular audits to ensure compliance with regulatory requirements and internal policies"
+    },
+    {
+      "source": "resume",
+      "quote": "Business Operations Specialists job:",
+      "supports": "Analyze financial data to identify trends and provide insights for business growth strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Business Operations Specialists job:",
+      "supports": "Bachelor's degree in Business Administration or related field;"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

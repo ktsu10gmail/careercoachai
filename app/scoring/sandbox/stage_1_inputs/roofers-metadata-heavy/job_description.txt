@@ -1,0 +1,35 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional remote work)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)
+* Sponsorship: Company-sponsored relocation assistance available for external candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability, performance, and scalability under various loads.
+
+**Responsibilities:**
+
+* Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement
+* Collaborate with cross-functional teams (e.g., product management, engineering) to understand requirements and ensure alignment with business objectives
+* Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions
+* Analyze test results, identify trends, and provide actionable recommendations for optimization and improvement
+* Work closely with QA engineers to develop and execute automated testing scripts and frameworks
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)
+* In-depth knowledge of scoring engine architectures, component interactions, and performance optimization techniques
+* Strong understanding of Linux/Unix operating systems, containerization (e.g., Docker), and cloud platforms (e.g., AWS, GCP)
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with stress testing tools and frameworks (e.g., Apache JMeter, Gatling, Locust)
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams

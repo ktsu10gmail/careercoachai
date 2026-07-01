@@ -1,0 +1,27 @@
+Welders, Cutters, Solderers, and Brazers
+
+We are seeking skilled professionals to perform stress testing on our scoring engine. The ideal candidate will have experience with high-performance equipment and a strong understanding of thermal management systems.
+
+Responsibilities:
+
+* Operate the scoring engine under various operating conditions to simulate real-world scenarios
+* Monitor system performance and identify areas for improvement
+* Conduct thorough inspections of the engine and its components after each test cycle
+* Document test results, including any anomalies or issues encountered
+* Collaborate with cross-functional teams to develop and implement new testing protocols
+* Participate in regular maintenance and calibration of the scoring engine
+
+Required Skills:
+
+* 2+ years of experience working with high-performance thermal management systems
+* Strong understanding of welding, cutting, soldering, and brazing processes
+* Experience with stress testing equipment and procedures
+* Ability to work in a fast-paced environment with multiple priorities
+* Excellent communication and documentation skills
+
+Preferred Skills:
+
+* Experience with scoring engine technology (specifically designed for clean baseline scenarios)
+* Knowledge of thermal management system design principles
+* Certification in welding, cutting, soldering, or brazing (e.g. AWS, ASME)
+* Familiarity with stress testing software and tools (e.g. MatLab, Python)

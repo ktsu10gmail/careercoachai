@@ -1,0 +1,30 @@
+Here's a weak or scope-mismatch resume snippet for a Receptionist position with adjacent low-level tools but lacking enterprise scope:
+
+**Receptionist**
+
+High school diploma, 2+ years of experience in IT support and network administration. Proficient in Windows Server, Cisco routers, and VMware ESXi.
+
+**Technical Skills:**
+
+* Microsoft Office Suite (Word, Excel, Outlook)
+* Basic knowledge of medical terminology and coding systems (e.g. ICD-10)
+* Familiarity with HIPAA regulations
+* Experience with Microsoft Dynamics CRM
+
+**Work Experience:**
+
+IT Support Specialist, XYZ Corporation (2018-Present)
+
+* Managed Windows Server 2008 R2 and Cisco routers for a small business client base
+* Administered VMware ESXi virtualization infrastructure for a startup company
+* Provided technical support for IT-related issues in a fast-paced environment
+
+**Education:**
+
+Associate's Degree in Computer Science, ABC Community College (2015-2017)
+
+**Certifications:**
+
+CompTIA A+ and Network+
+
+Note that this resume snippet lacks the required skills and experience for the Receptionist position, but highlights adjacent technical skills and work experience.

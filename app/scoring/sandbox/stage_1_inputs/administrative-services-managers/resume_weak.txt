@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet for an Administrative Services Manager position:
+
+"Administrative Operations Manager
+
+* Managed day-to-day office operations and coordinated IT projects using PowerShell scripts
+* Developed and implemented policies and procedures using Python, but didn't have experience with regulatory requirements
+* Supervised administrative staff, providing guidance on performance improvement and professional development through online training sessions
+* Coordinated the implementation of new technology systems, including software upgrades and hardware replacements, using Docker containers
+* Analyzed KPIs related to office operations, identifying areas for improvement and implementing changes as needed, but didn't have experience with data visualization tools like Tableau
+* Collaborated with senior management to develop strategic plans, providing recommendations on operational efficiency and cost savings through email updates"
+
+This resume snippet lacks the required skills and experience for an Administrative Services Manager position, and instead highlights low-level tools and technologies that are not relevant to the job description.

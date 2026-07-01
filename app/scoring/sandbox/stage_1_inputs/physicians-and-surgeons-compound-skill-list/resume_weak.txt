@@ -1,0 +1,3 @@
+Here's a weak or scope-mismatch resume snippet for a Physician/Surgeon position:
+
+"Utilized Docker to containerize medical imaging software, but struggled to integrate it with our legacy ETL pipeline. Implemented Ansible to automate deployment scripts, but found it challenging to scale beyond 5 concurrent instances. Proficient in Python and NumPy for data analysis, but limited experience with machine learning algorithms. Familiarity with Kubernetes, but only used it for a small-scale proof-of-concept project. Experienced in C++ and OpenCV for computer vision tasks, but mostly focused on image processing rather than object detection."

@@ -1,0 +1,145 @@
+{
+  "job_title": "Human Resources Managers",
+  "case_slug": "human-resources-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.013646",
+  "match_score": 78.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.9,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained compliance with federal, state, and local regulations through the creation and implementation of HR policies and procedures.",
+        "Successfully managed recruitment, hiring, and onboarding processes for all new employees, resulting in a 25% reduction in time-to-hire and a 15% decrease in recruitment costs.",
+        "Results-driven HR professional with 4+ years of experience in developing and implementing comprehensive HR policies, procedures, and programs that drive business growth and employee engagement.",
+        "Analyzed HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership that resulted in a 10% increase in productivity."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "SHRM-CP Certification"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "4 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained compliance with federal, state, and local regulations through the creation and implementation of HR policies and procedures.",
+        "Successfully managed recruitment, hiring, and onboarding processes for all new employees, resulting in a 25% reduction in time-to-hire and a 15% decrease in recruitment costs.",
+        "Analyzed HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership that resulted in a 10% increase in productivity."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained compliance with federal, state, and local regulations through the creation and implementation of HR policies and procedures.",
+        "Successfully managed recruitment, hiring, and onboarding processes for all new employees, resulting in a 25% reduction in time-to-hire and a 15% decrease in recruitment costs.",
+        "Results-driven HR professional with 4+ years of experience in developing and implementing comprehensive HR policies, procedures, and programs that drive business growth and employee engagement.",
+        "Analyzed HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership that resulted in a 10% increase in productivity."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive HR policies and procedures to ensure compliance with federal, state, and local regulations",
+      "evidence": [
+        "Developed and maintained compliance with federal, state, and local regulations through the creation and implementation of HR policies and procedures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Oversee recruitment, hiring, and onboarding processes for all new employees, ensuring timely and cost-effective placement of qualified candidates",
+      "evidence": [
+        "Successfully managed recruitment, hiring, and onboarding processes for all new employees, resulting in a 25% reduction in time-to-hire and a 15% decrease in recruitment costs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership",
+      "evidence": [
+        "Analyzed HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership that resulted in a 10% increase in productivity."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field;",
+      "evidence": [
+        "Bachelor's Degree in Business Administration"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "Excellent communication, interpersonal, and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Workday, BambooHR) and Microsoft Office Suite",
+      "evidence": [
+        "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Strong knowledge of employment laws, labor relations, and HR best practices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Human Resources or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained compliance with federal, state, and local regulations through the creation and implementation of HR policies and procedures.",
+      "supports": "Develop, implement, and maintain comprehensive HR policies and procedures to ensure compliance with federal, state, and local regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully managed recruitment, hiring, and onboarding processes for all new employees, resulting in a 25% reduction in time-to-hire and a 15% decrease in recruitment costs.",
+      "supports": "Oversee recruitment, hiring, and onboarding processes for all new employees, ensuring timely and cost-effective placement of qualified candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven HR professional with 4+ years of experience in developing and implementing comprehensive HR policies, procedures, and programs that drive business growth and employee engagement.",
+      "supports": "Manage employee relations, including conflict resolution, performance management, and disciplinary actions"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership that resulted in a 10% increase in productivity.",
+      "supports": "Analyze HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership that resulted in a 10% increase in productivity.",
+      "supports": "Conduct exit interviews, gather feedback, and make recommendations for process improvements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

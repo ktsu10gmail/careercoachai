@@ -1,0 +1,163 @@
+{
+  "job_title": "Technical Support Specialists",
+  "case_slug": "technical-support-specialists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.846513",
+  "match_score": 53.68,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365",
+        "Strong understanding of Windows, macOS, and Linux operating systems",
+        "This resume snippet lacks the required experience (2+ years), IT service management tool experience, virtualization technology knowledge, network protocol familiarity, scripting language expertise, and certification in CompTIA A+."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong understanding of Windows, macOS, and Linux operating systems",
+        "Familiarity with cloud-based services such as Office 365"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 68.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365",
+        "Strong understanding of Windows, macOS, and Linux operating systems",
+        "This resume snippet lacks the required experience (2+ years), IT service management tool experience, virtualization technology knowledge, network protocol familiarity, scripting language expertise, and certification in CompTIA A+."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of Windows, macOS, and Linux operating systems",
+      "evidence": [
+        "Strong understanding of Windows, macOS, and Linux operating systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with cloud-based services such as Office 365 and Google Workspace",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with IT service management tools such as ServiceNow and JIRA",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Monitor and report on system performance and uptime using tools such as Nagios and SolarWinds",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with virtualization technologies such as VMware and Hyper-V",
+      "evidence": [
+        "Familiarity with cloud-based services such as Office 365"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide technical support to internal customers via phone, email, and chat platforms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain knowledge base articles and documentation to improve customer support",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Escalate critical issues to senior technical staff for further assistance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in technical support or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in CompTIA A+ or equivalent",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience (2+ years), IT service management tool experience, virtualization technology knowledge, network protocol familiarity, scripting language expertise, and certification in CompTIA A+.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Familiarity with cloud-based services such as Office 365",
+      "supports": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with cloud-based services such as Office 365",
+      "supports": "Monitor and report on system performance and uptime using tools such as Nagios and SolarWinds"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of Windows, macOS, and Linux operating systems",
+      "supports": "Strong understanding of Windows, macOS, and Linux operating systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with cloud-based services such as Office 365",
+      "supports": "Familiarity with cloud-based services such as Office 365 and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with cloud-based services such as Office 365",
+      "supports": "Experience with IT service management tools such as ServiceNow and JIRA"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,160 @@
+{
+  "job_title": "Bookkeeping, Accounting, and Auditing Clerks",
+  "case_slug": "bookkeeping-accounting-and-auditing-clerks-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:55.841895",
+  "match_score": 30.18,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 22.9,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Conducted audits of financial records to ensure accuracy and compliance with accounting standards",
+        "Familiarity with financial reporting and analysis tools (Excel, Tableau)",
+        "Coordinated with external auditors to ensure accurate and timely completion of audit procedures"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 58.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed day-to-day bookkeeping operations, including accounts payable, accounts receivable, and payroll processing"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 70.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Conducted audits of financial records to ensure accuracy and compliance with accounting standards",
+        "Familiarity with financial reporting and analysis tools (Excel, Tableau)",
+        "Coordinated with external auditors to ensure accurate and timely completion of audit procedures"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our quality assurance team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scala",
+      "evidence": [
+        "Conducted audits of financial records to ensure accuracy and compliance with accounting standards"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various scenarios and workloads",
+      "evidence": [
+        "Familiarity with financial reporting and analysis tools (Excel, Tableau)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing processes, procedures, and results",
+      "evidence": [
+        "Coordinated with external auditors to ensure accurate and timely completion of audit procedures"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with machine learning frameworks (TensorFlow, PyTorch) or natural language processing libraries (NLTK, spaCy), Knowledge of DevOps practices and continuous integration/c",
+      "evidence": [
+        "Managed day-to-day bookkeeping operations, including accounts payable, accounts receivable, and payroll processing"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Competitive salary and benefits package, Opportunities for professional growth and development, Collaborative and dynamic work environment, Flexible working hours and remote work o",
+      "evidence": [
+        "Highly detail-oriented and organized accounting professional with 3+ years of experience in bookkeeping, accounting, and auditing."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Here is a realistic job description for a scoring-engine stress test",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Test Specialist",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and provide recommendations for improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, SQL, Apache Kafka, Apache Cassandra, Docker, Kubernetes, AWS CloudFormation, Ansible, Selenium, JMeter, Gatling, Apache Spark, Apache Flink, PostgreS",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted audits of financial records to ensure accuracy and compliance with accounting standards",
+      "supports": "As a key member of our quality assurance team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scala"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with financial reporting and analysis tools (Excel, Tableau)",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate various scenarios and workloads"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with external auditors to ensure accurate and timely completion of audit procedures",
+      "supports": "Develop and maintain documentation of testing processes, procedures, and results"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day bookkeeping operations, including accounts payable, accounts receivable, and payroll processing",
+      "supports": "Experience with machine learning frameworks (TensorFlow, PyTorch) or natural language processing libraries (NLTK, spaCy), Knowledge of DevOps practices and continuous integration/c"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,158 @@
+{
+  "job_title": "Engineers (Civil, Mechanical, Industrial, etc.)",
+  "case_slug": "engineers-civil-mechanical-industrial-etc-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:59.379840",
+  "match_score": 36.68,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.4,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position.",
+        "Highly motivated engineer with 3+ years of experience in software development and testing.",
+        "Testing tools: JUnit, PyUnit",
+        "This resume snippet lacks the scope-mismatch aspect by not mentioning stress testing or performance engineering experience."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "junior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 85.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position.",
+        "Highly motivated engineer with 3+ years of experience in software development and testing.",
+        "Testing tools: JUnit, PyUnit",
+        "This resume snippet lacks the scope-mismatch aspect by not mentioning stress testing or performance engineering experience."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "evidence": [
+        "The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing comprehensive stress testing plans to identify potential bottlenecks and areas for impro",
+      "evidence": [
+        "The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop stress testing plans to simulate various types of loads, including metadata-heavy workloads",
+      "evidence": [
+        "Highly motivated engineer with 3+ years of experience in software development and testing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts using industry-standard tools such as Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Testing tools: JUnit, PyUnit"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, providing actionable insights and recommendations for system improvements",
+      "evidence": [
+        "+ Created test plans, scripts, and reports to ensure high-quality deliverables"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: 10% travel required for on-site visits and industry conferences",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Provided by the client",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests on production systems, identifying performance bottlenecks and areas for optimization",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope-mismatch aspect by not mentioning stress testing or performance engineering experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the scope-mismatch aspect by not mentioning stress testing or performance engineering experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position.",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "The candidate's skills and experience are more geared towards general software development and testing, rather than the specific requirements of a Stress Test Engineer position.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing comprehensive stress testing plans to identify potential bottlenecks and areas for impro"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated engineer with 3+ years of experience in software development and testing.",
+      "supports": "Design and develop stress testing plans to simulate various types of loads, including metadata-heavy workloads"
+    },
+    {
+      "source": "resume",
+      "quote": "Testing tools: JUnit, PyUnit",
+      "supports": "Develop and maintain test scripts using industry-standard tools such as Apache JMeter, Gatling, or Locust"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the scope-mismatch aspect by not mentioning stress testing or performance engineering experience.",
+      "supports": "Execute stress tests on production systems, identifying performance bottlenecks and areas for optimization"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

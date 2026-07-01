@@ -1,0 +1,153 @@
+{
+  "job_title": "Production Workers / Machine Operators",
+  "case_slug": "production-workers-machine-operators-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.786166",
+  "match_score": 52.49,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.7,
+      "reason": "Found 5 direct, 4 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Production Workers / Machine Operators",
+        "+ Operated various types of machinery and equipment, including scoring engines",
+        "Note:** While I have highlighted the candidate's relevant experience and skills, I want to clarify that I did not perform any training or development programs to stay up-to-date on new technologies and techniques.",
+        "+ Monitored machine performance in real-time to ensure optimal output and quality"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note:** While I have highlighted the candidate's relevant experience and skills, I want to clarify that I did not perform any training or development programs to stay up-to-date on new technologies and techniques.",
+        "+ Maintained accurate records of production data"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Production Workers / Machine Operators",
+        "+ Operated various types of machinery and equipment, including scoring engines",
+        "Note:** While I have highlighted the candidate's relevant experience and skills, I want to clarify that I did not perform any training or development programs to stay up-to-date on new technologies and techniques.",
+        "+ Monitored machine performance in real-time to ensure optimal output and quality"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Production Workers / Machine Operators**",
+      "evidence": [
+        "Production Workers / Machine Operators"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate and maintain various types of machinery and equipment, including scoring engines, to meet production targets",
+      "evidence": [
+        "+ Operated various types of machinery and equipment, including scoring engines"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor and control machine performance in real-time to ensure optimal output and quality",
+      "evidence": [
+        "+ Monitored machine performance in real-time to ensure optimal output and quality"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of production data, including metrics on machine performance and product quality",
+      "evidence": [
+        "+ Maintained accurate records of production data"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine operation and maintenance",
+      "evidence": [
+        "Strong understanding of scoring engine operation and maintenance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to other facilities for training or equipment maintenance",
+      "evidence": [
+        "+ Operated various types of machinery and equipment, including scoring engines"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: We offer sponsorship for eligible candidates who meet the necessary requirements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have highlighted the candidate's relevant experience and skills, I want to clarify that I did not perform any training or development programs to stay up-to-date on new technologies and techniques.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in training and development programs to stay up-to-date on new technologies and techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have highlighted the candidate's relevant experience and skills, I want to clarify that I did not perform any training or development programs to stay up-to-date on new technologies and techniques.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced, dynamic environment with attention to detail",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Production Workers / Machine Operators",
+      "supports": "Production Workers / Machine Operators**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated various types of machinery and equipment, including scoring engines",
+      "supports": "Travel: Occasional travel to other facilities for training or equipment maintenance"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have highlighted the candidate's relevant experience and skills, I want to clarify that I did not perform any training or development programs to stay up-to-date on new technologies and techniques.",
+      "supports": "Security Clearance: Not required"
+    },
+    {
+      "source": "resume",
+      "quote": "Production Workers / Machine Operators",
+      "supports": "As a key member of our production team, you will be responsible for operating complex machinery and equipment to produce high-quality products."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated various types of machinery and equipment, including scoring engines",
+      "supports": "Operate and maintain various types of machinery and equipment, including scoring engines, to meet production targets"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

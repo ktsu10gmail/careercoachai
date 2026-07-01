@@ -1,0 +1,148 @@
+{
+  "job_title": "Aircraft Mechanics",
+  "case_slug": "aircraft-mechanics-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:55.091856",
+  "match_score": 72.64,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.9,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Aircraft Mechanic",
+        "Summary:",
+        "Proven track record of identifying potential issues and ensuring the reliability of aircraft engines under various operating conditions.",
+        "+ Developed and executed test plans to simulate extreme temperatures, pressures, and vibrations, resulting in a 25% increase in engine reliability"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 63.9,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Aircraft Mechanic",
+        "Summary:",
+        "Proven track record of identifying potential issues and ensuring the reliability of aircraft engines under various operating conditions.",
+        "+ Developed and executed test plans to simulate extreme temperatures, pressures, and vibrations, resulting in a 25% increase in engine reliability"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Aircraft Mechanic",
+        "Summary:",
+        "Proven track record of identifying potential issues and ensuring the reliability of aircraft engines under various operating conditions.",
+        "+ Developed and executed test plans to simulate extreme temperatures, pressures, and vibrations, resulting in a 25% increase in engine reliability"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Aircraft Mechanic - Stress Test**",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough inspections and testing of aircraft engines under various operating conditions",
+      "evidence": [
+        "Proven track record of identifying potential issues and ensuring the reliability of aircraft engines under various operating conditions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience as an Aircraft Mechanic or in a related field",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of aircraft engine systems, including fuel systems, cooling systems, and electrical systems",
+      "evidence": [
+        "Strong understanding of aircraft engine systems, including fuel systems, cooling systems, and electrical systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with stress testing and simulation techniques",
+      "evidence": [
+        "Experience with stress testing and simulation techniques, including the use of specialized equipment and software"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "evidence": [
+        "Excellent analytical and problem-solving skills, with a focus on identifying potential issues and implementing corrective actions"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** AMT-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** SkyTech Aviation Services",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Aircraft Mechanic",
+      "supports": "Aircraft Mechanic - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Aircraft Mechanic",
+      "supports": "The successful candidate will be responsible for simulating extreme operating conditions to identify potential issues and ensure the reliability of our aircraft engines."
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of identifying potential issues and ensuring the reliability of aircraft engines under various operating conditions.",
+      "supports": "Conduct thorough inspections and testing of aircraft engines under various operating conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed test plans to simulate extreme temperatures, pressures, and vibrations, resulting in a 25% increase in engine reliability",
+      "supports": "Develop and execute test plans to simulate extreme temperatures, pressures, and vibrations"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

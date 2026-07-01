@@ -1,0 +1,164 @@
+{
+  "job_title": "5. Financial Managers",
+  "case_slug": "5-financial-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:50.445333",
+  "match_score": 80.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 48.8,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in Microsoft Office, including Excel",
+        "Bachelor's degree in Finance or related field;",
+        "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles (missing)",
+        "Proven track record of developing and executing successful financial plans that drive business growth (missing)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "MBA preferred (missing)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 94.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's degree in Finance or related field;",
+        "Strong analytical and problem-solving skills, with ability to interpret complex financial data (missing)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in Microsoft Office, including Excel",
+        "Bachelor's degree in Finance or related field;",
+        "MBA preferred (missing)",
+        "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles (missing)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in Finance or related field;",
+      "evidence": [
+        "Bachelor's degree in Finance or related field;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "MBA preferred",
+      "evidence": [
+        "MBA preferred (missing)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles",
+      "evidence": [
+        "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles (missing)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of developing and executing successful financial plans that drive business growth",
+      "evidence": [
+        "Proven track record of developing and executing successful financial plans that drive business growth (missing)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret complex financial data (missing)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to build strong relationships with clients and stakeholders",
+      "evidence": [
+        "Excellent communication and interpersonal skills, with ability to build strong relationships with clients and stakeholders (missing)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and manage comprehensive financial plans for a portfolio of 20+ clients across various industries",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular financial analysis and provide actionable recommendations to improve client profitability and cash flow management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and maintain accurate financial records, including accounts payable, accounts receivable, and general ledger",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct quarterly reviews of client financial performance, identifying areas for improvement and implementing changes as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Financial Modeling Toolset)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of accounting principles and Generally Accepted Accounting Principles (GAAP) or International Financial Reporting Standards (IFRS)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, including Excel",
+      "supports": "Develop and maintain relationships with key stakeholders, including banks, investors, and other external partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Finance or related field;",
+      "supports": "Bachelor's degree in Finance or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "MBA preferred (missing)",
+      "supports": "MBA preferred"
+    },
+    {
+      "source": "resume",
+      "quote": "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles (missing)",
+      "supports": "5+ years of experience in financial management, with a minimum of 2 years in senior leadership roles"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and executing successful financial plans that drive business growth (missing)",
+      "supports": "Proven track record of developing and executing successful financial plans that drive business growth"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,164 @@
+{
+  "job_title": "SEO Specialists",
+  "case_slug": "seo-specialists-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:09.696977",
+  "match_score": 24.82,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 13.1,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "1 year of experience in web development and content creation",
+        "Created and implemented a basic website using WordPress",
+        "Familiarity with Google Analytics and SEMrush"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 44.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Created and implemented a basic website using WordPress"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 44.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "1 year of experience in web development and content creation",
+        "Created and implemented a basic website using WordPress",
+        "Familiarity with Google Analytics and SEMrush"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Monitor and analyze website performance using tools like Google Analytics and SEMrush",
+      "evidence": [
+        "Familiarity with Google Analytics and SEMrush"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our team is comprised of seasoned professionals with extensive experience in crafting compelling content, identifying key performance indicators (KPIs), and staying ahead of the cu",
+      "evidence": [
+        "1 year of experience in web development and content creation"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Through our expert guidance, cutting-edge tools, and collaborative approach, we'll work tirelessly to ensure your website or platform is optimized for maximum visibility, engagemen",
+      "evidence": [
+        "Created and implemented a basic website using WordPress"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough keyword research and analysis to inform content strategy",
+      "evidence": [
+        "1 year of experience in web development and content creation"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a focus on collaboration, creativity, and customer satisfaction, we've built a reputation as a trusted partner for organizations seeking to elevate their online presence.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Whether you're a seasoned pro or just starting out on your SEO journey, we invite you to join our community of like-minded individuals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an SEO Specialist with [Company Name], you'll enjoy a competitive salary, comprehensive benefits package, and opportunities for professional growth and development.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Plus, our flexible work arrangements and generous PTO policy mean you can balance your career and personal life with ease.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, experiences, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive SEO plans, including on-page optimization and link building",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest algorithm updates and best practices in SEO",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide regular reporting and insights to clients or stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "1 year of experience in web development and content creation",
+      "supports": "Our team is comprised of seasoned professionals with extensive experience in crafting compelling content, identifying key performance indicators (KPIs), and staying ahead of the cu"
+    },
+    {
+      "source": "resume",
+      "quote": "Created and implemented a basic website using WordPress",
+      "supports": "Through our expert guidance, cutting-edge tools, and collaborative approach, we'll work tirelessly to ensure your website or platform is optimized for maximum visibility, engagemen"
+    },
+    {
+      "source": "resume",
+      "quote": "1 year of experience in web development and content creation",
+      "supports": "Conduct thorough keyword research and analysis to inform content strategy"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with Google Analytics and SEMrush",
+      "supports": "Monitor and analyze website performance using tools like Google Analytics and SEMrush"
+    },
+    {
+      "source": "job_description",
+      "quote": "With a focus on collaboration, creativity, and customer satisfaction, we've built a reputation as a trusted partner for organizations seeking to elevate their online presence.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

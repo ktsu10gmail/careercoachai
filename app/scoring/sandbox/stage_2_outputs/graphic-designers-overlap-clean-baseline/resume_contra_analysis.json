@@ -1,0 +1,152 @@
+{
+  "job_title": "Graphic Designers (overlap)",
+  "case_slug": "graphic-designers-overlap-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.959878",
+  "match_score": 60.94,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.6,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Graphic Designer",
+        "Highly motivated and detail-oriented designer with 2+ years of experience in creating visually appealing graphics, logos, and visual elements for various marketing materials.",
+        "Developed a consistent design style across all platforms (2019-2020)",
+        "Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 59.6,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Graphic Designer",
+        "Highly motivated and detail-oriented designer with 2+ years of experience in creating visually appealing graphics, logos, and visual elements for various marketing materials.",
+        "Developed a consistent design style across all platforms (2019-2020)",
+        "Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Graphic Designer",
+        "Highly motivated and detail-oriented designer with 2+ years of experience in creating visually appealing graphics, logos, and visual elements for various marketing materials.",
+        "Developed a consistent design style across all platforms (2019-2020)",
+        "Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Graphic Designer**",
+      "evidence": [
+        "Graphic Designer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Graphic Designer, you will be responsible for creating visually appealing designs that meet our brand's standards.",
+      "evidence": [
+        "Graphic Designer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create high-quality graphics, logos, and visual elements for various marketing materials",
+      "evidence": [
+        "Highly motivated and detail-oriented designer with 2+ years of experience in creating visually appealing graphics, logos, and visual elements for various marketing materials."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a consistent design style across all platforms",
+      "evidence": [
+        "Developed a consistent design style across all platforms (2019-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in graphic design",
+      "evidence": [
+        "Bachelor's Degree in Graphic Design (2015-2019)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of color theory, typography, and composition",
+      "evidence": [
+        "Strong understanding of color theory, typography, and composition (2019-Present)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Meet tight deadlines while maintaining quality standards",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with UI/UX design principles",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of web development and coding languages (HTML, CSS, JavaScript)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention the candidate's experience with UI/UX design principles, web development, or coding languages, nor do they claim to have worked independently on tight deadlines.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Graphic Designer",
+      "supports": "Graphic Designer**"
+    },
+    {
+      "source": "resume",
+      "quote": "Graphic Designer",
+      "supports": "As a Graphic Designer, you will be responsible for creating visually appealing designs that meet our brand's standards."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented designer with 2+ years of experience in creating visually appealing graphics, logos, and visual elements for various marketing materials.",
+      "supports": "Create high-quality graphics, logos, and visual elements for various marketing materials"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed a consistent design style across all platforms (2019-2020)",
+      "supports": "Develop and maintain a consistent design style across all platforms"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed a consistent design style across all platforms (2019-2020)",
+      "supports": "Ensure all designs are optimized for web and print formats"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

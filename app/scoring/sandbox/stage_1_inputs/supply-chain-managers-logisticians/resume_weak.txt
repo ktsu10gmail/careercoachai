@@ -1,0 +1,11 @@
+Here is a weak or scope-mismatch resume snippet for a Supply Chain Manager/Logistician:
+
+"Supply Chain Manager
+
+* Implemented TMS to optimize transportation operations
+* Analyzed data using Excel and Tableau to identify trends in inventory levels
+* Collaborated with production team to resolve supply chain disruptions
+* Managed relationships with local suppliers and transportation providers
+* Developed KPIs using Google Sheets to track key performance indicators"
+
+This resume snippet lacks the scope and enterprise-level experience required for the job description, focusing instead on low-level tools and tasks that are not representative of a senior Supply Chain Manager/Logistician role.

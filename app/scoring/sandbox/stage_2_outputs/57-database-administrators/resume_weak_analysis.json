@@ -1,0 +1,141 @@
+{
+  "job_title": "57. Database Administrators",
+  "case_slug": "57-database-administrators",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:51.354725",
+  "match_score": 74.35,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.6,
+      "reason": "Found 11 direct, 0 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet lacks the required skills and experience for the position, such as 5+ years of experience, strong understanding of database design principles, and knowledge of cloud-based databases.",
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 6 direct, 0 adjacent, 1 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: This resume snippet lacks the required skills and experience for the position, such as 5+ years of experience, strong understanding of database design principles, and knowledge of cloud-based databases.",
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet lacks the required skills and experience for the position, such as 5+ years of experience, strong understanding of database design principles, and knowledge of cloud-based databases.",
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute database backup and recovery plans to ensure data integrity and availability",
+      "evidence": [
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborate with IT teams to resolve database-related issues and optimize system performance",
+      "evidence": [
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor database performance and identify areas for improvement through the use of tools such as SQL Server Management Studio, Oracle Enterprise Manager, or similar software",
+      "evidence": [
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement security measures to protect sensitive data from unauthorized access, using tools like Active Directory, Group Policy, or similar software",
+      "evidence": [
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain database documentation to ensure knowledge sharing and collaboration among team members",
+      "evidence": [
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in database administration on Windows-based systems (SQL Server, Oracle, MySQL)",
+      "evidence": [
+        "3 years of experience in database administration on Windows-based systems (SQL Server)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Design, implement, and maintain databases to store and manage large amounts of data for various business applications",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the required skills and experience for the position, such as 5+ years of experience, strong understanding of database design principles, and knowledge of cloud-based databases.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of database security best practices, including encryption, access control, and auditing",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: 3 years of experience in database administration on Windows-based systems (SQL Server)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with containerization technologies like Docker and Kubernetes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks the required skills and experience for the position, such as 5+ years of experience, strong understanding of database design principles, and knowledge of cloud-based databases.",
+      "supports": "Design, implement, and maintain databases to store and manage large amounts of data for various business applications"
+    },
+    {
+      "source": "resume",
+      "quote": "3 years of experience in database administration on Windows-based systems (SQL Server)",
+      "supports": "Develop and execute database backup and recovery plans to ensure data integrity and availability"
+    },
+    {
+      "source": "resume",
+      "quote": "3 years of experience in database administration on Windows-based systems (SQL Server)",
+      "supports": "Collaborate with IT teams to resolve database-related issues and optimize system performance"
+    },
+    {
+      "source": "resume",
+      "quote": "3 years of experience in database administration on Windows-based systems (SQL Server)",
+      "supports": "Monitor database performance and identify areas for improvement through the use of tools such as SQL Server Management Studio, Oracle Enterprise Manager, or similar software"
+    },
+    {
+      "source": "resume",
+      "quote": "3 years of experience in database administration on Windows-based systems (SQL Server)",
+      "supports": "Implement security measures to protect sensitive data from unauthorized access, using tools like Active Directory, Group Policy, or similar software"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

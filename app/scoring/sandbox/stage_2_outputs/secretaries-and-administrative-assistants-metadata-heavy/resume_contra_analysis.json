@@ -1,0 +1,164 @@
+{
+  "job_title": "Secretaries and Administrative Assistants",
+  "case_slug": "secretaries-and-administrative-assistants-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:09.281368",
+  "match_score": 35.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 4 direct, 0 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+        "+ Designed and executed comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis",
+        "+ Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions",
+        "Proficient in Python, Java, and C++, with a strong understanding of computer systems, networking protocols, and database architectures."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 52.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 72.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+        "+ Designed and executed comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis",
+        "+ Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions",
+        "Proficient in Python, Java, and C++, with a strong understanding of computer systems, networking protocols, and database architectures."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis",
+      "evidence": [
+        "+ Designed and executed comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions",
+      "evidence": [
+        "+ Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "evidence": [
+        "Proficient in Python, Java, and C++, with a strong understanding of computer systems, networking protocols, and database architectures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Python, Java, and C++, with a strong understanding of computer systems, networking protocols, and database architectures."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing, executing, and analyzing stress tests to identify potential bottlenecks and areas for improvem",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features and enhancements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our scoring engine's performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering, preferably in a metadata-heavy environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines, including data processing, caching, and query optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+      "supports": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis",
+      "supports": "Design and execute comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.",
+      "supports": "Participate in code reviews and contribute to the development of new features and enhancements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

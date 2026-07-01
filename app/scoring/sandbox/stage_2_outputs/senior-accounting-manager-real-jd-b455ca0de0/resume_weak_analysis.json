@@ -1,0 +1,156 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager-real-jd-b455ca0de0",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-07-01T00:46:07.011767",
+  "match_score": 47.43,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 22.8,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Bachelor's Degree in Accounting, New York University (2015)",
+        "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting.",
+        "+ Prepare and review financial statements, including balance sheets, income statements, and cash flow statements",
+        "The skills section does not include any relevant tools or software mentioned in the job description, such as Riversand/Bowser, Ecomundo, K-Link, Snapstrat, or CRM platforms."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "There is no mention of Sephora or the beauty industry, which is a critical aspect of the target job description."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 89.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 27.0,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's Degree in Accounting, New York University (2015)",
+        "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting.",
+        "There is no mention of Sephora or the beauty industry, which is a critical aspect of the target job description.",
+        "+ Prepare and review financial statements, including balance sheets, income statements, and cash flow statements"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 65.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Bachelor's Degree in Accounting, New York University (2015)",
+        "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting.",
+        "There is no mention of Sephora or the beauty industry, which is a critical aspect of the target job description.",
+        "+ Prepare and review financial statements, including balance sheets, income statements, and cash flow statements"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Minimum of 7-10 years of experience in account management or sales within the beauty industry;",
+      "evidence": [
+        "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Sephora experience strongly preferred",
+      "evidence": [
+        "There is no mention of Sephora or the beauty industry, which is a critical aspect of the target job description."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration, Marketing, or a related field",
+      "evidence": [
+        "Bachelor's Degree in Accounting, New York University (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of the beauty landscape, including market trends, competitive dynamics, and consumer behavior",
+      "evidence": [
+        "+ Prepare and review financial statements, including balance sheets, income statements, and cash flow statements"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Highly organized with strong analytical, problem-solving, and decision-making skills",
+      "evidence": [
+        "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborative team player with a high degree of flexibility and ownership",
+      "evidence": [
+        "Bachelor's Degree in Accounting, New York University (2015)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Demonstrated success meeting or exceeding sales targets and driving sustained business growth",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Exceptional communication and relationship-building skills with both external partners and internal stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High Proficiency in Microsoft Office (Excel, PowerPoint, Word) and CRM platforms",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The skills section does not include any relevant tools or software mentioned in the job description, such as Riversand/Bowser, Ecomundo, K-Link, Snapstrat, or CRM platforms.",
+      "severity": "high"
+    },
+    {
+      "requirement": "able to anticipate challenges and respond effectively in a fast-paced environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Accounting, New York University (2015)",
+      "supports": "Bachelor's degree in Business Administration, Marketing, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting.",
+      "supports": "Minimum of 7-10 years of experience in account management or sales within the beauty industry;"
+    },
+    {
+      "source": "resume",
+      "quote": "There is no mention of Sephora or the beauty industry, which is a critical aspect of the target job description.",
+      "supports": "Sephora experience strongly preferred"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Prepare and review financial statements, including balance sheets, income statements, and cash flow statements",
+      "supports": "Strong understanding of the beauty landscape, including market trends, competitive dynamics, and consumer behavior"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting.",
+      "supports": "Highly organized with strong analytical, problem-solving, and decision-making skills"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

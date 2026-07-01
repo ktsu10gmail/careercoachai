@@ -1,0 +1,154 @@
+{
+  "job_title": "Computer Support Specialists",
+  "case_slug": "computer-support-specialists-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:57.556480",
+  "match_score": 75.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.2,
+      "reason": "Found 8 direct, 1 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Provide exceptional customer service and support",
+        "1-2 years of experience in computer support or a related field",
+        "Troubleshoot and resolve technical issues via phone, email, or in-person",
+        "Conduct on-site visits to resolve hardware and software issues"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong technical skills, including Windows, macOS, and Linux operating systems"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Provide exceptional customer service and support",
+        "1-2 years of experience in computer support or a related field",
+        "Troubleshoot and resolve technical issues via phone, email, or in-person",
+        "Conduct on-site visits to resolve hardware and software issues"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Troubleshoot and resolve technical issues via phone, email, or in-person",
+      "evidence": [
+        "Troubleshoot and resolve technical issues via phone, email, or in-person"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct on-site visits to resolve hardware and software issues",
+      "evidence": [
+        "Conduct on-site visits to resolve hardware and software issues"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain knowledge of new technologies and systems",
+      "evidence": [
+        "Develop and maintain knowledge of new technologies and systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service and support",
+      "evidence": [
+        "Provide exceptional customer service and support"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Document all interactions and resolutions using our ticketing system",
+      "evidence": [
+        "Document all interactions and resolutions using our ticketing system"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1-2 years of experience in computer support or a related field",
+      "evidence": [
+        "1-2 years of experience in computer support or a related field"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience Level:** Entry-level to Mid-level",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We're seeking highly motivated Computer Support Specialists to join our team! As a Computer Support Specialist, you'll be responsible for troubleshooting and resolving technical is",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: 1-2 years of experience in computer support or a related field",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Provide exceptional customer service and support",
+      "supports": "Computer Support Specialist**"
+    },
+    {
+      "source": "resume",
+      "quote": "1-2 years of experience in computer support or a related field",
+      "supports": "We're seeking highly motivated Computer Support Specialists to join our team! As a Computer Support Specialist, you'll be responsible for troubleshooting and resolving technical is"
+    },
+    {
+      "source": "resume",
+      "quote": "Troubleshoot and resolve technical issues via phone, email, or in-person",
+      "supports": "Troubleshoot and resolve technical issues via phone, email, or in-person"
+    },
+    {
+      "source": "resume",
+      "quote": "Conduct on-site visits to resolve hardware and software issues",
+      "supports": "Conduct on-site visits to resolve hardware and software issues"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop and maintain knowledge of new technologies and systems",
+      "supports": "Develop and maintain knowledge of new technologies and systems"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

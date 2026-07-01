@@ -1,0 +1,41 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Up to 20% of the work time will be spent at client sites in the US and Europe
+* Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of software engineers. As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle large volumes of metadata-heavy workloads.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand requirements and develop test plans
+* Develop and maintain a suite of automated testing tools to support stress testing efforts
+* Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability
+* Work closely with QA engineers to ensure that test cases are comprehensive and effective
+* Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve our testing methodologies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engines and metadata-heavy workloads
+* Strong understanding of software architecture and design patterns
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with automated testing frameworks and tools (e.g. JMeter, Gatling)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**Nice to Have:**
+
+* Experience with cloud-based infrastructure and containerization technologies (e.g. AWS, Docker)
+* Knowledge of machine learning or artificial intelligence concepts
+* Certification in stress testing or performance engineering (e.g. ISTQB)

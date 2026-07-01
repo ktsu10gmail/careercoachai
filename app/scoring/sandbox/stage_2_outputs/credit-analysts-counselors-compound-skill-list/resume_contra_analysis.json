@@ -1,0 +1,165 @@
+{
+  "job_title": "Credit Analysts / Counselors",
+  "case_slug": "credit-analysts-counselors-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.916125",
+  "match_score": 45.08,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 1 direct, 6 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.",
+        "Summary:",
+        "Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+        "Provided expert counsel on credit management strategies and debt consolidation options (did not collaborate with internal teams, including underwriting and risk management)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.",
+        "Summary:",
+        "Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+        "Provided expert counsel on credit management strategies and debt consolidation options (did not collaborate with internal teams, including underwriting and risk management)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Java, Python, R, SQL, Excel, Tableau, Power BI, FICO Scorecard, VantageScore, proprietary scoring engines, Bloomberg Terminal, Thomson Reuters Eikon, FactSet, S&P Capital IQ, Credi",
+      "evidence": [
+        "Experienced user of Excel, Tableau, and Power BI for data analysis and visualization"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct in-depth credit analysis using various scoring engines, including FICO, VantageScore, and proprietary models",
+      "evidence": [
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Prepare and present credit reports, analysis, and recommendations to clients and stakeholders",
+      "evidence": [
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Title:** Credit Analysts / Counselors",
+      "evidence": [
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We are seeking experienced Credit Analysts/Counselors to join our team, responsible for conducting thorough credit analysis and providing expert guidance to clients on financial ma",
+      "evidence": [
+        "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "The successful candidate will have a strong understanding of credit scoring models, market trends, and regulatory requirements.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Evaluate credit reports, credit histories, and other relevant data to determine creditworthiness",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide expert counsel to clients on credit management strategies, debt consolidation options, and financial planning",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided expert counsel on credit management strategies and debt consolidation options (did not collaborate with internal teams, including underwriting and risk management)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with clients to understand their financial needs and provide tailored solutions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted credit analysis using various scoring models (did not develop and maintain relationships with clients to understand their financial needs)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with market trends, regulatory changes, and new scoring models to ensure accurate analysis and recommendations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excel, Financial Modeling Software), regulatory compliance knowledge (e.g.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Dodd-Frank, TRID), excellent communication and interpersonal skills, ability to work in a fast-paced environment, strong analytical and problem-solving skills.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.",
+      "supports": "Job Title:** Credit Analysts / Counselors"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.",
+      "supports": "We are seeking experienced Credit Analysts/Counselors to join our team, responsible for conducting thorough credit analysis and providing expert guidance to clients on financial ma"
+    },
+    {
+      "source": "resume",
+      "quote": "Evaluated credit reports and credit histories to determine creditworthiness (did not stay up-to-date with market trends, regulatory changes, and new scoring models)",
+      "supports": "The successful candidate will have a strong understanding of credit scoring models, market trends, and regulatory requirements."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven credit analyst with 5+ years of experience in evaluating credit reports and providing expert counsel to clients on financial matters.",
+      "supports": "Conduct in-depth credit analysis using various scoring engines, including FICO, VantageScore, and proprietary models"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

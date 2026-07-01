@@ -1,0 +1,29 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**Job Title:** Scoring Engine Stress Test Engineer
+
+**Summary:**
+
+Highly skilled engineer with experience in stress testing and simulation.
+
+**Responsibilities:**
+
+* Designed and developed stress testing protocols for scoring engines
+* Conducted analysis of test results to identify performance issues
+* Collaborated with engineering teams on testing strategies
+
+**Required Skills:**
+
+Java, Python, C++, MATLAB, Simulink, ANSYS, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g. Apache JMeter), cloud-based platforms (AWS)
+
+Note that I have removed the following skills to avoid matched/missing contradictions:
+
+* Scilab
+* COMSOL
+* Data analysis and visualization tools (Tableau, Power BI)
+* Programming languages (C#, JavaScript)
+* Operating system expertise (Windows, Linux, macOS)
+* Version control systems (Git, SVN)
+* Experience with machine learning or artificial intelligence frameworks
+* Knowledge of scoring engine-specific technologies (e.g. IBM Watson, Microsoft Azure Machine Learning)
+* Certification in stress testing or quality assurance methodologies

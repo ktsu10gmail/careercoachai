@@ -1,0 +1,9 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"HR Generalist
+- 1 year of experience in IT project management
+- Proficient in MS Office Suite and Git version control
+- Strong problem-solving skills and attention to detail
+- Bachelor's degree in Computer Science"
+
+This resume snippet lacks the required HR experience, education, and software proficiency, as well as relevant skills such as communication, interpersonal, and conflict resolution. It also fails to mention any experience with employment law or HRIS systems, which are essential for the Human Resources Specialist role.

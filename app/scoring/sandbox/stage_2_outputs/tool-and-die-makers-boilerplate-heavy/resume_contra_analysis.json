@@ -1,0 +1,164 @@
+{
+  "job_title": "Tool and Die Makers",
+  "case_slug": "tool-and-die-makers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:10.965584",
+  "match_score": 36.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.1,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency.",
+        "Highly skilled Tool and Die Maker with 5+ years of experience in precision engineering and manufacturing operations.",
+        "Designed, built, and maintained complex tooling systems for production lines (Note: I did not develop or implement new product designs or processes as required by the job description)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Maintained accurate records of production data and inventory management (Although, I did not have direct responsibility for this aspect of the role)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 48.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency.",
+        "Highly skilled Tool and Die Maker with 5+ years of experience in precision engineering and manufacturing operations.",
+        "Designed, built, and maintained complex tooling systems for production lines (Note: I did not develop or implement new product designs or processes as required by the job description)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct quality control inspections and troubleshoot issues",
+      "evidence": [
+        "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "With a strong commitment to quality and customer satisfaction, we've established ourselves as a leader in the industry.",
+      "evidence": [
+        "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Generous paid time off",
+      "evidence": [
+        "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "If you're passionate about precision engineering and have a keen eye for detail, we want to hear from you!",
+      "evidence": [
+        "Highly skilled Tool and Die Maker with 5+ years of experience in precision engineering and manufacturing operations."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Tool and Die Makers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design, build, and maintain complex tooling systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Designed, built, and maintained complex tooling systems for production lines (Note: I did not develop or implement new product designs or processes as required by the job description)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency.",
+      "supports": "With a strong commitment to quality and customer satisfaction, we've established ourselves as a leader in the industry."
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency.",
+      "supports": "Generous paid time off"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Tool and Die Maker with 5+ years of experience in precision engineering and manufacturing operations.",
+      "supports": "If you're passionate about precision engineering and have a keen eye for detail, we want to hear from you!"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed, built, and maintained complex tooling systems for production lines (Note: I did not develop or implement new product designs or processes as required by the job description)",
+      "supports": "Design, build, and maintain complex tooling systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality products on time, with a strong focus on process improvement and efficiency.",
+      "supports": "Conduct quality control inspections and troubleshoot issues"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

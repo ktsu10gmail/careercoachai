@@ -1,0 +1,144 @@
+{
+  "job_title": "Business Development Representatives",
+  "case_slug": "business-development-representatives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.083374",
+  "match_score": 65.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 54.6,
+      "reason": "Found 4 direct, 7 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully pursued new business opportunities through research and outreach, resulting in [X] number of qualified leads generated.",
+        "Proven ability to build strong relationships with key decision-makers through effective communication and presentation skills.",
+        "Conducted needs assessments and provided customized solutions to meet customer requirements, resulting in [X]% improvement in customer satisfaction.",
+        "\"Results-driven business development professional with 2+ years of experience in sales and marketing."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven business development professional with 2+ years of experience in sales and marketing."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully pursued new business opportunities through research and outreach, resulting in [X] number of qualified leads generated.",
+        "Proven ability to build strong relationships with key decision-makers through effective communication and presentation skills.",
+        "Conducted needs assessments and provided customized solutions to meet customer requirements, resulting in [X]% improvement in customer satisfaction.",
+        "\"Results-driven business development professional with 2+ years of experience in sales and marketing."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Identify and pursue new business opportunities through research, networking, and outreach to existing clients",
+      "evidence": [
+        "Successfully pursued new business opportunities through research and outreach, resulting in [X] number of qualified leads generated."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct needs assessments and provide customized solutions to meet customer requirements",
+      "evidence": [
+        "Conducted needs assessments and provided customized solutions to meet customer requirements, resulting in [X]% improvement in customer satisfaction."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in business development, sales, or a related field",
+      "evidence": [
+        "\"Results-driven business development professional with 2+ years of experience in sales and marketing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of the industry and market trends",
+      "evidence": [
+        "Strong understanding of industry trends, with a focus on staying up-to-date on market developments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of success in identifying and pursuing new business opportunities",
+      "evidence": [
+        "\"Results-driven business development professional with 2+ years of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication, presentation, and interpersonal skills",
+      "evidence": [
+        "Proven ability to build strong relationships with key decision-makers through effective communication and presentation skills."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Present product or service offerings to potential customers, highlighting value proposition and competitive advantages",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Salesforce.com) and Microsoft Office Suite",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Although I am proficient in Microsoft Office Suite, I did not have the chance to utilize data analytics and reporting tools like Google Analytics or Excel on a regular basis.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully pursued new business opportunities through research and outreach, resulting in [X] number of qualified leads generated.",
+      "supports": "Identify and pursue new business opportunities through research, networking, and outreach to existing clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to build strong relationships with key decision-makers through effective communication and presentation skills.",
+      "supports": "Develop and maintain relationships with key decision-makers at target companies"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted needs assessments and provided customized solutions to meet customer requirements, resulting in [X]% improvement in customer satisfaction.",
+      "supports": "Conduct needs assessments and provide customized solutions to meet customer requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business development professional with 2+ years of experience in sales and marketing.",
+      "supports": "Track and report on sales performance, providing regular updates to senior management"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business development professional with 2+ years of experience in sales and marketing.",
+      "supports": "Meet or exceed monthly sales targets through proactive lead generation and conversion"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

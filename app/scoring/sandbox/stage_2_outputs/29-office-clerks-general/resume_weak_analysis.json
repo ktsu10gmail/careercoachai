@@ -1,0 +1,154 @@
+{
+  "job_title": "29. Office Clerks, General",
+  "case_slug": "29-office-clerks-general",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:48.350157",
+  "match_score": 29.6,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.1,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Git version control, proficient in Python programming language, and familiar with Linux operating system.",
+        "Strong organizational and time management skills.",
+        "Excellent communication and interpersonal skills."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 55.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Git version control, proficient in Python programming language, and familiar with Linux operating system.",
+        "Strong organizational and time management skills.",
+        "Excellent communication and interpersonal skills."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Git version control, proficient in Python programming language, and familiar with Linux operating system."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong organizational and time management skills",
+      "evidence": [
+        "Strong organizational and time management skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Perform a variety of administrative tasks, including answering phone calls, responding to emails, and greeting visitors",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records and files, both physical and electronic",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Process and distribute mail, packages, and other correspondence",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide general office support, such as photocopying, scanning, and faxing documents",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist with data entry, updating databases, and performing other clerical tasks as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate meetings, appointments, and events, including preparing agendas, materials, and follow-up communications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain the organization's calendar, scheduling appointments and meetings for staff members",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of experience in an office setting, preferably as a general clerk or administrative assistant",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with database management software, such as Access or SQL Server",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, 2 years of experience with Git version control, proficient in Python programming language, and familiar with Linux operating system.",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong organizational and time management skills.",
+      "supports": "Strong organizational and time management skills"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication and interpersonal skills.",
+      "supports": "Excellent communication and interpersonal skills"
+    },
+    {
+      "source": "job_description",
+      "quote": "Perform a variety of administrative tasks, including answering phone calls, responding to emails, and greeting visitors",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

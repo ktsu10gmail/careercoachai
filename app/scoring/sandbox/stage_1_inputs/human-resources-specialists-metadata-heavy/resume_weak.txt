@@ -1,0 +1,35 @@
+Here's a weak or scope-mismatch resume snippet for a Human Resources Specialist with adjacent low-level tools but lacking enterprise scope:
+
+**Human Resources Specialist**
+
+**Contact Information:**
+
+* Email: [hr@smallbusiness.com](mailto:hr@smallbusiness.com)
+* Phone: 555-1234
+* LinkedIn: linkedin.com/in/hrspecialist
+
+**Summary:**
+Highly motivated HR professional with experience in employee onboarding, benefits administration, and conflict resolution. Proficient in Microsoft Office Suite and Google Workspace.
+
+**Technical Skills:**
+
+* Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+* Google Workspace (Docs, Sheets, Slides, Gmail)
+* Basic knowledge of HTML and CSS for creating simple web pages
+* Experience with HRIS software (e.g. BambooHR)
+
+**Work Experience:**
+
+* Human Resources Specialist, Small Business Inc. (2018-Present)
+ + Assisted with employee onboarding and benefits administration
+ + Resolved conflicts between employees and management
+ + Created and implemented company policies and procedures
+* HR Intern, Large Corporation (Summer 2017)
+ + Assisted with recruitment and hiring processes
+ + Conducted new hire orientations and training sessions
+
+**Education:**
+
+* Bachelor's Degree in Business Administration, XYZ University (2018)
+
+This resume snippet lacks the scope and experience required for a Stress Test Engineer - Scoring Engine position. The candidate's technical skills are limited to Microsoft Office Suite and Google Workspace, and they lack experience with stress testing or performance engineering tools.

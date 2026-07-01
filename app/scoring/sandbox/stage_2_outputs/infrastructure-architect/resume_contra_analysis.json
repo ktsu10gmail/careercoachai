@@ -1,0 +1,176 @@
+{
+  "job_title": "Infrastructure Architect",
+  "case_slug": "infrastructure-architect",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.492945",
+  "match_score": 61.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.9,
+      "reason": "Found 6 direct, 0 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS.",
+        "Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+        "Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.",
+        "However, I do not have direct experience with containerization using Docker or Kubernetes.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "architect",
+        "designed",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.5,
+      "reason": "Found 5 direct, 0 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS.",
+        "Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+        "Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.",
+        "However, I do not have direct experience with containerization using Docker or Kubernetes.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 97.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS.",
+        "Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+        "Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.",
+        "However, I do not have direct experience with containerization using Docker or Kubernetes.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and implement scalable, secure, and efficient infrastructure solutions for cloud-based applications",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and manage infrastructure as code (IaC) using tools such as Terraform or Ansible",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience designing and implementing cloud-based infrastructure solutions",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of virtualization, networking, and storage technologies",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud providers such as AWS, Azure, or Google Cloud",
+      "evidence": [
+        "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of DevOps practices and tools such as Jenkins, GitLab CI/CD, or CircleCI",
+      "evidence": [
+        "Developed and managed basic scripting skills using Python, but did not implement infrastructure as code (IaC) solutions using Terraform or Ansible."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Ensure compliance with industry standards and regulatory requirements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular security audits and vulnerability assessments",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide technical guidance and support to junior engineers and architects",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotations for production infrastructure issues",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with containerization using Docker or Kubernetes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I do not have direct experience with containerization using Docker or Kubernetes.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in scripting languages such as Python, Bash, or PowerShell",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and managed basic scripting skills using Python, but did not implement infrastructure as code (IaC) solutions using Terraform or Ansible.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Understanding of security best practices and compliance regulations (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with infrastructure monitoring tools such as Prometheus, Grafana, or New Relic",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS.",
+      "supports": "Design and implement scalable, secure, and efficient infrastructure solutions for cloud-based applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS.",
+      "supports": "Develop and manage infrastructure as code (IaC) using tools such as Terraform or Ansible"
+    },
+    {
+      "source": "resume",
+      "quote": "Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+      "supports": "Ensure compliance with industry standards and regulatory requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.",
+      "supports": "Conduct regular security audits and vulnerability assessments"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.",
+      "supports": "Provide technical guidance and support to junior engineers and architects"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

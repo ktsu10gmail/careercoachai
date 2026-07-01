@@ -1,0 +1,20 @@
+{
+  "job_title": "46. Appraisers and Assessors",
+  "case_slug": "46-appraisers-and-assessors",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:31:37.383415",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

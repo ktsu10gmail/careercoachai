@@ -1,0 +1,28 @@
+Here's a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**AI Systems Engineer**
+
+* 7+ years in systems automation, internal tools, or process/data engineering, with hands-on experience with orchestration platforms like n8n, LangGraph, and Zapier.
+* Proven track record of designing, building, deploying, and maintaining AI-powered automations and agent workflows using modern frameworks, including Python and JavaScript for custom connectors and scripting.
+* Successfully translated business pain points into modular, extensible automation flows that are observable, debuggable, and fault-tolerant, with a strong familiarity with SaaS APIs and system interoperability.
+
+**AI Agent Deployment**
+
+* Built production-grade LLM applications using ChatGPT Enterprise and related LLM APIs for knowledge surfacing, workflow routing, decision support, and dynamic content generation.
+* Maintained a governance model for prompt engineering, agent testing, and audit trails, leveraging AI-assisted development tools to accelerate velocity.
+
+**Internal Enablement & Strategy**
+
+* Collaborated with cross-functional teams, including Sales, Client Services, Media Strategy, Marketing, Product, and Ops, to discover automation opportunities, prototype quickly, document tooling, and drive self-service adoption.
+* Owned and communicated the AI Ops roadmap to Data & AI leadership, prioritized by business impact, sequenced by feasibility, and grounded in real discovery with commercial teams.
+
+**Key Skills**
+
+* Design & Automation: Proficient in Python and JavaScript for custom connectors and scripting, with experience using modern orchestration frameworks like LangGraph and n8n.
+* AI Agent Deployment: Experienced with LLM applications, prompt engineering, agent testing, and audit trails, leveraging AI-assisted development tools to accelerate velocity.
+
+**Competencies**
+
+* Builder’s Instinct: Demonstrated ability to ship fast, iterate on real feedback, and know when to build vs. buy, with a proven track record of delivering working solutions.
+* Cross-Functional Fluency: Translated between engineers and revenue leadership, earning trust by delivering results that work, and staying close to adoption after deployment.
+* Bias for Impact: Prioritized automations that moved real business metrics, measuring success by adoption and friction reduction, rather than lines of code.

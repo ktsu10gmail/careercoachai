@@ -1,0 +1,139 @@
+{
+  "job_title": "14. First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "14-first-line-supervisors-of-production-and-operating-workers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:46.920077",
+  "match_score": 86.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 76.9,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Led daily production operations to achieve productivity targets, resulting in a 25% increase in output and a 15% reduction in waste.",
+        "Conducted regular inspections of production areas, identifying and addressing quality control issues, safety hazards, and equipment malfunctions, with a 90% reduction in reported incidents.",
+        "Trained junior production workers on new processes, procedures, and equipment operation, resulting in a 95% increase in employee proficiency.",
+        "Managed inventory levels and ordered supplies as needed to minimize downtime and optimize production flow, achieving a 20% reduction in inventory costs."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Results-driven production supervisor with 3+ years of experience in manufacturing environments, driving efficiency gains and improving quality through data analysis and process optimization."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "junior",
+        "led",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Ability to analyze data and make informed decisions to optimize production operations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Led daily production operations to achieve productivity targets, resulting in a 25% increase in output and a 15% reduction in waste.",
+        "Conducted regular inspections of production areas, identifying and addressing quality control issues, safety hazards, and equipment malfunctions, with a 90% reduction in reported incidents.",
+        "Trained junior production workers on new processes, procedures, and equipment operation, resulting in a 95% increase in employee proficiency.",
+        "Managed inventory levels and ordered supplies as needed to minimize downtime and optimize production flow, achieving a 20% reduction in inventory costs."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily production operations to ensure efficient use of resources and meet productivity targets",
+      "evidence": [
+        "Led daily production operations to achieve productivity targets, resulting in a 25% increase in output and a 15% reduction in waste."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular inspections of production areas to identify and address quality control issues, safety hazards, and equipment malfunctions",
+      "evidence": [
+        "Conducted regular inspections of production areas, identifying and addressing quality control issues, safety hazards, and equipment malfunctions, with a 90% reduction in reported incidents."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide guidance and training to junior production workers on new processes, procedures, and equipment operation",
+      "evidence": [
+        "Trained junior production workers on new processes, procedures, and equipment operation, resulting in a 95% increase in employee proficiency."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage inventory levels and order supplies as needed to minimize downtime and optimize production flow",
+      "evidence": [
+        "Managed inventory levels and ordered supplies as needed to minimize downtime and optimize production flow, achieving a 20% reduction in inventory costs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct performance evaluations and provide constructive feedback to production workers on a regular basis",
+      "evidence": [
+        "Trained junior production workers on new processes, procedures, and equipment operation, resulting in a 95% increase in employee proficiency."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of production processes, quality control procedures, and safety protocols",
+      "evidence": [
+        "Strong knowledge of production processes, quality control procedures, and safety protocols."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Led daily production operations to achieve productivity targets, resulting in a 25% increase in output and a 15% reduction in waste.",
+      "supports": "Oversee daily production operations to ensure efficient use of resources and meet productivity targets"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular inspections of production areas, identifying and addressing quality control issues, safety hazards, and equipment malfunctions, with a 90% reduction in reported incidents.",
+      "supports": "Conduct regular inspections of production areas to identify and address quality control issues, safety hazards, and equipment malfunctions"
+    },
+    {
+      "source": "resume",
+      "quote": "Trained junior production workers on new processes, procedures, and equipment operation, resulting in a 95% increase in employee proficiency.",
+      "supports": "Provide guidance and training to junior production workers on new processes, procedures, and equipment operation"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed inventory levels and ordered supplies as needed to minimize downtime and optimize production flow, achieving a 20% reduction in inventory costs.",
+      "supports": "Manage inventory levels and order supplies as needed to minimize downtime and optimize production flow"
+    },
+    {
+      "source": "resume",
+      "quote": "First-Line Supervisors of Production and Operating Workers position:",
+      "supports": "Develop and implement plans to improve production efficiency, reduce waste, and increase quality"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

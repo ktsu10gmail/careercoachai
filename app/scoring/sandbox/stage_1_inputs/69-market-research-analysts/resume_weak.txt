@@ -1,0 +1,25 @@
+Here's a weak or scope-mismatch resume snippet for a Market Research Analyst position:
+
+"Results-driven data analyst with 3+ years of experience in market research and analysis. Proficient in R and SPSS statistical software, with strong analytical skills and ability to interpret complex data sets. Skilled in Microsoft Office Suite (Excel, Word, PowerPoint) and proficient in Python programming language.
+
+Currently working on personal projects involving data visualization using Tableau and Power BI. Familiarity with Google Analytics and experience with market research tools such as Nielsen.
+
+Education: Bachelor's degree in Statistics from XYZ University.
+
+Experience:
+
+* Data Analyst, ABC Company (2018-Present)
+ + Analyzed customer demographics and purchase history using R and SPSS
+ + Developed and maintained databases of customer data points
+ + Collaborated with cross-functional teams to inform business decisions
+
+Skills:
+
+* Statistical software: R, SPSS
+* Programming language: Python
+* Data visualization tools: Tableau, Power BI
+* Market research tools: Nielsen
+* Microsoft Office Suite (Excel, Word, PowerPoint)
+* Google Analytics certification"
+
+This resume snippet lacks the scope and enterprise experience required for a Market Research Analyst position. The candidate's experience is limited to personal projects and a single company, and they lack the necessary skills and certifications for the role.

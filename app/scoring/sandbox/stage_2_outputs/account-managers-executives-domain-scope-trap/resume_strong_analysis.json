@@ -1,0 +1,131 @@
+{
+  "job_title": "Account Managers / Executives",
+  "case_slug": "account-managers-executives-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:54.475867",
+  "match_score": 83.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 85.4,
+      "reason": "Found 9 direct, 5 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly accomplished Stress Test Engineer with 7+ years of experience in designing, executing, and analyzing stress tests to ensure reliability, scalability, and performance of complex systems under various loads.",
+        "+ Developed and maintained test scripts and tools to simulate realistic user behavior and traffic patterns",
+        "+ Analyzed test results, identified trends, and provided actionable recommendations for system optimization and improvement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.3,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in scripting languages including Bash and Perl",
+        "Knowledgeable about cloud-based infrastructure and containerization technologies (AWS, Docker)",
+        "Highly accomplished Stress Test Engineer with 7+ years of experience in designing, executing, and analyzing stress tests to ensure reliability, scalability, and performance of complex systems under various loads."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly accomplished Stress Test Engineer with 7+ years of experience in designing, executing, and analyzing stress tests to ensure reliability, scalability, and performance of complex systems under various loads.",
+        "+ Developed and maintained test scripts and tools to simulate realistic user behavior and traffic patterns",
+        "+ Analyzed test results, identified trends, and provided actionable recommendations for system optimization and improvement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou",
+      "evidence": [
+        "Highly accomplished Stress Test Engineer with 7+ years of experience in designing, executing, and analyzing stress tests to ensure reliability, scalability, and performance of complex systems under various loads."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts and tools to simulate realistic user behavior and traffic patterns",
+      "evidence": [
+        "+ Developed and maintained test scripts and tools to simulate realistic user behavior and traffic patterns"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for system optimization and improvement",
+      "evidence": [
+        "+ Analyzed test results, identified trends, and provided actionable recommendations for system optimization and improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of test plans, test scripts, and test results",
+      "evidence": [
+        "+ Developed and maintained documentation of test plans, test scripts, and test results"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "+ Conducted performance engineering and stress testing for cloud-based infrastructure and containerization technologies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, system architecture, and scalability principles",
+      "evidence": [
+        "Strong understanding of software development life cycles, system architecture, and scalability principles"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly accomplished Stress Test Engineer with 7+ years of experience in designing, executing, and analyzing stress tests to ensure reliability, scalability, and performance of complex systems under various loads.",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly accomplished Stress Test Engineer with 7+ years of experience in designing, executing, and analyzing stress tests to ensure reliability, scalability, and performance of complex systems under various loads.",
+      "supports": "Design and execute stress tests to identify system bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained test scripts and tools to simulate realistic user behavior and traffic patterns",
+      "supports": "Develop and maintain test scripts and tools to simulate realistic user behavior and traffic patterns"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed test results, identified trends, and provided actionable recommendations for system optimization and improvement",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for system optimization and improvement"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

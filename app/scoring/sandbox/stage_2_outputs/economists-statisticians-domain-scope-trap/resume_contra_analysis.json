@@ -1,0 +1,168 @@
+{
+  "job_title": "Economists / Statisticians",
+  "case_slug": "economists-statisticians-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.889032",
+  "match_score": 29.07,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.1,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)",
+        "Note that this candidate does not have experience in stress testing, performance engineering, or software development life cycles, which are essential requirements for the job.",
+        "Conducted statistical analysis and modeling for business intelligence projects ( generic data analysis)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+        "Conducted statistical analysis and modeling for business intelligence projects ( generic data analysis)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 42.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)",
+        "Note that this candidate does not have experience in stress testing, performance engineering, or software development life cycles, which are essential requirements for the job.",
+        "Conducted statistical analysis and modeling for business intelligence projects ( generic data analysis)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and execute automated testing scripts using industry-standard tools and frameworks (e.g., Apache JMeter, Gatling)",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable insights to improve the feature's performance and reliability",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain comprehensive documentation of testing methodologies, scripts, and results",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with industry-standard testing tools and frameworks (e.g., Apache JMeter, Gatling)",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills, with ability to interpret complex data sets",
+      "evidence": [
+        "Conducted statistical analysis and modeling for business intelligence projects ( generic data analysis)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop realistic stress test scenarios to simulate high-traffic, high-volume, and low-latency conditions on the domain scope trap feature",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this candidate does not have experience in stress testing, performance engineering, or software development life cycles, which are essential requirements for the job.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, testing methodologies, and quality assurance principles",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this candidate does not have experience in stress testing, performance engineering, or software development life cycles, which are essential requirements for the job.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Domain Qualifiers:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Enterprise",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+      "supports": "Design and develop realistic stress test scenarios to simulate high-traffic, high-volume, and low-latency conditions on the domain scope trap feature"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)",
+      "supports": "Develop and execute automated testing scripts using industry-standard tools and frameworks (e.g., Apache JMeter, Gatling)"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)",
+      "supports": "Analyze test results, identify trends, and provide actionable insights to improve the feature's performance and reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)",
+      "supports": "Develop and maintain comprehensive documentation of testing methodologies, scripts, and results"
+    },
+    {
+      "source": "resume",
+      "quote": "They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.",
+      "supports": "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

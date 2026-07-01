@@ -1,0 +1,162 @@
+{
+  "job_title": "Jewelers",
+  "case_slug": "jewelers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.499777",
+  "match_score": 47.39,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.2,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones.",
+        "Create custom jewelry pieces for clients using various techniques, including casting, soldering, and setting stones",
+        "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 38.2,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones.",
+        "Create custom jewelry pieces for clients using various techniques, including casting, soldering, and setting stones",
+        "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones.",
+        "Create custom jewelry pieces for clients using various techniques, including casting, soldering, and setting stones",
+        "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Create custom jewelry pieces using various techniques, including casting, soldering, and setting stones",
+      "evidence": [
+        "Create custom jewelry pieces for clients using various techniques, including casting, soldering, and setting stones"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards",
+      "evidence": [
+        "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in various jewelry-making techniques, including casting, soldering, and setting stones",
+      "evidence": [
+        "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Work with customers to understand their design preferences and create bespoke pieces that meet their needs",
+      "evidence": [
+        "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We're seeking skilled Jewelers to join our team! As a Jeweler, you'll be responsible for creating beautiful pieces that exceed our customers' expectations.",
+      "evidence": [
+        "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** JEWELER-001",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "If you have a passion for jewelry-making and a keen eye for detail, we want to hear from you!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in jewelry-making or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment and meet deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones.",
+      "supports": "We're seeking skilled Jewelers to join our team! As a Jeweler, you'll be responsible for creating beautiful pieces that exceed our customers' expectations."
+    },
+    {
+      "source": "resume",
+      "quote": "Create custom jewelry pieces for clients using various techniques, including casting, soldering, and setting stones",
+      "supports": "Create custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled jewelry maker and CAD designer with experience in creating custom pieces using various techniques, including casting, soldering, and setting stones.",
+      "supports": "Work with customers to understand their design preferences and create bespoke pieces that meet their needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards",
+      "supports": "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,170 @@
+{
+  "job_title": "Manicurists and Pedicurists",
+  "case_slug": "manicurists-and-pedicurists-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.457151",
+  "match_score": 44.26,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures.",
+        "[Salon Name], [City]",
+        "Maintained a clean and organized workspace, adhering to health and safety standards",
+        "Provided high-quality manicures and pedicures to clients"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures.",
+        "[Salon Name], [City]",
+        "Maintained a clean and organized workspace, adhering to health and safety standards",
+        "Provided high-quality manicures and pedicures to clients"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 61.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures.",
+        "[Salon Name], [City]",
+        "Maintained a clean and organized workspace, adhering to health and safety standards",
+        "Provided high-quality manicures and pedicures to clients"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to health and safety standards",
+      "evidence": [
+        "Maintained a clean and organized workspace, adhering to health and safety standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain strong relationships with clients, ensuring excellent customer service and retention",
+      "evidence": [
+        "Provided high-quality manicures and pedicures to clients"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Join Our Team of Nail Care Experts!**",
+      "evidence": [
+        "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Manicurist/Pedicurist with [Company Name], you'll enjoy",
+      "evidence": [
+        "[Salon Name], [City]"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide exceptional nail care services, including manicures, pedicures, and nail enhancements",
+      "evidence": [
+        "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a Manicurist/Pedicurist, you'll play a vital role in helping us achieve our mission.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "If you're looking for a challenging and rewarding role that allows you to grow and develop your skills, we want to hear from you!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We strive to create a warm and welcoming environment where every client feels valued and appreciated.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive hourly rate",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A fun and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Discounts on services and products",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds and experience levels.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures.",
+      "supports": "Join Our Team of Nail Care Experts!**"
+    },
+    {
+      "source": "resume",
+      "quote": "[Salon Name], [City]",
+      "supports": "As a Manicurist/Pedicurist with [Company Name], you'll enjoy"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled nail technician with 2+ years of experience in providing exceptional manicures and pedicures.",
+      "supports": "Provide exceptional nail care services, including manicures, pedicures, and nail enhancements"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a clean and organized workspace, adhering to health and safety standards",
+      "supports": "Maintain a clean and organized workspace, adhering to health and safety standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided high-quality manicures and pedicures to clients",
+      "supports": "Develop and maintain strong relationships with clients, ensuring excellent customer service and retention"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

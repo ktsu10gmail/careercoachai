@@ -1,0 +1,165 @@
+{
+  "job_title": "Mail Clerks and Mail Machine Operators",
+  "case_slug": "mail-clerks-and-mail-machine-operators-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.287135",
+  "match_score": 33.89,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)",
+        "+ Entered customer information into a database using a low-end computer (Dell Inspiron 15, Windows XP)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry",
+        "delivered"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)",
+        "+ Entered customer information into a database using a low-end computer (Dell Inspiron 15, Windows XP)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 59.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)",
+        "+ Entered customer information into a database using a low-end computer (Dell Inspiron 15, Windows XP)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Mail Clerk and Mail Machine Operator, you will be responsible for processing and delivering mail to customers.",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Sort and process mail for delivery",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Mail Clerks and Mail Machine Operators**",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Join our team of dedicated mail professionals and help keep America connected!",
+      "evidence": [
+        "Mail Clerk**, Local Post Office (2018-Present)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "This is an excellent opportunity for individuals who enjoy working in a fast-paced environment and are committed to providing excellent customer service.",
+      "evidence": [
+        "+ Entered customer information into a database using a low-end computer (Dell Inspiron 15, Windows XP)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** MCMO-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** USPS (United States Postal Service)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career advancement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Mail Clerk**, Local Post Office (2018-Present)",
+      "supports": "Mail Clerks and Mail Machine Operators**"
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerk**, Local Post Office (2018-Present)",
+      "supports": "Join our team of dedicated mail professionals and help keep America connected!"
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerk**, Local Post Office (2018-Present)",
+      "supports": "As a Mail Clerk and Mail Machine Operator, you will be responsible for processing and delivering mail to customers."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Entered customer information into a database using a low-end computer (Dell Inspiron 15, Windows XP)",
+      "supports": "This is an excellent opportunity for individuals who enjoy working in a fast-paced environment and are committed to providing excellent customer service."
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerk**, Local Post Office (2018-Present)",
+      "supports": "Sort and process mail for delivery"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

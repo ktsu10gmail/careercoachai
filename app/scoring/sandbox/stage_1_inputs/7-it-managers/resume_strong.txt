@@ -1,0 +1,34 @@
+Here's a strong-match resume snippet for an IT Manager position:
+
+**Summary:**
+Results-driven IT Manager with 7+ years of experience in managing teams, delivering IT services to business stakeholders, and driving process improvements. Proven track record of successfully implementing IT service management strategies, overseeing technology implementations, and developing budgets for IT projects.
+
+**Professional Experience:**
+
+* **IT Manager**, XYZ Corporation (2018-Present)
+ + Managed a team of 10 IT professionals, providing guidance and oversight to ensure effective delivery of IT services
+ + Developed and implemented IT service management strategies to align with business objectives, resulting in 25% reduction in incident resolution time
+ + Collaborated with stakeholders to understand business needs and identify opportunities for process improvements, leading to 15% increase in team productivity
+ + Oversaw the implementation of new technologies and systems, ensuring seamless integration with existing infrastructure
+ + Conducted regular performance reviews and provided feedback to team members to drive growth and development
+* **Senior IT Specialist**, ABC Company (2015-2018)
+ + Managed incident and problem management processes, resolving issues in a timely and efficient manner
+ + Developed and maintained relationships with vendors and third-party service providers
+ + Created and managed budgets for IT projects and initiatives
+
+**Education:**
+
+* **Master's Degree in Computer Science**, [University Name] (2015)
+
+**Skills:**
+
+* Strong knowledge of IT service management frameworks (ITIL)
+* Experience with project management tools (Asana, Trello, Jira)
+* Familiarity with cloud-based technologies (AWS, Azure, Google Cloud)
+* Agile project management methodologies (Scrum)
+* Cybersecurity best practices and threat management tools (SIEM)
+
+**Certifications:**
+
+* ITIL Foundation Certification
+* CompTIA Security+ Certification

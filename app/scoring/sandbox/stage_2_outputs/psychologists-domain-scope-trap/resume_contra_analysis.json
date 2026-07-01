@@ -1,0 +1,157 @@
+{
+  "job_title": "Psychologists",
+  "case_slug": "psychologists-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.086176",
+  "match_score": 48.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering",
+        "Familiarity with scripting languages such as Python, Java, or C#",
+        "Experience with load testing tools like Apache JMeter"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.5,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 87.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering",
+        "Familiarity with scripting languages such as Python, Java, or C#",
+        "Experience with load testing tools like Apache JMeter"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or related fields (e.g., QA, DevOps)",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in scripting languages such as Python, Java, or C#",
+      "evidence": [
+        "Familiarity with scripting languages such as Python, Java, or C#"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools like Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Experience with load testing tools like Apache JMeter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of system performance, scalability, and reliability principles",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop stress testing plans and scripts to simulate various scenarios, including high-volume transactions, low-latency requests, and concurrent user interactions",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress tests on our scoring engine, monitoring system performance, response times, and error rates",
+      "evidence": [
+        "2+ years of experience in stress testing and performance engineering"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identifying trends, bottlenecks, and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills, with ability to interpret complex data sets",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Effective communication and collaboration skills, with experience working with cross-functional teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in stress testing and performance engineering",
+      "supports": "Design and develop stress testing plans and scripts to simulate various scenarios, including high-volume transactions, low-latency requests, and concurrent user interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in stress testing and performance engineering",
+      "supports": "Execute stress tests on our scoring engine, monitoring system performance, response times, and error rates"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in stress testing and performance engineering",
+      "supports": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in stress testing and performance engineering",
+      "supports": "3+ years of experience in stress testing, performance engineering, or related fields (e.g., QA, DevOps)"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in stress testing and performance engineering",
+      "supports": "In-depth knowledge of scoring engine architecture, software development life cycles, and testing methodologies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

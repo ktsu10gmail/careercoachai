@@ -1,0 +1,45 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting comprehensive stress testing for our domain scope trap feature. The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under various loads.
+
+**Responsibilities:**
+
+* Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking
+* Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload
+* Collaborate with cross-functional teams, including development, operations, and quality assurance, to identify and prioritize testing efforts
+* Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement
+* Develop and maintain relationships with stakeholders to understand business requirements and ensure testing aligns with organizational goals
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles, including design, development, testing, and deployment
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools, such as Apache JMeter, Gatling, or Locust
+* Knowledge of cloud-based infrastructure, including AWS or Azure
+* Strong analytical and problem-solving skills, with ability to interpret complex data sets
+* Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS: Experience with cloud-based software applications and SaaS platforms
+* Enterprise: Familiarity with enterprise-level systems and infrastructure
+* Regulated Industry: Knowledge of regulatory requirements and industry standards for stress testing in regulated industries (e.g. finance, healthcare)
+* Global: Experience working with global teams and understanding of international business practices
+* Multi-site: Ability to work with multiple sites or locations, including remote teams
+
+**Scope Qualifiers:**
+
+* High-Volume: Experience with high-volume data sets and large-scale simulations
+* Low-Latency: Knowledge of low-latency systems and infrastructure, including content delivery networks (CDNs) and edge computing
+* High-Traffic: Familiarity with high-traffic scenarios and ability to simulate heavy user loads
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge technology and contribute to the success of our organization
+* Collaborative and dynamic work environment
+* Professional development opportunities and training programs

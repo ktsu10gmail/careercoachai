@@ -1,0 +1,36 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**IT Specialist**
+
+**Contact Information:**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated IT specialist with experience in network administration and cybersecurity. Proficient in Windows Server, Cisco routers, and Linux distributions.
+
+**Technical Skills:**
+
+* Operating Systems: Windows 10, Windows Server 2019
+* Networking: Cisco routers, switches, Wi-Fi access points
+* Cybersecurity: Basic knowledge of firewalls, antivirus software, and encryption methods
+* Scripting: PowerShell, Bash
+
+**Experience:**
+
+* **Network Administrator**, ABC Company (2020-Present)
+	+ Managed a small network of 10 devices using Windows Server 2019
+	+ Configured Cisco routers and switches for wireless connectivity
+	+ Implemented basic cybersecurity measures using antivirus software and firewalls
+* **Junior IT Specialist**, DEF Corporation (2018-2020)
+	+ Assisted in the installation and configuration of Windows desktops
+	+ Provided technical support for hardware and software issues
+
+**Education:**
+
+* **Certificate in CompTIA A+**, XYZ College (2018)
+
+This resume snippet lacks enterprise scope, focusing on low-level tools and skills that are not directly applicable to a senior IT Manager role. The candidate's experience is limited to small-scale network administration and cybersecurity measures, which do not demonstrate the breadth of knowledge required for a leadership position.

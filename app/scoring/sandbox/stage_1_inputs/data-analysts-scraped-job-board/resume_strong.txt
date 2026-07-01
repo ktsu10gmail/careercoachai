@@ -1,0 +1,47 @@
+Here's a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Emily J. Lee, Data Analyst**
+
+**Contact Information:**
+Phone: (555) 123-4567
+Email: [emilylee@email.com](mailto:emilylee@email.com)
+LinkedIn: linkedin.com/in/emilyleedata
+
+**Summary:**
+Highly motivated and detail-oriented Data Analyst with 3+ years of experience in designing, developing, and maintaining databases, as well as analyzing complex data sets to identify trends and insights. Proficient in SQL, Python, R, and Tableau, with a strong background in statistical analysis and problem-solving.
+
+**Technical Skills:**
+
+* Programming languages: Python ( proficient), R (intermediate)
+* Data management: SQL (advanced), NoSQL databases (basic)
+* Data visualization: Tableau (certified), Power BI (basic)
+* Operating Systems: Windows (advanced), Linux (basic)
+
+**Professional Experience:**
+
+Data Analyst, ABC Corporation (2020-Present)
+
+* Designed and developed databases to store and manage large datasets
+* Analyzed complex data sets to identify trends and insights, presenting findings to senior management
+* Collaborated with cross-functional teams to develop solutions and implement process improvements
+
+Senior Data Analyst, DEF Startups (2018-2020)
+
+* Developed and implemented data visualizations using Tableau and Power BI
+* Conducted statistical analysis and modeling to inform business decisions
+* Worked closely with product managers to identify business needs and develop solutions
+
+**Education:**
+
+Bachelor of Science in Mathematics, XYZ University (2016-2020)
+
+**Certifications:**
+
+* Certified Data Analyst, Data Science Council of America (2020)
+* Tableau Certified Developer, Tableau Software (2019)
+
+**Achievements:**
+
+* Improved data analysis efficiency by 30% through process improvements and automation
+* Developed and implemented a predictive modeling framework that increased sales by 25%
+* Collaborated with cross-functional teams to develop a data-driven product roadmap that resulted in a 50% increase in revenue

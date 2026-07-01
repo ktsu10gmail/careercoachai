@@ -1,0 +1,37 @@
+Here's a strong-match resume snippet for an Urban and Regional Planner position:
+
+**Urban and Regional Planner**
+
+**Summary:**
+Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency.
+
+**Professional Experience:**
+
+* **Senior Planner**, City Planning Department (2018-Present)
+ + Conducted stress tests on citywide transportation systems using JMeter and Locust to identify areas for improvement
+ + Collaborated with cross-functional teams to integrate planning into the development lifecycle, utilizing Agile methodologies and Scrum frameworks
+ + Developed and maintained documentation of plan results, including recommendations for infrastructure upgrades and capacity expansions
+ + Stayed up-to-date with industry trends in urban planning, transportation engineering, and performance testing
+
+**Education:**
+
+* **Master's Degree in Urban Planning**, University of [Name] (2015-2017)
+ + Coursework included transportation planning, urban design, and performance evaluation methodologies
+
+**Skills:**
+
+* Java
+* Python
+* SQL
+* Docker
+* Kubernetes
+* AWS CloudFormation
+* Agile methodologies
+* Scrum
+* Continuous Integration/Continuous Deployment (CI/CD) tools
+* Performance testing frameworks
+* Stress testing frameworks
+* Cloud computing platforms
+* Containerization technologies
+
+Note that I've only included a subset of the required skills, focusing on those that are most relevant to the Urban and Regional Planner position.

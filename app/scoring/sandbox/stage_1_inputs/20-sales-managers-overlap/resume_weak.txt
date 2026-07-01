@@ -1,0 +1,20 @@
+Here's a weak or scope-mismatch resume snippet for a Sales Manager position:
+
+"Results-driven sales professional with 3+ years of experience driving revenue growth and team performance. Proven track record of success in software sales, with a focus on CRM implementation and sales analytics. Skilled in cloud-based software solutions and their applications in the enterprise market.
+
+* Managed a team of 2-5 sales representatives to achieve quarterly targets
+* Developed and implemented sales strategies for small to medium-sized businesses
+* Conducted regular performance reviews and provided coaching to improve sales skills
+
+Education:
+
+* Bachelor's degree in Business Administration, XYZ University (2018)
+
+Skills:
+
+* CRM software (Salesforce.com)
+* Sales analytics tools (e.g. HubSpot)
+* Cloud-based software solutions
+* Excellent communication and problem-solving skills"
+
+This resume snippet lacks the scope-mismatch of having adjacent low-level tools but lacking enterprise scope. The candidate's experience is limited to small businesses, and they lack the required 5+ years of experience in sales management or a related field.

@@ -1,0 +1,141 @@
+{
+  "job_title": "46. Appraisers and Assessors",
+  "case_slug": "46-appraisers-and-assessors",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:50.010511",
+  "match_score": 74.41,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.3,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals.",
+        "Proven track record of staying current with changing laws and regulations, maintaining accurate records, and providing expert testimony in court.",
+        "Bachelor of Science in Real Estate Finance",
+        "Strong analytical and problem-solving skills"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "4 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals.",
+        "Bachelor of Science in Real Estate Finance"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals.",
+        "Proven track record of staying current with changing laws and regulations, maintaining accurate records, and providing expert testimony in court.",
+        "Bachelor of Science in Real Estate Finance",
+        "Strong analytical and problem-solving skills"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Review and analyze market data, sales records, and other relevant information to estimate property values",
+      "evidence": [
+        "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a field such as real estate, business, or finance",
+      "evidence": [
+        "Bachelor of Science in Real Estate Finance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "evidence": [
+        "Strong analytical and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Ability to work independently and as part of a team"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in software such as AutoCAD, Excel, or GIS mapping tools",
+      "evidence": [
+        "Proficient in AutoCAD, Excel, and GIS mapping tools"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Completion of a state-approved appraiser training program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2-5 years of experience as an appraiser or assessor",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals.",
+      "supports": "Conduct on-site inspections of properties to determine their value"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals.",
+      "supports": "Review and analyze market data, sales records, and other relevant information to estimate property values"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven appraiser with 4+ years of experience in conducting on-site property inspections, analyzing market data, and preparing detailed written appraisals.",
+      "supports": "Prepare written appraisals and reports that provide a detailed explanation of the valuation methodology used"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of staying current with changing laws and regulations, maintaining accurate records, and providing expert testimony in court.",
+      "supports": "Testify in court as an expert witness if necessary"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of staying current with changing laws and regulations, maintaining accurate records, and providing expert testimony in court.",
+      "supports": "Maintain accurate and up-to-date records of all appraisal work performed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,165 @@
+{
+  "job_title": "Elementary and Middle School Teachers",
+  "case_slug": "elementary-and-middle-school-teachers-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.216676",
+  "match_score": 30.38,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine.",
+        "+ Developed and maintained a thorough understanding of educational technology platforms, including Learning Management Systems (LMS) and online resources",
+        "I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.",
+        "+ Utilized data analysis tools to track student progress and identify areas for improvement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 63.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine.",
+        "+ Developed and maintained a thorough understanding of educational technology platforms, including Learning Management Systems (LMS) and online resources",
+        "I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.",
+        "+ Utilized data analysis tools to track student progress and identify areas for improvement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics",
+      "evidence": [
+        "+ Developed and maintained a thorough understanding of educational technology platforms, including Learning Management Systems (LMS) and online resources"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations to improve the scoring engine's reliability and performance",
+      "evidence": [
+        "+ Utilized data analysis tools to track student progress and identify areas for improvement"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain documentation of test plans, test cases, and test results",
+      "evidence": [
+        "+ Designed and developed lesson plans for grades K-8"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "evidence": [
+        "Ability to analyze data and identify trends and patterns in student performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture, components, and performance characteristics",
+      "evidence": [
+        "Ability to analyze data and identify trends and patterns in student performance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will provide sponsorship for relocation expenses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring engine.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop realistic stress test scenarios that simulate real-world usage patterns",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests using various tools and techniques, including load testing, performance benchmarking, and vulnerability scanning",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring engine."
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience designing and developing lesson plans, I did not develop comprehensive stress test scenarios for a scoring engine.",
+      "supports": "Design and develop realistic stress test scenarios that simulate real-world usage patterns"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained a thorough understanding of educational technology platforms, including Learning Management Systems (LMS) and online resources",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "I do not have experience with load testing tools or performance benchmarking tools, as my focus has been on teaching and curriculum design rather than stress testing and performance engineering.",
+      "supports": "Execute stress tests using various tools and techniques, including load testing, performance benchmarking, and vulnerability scanning"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized data analysis tools to track student progress and identify areas for improvement",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations to improve the scoring engine's reliability and performance"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,22 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"Editorial Specialist
+- Edited content for grammar, punctuation, and syntax errors (2018-Present)
+- Utilized Adobe Acrobat to review and annotate documents (2019-Present)
+- Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)
+
+Education:
+Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+- Proficient in Adobe Creative Cloud
+- Experienced with version control systems like Git
+- Strong understanding of HTML and CSS for web development
+
+Experience:
+Freelance Web Developer (2018-Present)
+- Built websites using WordPress and HTML/CSS
+- Conducted thorough fact-checking on client projects
+- Applied company-specific style guides to ensure consistency in content"
+
+This resume snippet lacks the required skills and experience for the Editor/Proofreader position, and instead highlights skills that are more relevant to web development.

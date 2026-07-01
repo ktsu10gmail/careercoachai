@@ -1,0 +1,164 @@
+{
+  "job_title": "84. Dental Assistants",
+  "case_slug": "84-dental-assistants",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.062428",
+  "match_score": 36.56,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 25.8,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB), [Date] (Note: Although I hold this certification, I did not complete the required clinical hours for advanced procedures such as implant p",
+        "Maintained accurate records of patient information",
+        "Assisted dentists with routine procedures",
+        "High school diploma, [Year]"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Maintained accurate records of patient information",
+        "Assisted dentists with routine procedures"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 50.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB), [Date] (Note: Although I hold this certification, I did not complete the required clinical hours for advanced procedures such as implant p",
+        "Maintained accurate records of patient information",
+        "Assisted dentists with routine procedures",
+        "High school diploma, [Year]"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate records of patient information, treatment plans, and billing data",
+      "evidence": [
+        "Maintained accurate records of patient information"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, [Year]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Completion of a state-approved dental assisting program",
+      "evidence": [
+        "Completed state-approved dental assisting program, [Year]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Communicate effectively with patients, dentists, and other healthcare professionals",
+      "evidence": [
+        "Assisted dentists with routine procedures"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Prepare dental instruments and equipment for patient use",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist dentists with procedures such as fillings, extractions, and impressions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB), [Date] (Note: Although I hold this certification, I did not complete the required clinical hours for advanced procedures such as implant p",
+      "severity": "high"
+    },
+    {
+      "requirement": "Take and develop radiographs (x-rays) using digital or film technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Measure and mix dental materials such as composite resin and cement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Clean and disinfect dental equipment and workstations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Restock supplies and materials as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in dental assisting preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB), [Date] (Note: Although I hold this certification, I did not complete the required clinical hours for advanced procedures such as implant p",
+      "severity": "high"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB), [Date] (Note: Although I hold this certification, I did not complete the required clinical hours for advanced procedures such as implant p",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Current certification as a dental assistant (CDA) through the Dental Assisting National Board (DANB), [Date] (Note: Although I hold this certification, I did not complete the required clinical hours for advanced procedures such as implant p",
+      "supports": "Assist dentists with procedures such as fillings, extractions, and impressions"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of patient information",
+      "supports": "Maintain accurate records of patient information, treatment plans, and billing data"
+    },
+    {
+      "source": "resume",
+      "quote": "Assisted dentists with routine procedures",
+      "supports": "Communicate effectively with patients, dentists, and other healthcare professionals"
+    },
+    {
+      "source": "resume",
+      "quote": "High school diploma, [Year]",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Completed state-approved dental assisting program, [Year]",
+      "supports": "Completion of a state-approved dental assisting program"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

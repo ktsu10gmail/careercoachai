@@ -1,0 +1,137 @@
+{
+  "job_title": "Chief Executive Officers / Top Executives",
+  "case_slug": "chief-executive-officers-top-executives",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.844080",
+  "match_score": 60.93,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 68.8,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Transformational CEO with 12+ years of experience driving business growth and profitability through strategic planning, leadership, and innovation.",
+        "+ Led a high-performing executive team to achieve organizational objectives, including a 50% reduction in costs through process improvements",
+        "+ Fostered strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 95% customer retention rate",
+        "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 20% increase in market share"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "MBA**, Harvard Business School (2005-2007)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "12 years",
+        "led"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Transformational CEO with 12+ years of experience driving business growth and profitability through strategic planning, leadership, and innovation."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Transformational CEO with 12+ years of experience driving business growth and profitability through strategic planning, leadership, and innovation.",
+        "+ Led a high-performing executive team to achieve organizational objectives, including a 50% reduction in costs through process improvements",
+        "+ Fostered strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 95% customer retention rate",
+        "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 20% increase in market share"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Lead and manage a high-performing executive team to achieve organizational objectives",
+      "evidence": [
+        "+ Led a high-performing executive team to achieve organizational objectives, including a 50% reduction in costs through process improvements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Foster strong relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "+ Fostered strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 95% customer retention rate"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Make informed decisions on major investments, acquisitions, and divestitures",
+      "evidence": [
+        "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 20% increase in market share"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of driving business growth and profitability",
+      "evidence": [
+        "Proven track record of building high-performing teams, fostering strong stakeholder relationships, and ensuring compliance with regulatory requirements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong leadership and management skills, with ability to motivate and inspire high-performing teams",
+      "evidence": [
+        "Proven leadership and management skills with ability to motivate and inspire high-performing teams"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement strategic plans to drive business growth and profitability",
+      "evidence": [
+        "Transformational CEO with 12+ years of experience driving business growth and profitability through strategic planning, leadership, and innovation."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Ensure compliance with regulatory requirements and maintain a culture of integrity and ethics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Transformational CEO with 12+ years of experience driving business growth and profitability through strategic planning, leadership, and innovation.",
+      "supports": "Develop and implement strategic plans to drive business growth and profitability"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Led a high-performing executive team to achieve organizational objectives, including a 50% reduction in costs through process improvements",
+      "supports": "Lead and manage a high-performing executive team to achieve organizational objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Fostered strong relationships with key stakeholders, including investors, customers, and partners, resulting in a 95% customer retention rate",
+      "supports": "Foster strong relationships with key stakeholders, including investors, customers, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Transformational CEO with 12+ years of experience driving business growth and profitability through strategic planning, leadership, and innovation.",
+      "supports": "Oversee financial planning, budgeting, and forecasting to ensure alignment with company goals"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Made informed decisions on major investments, acquisitions, and divestitures, resulting in a 20% increase in market share",
+      "supports": "Make informed decisions on major investments, acquisitions, and divestitures"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

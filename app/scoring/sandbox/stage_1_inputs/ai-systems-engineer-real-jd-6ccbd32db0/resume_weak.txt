@@ -1,0 +1,23 @@
+Here's a weak or scope-mismatch resume snippet for an AI Systems Engineer position:
+
+**Systems Engineer**
+
+* 3+ years of experience with systems automation tools like n8n, LangGraph, and Zapier
+* Proficient in Python and JavaScript for custom connectors and scripting
+* Experience with SaaS APIs and system interoperability
+* Familiarity with orchestration platforms and LLM applications
+
+Note: This resume snippet lacks the required skills and experience mentioned in the job description, such as:
+
+* 5-8+ years of experience in systems automation, internal tools, or process/data engineering
+* Hands-on experience with modern orchestration frameworks like LangGraph, n8n, and OpenAI Responses/Agents tooling
+* Experience with AI agent deployment, prompt libraries, embeddings-based retrieval, or vector databases
+* Strong familiarity with evaluation and observability frameworks for LLM applications
+
+This resume snippet also lacks the required behaviors and competencies mentioned in the job description, such as:
+
+* Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs. buy
+* Cross-Functional Fluency: Translates between engineers and revenue leadership, earns trust by delivering things that work, and stays close to adoption after deployment
+* Bias for Impact: Prioritizes automations that move a real business metric and measures success by adoption and friction reduction
+
+Overall, this resume snippet is weak because it lacks the required skills, experience, behaviors, and competencies mentioned in the job description.

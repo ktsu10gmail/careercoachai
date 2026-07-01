@@ -1,0 +1,20 @@
+{
+  "job_title": "42. Loan Officers",
+  "case_slug": "42-loan-officers",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:30:20.893053",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

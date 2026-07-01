@@ -1,0 +1,21 @@
+{
+  "job_title": "Heavy and Tractor-Trailer Truck Drivers",
+  "case_slug": "heavy-and-tractor-trailer-truck-drivers-domain-scope-trap",
+  "scenario": "domain_scope_trap",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T17:52:11.239668",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

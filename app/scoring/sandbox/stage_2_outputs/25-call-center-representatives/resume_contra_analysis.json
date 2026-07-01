@@ -1,0 +1,159 @@
+{
+  "job_title": "25. Call Center Representatives",
+  "case_slug": "25-call-center-representatives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.936354",
+  "match_score": 40.1,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.5,
+      "reason": "Found 4 direct, 4 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments.",
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and access account information",
+        "Proven track record of meeting or exceeding daily call volume targets and maintaining high levels of productivity.",
+        "Additionally, while I have a high school diploma, I do not have an associate's degree or any certifications in customer service or sales.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Additionally, while I have a high school diploma, I do not have an associate's degree or any certifications in customer service or sales.\""
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments.",
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and access account information",
+        "Proven track record of meeting or exceeding daily call volume targets and maintaining high levels of productivity.",
+        "Additionally, while I have a high school diploma, I do not have an associate's degree or any certifications in customer service or sales.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Utilize CRM software (Salesforce) to update customer records, track interactions, and access account information",
+      "evidence": [
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and access account information"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed daily call volume targets and maintain a high level of productivity",
+      "evidence": [
+        "Proven track record of meeting or exceeding daily call volume targets and maintaining high levels of productivity."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "evidence": [
+        "Demonstrated excellent communication and problem-solving skills, with a strong ability to work collaboratively with internal teams"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, Outlook) and CRM software (Salesforce)",
+      "evidence": [
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and access account information"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Answer incoming customer calls in a timely and professional manner",
+      "evidence": [
+        "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Work collaboratively with internal teams to resolve complex customer issues and escalate as necessary",
+      "evidence": [
+        "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Adhere to company policies and procedures, including data security and confidentiality guidelines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I have a high school diploma, I do not have an associate's degree or any certifications in customer service or sales.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I have a high school diploma, I do not have an associate's degree or any certifications in customer service or sales.\"",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of customer service experience in a call center environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments.",
+      "supports": "Answer incoming customer calls in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments.",
+      "supports": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software (Salesforce) to update customer records, track interactions, and access account information",
+      "supports": "Utilize CRM software (Salesforce) to update customer records, track interactions, and access account information"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven customer service professional with 2+ years of experience in fast-paced call center environments.",
+      "supports": "Work collaboratively with internal teams to resolve complex customer issues and escalate as necessary"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of meeting or exceeding daily call volume targets and maintaining high levels of productivity.",
+      "supports": "Meet or exceed daily call volume targets and maintain a high level of productivity"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,39 @@
+Here's a contra-evidence resume snippet for a Social Worker position:
+
+**Social Worker Candidate**
+
+**Contact Information:**
+
+* Name: Jane Doe
+* Email: [jane.doe@email.com](mailto:jane.doe@email.com)
+* Phone: 555-555-5555
+
+**Summary:**
+Highly motivated and compassionate social worker with experience in case management and community outreach. Proven track record of building strong relationships with clients and stakeholders.
+
+**Work Experience:**
+
+* Social Worker, XYZ Non-Profit (2018-Present)
+ + Conducted intake assessments and developed individualized service plans for clients
+ + Coordinated with cross-functional teams to ensure seamless client transitions
+ + Collaborated with community partners to provide wraparound services
+
+**Education:**
+
+* MSW, ABC University (2015-2017)
+
+**Skills:**
+
+* Strong understanding of social work principles and practices
+* Excellent communication and interpersonal skills
+* Ability to work independently and collaboratively as part of a team
+* Proficient in Microsoft Office Suite and Google Workspace
+
+**Relevant Projects:**
+
+* Developed and implemented a case management software system to streamline client data entry and tracking
+* Conducted community outreach events to raise awareness about mental health services
+
+**Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role. My expertise lies in case management and community outreach, rather than scoring engine performance.
+
+This resume snippet highlights the candidate's relevant skills and experience, but explicitly states that they did not perform one of the higher-scope requirements (high-level analysis) mentioned in the job description.

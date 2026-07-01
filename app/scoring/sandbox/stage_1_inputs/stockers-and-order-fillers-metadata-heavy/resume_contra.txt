@@ -1,0 +1,25 @@
+Here's a contra-evidence resume snippet for a Stockers and Order Fillers position:
+
+**Work Experience:**
+
+Stocker/Order Filler
+XYZ Retail Store (2018-Present)
+
+- Managed inventory levels, ensuring accurate stockroom organization and efficient order fulfillment.
+- Utilized basic computer skills to process transactions, manage customer data, and perform basic reporting tasks.
+
+**Skills:**
+
+- Proficient in basic point-of-sale systems and inventory management software.
+- Strong attention to detail and organizational skills.
+- Ability to work effectively in a fast-paced environment with minimal supervision.
+
+**Education:**
+
+- High School Diploma (2018)
+
+Note: I've highlighted the candidate's experience and skills, but also included some red flags that they did not meet higher-scope requirements. For example:
+
+* They don't have any experience with stress testing or performance engineering, which is a key requirement for the job.
+* Their education only goes up to high school diploma, which may not be sufficient for a role that requires a degree in a relevant field.
+* While they can process transactions and manage customer data, this is not directly related to the skills required for the Stress Test Engineer - Scoring Engine position.

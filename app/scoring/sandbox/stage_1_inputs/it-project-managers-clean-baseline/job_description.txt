@@ -1,0 +1,32 @@
+**Job Title:** Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to design, develop, and execute comprehensive stress testing scenarios for our scoring engine. The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our scoring engine under various loads.
+
+**Responsibilities:**
+
+* Design and develop stress testing scenarios to simulate real-world usage patterns and identify potential bottlenecks in the scoring engine
+* Collaborate with development teams to gather requirements and ensure test cases align with project goals
+* Develop and execute comprehensive test plans, including data generation, test execution, and results analysis
+* Identify and report defects or issues found during testing, working closely with development teams to reproduce and resolve them
+* Analyze test results and provide recommendations for process improvements and optimization of the scoring engine
+* Maintain accurate records of test cases, test plans, and results, ensuring data integrity and compliance with regulatory requirements
+* Participate in continuous improvement initiatives, contributing to the development of new testing methodologies and tools
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field; Master's degree preferred
+* 3+ years of experience in stress testing, performance testing, or a related field
+* Strong understanding of software engineering principles, including design patterns, algorithms, and data structures
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with test automation frameworks (e.g., Selenium, Appium) and scripting languages (e.g., Python, Ruby)
+* Knowledge of database management systems and data modeling techniques
+* Strong analytical and problem-solving skills, with ability to identify and prioritize testing efforts
+
+**Preferred Skills:**
+
+* Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Familiarity with machine learning or artificial intelligence frameworks (e.g., TensorFlow, PyTorch)
+* Knowledge of DevOps practices and tools (e.g., Jenkins, GitLab CI/CD)
+* Certification in stress testing or performance testing methodologies (e.g., ISTQB, CSTE)

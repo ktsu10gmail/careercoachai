@@ -1,0 +1,142 @@
+{
+  "job_title": "Appraisers and Assessors",
+  "case_slug": "appraisers-and-assessors-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:55.240220",
+  "match_score": 56.15,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 55.0,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools.",
+        "Summary:",
+        "+ Designed and executed stress tests on performance evaluation tools using Python and Pytest",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 52.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Familiarity with Docker and Kubernetes for containerization and orchestration"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools.",
+        "Summary:",
+        "+ Designed and executed stress tests on performance evaluation tools using Python and Pytest",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Designed and executed stress tests on performance evaluation tools using Python and Pytest"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance evaluation, or a related field",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Python, Java, and C++"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability concepts",
+      "evidence": [
+        "Familiarity with Docker and Kubernetes for containerization and orchestration"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various types of loads and workloads",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks and tools (e.g., Selenium, JUnit)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools.",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled stress tester with 3+ years of experience in testing performance evaluation tools.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on our scoring engine to ensure its stability, scalability, and security."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed stress tests on performance evaluation tools using Python and Pytest",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate various types of loads and workloads"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

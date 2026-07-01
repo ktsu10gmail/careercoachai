@@ -1,0 +1,21 @@
+{
+  "job_title": "Diesel Mechanics",
+  "case_slug": "diesel-mechanics-metadata-heavy",
+  "scenario": "metadata_heavy",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T18:09:54.720738",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

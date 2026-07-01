@@ -1,0 +1,134 @@
+{
+  "job_title": "Urban and Regional Planners",
+  "case_slug": "urban-and-regional-planners-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:11.301596",
+  "match_score": 72.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 58.3,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Conducted stress tests on citywide transportation systems using JMeter and Locust to identify areas for improvement",
+        "Summary:",
+        "Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency.",
+        "AWS CloudFormation"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "AWS CloudFormation"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Conducted stress tests on citywide transportation systems using JMeter and Locust to identify areas for improvement",
+        "Summary:",
+        "Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency.",
+        "AWS CloudFormation"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Execute stress tests using a variety of tools and platforms, including but not limited to: JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Sele",
+      "evidence": [
+        "AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, SQL, HTML/CSS, Docker, Kubernetes, AWS CloudFormation, Azure DevOps, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestCompl",
+      "evidence": [
+        "AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Note: Essential skills include Java, Python, C++, JavaScript, SQL, Docker, Kubernetes, AWS CloudFormation, Azure DevOps.",
+      "evidence": [
+        "AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and identify areas for improvement in scoring engine performance and reliability",
+      "evidence": [
+        "Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain documentation of stress test plans, test results, and recommendations for improvements",
+      "evidence": [
+        "Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Urban and Regional Planners",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Conducted stress tests on citywide transportation systems using JMeter and Locust to identify areas for improvement",
+      "supports": "Job Title: Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on scoring engines to identify potential bottlenecks and areas for improv"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven urban planner with expertise in analyzing complex systems, identifying performance bottlenecks, and developing comprehensive plans to optimize system reliability and efficiency.",
+      "supports": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on scoring engines"
+    },
+    {
+      "source": "resume",
+      "quote": "AWS CloudFormation",
+      "supports": "Execute stress tests using a variety of tools and platforms, including but not limited to: JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Sele"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

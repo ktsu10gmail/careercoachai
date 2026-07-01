@@ -1,0 +1,165 @@
+{
+  "job_title": "Police and Sheriff\u2019s Patrol Officers",
+  "case_slug": "police-and-sheriff-s-patrol-officers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.490859",
+  "match_score": 35.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.8,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off.",
+        "Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+        "Security Guard**, ABC Company (2015-2018)",
+        "Summary:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.8,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off.",
+        "Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+        "Security Guard**, ABC Company (2015-2018)",
+        "Summary:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 70.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off.",
+        "Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+        "Security Guard**, ABC Company (2015-2018)",
+        "Summary:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job ID:** PSPO-1234",
+      "evidence": [
+        "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "evidence": [
+        "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "evidence": [
+        "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "Security Guard**, ABC Company (2015-2018)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "This is an excellent opportunity for those who want to make a difference in their community and start or advance their career in law enforcement.",
+      "evidence": [
+        "Highly motivated individual with experience in law enforcement, seeking a challenging role as a Police and Sheriff's Patrol Officer."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Police and Sheriff's Patrol Officers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career advancement and professional development",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Employment Opportunity:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Patrol Officer, you will be responsible for enforcing laws and maintaining public safety in our communities.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off.",
+      "supports": "Job ID:** PSPO-1234"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off.",
+      "supports": "Job Type:** Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, I was not certified as a law enforcement officer due to limited time spent on the job before being laid off.",
+      "supports": "Paid time off and holidays"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+      "supports": "Opportunities for career advancement and professional development"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I possess the required skills and experience for this role, I did not have the opportunity to participate in training and professional development opportunities as a law enforcement officer.",
+      "supports": "Equal Employment Opportunity:**"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

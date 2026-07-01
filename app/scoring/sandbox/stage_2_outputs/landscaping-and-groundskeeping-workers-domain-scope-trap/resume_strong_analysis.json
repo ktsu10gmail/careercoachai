@@ -1,0 +1,160 @@
+{
+  "job_title": "Landscaping and Groundskeeping Workers",
+  "case_slug": "landscaping-and-groundskeeping-workers-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.582719",
+  "match_score": 43.2,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.6,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Domain Qualifiers:",
+        "Key Responsibilities:",
+        "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions",
+        "Developed strong problem-solving skills through experience with complex equipment issues"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Key Responsibilities:",
+        "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Domain Qualifiers:",
+        "Key Responsibilities:",
+        "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions",
+        "Developed strong problem-solving skills through experience with complex equipment issues"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "3+ years of experience in grounds maintenance or a related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Domain Scope Trap Stress Test Engineer**",
+      "evidence": [
+        "Domain Qualifiers:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform.",
+      "evidence": [
+        "Key Responsibilities:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution.",
+      "evidence": [
+        "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations",
+      "evidence": [
+        "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute test cases using various tools and techniques, such as load generators, network protocols, and API testing frameworks",
+      "evidence": [
+        "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Your goal will be to identify potential bottlenecks, vulnerabilities, and areas for improvement in the system, allowing us to optimize its performance and ensure it meets the needs",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of network protocols, API design, and software architecture",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in load testing tools such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g., Docker, Kubernetes)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Domain Qualifiers:",
+      "supports": "Domain Scope Trap Stress Test Engineer**"
+    },
+    {
+      "source": "resume",
+      "quote": "Key Responsibilities:",
+      "supports": "As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform."
+    },
+    {
+      "source": "resume",
+      "quote": "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions",
+      "supports": "As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution."
+    },
+    {
+      "source": "resume",
+      "quote": "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions",
+      "supports": "Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Outdoor Environment: Experience working in various outdoor environments, including extreme weather conditions",
+      "supports": "Execute test cases using various tools and techniques, such as load generators, network protocols, and API testing frameworks"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

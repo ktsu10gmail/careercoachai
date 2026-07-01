@@ -1,0 +1,163 @@
+{
+  "job_title": "Marketing Specialists / Coordinators",
+  "case_slug": "marketing-specialists-coordinators-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.807084",
+  "match_score": 62.67,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.9,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Winner of the [Company Name] Marketing Award for Best Campaign, 2022",
+        "Developed and executed a social media campaign that increased followers by 500% and engagement by 200%",
+        "Conducted market research and analyzed customer data to inform marketing strategies, resulting in a 25% increase in sales"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted market research and analyzed customer data to inform marketing strategies, resulting in a 25% increase in sales"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 68.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Winner of the [Company Name] Marketing Award for Best Campaign, 2022",
+        "Developed and executed a social media campaign that increased followers by 500% and engagement by 200%",
+        "Conducted market research and analyzed customer data to inform marketing strategies, resulting in a 25% increase in sales"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "[Company Name] is an equal opportunity employer, committed to diversity and inclusion in the workplace.",
+      "evidence": [
+        "Winner of the [Company Name] Marketing Award for Best Campaign, 2022"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement marketing campaigns across multiple channels (digital, social media, content)",
+      "evidence": [
+        "Developed and executed a social media campaign that increased followers by 500% and engagement by 200%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct market research and analyze customer data to inform marketing strategies",
+      "evidence": [
+        "Conducted market research and analyzed customer data to inform marketing strategies, resulting in a 25% increase in sales"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and best practices, applying knowledge to drive business growth",
+      "evidence": [
+        "Winner of the [Company Name] Marketing Award for Best Campaign, 2022"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Marketing Specialists / Coordinators**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Flexible working arrangements and remote work options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Recognition and rewards for outstanding performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and optimize marketing budgets to achieve maximum ROI",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Marketing or related field (or equivalent experience)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Winner of the [Company Name] Marketing Award for Best Campaign, 2022",
+      "supports": "[Company Name] is an equal opportunity employer, committed to diversity and inclusion in the workplace."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed a social media campaign that increased followers by 500% and engagement by 200%",
+      "supports": "Develop and implement marketing campaigns across multiple channels (digital, social media, content)"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted market research and analyzed customer data to inform marketing strategies, resulting in a 25% increase in sales",
+      "supports": "Conduct market research and analyze customer data to inform marketing strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Winner of the [Company Name] Marketing Award for Best Campaign, 2022",
+      "supports": "Stay up-to-date with industry trends and best practices, applying knowledge to drive business growth"
+    },
+    {
+      "source": "job_description",
+      "quote": "Marketing Specialists / Coordinators**",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

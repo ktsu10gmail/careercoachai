@@ -1,0 +1,155 @@
+{
+  "job_title": "Bookkeeping, Accounting, and Auditing Clerks",
+  "case_slug": "bookkeeping-accounting-and-auditing-clerks-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.805091",
+  "match_score": 23.93,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 8.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+        "Experienced with Apache Kafka and Docker for data processing and containerization",
+        "I also did not have experience with cloud-based infrastructure, containerization, or DevOps practices, but I am eager to learn and expand my skill set in these areas."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced with Apache Kafka and Docker for data processing and containerization",
+        "I also did not have experience with cloud-based infrastructure, containerization, or DevOps practices, but I am eager to learn and expand my skill set in these areas."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 20.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+        "Experienced with Apache Kafka and Docker for data processing and containerization",
+        "I also did not have experience with cloud-based infrastructure, containerization, or DevOps practices, but I am eager to learn and expand my skill set in these areas."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Java, Python, C++, JavaScript, SQL, Apache Kafka, Apache Cassandra, Docker, Kubernetes, AWS CloudFormation, Ansible, Selenium, JMeter, Gatling, Apache Spark, Apache Flink, PostgreS",
+      "evidence": [
+        "Experienced with Apache Kafka and Docker for data processing and containerization"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Here is a realistic job description for a scoring-engine stress test",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Test Specialist",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our quality assurance team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scala",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various scenarios and workloads",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and provide recommendations for improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing processes, procedures, and results",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with machine learning frameworks (TensorFlow, PyTorch) or natural language processing libraries (NLTK, spaCy), Knowledge of DevOps practices and continuous integration/c",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also did not have experience with cloud-based infrastructure, containerization, or DevOps practices, but I am eager to learn and expand my skill set in these areas.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and benefits package, Opportunities for professional growth and development, Collaborative and dynamic work environment, Flexible working hours and remote work o",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "If you are a motivated and detail-oriented individual with a passion for stress testing and quality assurance, please submit your application.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "supports": "Here is a realistic job description for a scoring-engine stress test"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "supports": "Job Title:** Scoring Engine Stress Test Specialist"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "supports": "As a key member of our quality assurance team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scala"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting.",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate various scenarios and workloads"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

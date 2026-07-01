@@ -1,0 +1,161 @@
+{
+  "job_title": "51. Compensation and Benefits Specialists",
+  "case_slug": "51-compensation-and-benefits-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:50.581290",
+  "match_score": 37.28,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.0,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Compensation and Benefits Specialists job:",
+        "Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+        "Developed and maintained compliance documentation for all employment-related policies and procedures (but only up to a certain level of detail, as I did not have experience with ERISA or COBRA regulations)",
+        "Bachelor's degree in Business Administration, XYZ University (20XX-20XX)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 36.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+        "Developed and maintained compliance documentation for all employment-related policies and procedures (but only up to a certain level of detail, as I did not have experience with ERISA or COBRA regulations)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 85.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Compensation and Benefits Specialists job:",
+        "Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+        "Developed and maintained compliance documentation for all employment-related policies and procedures (but only up to a certain level of detail, as I did not have experience with ERISA or COBRA regulations)",
+        "Bachelor's degree in Business Administration, XYZ University (20XX-20XX)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field;",
+      "evidence": [
+        "Bachelor's degree in Business Administration, XYZ University (20XX-20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Workday, ADP) and Microsoft Office Suite.",
+      "evidence": [
+        "Workday) and Microsoft Office Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop, implement, and maintain comprehensive compensation and benefits programs for employees across all levels of the organization.",
+      "evidence": [
+        "Compensation and Benefits Specialists job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct market research to stay current on industry standards and best practices in compensation and benefits.",
+      "evidence": [
+        "Compensation and Benefits Specialists job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in compensation and benefits administration.",
+      "evidence": [
+        "Compensation and Benefits Specialists job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in HRIS systems (e.g.",
+      "evidence": [
+        "Proficient in HRIS systems (e.g."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze data from various sources (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+      "severity": "high"
+    },
+    {
+      "requirement": "payroll, performance reviews) to identify trends and areas for improvement in compensation and benefits.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain compliance documentation for all employment-related policies and procedures.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained compliance documentation for all employment-related policies and procedures (but only up to a certain level of detail, as I did not have experience with ERISA or COBRA regulations)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of employment laws and regulations (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and maintained compliance documentation for all employment-related policies and procedures (but only up to a certain level of detail, as I did not have experience with ERISA or COBRA regulations)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical, communication, and problem-solving skills.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong analytical skills, although I did not use them extensively for data analysis",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with performance management software (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Compensation and Benefits Specialists job:",
+      "supports": "Develop, implement, and maintain comprehensive compensation and benefits programs for employees across all levels of the organization."
+    },
+    {
+      "source": "resume",
+      "quote": "Compensation and Benefits Specialists job:",
+      "supports": "Conduct market research to stay current on industry standards and best practices in compensation and benefits."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+      "supports": "Analyze data from various sources (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted market research to identify trends and areas for improvement in compensation and benefits (although I did not analyze data from various sources such as payroll or performance reviews)",
+      "supports": "payroll, performance reviews) to identify trends and areas for improvement in compensation and benefits."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained compliance documentation for all employment-related policies and procedures (but only up to a certain level of detail, as I did not have experience with ERISA or COBRA regulations)",
+      "supports": "Develop and maintain compliance documentation for all employment-related policies and procedures."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

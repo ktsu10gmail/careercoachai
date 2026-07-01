@@ -1,0 +1,45 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to design, develop, and execute comprehensive stress testing scenarios for our domain scope trap feature. The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability and performance of our system.
+
+**Responsibilities:**
+
+* Design and develop stress testing scenarios for domain scope trap, including identifying key performance indicators (KPIs) and developing test scripts to simulate various loads and workloads
+* Collaborate with product management, engineering, and QA teams to understand requirements and identify areas for improvement
+* Develop and execute test plans, including setting up test environments, running tests, and analyzing results
+* Identify and report defects or issues found during testing, working closely with the development team to reproduce and resolve them
+* Provide regular progress updates and status reports to stakeholders
+* Stay up-to-date with industry trends and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 3+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles, including design, development, testing, and deployment
+* Experience with stress testing tools such as Apache JMeter, Gatling, or Locust
+* Knowledge of cloud-based infrastructure and containerization technologies (e.g. AWS, Docker)
+* Excellent problem-solving skills, attention to detail, and analytical thinking
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (essential)
+
+**Scope Qualifiers:**
+
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Additional Requirements:**
+
+* Ability to travel up to 20% for training and meetings
+* Willingness to work flexible hours, including evenings and weekends, as needed
+* Strong understanding of Agile development methodologies (e.g. Scrum, Kanban)
+
+If you are a motivated and detail-oriented individual with experience in stress testing and performance engineering, we encourage you to apply for this exciting opportunity!

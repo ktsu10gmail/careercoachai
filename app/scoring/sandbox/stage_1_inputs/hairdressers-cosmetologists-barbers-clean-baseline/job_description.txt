@@ -1,0 +1,31 @@
+Job Title: Stress Test Engineer
+
+Job Summary:
+
+We are seeking a highly skilled Stress Test Engineer to join our team. As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure its reliability, scalability, and performance under various loads.
+
+Responsibilities:
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Develop and maintain test plans, scripts, and tools to simulate real-world workloads
+* Collaborate with cross-functional teams to understand system requirements and identify testing opportunities
+* Analyze test results, identify trends, and provide recommendations for optimization
+* Work closely with development team to reproduce issues and implement fixes
+* Stay up-to-date with industry trends and emerging technologies to improve testing methodologies
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 3+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles and testing methodologies
+* Experience with load testing tools such as Apache JMeter, Gatling, or Locust
+* Familiarity with cloud-based infrastructure and containerization technologies (e.g. Docker, Kubernetes)
+* Excellent analytical and problem-solving skills
+
+Preferred Skills:
+
+* Master's degree in Computer Science, Engineering, or related field
+* Experience with programming languages such as Java, Python, or C++
+* Knowledge of database performance optimization techniques
+* Certification in stress testing or performance engineering (e.g. ISTQB, PTE)
+* Experience with continuous integration and delivery tools (e.g. Jenkins, GitLab CI/CD)

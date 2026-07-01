@@ -1,0 +1,42 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Info:**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated and detail-oriented individual with experience in call center operations. Proficient in Microsoft Office Suite and proficient in using a Linux-based operating system.
+
+**Technical Skills:**
+
+* Operating Systems: Ubuntu, Debian
+* Programming Languages: Python 3.x, Bash scripting
+* Software: LibreOffice, GIMP
+* Networking: Basic understanding of TCP/IP and DNS
+
+**Experience:**
+
+* Call Center Representative (2018-Present)
+	+ Handled inbound and outbound calls from customers, responding to their queries and resolving issues in a timely and professional manner.
+	+ Utilized proprietary scoring engine stress test software to evaluate customer interactions and identify areas for improvement.
+	+ Maintained accurate records of customer interactions, including call summaries and resolution outcomes.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science (2015-2018)
+	+ Coursework included Linux programming, networking fundamentals, and database management.
+
+**Certifications:**
+
+* CompTIA A+ Certification (2020)
+* Basic Life Support Certification (2019)
+
+Note that this resume snippet lacks enterprise scope by:
+
+* Not mentioning any experience with cloud-based call center solutions or advanced customer relationship management (CRM) software.
+* Not highlighting any achievements or metrics related to sales performance, customer satisfaction, or team collaboration.
+* Focusing on technical skills and programming languages that are not directly relevant to the job description.
+* Lacking any mention of soft skills, such as leadership, communication, or problem-solving.

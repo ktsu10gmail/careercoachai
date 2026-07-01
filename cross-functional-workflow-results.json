@@ -1,0 +1,41 @@
+[
+  {
+    "step": "Applicant followed job URL",
+    "screenshot": "cross-functional-01-applicant-job-url.png",
+    "job_id": 5,
+    "job_title": "Senior Backend Engineer"
+  },
+  {
+    "step": "Applicant submitted application",
+    "screenshot": "cross-functional-02-applicant-portal-submitted.png",
+    "application_id": 56,
+    "applicant_email": "cross.functional.1782245354115@example.com",
+    "matching_score": 75.0,
+    "answer_score": 2.45
+  },
+  {
+    "step": "HR saw scored application",
+    "screenshot": "cross-functional-03-hr-sees-application.png",
+    "status_before": "Submitted"
+  },
+  {
+    "step": "HR pre-qualified and scheduled interview",
+    "application_id": 56,
+    "interview_id": 28,
+    "scheduled_hiring_manager_name": "Walker Cheng",
+    "scheduled_time": "2026-07-08T10:30:00"
+  },
+  {
+    "step": "HM interviewed applicant and submitted comment",
+    "interview_id": 28,
+    "final_verdict": "Strongly recommend",
+    "manager_comment": "Interview completed. Casey explained production debugging, API design, stakeholder communication, and incident handling clearly. Strong hire signal with one follow-up on scaling tradeoffs."
+  },
+  {
+    "step": "HR reviewed HM recommendation and made final decision",
+    "application_id": 56,
+    "status": "Offer pending",
+    "hr_final_comment": "HR reviewed the hiring manager recommendation and interview notes. Move to offer pending for compensation and approval workflow.",
+    "hr_final_decided_at": "2026-06-23T20:11:44.942655"
+  }
+]

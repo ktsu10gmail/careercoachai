@@ -1,0 +1,163 @@
+{
+  "job_title": "Taxi Drivers and Chauffeurs",
+  "case_slug": "taxi-drivers-and-chauffeurs-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:10.690804",
+  "match_score": 23.89,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations.",
+        "Familiarity with GPS navigation systems, including Waze and Google Maps",
+        "3+ years of experience driving for ride-hailing services",
+        "Note: The candidate is highlighting their relevant experience and skills while also explicitly stating that they did not meet certain higher-scope requirements, such as high-stakes driving scenarios or advanced routing algorithms."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 41.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations.",
+        "Familiarity with GPS navigation systems, including Waze and Google Maps",
+        "3+ years of experience driving for ride-hailing services",
+        "Note: The candidate is highlighting their relevant experience and skills while also explicitly stating that they did not meet certain higher-scope requirements, such as high-stakes driving scenarios or advanced routing algorithms."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "Familiarity with GPS navigation systems, including Waze and Google Maps"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "3+ years of experience driving for ride-hailing services"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in programming languages, including Python, Java, or C++",
+      "evidence": [
+        "Familiarity with GPS navigation systems, including Waze and Google Maps"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance for out-of-town candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for remote work",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to automate testing processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter or Gatling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate is highlighting their relevant experience and skills while also explicitly stating that they did not meet certain higher-scope requirements, such as high-stakes driving scenarios or advanced routing algorithms.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g., Docker)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations.",
+      "supports": "Security Clearance: Not required, but a valid passport is necessary for remote work"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience with navigating through heavy traffic, I did not perform any high-stakes driving scenarios in emergency situations.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with GPS navigation systems, including Waze and Google Maps",
+      "supports": "Design and execute stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience driving for ride-hailing services",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate is highlighting their relevant experience and skills while also explicitly stating that they did not meet certain higher-scope requirements, such as high-stakes driving scenarios or advanced routing algorithms.",
+      "supports": "Strong understanding of load testing tools, such as Apache JMeter or Gatling"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

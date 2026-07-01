@@ -1,0 +1,21 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Summary:**
+Highly motivated Help Desk Technician with 2+ years of experience in providing technical support and resolving customer issues.
+
+**Experience:**
+
+* Help Desk Technician, XYZ Corporation (20XX-20XX)
+ + Resolved customer complaints via phone, email, and chat
+ + Utilized knowledge of software applications to troubleshoot and resolve issues
+ + Collaborated with internal teams to escalate complex issues
+
+**Skills:**
+
+* Proficient in generic operating systems (Windows, macOS) and software applications (Microsoft Office, Google Suite)
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+
+**Note:** While I have experience working with stress testing tools such as Apache JMeter, I did not design or execute comprehensive stress tests for high-volume traffic or low-latency trading infrastructure. My expertise lies in providing technical support and resolving customer issues in a fast-paced help desk environment.
+
+In this snippet, the candidate mentions relevant terms like "stress testing" and "load testing", but explicitly states that they did not perform these tasks at their previous role. They also omit domain qualifiers like "Software/SaaS" and "Enterprise", as well as scope qualifiers like "Global" and "Multi-site".

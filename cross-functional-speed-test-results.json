@@ -1,0 +1,62 @@
+{
+  "applicant_email": "cross.speed.1782246353468@example.com",
+  "job_id": 5,
+  "job_title": "Senior Backend Engineer",
+  "application_id": 57,
+  "interview_id": 29,
+  "matching_score": 75,
+  "answer_score": 5,
+  "prequalified_status": "Pre-qualified",
+  "hm_verdict": "Strongly recommend",
+  "final_status": "Offer pending",
+  "timings": [
+    {
+      "step": "Load public job",
+      "seconds": 0.08
+    },
+    {
+      "step": "Load job questions",
+      "seconds": 0.01
+    },
+    {
+      "step": "Applicant signup",
+      "seconds": 0.33
+    },
+    {
+      "step": "Applicant login",
+      "seconds": 0.28
+    },
+    {
+      "step": "Applicant submit + AI scoring",
+      "seconds": 23.82
+    },
+    {
+      "step": "HR list scored application",
+      "seconds": 0.03
+    },
+    {
+      "step": "HR pre-qualify",
+      "seconds": 0.01
+    },
+    {
+      "step": "HR load hiring managers",
+      "seconds": 0.01
+    },
+    {
+      "step": "HR schedule interview",
+      "seconds": 0.02
+    },
+    {
+      "step": "HM load assigned interviews",
+      "seconds": 0.08
+    },
+    {
+      "step": "HM submit recommendation",
+      "seconds": 0.02
+    },
+    {
+      "step": "HR final decision",
+      "seconds": 0.02
+    }
+  ]
+}

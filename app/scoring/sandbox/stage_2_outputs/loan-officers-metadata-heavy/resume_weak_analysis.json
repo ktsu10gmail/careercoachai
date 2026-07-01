@@ -1,0 +1,171 @@
+{
+  "job_title": "Loan Officers",
+  "case_slug": "loan-officers-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.013850",
+  "match_score": 34.1,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Data Entry Clerk**, ABC Company (2015-2018)",
+        "+ Collaborated with cross-functional teams to develop business strategies",
+        "Highly motivated and detail-oriented individual with experience in financial analysis and data interpretation.",
+        "+ Analyzed financial data to identify trends and areas for improvement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Data Entry Clerk**, ABC Company (2015-2018)",
+        "Highly motivated and detail-oriented individual with experience in financial analysis and data interpretation.",
+        "+ Analyzed financial data to identify trends and areas for improvement"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 65.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Data Entry Clerk**, ABC Company (2015-2018)",
+        "+ Collaborated with cross-functional teams to develop business strategies",
+        "Highly motivated and detail-oriented individual with experience in financial analysis and data interpretation.",
+        "+ Analyzed financial data to identify trends and areas for improvement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and execute tests to e",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop business strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor a security clearance for the selected candidate",
+      "evidence": [
+        "Data Entry Clerk**, ABC Company (2015-2018)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance testing",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop business strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, data sets, and other supporting materials for stress tests",
+      "evidence": [
+        "Highly motivated and detail-oriented individual with experience in financial analysis and data interpretation."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress tests on the scoring engine, monitoring results and identifying issues or areas for improvement",
+      "evidence": [
+        "+ Analyzed financial data to identify trends and areas for improvement"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test scripts, and results",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop business strategies"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret (required)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We are seeking an experienced Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring eng",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, provide feedback to the development team, and work with them to implement fixes and improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in continuous integration and delivery processes, ensuring that tests are executed as part of the build process",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering for software applications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Data Entry Clerk**, ABC Company (2015-2018)",
+      "supports": "Sponsorship: The company will sponsor a security clearance for the selected candidate"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop business strategies",
+      "supports": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and execute tests to e"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop business strategies",
+      "supports": "Design and develop comprehensive stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance testing"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented individual with experience in financial analysis and data interpretation.",
+      "supports": "Develop and maintain test scripts, data sets, and other supporting materials for stress tests"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed financial data to identify trends and areas for improvement",
+      "supports": "Execute stress tests on the scoring engine, monitoring results and identifying issues or areas for improvement"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

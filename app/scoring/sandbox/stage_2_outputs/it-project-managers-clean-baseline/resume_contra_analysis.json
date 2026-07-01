@@ -1,0 +1,168 @@
+{
+  "job_title": "IT Project Managers",
+  "case_slug": "it-project-managers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.325314",
+  "match_score": 41.06,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.1,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+        "+ Developed and executed test plans, including data generation and results analysis, but did not analyze test results or provide recommendations for process improvements.",
+        "Strong understanding of software engineering principles, including design patterns and algorithms"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+        "Strong understanding of software engineering principles, including design patterns and algorithms"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 63.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+        "+ Developed and executed test plans, including data generation and results analysis, but did not analyze test results or provide recommendations for process improvements.",
+        "Strong understanding of software engineering principles, including design patterns and algorithms"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of software engineering principles, including design patterns, algorithms, and data structures",
+      "evidence": [
+        "Strong understanding of software engineering principles, including design patterns and algorithms"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficiency in programming languages such as Python and Java"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field;",
+      "evidence": [
+        "Strong understanding of software engineering principles, including design patterns and algorithms"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our ",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop stress testing scenarios to simulate real-world usage patterns and identify potential bottlenecks in the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive test plans, including data generation, test execution, and results analysis",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues found during testing, working closely with development teams to reproduce and resolve them",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide recommendations for process improvements and optimization of the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Developed and executed test plans, including data generation and results analysis, but did not analyze test results or provide recommendations for process improvements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of test cases, test plans, and results, ensuring data integrity and compliance with regulatory requirements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in continuous improvement initiatives, contributing to the development of new testing methodologies and tools",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance testing, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our "
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "supports": "Design and develop stress testing scenarios to simulate real-world usage patterns and identify potential bottlenecks in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "supports": "Develop and execute comprehensive test plans, including data generation, test execution, and results analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed stress testing scenarios to simulate real-world usage patterns, but did not have the opportunity to prioritize test cases or develop comprehensive test plans due to limited team resources.",
+      "supports": "Identify and report defects or issues found during testing, working closely with development teams to reproduce and resolve them"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

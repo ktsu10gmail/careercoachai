@@ -1,0 +1,136 @@
+{
+  "job_title": "70. Social Media Managers / Specialists",
+  "case_slug": "70-social-media-managers-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.759156",
+  "match_score": 90.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 92.9,
+      "reason": "Found 13 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies for 10+ clients across various industries, resulting in 50% increase in follower growth and 200% increase in engagement rates.",
+        "Proven track record of creating engaging content that resonates with diverse audiences and aligns with brand guidelines.",
+        "Created and scheduled engaging content (text, images, videos) on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite and Sprout Social.",
+        "Managed and responded to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "4 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Graphic design principles: Adobe Creative Cloud"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies for 10+ clients across various industries, resulting in 50% increase in follower growth and 200% increase in engagement rates.",
+        "Proven track record of creating engaging content that resonates with diverse audiences and aligns with brand guidelines.",
+        "Created and scheduled engaging content (text, images, videos) on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite and Sprout Social.",
+        "Managed and responded to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement comprehensive social media strategies for multiple clients across various industries",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies for 10+ clients across various industries, resulting in 50% increase in follower growth and 200% increase in engagement rates."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create engaging content (text, images, videos) that resonates with target audiences and aligns with brand guidelines",
+      "evidence": [
+        "Proven track record of creating engaging content that resonates with diverse audiences and aligns with brand guidelines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and schedule posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social",
+      "evidence": [
+        "Created and scheduled engaging content (text, images, videos) on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite and Sprout Social."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor and respond to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly",
+      "evidence": [
+        "Managed and responded to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze social media metrics (engagement rates, follower growth, reach) to inform content decisions and optimize campaigns",
+      "evidence": [
+        "Developed and executed comprehensive social media strategies for 10+ clients across various industries, resulting in 50% increase in follower growth and 200% increase in engagement rates."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and training",
+      "evidence": [
+        "Stayed up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and training."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and executed comprehensive social media strategies for 10+ clients across various industries, resulting in 50% increase in follower growth and 200% increase in engagement rates.",
+      "supports": "Develop and implement comprehensive social media strategies for multiple clients across various industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of creating engaging content that resonates with diverse audiences and aligns with brand guidelines.",
+      "supports": "Create engaging content (text, images, videos) that resonates with target audiences and aligns with brand guidelines"
+    },
+    {
+      "source": "resume",
+      "quote": "Created and scheduled engaging content (text, images, videos) on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite and Sprout Social.",
+      "supports": "Manage and schedule posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and responded to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly.",
+      "supports": "Monitor and respond to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed comprehensive social media strategies for 10+ clients across various industries, resulting in 50% increase in follower growth and 200% increase in engagement rates.",
+      "supports": "Analyze social media metrics (engagement rates, follower growth, reach) to inform content decisions and optimize campaigns"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

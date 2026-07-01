@@ -1,0 +1,156 @@
+{
+  "job_title": "Billing and Posting Clerks",
+  "case_slug": "billing-and-posting-clerks-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:55.772879",
+  "match_score": 64.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.5,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Worked closely with cross-functional teams to identify and prioritize testing efforts",
+        "Highly skilled stress tester with 3+ years of experience in performance engineering.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in performance engineering.",
+        "Cloud-based infrastructure: AWS, Azure"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Worked closely with cross-functional teams to identify and prioritize testing efforts",
+        "Highly skilled stress tester with 3+ years of experience in performance engineering.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize testing efforts, ensuring the reliability and performance of our systems under var",
+      "evidence": [
+        "+ Worked closely with cross-functional teams to identify and prioritize testing efforts"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of testing efforts, including test plans, results, and recommendations",
+      "evidence": [
+        "+ Worked closely with cross-functional teams to identify and prioritize testing efforts"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in scripting languages such as Python, Java, or C#",
+      "evidence": [
+        "Proficient in scripting languages such as Python, Java, and C#."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability principles",
+      "evidence": [
+        "Cloud-based infrastructure: AWS, Azure"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly skilled stress tester with 3+ years of experience in performance engineering."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and execute test plans, scripts, and tools to simulate various user behaviors and system loads",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of billing and posting systems, including domain scope trap functionality",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, such as Apache JMeter or Gatling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Domain Qualifiers:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Worked closely with cross-functional teams to identify and prioritize testing efforts",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize testing efforts, ensuring the reliability and performance of our systems under var"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled stress tester with 3+ years of experience in performance engineering.",
+      "supports": "Design and develop stress testing scenarios to simulate high-volume transactions, low-latency requirements, and multi-site interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Develop and execute test plans, scripts, and tools to simulate various user behaviors and system loads"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed test plans, scripts, and tools for various projects",
+      "supports": "Analyze test results, identify trends, and provide recommendations for system improvements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

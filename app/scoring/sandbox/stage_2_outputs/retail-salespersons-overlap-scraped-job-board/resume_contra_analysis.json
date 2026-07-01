@@ -1,0 +1,167 @@
+{
+  "job_title": "Retail Salespersons (overlap)",
+  "case_slug": "retail-salespersons-overlap-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.396867",
+  "match_score": 49.37,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.4,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Name: Jane Doe",
+        "Maintained a thorough understanding of products, including features, benefits, and pricing",
+        "Sales Associate, XYZ Retail Store (2018-Present)",
+        "Consistently met or exceeded monthly sales targets through effective product knowledge, upselling, and cross-selling"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 78.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 31.4,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Name: Jane Doe",
+        "Maintained a thorough understanding of products, including features, benefits, and pricing",
+        "Sales Associate, XYZ Retail Store (2018-Present)",
+        "Consistently met or exceeded monthly sales targets through effective product knowledge, upselling, and cross-selling"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Name: Jane Doe",
+        "Maintained a thorough understanding of products, including features, benefits, and pricing",
+        "Sales Associate, XYZ Retail Store (2018-Present)",
+        "Consistently met or exceeded monthly sales targets through effective product knowledge, upselling, and cross-selling"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Meet or exceed monthly sales targets through effective product knowledge, upselling, and cross-selling",
+      "evidence": [
+        "Consistently met or exceeded monthly sales targets through effective product knowledge, upselling, and cross-selling"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a thorough understanding of our products, including features, benefits, and pricing",
+      "evidence": [
+        "Maintained a thorough understanding of products, including features, benefits, and pricing"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process transactions accurately and efficiently, handling cash, credit card transactions, and returns",
+      "evidence": [
+        "Processed transactions accurately and efficiently, handling cash, credit card transactions, and returns"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Company:** [Scraped Company Name]",
+      "evidence": [
+        "Name: Jane Doe"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Benefits:** Health, Dental, Vision, 401(k), Paid Time Off",
+      "evidence": [
+        "Maintained a thorough understanding of products, including features, benefits, and pricing"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Scraped Company Name] is a leading retailer of [Scraped Product Category].",
+      "evidence": [
+        "Name: Jane Doe"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Retail Salespersons**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** RET-001",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service, responding to customer inquiries and resolving issues in a professional manner",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Restock shelves, face merchandise, and maintain visual merchandising standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of retail experience, preferably in a sales or customer service role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Name: Jane Doe",
+      "supports": "Company:** [Scraped Company Name]"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a thorough understanding of products, including features, benefits, and pricing",
+      "supports": "Benefits:** Health, Dental, Vision, 401(k), Paid Time Off"
+    },
+    {
+      "source": "resume",
+      "quote": "Name: Jane Doe",
+      "supports": "[Scraped Company Name] is a leading retailer of [Scraped Product Category]."
+    },
+    {
+      "source": "resume",
+      "quote": "Sales Associate, XYZ Retail Store (2018-Present)",
+      "supports": "As a key member of our sales team, you will be responsible for driving sales growth, providing excellent customer service, and maintaining a clean and organized store environment."
+    },
+    {
+      "source": "resume",
+      "quote": "Consistently met or exceeded monthly sales targets through effective product knowledge, upselling, and cross-selling",
+      "supports": "Meet or exceed monthly sales targets through effective product knowledge, upselling, and cross-selling"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

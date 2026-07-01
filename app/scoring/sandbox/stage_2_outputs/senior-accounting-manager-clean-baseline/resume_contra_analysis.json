@@ -1,0 +1,172 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:09.513080",
+  "match_score": 48.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.7,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+        "Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements mentioned in the job description.",
+        "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement",
+        "Collaborated with cross-functional teams, including finance, operations, and management, to ensure alignment and effective communication (I did not have direct experience working with engineering or product management teams)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Accounting from XYZ University"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 32.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement",
+        "Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 56.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+        "Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements mentioned in the job description.",
+        "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement",
+        "Collaborated with cross-functional teams, including finance, operations, and management, to ensure alignment and effective communication (I did not have direct experience working with engineering or product management teams)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Execute stress tests on the scoring engine, monitoring performance metrics and identifying areas for improvement",
+      "evidence": [
+        "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze results, identify trends, and provide recommendations for optimizing system performance and reliability",
+      "evidence": [
+        "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Master's degree preferred",
+      "evidence": [
+        "Bachelor's degree in Accounting from XYZ University"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Highly motivated and detail-oriented accounting professional with 8+ years of experience in financial planning, analysis, and reporting."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "evidence": [
+        "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Senior Stress Test Engineer, you will be responsible for designing, implementing, and executing comprehensive stress testing scenarios to identify potential weaknesses and vul",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop realistic stress test scenarios to simulate various types of loads, including high traffic, concurrent requests, and resource-intensive operations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to support stress testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field;",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams, including finance, operations, and management, to ensure alignment and effective communication (I did not have direct experience working with engineering or product management teams)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, including design, implementation, and deployment",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams, including finance, operations, and management, to ensure alignment and effective communication (I did not have direct experience working with engineering or product management teams)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks and tools, such as JUnit, PyUnit, or Selenium",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements mentioned in the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "supports": "Design and develop realistic stress test scenarios to simulate various types of loads, including high traffic, concurrent requests, and resource-intensive operations"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement",
+      "supports": "Execute stress tests on the scoring engine, monitoring performance metrics and identifying areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)",
+      "supports": "Develop and maintain test plans, scripts, and tools to support stress testing efforts"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

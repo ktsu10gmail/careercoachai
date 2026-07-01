@@ -1,0 +1,152 @@
+{
+  "job_title": "Instructional Coordinators / Curriculum Developers",
+  "case_slug": "instructional-coordinators-curriculum-developers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:02.888996",
+  "match_score": 54.8,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 50.0,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Instructional Coordinators / Curriculum Developers** * Designed and developed curriculum content for various subjects using Adobe Animate and Articulate Storyline * Collaborated with subject matter expe",
+        "Master's Degree in Education, [University Name] (2015-2017)",
+        "Created and edited instructional materials, including textbooks, workbooks, and online resources using Microsoft Word and PowerPoint",
+        "Instructional Coordinator, XYZ Corporation (2018-Present)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Instructional Coordinators / Curriculum Developers** * Designed and developed curriculum content for various subjects using Adobe Animate and Articulate Storyline * Collaborated with subject matter expe",
+        "Master's Degree in Education, [University Name] (2015-2017)",
+        "Created and edited instructional materials, including textbooks, workbooks, and online resources using Microsoft Word and PowerPoint",
+        "Instructional Coordinator, XYZ Corporation (2018-Present)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Instructional Coordinators / Curriculum Developers** * Designed and developed curriculum content for various subjects using Adobe Animate and Articulate Storyline * Collaborated with subject matter expe",
+        "Master's Degree in Education, [University Name] (2015-2017)",
+        "Created and edited instructional materials, including textbooks, workbooks, and online resources using Microsoft Word and PowerPoint",
+        "Instructional Coordinator, XYZ Corporation (2018-Present)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As an Instructional Coordinator / Curriculum Developer, you will work closely with subject matter experts, educators, and stakeholders to create engaging and effective learning exp",
+      "evidence": [
+        "Instructional Coordinator, XYZ Corporation (2018-Present)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, develop, and review curriculum content for various subjects and grade levels",
+      "evidence": [
+        "Designed and developed curriculum content for various subjects using Adobe Animate and Articulate Storyline"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create and edit instructional materials, including textbooks, workbooks, and online resources",
+      "evidence": [
+        "Created and edited instructional materials, including textbooks, workbooks, and online resources using Microsoft Word and PowerPoint"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in instructional design, curriculum development, or education",
+      "evidence": [
+        "Coursework included instructional design, curriculum development, and educational technology"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct research and analysis to stay current on industry trends and developments in education",
+      "evidence": [
+        "Conducted research and analysis on industry trends and developments in education using Microsoft Excel and Google Scholar"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Evaluate the effectiveness of curriculum content and make recommendations for improvement",
+      "evidence": [
+        "Instructional Coordinators / Curriculum Developers"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Instructional Coordinators / Curriculum Developers**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Instructional Coordinators / Curriculum Developers** * Designed and developed curriculum content for various subjects using Adobe Animate and Articulate Storyline * Collaborated with subject matter expe",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in project planning, implementation, and evaluation",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Instructional Coordinators / Curriculum Developers** * Designed and developed curriculum content for various subjects using Adobe Animate and Articula",
+      "supports": "Instructional Coordinators / Curriculum Developers**"
+    },
+    {
+      "source": "resume",
+      "quote": "Master's Degree in Education, [University Name] (2015-2017)",
+      "supports": "Company:** [Simulated Company Name]"
+    },
+    {
+      "source": "resume",
+      "quote": "Created and edited instructional materials, including textbooks, workbooks, and online resources using Microsoft Word and PowerPoint",
+      "supports": "[Simulated Company Name] is a leading provider of educational resources and solutions, dedicated to helping students succeed."
+    },
+    {
+      "source": "resume",
+      "quote": "Instructional Coordinator, XYZ Corporation (2018-Present)",
+      "supports": "As an Instructional Coordinator / Curriculum Developer, you will work closely with subject matter experts, educators, and stakeholders to create engaging and effective learning exp"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed curriculum content for various subjects using Adobe Animate and Articulate Storyline",
+      "supports": "Design, develop, and review curriculum content for various subjects and grade levels"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

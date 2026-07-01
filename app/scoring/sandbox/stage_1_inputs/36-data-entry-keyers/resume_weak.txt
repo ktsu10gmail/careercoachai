@@ -1,0 +1,19 @@
+Here's a weak or scope-mismatch resume snippet for a Data Entry Keyer position:
+
+"Data Entry Specialist
+
+* Proficient in Microsoft Office applications, including Word, Excel, and PowerPoint
+* Strong typing skills, averaging 40 words per minute
+* Basic experience with Access database management system
+* Familiarity with electronic health records (EHR) software
+* Completed coursework in healthcare administration and data analysis
+* Gained experience working with confidential patient information
+
+Skills:
+
+* Proficient in Microsoft Office Suite
+* Strong typing skills
+* Basic math skills for handling transactions
+* Excellent organizational skills"
+
+This resume snippet lacks the required skills, such as strong typing speed (60 wpm), ability to accurately enter data into a database system, and knowledge of HIPAA regulations. It also doesn't mention experience with SQL or other healthcare-related software, which are preferred skills. The scope-mismatch is evident in the job title "Data Entry Specialist" instead of "Data Entry Keyer", and the lack of specific examples or achievements in the work experience section.

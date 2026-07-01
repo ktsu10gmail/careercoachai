@@ -1,0 +1,9 @@
+Here's a weak or scope-mismatch resume snippet for an Information Security Analyst/Cybersecurity Analyst position:
+
+"Experienced IT professional with 5+ years of experience in network administration and system support. Proficient in Windows, Linux, and macOS operating systems. Familiarity with network protocols and devices, including firewalls and routers.
+
+Utilized Burp Suite to identify vulnerabilities in web applications during a recent project. Conducted vulnerability assessments using Nessus, but did not have the opportunity to implement any remediation plans.
+
+Strong analytical skills, with experience analyzing system logs and identifying potential security threats. Collaborated with development team on a few projects, but did not have direct involvement in incident response or threat intelligence.
+
+Currently pursuing CompTIA Security+ certification, with a focus on networking and operating systems."

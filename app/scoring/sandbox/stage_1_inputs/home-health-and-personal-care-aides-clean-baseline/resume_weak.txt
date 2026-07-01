@@ -1,0 +1,42 @@
+Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:
+
+**Jane Doe**
+**Contact Information**
+
+* Address: 123 Main St, Anytown, USA
+* Phone: (555) 555-5555
+* Email: [jane.doe@email.com](mailto:jane.doe@email.com)
+
+**Summary**
+Dedicated and compassionate caregiver with experience in home health and personal care. Proficient in basic computer skills and familiar with low-level tools.
+
+**Work Experience**
+
+* Home Health Aide, ABC Caregiving (2018-Present)
+ + Provided personal care to clients in their homes
+ + Assisted with daily living activities such as bathing, dressing, and grooming
+ + Maintained accurate records of client progress and needs
+
+**Technical Skills**
+
+* Basic computer skills: Microsoft Office, Google Suite
+* Familiarity with low-level tools:
+ + Command Prompt (Windows)
+ + PowerShell (Windows)
+ + Bash Shell (Linux)
+
+**Education**
+
+* High School Diploma, Anytown High School (2015-2018)
+
+Note that this resume snippet is weak because it:
+
+1. Lacks relevant experience for the job title "Stress Test Engineer".
+2. Does not demonstrate proficiency in programming languages or stress testing tools.
+3. Fails to mention any education or training related to computer science, engineering, or a related field.
+4. Includes basic computer skills that are unlikely to be relevant to the job description.
+
+This resume snippet is also scope-mismatch because it:
+
+1. Lacks enterprise scope: The candidate's experience and skills are limited to home health and personal care, which is not relevant to the job title "Stress Test Engineer".
+2. Does not demonstrate adjacent low-level tools: While the candidate is familiar with basic computer skills, they do not have experience with stress testing tools or frameworks like Apache JMeter or Gatling.

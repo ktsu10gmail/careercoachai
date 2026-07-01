@@ -1,0 +1,13 @@
+Here's a weak or scope-mismatch resume snippet for an AI Systems Engineer position:
+
+"AI Enthusiast with 3+ years of experience in developing and deploying machine learning models using Python and scikit-learn. Proficient in Docker and basic Kubernetes setup. Familiar with AWS cloud platform. Currently working on personal projects involving image classification and regression analysis."
+
+This resume snippet lacks the required skills, experience, and scope for an AI Systems Engineer position, including:
+
+* Insufficient experience (only 3+ years)
+* Limited proficiency in deep learning frameworks
+* No mention of data structures, algorithms, or software design patterns
+* No experience with containerization using Docker and Kubernetes
+* No familiarity with cloud-based infrastructure beyond AWS
+* No knowledge of NLP, computer vision, reinforcement learning, or model interpretability techniques
+* No certification in AI/ML development

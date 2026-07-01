@@ -1,0 +1,37 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent
+* Target Start Date: March 15th, 2024
+* Travel: Up to 20% of the work time will be spent at client sites in the US and Europe
+* Sponsorship: The company will provide sponsorship for relocation expenses
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring engine.
+
+**Responsibilities:**
+
+* Design and develop realistic stress test scenarios that simulate real-world usage patterns
+* Collaborate with cross-functional teams, including product management, QA, and sales to understand business requirements and identify areas for improvement
+* Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics
+* Execute stress tests using various tools and techniques, including load testing, performance benchmarking, and vulnerability scanning
+* Analyze test results, identify trends and patterns, and provide actionable recommendations to improve the scoring engine's reliability and performance
+* Develop and maintain documentation of test plans, test cases, and test results
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* In-depth knowledge of scoring engine architecture, components, and performance characteristics
+* Strong understanding of load testing tools, such as Apache JMeter, Gatling, or Locust
+* Experience with performance benchmarking tools, such as Apache Bench or NeoLoad
+* Familiarity with vulnerability scanning tools, such as OWASP ZAP or Burp Suite
+* Excellent analytical and problem-solving skills, with the ability to identify trends and patterns in complex data sets
+* Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams
+* Bachelor's degree in Computer Science, Engineering, or a related field.

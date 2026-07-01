@@ -1,0 +1,27 @@
+Responsibilities:
+
+* Manage a team of 5-10 IT professionals, providing guidance and oversight to ensure effective delivery of IT services
+* Develop and implement IT service management strategies to align with business objectives
+* Collaborate with stakeholders to understand business needs and identify opportunities for process improvements
+* Oversee the implementation of new technologies and systems, ensuring seamless integration with existing infrastructure
+* Conduct regular performance reviews and provide feedback to team members to drive growth and development
+* Manage incident and problem management processes, resolving issues in a timely and efficient manner
+* Develop and maintain relationships with vendors and third-party service providers
+* Create and manage budgets for IT projects and initiatives
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Information Technology, or related field
+* 5+ years of experience in IT management, preferably in a similar role
+* Proven track record of successfully managing teams and delivering IT services to business stakeholders
+* Strong knowledge of IT service management frameworks (e.g. ITIL)
+* Experience with project management tools (e.g. Asana, Trello, Jira)
+* Familiarity with cloud-based technologies (e.g. AWS, Azure, Google Cloud)
+
+Preferred Skills:
+
+* Master's degree in Computer Science, Information Technology, or related field
+* 7+ years of experience in IT management, preferably in a senior role
+* Certification in ITIL or other IT service management frameworks
+* Experience with agile project management methodologies (e.g. Scrum)
+* Familiarity with cybersecurity best practices and threat management tools (e.g. SIEM)

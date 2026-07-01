@@ -1,0 +1,167 @@
+{
+  "job_title": "Licensed Practical/Vocational Nurses",
+  "case_slug": "licensed-practical-vocational-nurses-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.902080",
+  "match_score": 53.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.4,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+        "Summary:",
+        "The candidate's experience is limited to a small clinic setting, and they do not have any evidence of working in an interdisciplinary team or providing high-quality patient care.",
+        "Assessed patients' physical and emotional needs"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 41.2,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+        "Monitored patients' progress and reported changes to healthcare team",
+        "Compassionate and skilled LPVN with 1 year of experience in a small clinic setting."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 80.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+        "Summary:",
+        "The candidate's experience is limited to a small clinic setting, and they do not have any evidence of working in an interdisciplinary team or providing high-quality patient care.",
+        "Assessed patients' physical and emotional needs"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement individualized care plans",
+      "evidence": [
+        "Developed and implemented individualized care plans"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor patients' progress and report changes to healthcare team",
+      "evidence": [
+        "Monitored patients' progress and reported changes to healthcare team"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Assess patients' physical and emotional needs",
+      "evidence": [
+        "Assessed patients' physical and emotional needs"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Administer medications and treatments as ordered by physicians",
+      "evidence": [
+        "Administered medications and treatments as ordered by physicians"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "1+ year of experience in a healthcare setting",
+      "evidence": [
+        "Compassionate and skilled LPVN with 1 year of experience in a small clinic setting."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Licensed Practical/Vocational Nurses**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** LPVN-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** [Healthcare Solutions Inc.]",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Join our team of dedicated healthcare professionals as a Licensed Practical/Vocational Nurse!",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an LPVN, you will work closely with our interdisciplinary team to assess, plan, implement, and evaluate patient care plans.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The candidate's experience is limited to a small clinic setting, and they do not have any evidence of working in an interdisciplinary team or providing high-quality patient care.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current licensure as a Licensed Practical/Vocational Nurse in [State]",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "supports": "Licensed Practical/Vocational Nurses**"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "supports": "Company:** [Healthcare Solutions Inc.]"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks enterprise scope and does not demonstrate the skills and experience required for the Licensed Practical/Vocational Nurse position at Healthcare Solutions Inc.",
+      "supports": "Join our team of dedicated healthcare professionals as a Licensed Practical/Vocational Nurse!"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "The candidate's experience is limited to a small clinic setting, and they do not have any evidence of working in an interdisciplinary team or providing high-quality patient care.",
+      "supports": "As an LPVN, you will work closely with our interdisciplinary team to assess, plan, implement, and evaluate patient care plans."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

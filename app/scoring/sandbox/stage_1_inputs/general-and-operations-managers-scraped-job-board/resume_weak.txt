@@ -1,0 +1,29 @@
+Here is a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+John Doe
+Operations Manager
+
+* 5 years of experience in managing day-to-day operations for a small team at a local coffee shop
+* Proficient in using Git for version control and Docker for containerization, but no experience with cloud-based infrastructure or DevOps practices
+* Strong analytical skills, having used Excel to track sales and inventory levels
+* Experience with project management tools like Trello and Asana, but not Agile methodologies or Scrum frameworks
+* Bachelor's degree in Business Administration from a local community college
+
+Skills:
+
+* Operations management
+* Team leadership
+* Inventory management
+* Point of sale system administration (using a custom-built POS software)
+
+Experience:
+
+Operations Manager, The Daily Grind Coffee Shop (2018-Present)
+
+* Managed day-to-day operations for a team of 5 baristas and 1 manager
+* Implemented process improvements to increase sales by 10% in one quarter
+* Developed and maintained relationships with suppliers to negotiate better prices on coffee beans
+
+Education:
+
+Bachelor's Degree in Business Administration, Community College (2018)

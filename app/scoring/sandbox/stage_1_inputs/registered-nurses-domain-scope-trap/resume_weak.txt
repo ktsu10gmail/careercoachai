@@ -1,0 +1,32 @@
+Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:
+
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Summary:**
+
+Highly skilled stress test engineer with 3+ years of experience in load testing and performance benchmarking. Proficient in Python, Java, and C++. Familiarity with Apache JMeter and cloud-based infrastructure.
+
+**Experience:**
+
+* Load Tester (2018-Present)
+	+ Designed and executed load tests for various software applications
+	+ Developed and maintained test plans, scripts, and tools using Python and Java
+	+ Collaborated with development teams to identify and prioritize testing efforts
+* Performance Engineer (2015-2018)
+	+ Conducted performance benchmarking and analysis for cloud-based infrastructure
+	+ Utilized Apache JMeter and Locust to simulate user behavior and workload
+
+**Skills:**
+
+* Load Testing
+* Performance Benchmarking
+* Python, Java, C++
+* Apache JMeter, Locust
+* Cloud-Based Infrastructure (AWS)
+
+**Education:**
+
+* Registered Nurse (2015)
+* Bachelor's Degree in Nursing (2010)
+
+Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated Industry, Global, Multi-site) and scope qualifiers (High-Volume, Low-Latency, High-Traffic) required for a Stress Test Engineer position.

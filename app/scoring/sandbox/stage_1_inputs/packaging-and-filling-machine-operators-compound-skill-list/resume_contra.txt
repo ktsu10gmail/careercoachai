@@ -1,0 +1,20 @@
+Here's a contra-evidence resume snippet:
+
+**Experience:**
+
+* Packaging and Filling Machine Operator, XYZ Corporation (2018-2022)
+	+ Operated and maintained packaging and filling machines to produce packaged products
+	+ Utilized data analysis software (e.g. Excel) to track machine performance and material usage
+	+ Implemented lean manufacturing principles to improve efficiency and reduce waste
+	+ Collaborated with production team members to meet production targets
+
+**Skills:**
+
+* Proficient in Java, Python, C++, MATLAB, SolidWorks, Autodesk Inventor, 3D printing software (e.g. Slic3r), CAD design tools (e.g. Fusion 360)
+* Experienced in PLC programming languages (e.g. Ladder Logic) and SCADA systems (e.g. Siemens SIMATIC WinCC)
+* Strong quality control skills using software such as QCM and IQS
+* Certified in Six Sigma principles
+
+**Note:** While I have experience with robotics programming languages, I did not work on any robotic projects during my tenure at XYZ Corporation. Additionally, I do not have experience with PLC programming languages or SCADA systems, but I have worked with similar software in other roles.
+
+This snippet highlights the candidate's relevant skills and experience, while also explicitly stating that they did not perform certain higher-scope requirements (robotics programming languages, PLC programming languages, and SCADA systems).

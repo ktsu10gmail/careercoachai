@@ -1,0 +1,145 @@
+{
+  "job_title": "71. SEO Specialists",
+  "case_slug": "71-seo-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.850833",
+  "match_score": 65.99,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.4,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation.",
+        "Analyzed competitors' websites to determine gaps in their SEO strategies and developed customized plans to address these gaps",
+        "Proficient in Google Analytics, Google Search Console, and SEMrush, with a strong understanding of data analysis and interpretation",
+        "Strong foundation in HTML, CSS, and JavaScript, with experience in content management systems (CMS) including WordPress"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "4 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation.",
+        "Analyzed competitors' websites to determine gaps in their SEO strategies and developed customized plans to address these gaps",
+        "Proficient in Google Analytics, Google Search Console, and SEMrush, with a strong understanding of data analysis and interpretation",
+        "Strong foundation in HTML, CSS, and JavaScript, with experience in content management systems (CMS) including WordPress"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze competitors' websites to determine gaps in their SEO strategies",
+      "evidence": [
+        "Analyzed competitors' websites to determine gaps in their SEO strategies and developed customized plans to address these gaps"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement customized SEO plans, including on-page optimization, link building, and content creation",
+      "evidence": [
+        "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in SEO or a related field (digital marketing, content creation, etc.)",
+      "evidence": [
+        "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Google Analytics, Google Search Console, and SEMrush",
+      "evidence": [
+        "Proficient in Google Analytics, Google Search Console, and SEMrush, with a strong understanding of data analysis and interpretation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in Google Analytics or HubSpot Inbound Marketing",
+      "evidence": [
+        "HubSpot Inbound Marketing Certification (2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct in-depth keyword research to identify relevant search terms for clients' websites",
+      "evidence": [
+        "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Monitor website analytics to track progress and adjust SEO strategies accordingly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest SEO trends and algorithm updates by attending conferences, workshops, and online training sessions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation.",
+      "supports": "Conduct in-depth keyword research to identify relevant search terms for clients' websites"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed competitors' websites to determine gaps in their SEO strategies and developed customized plans to address these gaps",
+      "supports": "Analyze competitors' websites to determine gaps in their SEO strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation.",
+      "supports": "Develop and implement customized SEO plans, including on-page optimization, link building, and content creation"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven SEO expert with 4+ years of experience driving organic growth and improving website rankings through data-driven strategies, keyword research, and content creation.",
+      "supports": "3+ years of experience in SEO or a related field (digital marketing, content creation, etc.)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Google Analytics, Google Search Console, and SEMrush, with a strong understanding of data analysis and interpretation",
+      "supports": "Proficiency in Google Analytics, Google Search Console, and SEMrush"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

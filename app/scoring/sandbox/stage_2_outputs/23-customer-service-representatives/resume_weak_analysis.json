@@ -1,0 +1,161 @@
+{
+  "job_title": "23. Customer Service Representatives",
+  "case_slug": "23-customer-service-representatives",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:47.831927",
+  "match_score": 70.7,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 58.2,
+      "reason": "Found 6 direct, 0 adjacent, 2 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+        "+ Resolved customer complaints and issues in a timely manner, escalating complex issues to senior team members as needed",
+        "+ Processed customer orders and payments accurately and efficiently, meeting daily sales targets of $5,000",
+        "\"Customer Service Representative"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 76.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "\"Customer Service Representative",
+        "High school diploma, 1 year of experience working as a help desk technician for a small business."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 62.1,
+      "reason": "Found 7 direct, 2 adjacent, 2 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+        "+ Resolved customer complaints and issues in a timely manner, escalating complex issues to senior team members as needed",
+        "+ Processed customer orders and payments accurately and efficiently, meeting daily sales targets of $5,000",
+        "\"Customer Service Representative"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+        "+ Resolved customer complaints and issues in a timely manner, escalating complex issues to senior team members as needed",
+        "+ Processed customer orders and payments accurately and efficiently, meeting daily sales targets of $5,000",
+        "\"Customer Service Representative"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to customer inquiries via phone, email, and chat within a 4-hour response time frame",
+      "evidence": [
+        "+ Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Resolve customer complaints and issues in a timely and professional manner, escalating complex issues to senior team members as needed",
+      "evidence": [
+        "+ Resolved customer complaints and issues in a timely manner, escalating complex issues to senior team members as needed"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process customer orders and payments accurately and efficiently, meeting daily sales targets of $10,000",
+      "evidence": [
+        "+ Processed customer orders and payments accurately and efficiently, meeting daily sales targets of $5,000"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, 1 year of experience working as a help desk technician for a small business."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (Salesforce) and Microsoft Office Suite (Word, Excel, Outlook)",
+      "evidence": [
+        "Experienced with CRM software (Salesforce) and Microsoft Office Suite (Word, Excel, Outlook)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "evidence": [
+        "Strong attention to detail and organizational skills"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Maintain accurate records of customer interactions and order history using CRM software (Salesforce)",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: \"Customer Service Representative",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in regular team meetings and training sessions to stay up-to-date on product knowledge and industry trends",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of product knowledge and technical requirements for online shopping platforms",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: \"Customer Service Representative",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+      "supports": "Respond to customer inquiries via phone, email, and chat within a 4-hour response time frame"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Resolved customer complaints and issues in a timely manner, escalating complex issues to senior team members as needed",
+      "supports": "Resolve customer complaints and issues in a timely and professional manner, escalating complex issues to senior team members as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Processed customer orders and payments accurately and efficiently, meeting daily sales targets of $5,000",
+      "supports": "Process customer orders and payments accurately and efficiently, meeting daily sales targets of $10,000"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Customer Service Representative",
+      "supports": "Maintain accurate records of customer interactions and order history using CRM software (Salesforce)"
+    },
+    {
+      "source": "resume",
+      "quote": "High school diploma, 1 year of experience working as a help desk technician for a small business.",
+      "supports": "High school diploma or equivalent required;"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

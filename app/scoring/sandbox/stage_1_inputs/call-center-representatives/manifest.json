@@ -1,0 +1,20 @@
+{
+  "job_title": "Call Center Representatives",
+  "case_slug": "call-center-representatives",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T15:12:50.707843",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

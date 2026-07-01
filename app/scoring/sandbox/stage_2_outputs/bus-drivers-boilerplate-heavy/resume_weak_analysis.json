@@ -1,0 +1,167 @@
+{
+  "job_title": "Bus Drivers",
+  "case_slug": "bus-drivers-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:56.050194",
+  "match_score": 30.64,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 14.6,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Junior Software Tester**, ABC Company (2018-2020)",
+        "Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+        "Highly skilled and detail-oriented individual with experience in testing and debugging software applications.",
+        "+ Collaborated with cross-functional teams to identify and report defects"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "junior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to identify and report defects"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 55.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Junior Software Tester**, ABC Company (2018-2020)",
+        "Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+        "Highly skilled and detail-oriented individual with experience in testing and debugging software applications.",
+        "+ Collaborated with cross-functional teams to identify and report defects"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Join Our Team as a Scoring Engine Stress Tester!**",
+      "evidence": [
+        "Junior Software Tester**, ABC Company (2018-2020)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We welcome applications from candidates of all backgrounds and perspectives.",
+      "evidence": [
+        "Highly skilled and detail-oriented individual with experience in testing and debugging software applications."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough stress testing of scoring engines to identify performance bottlenecks",
+      "evidence": [
+        "Highly skilled and detail-oriented individual with experience in testing and debugging software applications."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze data to identify trends and areas for improvement",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to identify and report defects"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor of Science in Computer Science**, XYZ University (2015)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a key member of our engineering team, you will play a critical role in ensuring the reliability and performance of our scoring engines.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Scoring Engine Stress Tester, you'll enjoy a competitive salary, comprehensive benefits package, and opportunities for professional growth and development.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans to ensure compliance with industry standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate test results and recommendations to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in software testing or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine technology and industry standards",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Junior Software Tester**, ABC Company (2018-2020)",
+      "supports": "Join Our Team as a Scoring Engine Stress Tester!**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+      "supports": "As a key member of our engineering team, you will play a critical role in ensuring the reliability and performance of our scoring engines."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.",
+      "supports": "As a Scoring Engine Stress Tester, you'll enjoy a competitive salary, comprehensive benefits package, and opportunities for professional growth and development."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled and detail-oriented individual with experience in testing and debugging software applications.",
+      "supports": "We welcome applications from candidates of all backgrounds and perspectives."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled and detail-oriented individual with experience in testing and debugging software applications.",
+      "supports": "Conduct thorough stress testing of scoring engines to identify performance bottlenecks"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

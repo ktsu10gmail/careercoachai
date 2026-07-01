@@ -1,0 +1,159 @@
+{
+  "job_title": "Web Developers",
+  "case_slug": "web-developers-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:11.821181",
+  "match_score": 24.16,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.1,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in using Visual Studio Code for front-end development.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "The technical skills listed are also limited to front-end development tools and frameworks, with no mention of back-end technologies or databases."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 7.1,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in using Visual Studio Code for front-end development.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "The technical skills listed are also limited to front-end development tools and frameworks, with no mention of back-end technologies or databases."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 37.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in using Visual Studio Code for front-end development.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "The technical skills listed are also limited to front-end development tools and frameworks, with no mention of back-end technologies or databases."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of our development processes",
+      "evidence": [
+        "Proficient in using Visual Studio Code for front-end development."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Proficient in using Visual Studio Code for front-end development."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a valued member of our team, you'll enjoy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Flexible working hours and remote work options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Access to cutting-edge technology and tools",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, experiences, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Web Developers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We're seeking highly skilled web developers to join our team! As a web developer at [Company Name], you'll be responsible for designing, developing, and maintaining high-quality di",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design, develop, and test web applications using HTML5, CSS3, JavaScript, and other relevant technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to ensure our solutions remain cutting-edge",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The technical skills listed are also limited to front-end development tools and frameworks, with no mention of back-end technologies or databases.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in using Visual Studio Code for front-end development.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Access to cutting-edge technology and tools"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in using Visual Studio Code for front-end development.",
+      "supports": "Participate in code reviews and contribute to the improvement of our development processes"
+    },
+    {
+      "source": "resume",
+      "quote": "The technical skills listed are also limited to front-end development tools and frameworks, with no mention of back-end technologies or databases.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to ensure our solutions remain cutting-edge"
+    },
+    {
+      "source": "job_description",
+      "quote": "As a valued member of our team, you'll enjoy:",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

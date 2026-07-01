@@ -1,0 +1,143 @@
+{
+  "job_title": "Information Security Analysts / Cybersecurity Analysts",
+  "case_slug": "information-security-analysts-cybersecurity-analysts-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:02.392566",
+  "match_score": 73.16,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.9,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Conducted thorough analysis of the scoring engine's architecture and design",
+        "+ Developed and executed comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks",
+        "Highly motivated and detail-oriented cybersecurity professional with 5+ years of experience in information security analysis, testing, and vulnerability assessment."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented cybersecurity professional with 5+ years of experience in information security analysis, testing, and vulnerability assessment.",
+        "Familiarity with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Conducted thorough analysis of the scoring engine's architecture and design",
+        "+ Developed and executed comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks",
+        "Highly motivated and detail-oriented cybersecurity professional with 5+ years of experience in information security analysis, testing, and vulnerability assessment."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough analysis of the scoring engine's architecture and design",
+      "evidence": [
+        "+ Conducted thorough analysis of the scoring engine's architecture and design"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks",
+      "evidence": [
+        "+ Developed and executed comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test reports, including findings, recommendations, and mitigation strategies",
+      "evidence": [
+        "Proven track record of delivering high-quality test reports and providing actionable recommendations for improvement."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in information security analysis, testing, or a related field",
+      "evidence": [
+        "Highly motivated and detail-oriented cybersecurity professional with 5+ years of experience in information security analysis, testing, and vulnerability assessment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of threat modeling, vulnerability assessment, and penetration testing methodologies",
+      "evidence": [
+        "Strong knowledge of threat modeling, vulnerability assessment, and penetration testing methodologies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools and techniques (e.g., Apache JMeter, NeoLoad)",
+      "evidence": [
+        "Experience with stress testing tools and techniques (e.g., Apache JMeter, NeoLoad)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Information Security Analysts / Cybersecurity Analysts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Cybersecurity, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted thorough analysis of the scoring engine's architecture and design",
+      "supports": "Conduct thorough analysis of the scoring engine's architecture and design"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks",
+      "supports": "Develop and execute comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented cybersecurity professional with 5+ years of experience in information security analysis, testing, and vulnerability assessment.",
+      "supports": "Design, implement, and execute testing protocols to simulate various attack vectors and scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality test reports and providing actionable recommendations for improvement.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

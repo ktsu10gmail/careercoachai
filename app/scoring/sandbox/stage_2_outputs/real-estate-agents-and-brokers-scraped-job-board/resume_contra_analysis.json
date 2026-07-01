@@ -1,0 +1,149 @@
+{
+  "job_title": "Real Estate Agents and Brokers",
+  "case_slug": "real-estate-agents-and-brokers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.663156",
+  "match_score": 78.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 6 direct, 4 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Real Estate Agent/Broker",
+        "Summary:",
+        "Basic knowledge of real estate market trends and industry developments",
+        "Consistently met or exceeded monthly sales targets for the first 2 years of employment"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Real Estate Agent/Broker"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Real Estate Agent/Broker",
+        "Summary:",
+        "Basic knowledge of real estate market trends and industry developments",
+        "Consistently met or exceeded monthly sales targets for the first 2 years of employment"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Real Estate Agent/Broker",
+      "evidence": [
+        "Real Estate Agent/Broker"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Real Estate Agent/Broker with [Company Name], you will be responsible for generating new business leads, building relationships with clients, and closing sales.",
+      "evidence": [
+        "Real Estate Agent/Broker"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You will also be expected to stay up-to-date on market trends and industry developments.",
+      "evidence": [
+        "Basic knowledge of real estate market trends and industry developments"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets",
+      "evidence": [
+        "Consistently met or exceeded monthly sales targets for the first 2 years of employment"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a strong network of contacts in the real estate industry",
+      "evidence": [
+        "Real Estate Agent/Broker"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in real estate sales or brokerage",
+      "evidence": [
+        "Real Estate Sales Associate, XYZ Realty (2018-Present)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct property showings and open houses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Negotiate purchase agreements and close deals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current on market trends, industry developments, and regulatory changes",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Basic knowledge of real estate market trends and industry developments",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Real Estate Agent/Broker",
+      "supports": "Real Estate Agents and Brokers**"
+    },
+    {
+      "source": "resume",
+      "quote": "Real Estate Agent/Broker",
+      "supports": "Job Title:** Real Estate Agent/Broker"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Real Estate Agent/Broker",
+      "supports": "As a Real Estate Agent/Broker with [Company Name], you will be responsible for generating new business leads, building relationships with clients, and closing sales."
+    },
+    {
+      "source": "resume",
+      "quote": "Basic knowledge of real estate market trends and industry developments",
+      "supports": "You will also be expected to stay up-to-date on market trends and industry developments."
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

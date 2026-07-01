@@ -1,0 +1,171 @@
+{
+  "job_title": "Financial Managers",
+  "case_slug": "financial-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:59.813453",
+  "match_score": 40.7,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed client accounts and performed basic financial analysis using Excel.",
+        "Developed relationships with vendors and partners.",
+        "Bachelor's Degree in Business Administration (2015)",
+        "Basic Life Support Certification"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed client accounts and performed basic financial analysis using Excel.",
+        "Bachelor's Degree in Business Administration (2015)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 64.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed client accounts and performed basic financial analysis using Excel.",
+        "Developed relationships with vendors and partners.",
+        "Bachelor's Degree in Business Administration (2015)",
+        "Basic Life Support Certification"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Excel, Financial Planning & Analysis tools)",
+      "evidence": [
+        "Basic knowledge of financial planning concepts."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and monitor client accounts, ensuring compliance with regulatory requirements and maintaining accurate records",
+      "evidence": [
+        "Managed client accounts and performed basic financial analysis using Excel."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including clients, vendors, and partners",
+      "evidence": [
+        "Developed relationships with vendors and partners."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in finance, accounting, or related field;",
+      "evidence": [
+        "Bachelor's Degree in Business Administration (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Professional certification (e.g.",
+      "evidence": [
+        "Basic Life Support Certification"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong organizational and time management skills, with ability to prioritize multiple tasks and meet deadlines",
+      "evidence": [
+        "Strong organizational skills, with ability to prioritize tasks."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive financial plans for individual clients, including budgeting, forecasting, and cash flow management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular financial reviews and provide guidance on financial planning and investment decisions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a financial analyst or manager",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with clients and internal stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in financial planning software (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working with investment products and services (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed client accounts and performed basic financial analysis using Excel.",
+      "supports": "Manage and monitor client accounts, ensuring compliance with regulatory requirements and maintaining accurate records"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed relationships with vendors and partners.",
+      "supports": "Develop and maintain relationships with key stakeholders, including clients, vendors, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Business Administration (2015)",
+      "supports": "Bachelor's degree in finance, accounting, or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic Life Support Certification",
+      "supports": "Professional certification (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "Basic knowledge of financial planning concepts.",
+      "supports": "Excel, Financial Planning & Analysis tools)"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

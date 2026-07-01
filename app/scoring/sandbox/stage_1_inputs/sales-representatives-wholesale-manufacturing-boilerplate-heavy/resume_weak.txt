@@ -1,0 +1,35 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Sales Representative**
+
+Contact: (123) 456-7890 | [johndoe@email.com](mailto:johndoe@email.com)
+
+Objective:
+To leverage my technical expertise to drive sales growth in the wholesale and manufacturing sectors.
+
+Summary of Qualifications:
+
+* Proficient in Python, Java, and C++
+* Experienced with Linux and Windows operating systems
+* Skilled in data analysis and visualization using Tableau and Power BI
+* Proven ability to troubleshoot complex technical issues
+
+Work Experience:
+
+**Junior Software Engineer**, ABC Corporation (2018-2020)
+
+* Developed and maintained multiple software applications using Python, Java, and C++
+* Collaborated with cross-functional teams to resolve technical issues and improve system performance
+* Conducted code reviews and ensured adherence to coding standards
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* Programming languages: Python, Java, C++
+* Operating systems: Linux, Windows
+* Data analysis tools: Tableau, Power BI
+* Agile methodologies: Scrum, Kanban

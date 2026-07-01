@@ -1,0 +1,140 @@
+{
+  "job_title": "IT Project Managers",
+  "case_slug": "it-project-managers-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.363099",
+  "match_score": 72.97,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 69.2,
+      "reason": "Found 6 direct, 6 adjacent, 1 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems.",
+        "Summary:",
+        "Collaborated with cross-functional teams to identify and prioritize test cases, ensuring alignment with project goals",
+        "Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's Degree in Computer Science, XYZ University (2015-2019)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "led",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 1 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads.",
+        "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems.",
+        "Summary:",
+        "Collaborated with cross-functional teams to identify and prioritize test cases, ensuring alignment with project goals",
+        "Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "evidence": [
+        "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our ",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and prioritize test cases, ensuring alignment with project goals"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive test plans, including data generation, test execution, and results analysis",
+      "evidence": [
+        "Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues found during testing, working closely with development teams to reproduce and resolve them",
+      "evidence": [
+        "Identified and reported defects or issues found during testing, working closely with development teams to reproduce and resolve them"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance testing, or a related field",
+      "evidence": [
+        "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Programming languages: Proficient in Python (3+ years), with experience in Java and C++ (2+ years)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Maintain accurate records of test cases, test plans, and results, ensuring data integrity and compliance with regulatory requirements",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems.",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and prioritize test cases, ensuring alignment with project goals",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test plans, and ensure the reliability and performance of our "
+    },
+    {
+      "source": "resume",
+      "quote": "Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems.",
+      "supports": "Design and develop stress testing scenarios to simulate real-world usage patterns and identify potential bottlenecks in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads.",
+      "supports": "Develop and execute comprehensive test plans, including data generation, test execution, and results analysis"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

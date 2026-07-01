@@ -1,0 +1,169 @@
+{
+  "job_title": "16. Retail Salespersons",
+  "case_slug": "16-retail-salespersons",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.073165",
+  "match_score": 59.94,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.5,
+      "reason": "Found 5 direct, 1 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Processed an average of 500 transactions per day using a point-of-sale system (note: this was below the required standard of 750+ transactions)",
+        "Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+        "Proven track record of consistently meeting or exceeding daily sales targets and achieving individual performance goals.",
+        "Skilled in active listening, problem-solving, and conflict resolution to provide exceptional customer service."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Retail Salespersons job title:"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 5 direct, 2 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Processed an average of 500 transactions per day using a point-of-sale system (note: this was below the required standard of 750+ transactions)",
+        "Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+        "Proven track record of consistently meeting or exceeding daily sales targets and achieving individual performance goals.",
+        "Skilled in active listening, problem-solving, and conflict resolution to provide exceptional customer service."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Processed an average of 500 transactions per day using a point-of-sale system (note: this was below the required standard of 750+ transactions)",
+        "Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+        "Proven track record of consistently meeting or exceeding daily sales targets and achieving individual performance goals.",
+        "Skilled in active listening, problem-solving, and conflict resolution to provide exceptional customer service."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Process customer transactions accurately and efficiently using a point-of-sale system",
+      "evidence": [
+        "Processed an average of 500 transactions per day using a point-of-sale system (note: this was below the required standard of 750+ transactions)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed daily sales targets and achieve individual performance goals",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding daily sales targets and achieving individual performance goals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service through active listening, problem-solving, and conflict resolution",
+      "evidence": [
+        "Skilled in active listening, problem-solving, and conflict resolution to provide exceptional customer service."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma or equivalent (no relevant coursework or certifications)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 25 pounds and stand for long periods",
+      "evidence": [
+        "Ability to lift up to 25 pounds and stand for long periods"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1-2 years of retail experience preferred",
+      "evidence": [
+        "Retail Salespersons job title:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Maintain a thorough knowledge of store products, services, and promotions to provide excellent customer service",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+      "severity": "high"
+    },
+    {
+      "requirement": "Restock shelves, face merchandise, and maintain visual merchandising standards",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist with visual merchandising projects, including layout design and implementation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in inventory management, including receiving, stocking, and counting merchandise",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized basic math skills and accuracy with cash handling, but had difficulty meeting the required standards for inventory management, including receiving, stocking, and counting merchandise",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated excellent communication and interpersonal skills through regular customer interactions, but struggled to work effectively in a team environment due to conflicting priorities",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work a variety of shifts, including evenings, weekends, and holidays",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized basic math skills and accuracy with cash handling, but had difficulty meeting the required standards for inventory management, including receiving, stocking, and counting merchandise",
+      "severity": "high"
+    },
+    {
+      "requirement": "Basic math skills and accuracy with cash handling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized basic math skills and accuracy with cash handling, but had difficulty meeting the required standards for inventory management, including receiving, stocking, and counting merchandise",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Processed an average of 500 transactions per day using a point-of-sale system (note: this was below the required standard of 750+ transactions)",
+      "supports": "Process customer transactions accurately and efficiently using a point-of-sale system"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+      "supports": "Maintain a thorough knowledge of store products, services, and promotions to provide excellent customer service"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting or exceeding daily sales targets and achieving individual performance goals.",
+      "supports": "Meet or exceed daily sales targets and achieve individual performance goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+      "supports": "Restock shelves, face merchandise, and maintain visual merchandising standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a thorough knowledge of store products, services, and promotions, but did not have experience with visual merchandising projects or layout design",
+      "supports": "Assist with visual merchandising projects, including layout design and implementation"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

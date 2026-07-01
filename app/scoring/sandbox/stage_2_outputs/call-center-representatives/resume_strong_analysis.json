@@ -1,0 +1,147 @@
+{
+  "job_title": "Call Center Representatives",
+  "case_slug": "call-center-representatives",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.454657",
+  "match_score": 66.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 65.8,
+      "reason": "Found 7 direct, 3 adjacent, 2 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and results-driven customer service professional with 1.5 years of experience in fast-paced call centers, delivering exceptional experiences that drive customer satisfaction and loyalty.",
+        "Participated in ongoing training and coaching to improve product knowledge and customer service skills, enhancing my ability to address customer inquiries and resolve issues promptly.",
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives, ensuring seamless communication and issue resolution.",
+        "Collaborated effectively with internal teams, including technical support and sales, to provide tailored solutions for customers, resulting in increased customer satisfaction and loyalty."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Associate's degree in Business Administration, [University Name], [Graduation Date]"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly motivated and results-driven customer service professional with 1.5 years of experience in fast-paced call centers, delivering exceptional experiences that drive customer satisfaction and loyalty."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and results-driven customer service professional with 1.5 years of experience in fast-paced call centers, delivering exceptional experiences that drive customer satisfaction and loyalty.",
+        "Participated in ongoing training and coaching to improve product knowledge and customer service skills, enhancing my ability to address customer inquiries and resolve issues promptly.",
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives, ensuring seamless communication and issue resolution.",
+        "Collaborated effectively with internal teams, including technical support and sales, to provide tailored solutions for customers, resulting in increased customer satisfaction and loyalty."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Utilize CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives",
+      "evidence": [
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives, ensuring seamless communication and issue resolution."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Work collaboratively with internal teams, including technical support and sales, to provide comprehensive solutions for customers",
+      "evidence": [
+        "Collaborated effectively with internal teams, including technical support and sales, to provide tailored solutions for customers, resulting in increased customer satisfaction and loyalty."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed daily call volume targets and maintain a high level of productivity",
+      "evidence": [
+        "Consistently met or exceeded daily call volume targets, maintaining a high level of productivity and efficiency in a dynamic environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in ongoing training and coaching to improve product knowledge and customer service skills",
+      "evidence": [
+        "Participated in ongoing training and coaching to improve product knowledge and customer service skills, enhancing my ability to address customer inquiries and resolve issues promptly."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, problem-solving, and time management skills",
+      "evidence": [
+        "Results-oriented Call Center Representative with excellent communication, problem-solving, and time management skills, seeking a challenging role where I can utilize my technical expertise to provide comprehensive solutions for customers wh"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, Outlook) and CRM software",
+      "evidence": [
+        "Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives, ensuring seamless communication and issue resolution."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Participated in ongoing training and coaching to improve product knowledge and customer service skills, enhancing my ability to address customer inquiries and resolve issues promptly.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a team-oriented environment and adapt to changing priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based CRM systems and customer service software",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Highly motivated and results-driven customer service professional with 1.5 years of experience in fast-paced call centers, delivering exceptional experiences that drive customer satisfaction and loyalty.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and results-driven customer service professional with 1.5 years of experience in fast-paced call centers, delivering exceptional experiences that drive customer satisfaction and loyalty.",
+      "supports": "Answer incoming customer calls in a timely and professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in ongoing training and coaching to improve product knowledge and customer service skills, enhancing my ability to address customer inquiries and resolve issues promptly.",
+      "supports": "Respond to customer inquiries and resolve issues in accordance with company policies and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives, ensuring seamless communication and issue resolution.",
+      "supports": "Utilize CRM software (Salesforce) to update customer records, track interactions, and escalate complex issues to senior representatives"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated effectively with internal teams, including technical support and sales, to provide tailored solutions for customers, resulting in increased customer satisfaction and loyalty.",
+      "supports": "Work collaboratively with internal teams, including technical support and sales, to provide comprehensive solutions for customers"
+    },
+    {
+      "source": "resume",
+      "quote": "Consistently met or exceeded daily call volume targets, maintaining a high level of productivity and efficiency in a dynamic environment.",
+      "supports": "Meet or exceed daily call volume targets and maintain a high level of productivity"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,28 @@
+Here's a weak or scope-mismatch resume snippet:
+
+John Doe
+Security Specialist
+
+Contact Info:
+(123) 456-7890 | johndoe@email.com
+
+Summary:
+Highly skilled security professional with experience in monitoring CCTV feeds and responding to alarms.
+
+Work Experience:
+
+Security Guard, ABC Security (2018-Present)
+
+* Monitored CCTV feeds for suspicious activity
+* Responded to alarm activations by dispatching law enforcement
+* Maintained a clean and organized patrol area
+
+IT Support Specialist, DEF Tech (2015-2018)
+
+* Resolved hardware issues using basic troubleshooting techniques
+* Installed software updates on company computers
+* Assisted with network connectivity issues
+
+Education:
+
+* High School Diploma, XYZ High School (2015)

@@ -1,0 +1,41 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, remote work options available
+* Location: Remote (with occasional on-site visits to testing facilities)
+* Employment Type: Contract
+* Target Start Date: ASAP
+* Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)
+* Sponsorship: Company-sponsored relocation assistance for out-of-town candidates
+* Security Clearance: Not required, but a valid passport is necessary for remote work
+
+**Job Description:**
+
+We are seeking an experienced Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability, performance, and scalability under various loads.
+
+**Responsibilities:**
+
+* Design and execute stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance benchmarking
+* Collaborate with cross-functional teams to identify and prioritize testing requirements
+* Develop and maintain test plans, scripts, and tools to automate testing processes
+* Analyze test results, identify trends, and provide recommendations for improvement
+* Work closely with the development team to reproduce issues and collaborate on fixes
+* Stay up-to-date with industry trends and emerging technologies to inform testing strategies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engine architecture and functionality
+* Strong understanding of load testing tools, such as Apache JMeter or Gatling
+* Experience with cloud-based infrastructure and containerization (e.g., Docker)
+* Proficiency in programming languages, including Python, Java, or C++
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**Nice to Have:**
+
+* Experience with machine learning or AI-related testing
+* Knowledge of metadata management systems and their performance characteristics
+* Familiarity with containerization platforms, such as Kubernetes

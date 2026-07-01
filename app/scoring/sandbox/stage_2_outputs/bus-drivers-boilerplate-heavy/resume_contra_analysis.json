@@ -1,0 +1,168 @@
+{
+  "job_title": "Bus Drivers",
+  "case_slug": "bus-drivers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.996173",
+  "match_score": 49.55,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.1,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Safely transported passengers on a daily basis, ensuring timely arrival at destinations",
+        "+ Complied with all relevant regulations and industry standards for bus operations",
+        "Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+        "Ability to work independently in a fast-paced environment"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Complied with all relevant regulations and industry standards for bus operations",
+        "Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 60.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Safely transported passengers on a daily basis, ensuring timely arrival at destinations",
+        "+ Complied with all relevant regulations and industry standards for bus operations",
+        "Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+        "Ability to work independently in a fast-paced environment"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute test plans to ensure compliance with industry standards",
+      "evidence": [
+        "+ Complied with all relevant regulations and industry standards for bus operations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will play a critical role in ensuring the reliability and performance of our scoring engines.",
+      "evidence": [
+        "+ Safely transported passengers on a daily basis, ensuring timely arrival at destinations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We welcome applications from candidates of all backgrounds and perspectives.",
+      "evidence": [
+        "+ Complied with all relevant regulations and industry standards for bus operations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine technology and industry standards",
+      "evidence": [
+        "+ Complied with all relevant regulations and industry standards for bus operations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "evidence": [
+        "Ability to work independently in a fast-paced environment"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Join Our Team as a Scoring Engine Stress Tester!**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Scoring Engine Stress Tester, you'll enjoy a competitive salary, comprehensive benefits package, and opportunities for professional growth and development.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough stress testing of scoring engines to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze data to identify trends and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate test results and recommendations to stakeholders",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in software testing or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Safely transported passengers on a daily basis, ensuring timely arrival at destinations",
+      "supports": "As a key member of our engineering team, you will play a critical role in ensuring the reliability and performance of our scoring engines."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Complied with all relevant regulations and industry standards for bus operations",
+      "supports": "We welcome applications from candidates of all backgrounds and perspectives."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "supports": "Conduct thorough stress testing of scoring engines to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Complied with all relevant regulations and industry standards for bus operations",
+      "supports": "Develop and execute test plans to ensure compliance with industry standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have experience in software testing or a related field, nor did they develop and execute test plans to identify performance bottlenecks.",
+      "supports": "Analyze data to identify trends and areas for improvement"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

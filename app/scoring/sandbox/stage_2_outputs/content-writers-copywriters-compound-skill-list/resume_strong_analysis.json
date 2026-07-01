@@ -1,0 +1,148 @@
+{
+  "job_title": "Content Writers / Copywriters",
+  "case_slug": "content-writers-copywriters-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:57.809382",
+  "match_score": 14.54,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 10.4,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 19.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for optimization and improvement",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "The successful candidate will be responsible for identifying potential performance bottlenecks, developing test plans, and collaborating with cross-functional teams to ensure the r",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop stress testing campaigns to identify performance bottlenecks and capacity planning requirements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans, including script writing, data generation, and test automation",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with stakeholders across the organization to ensure effective communication and collaboration",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, Docker, Kubernetes, Ansible, Terraform, AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager, Jenkins, GitLab CI/CD, Prometheu",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure as a service (IaaS) providers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of container orchestration tools like Docker Swarm or Kubernetes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with serverless computing platforms like AWS Lambda or Azure Functions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with continuous integration and delivery (CI/CD) pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist.",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information or guidance on creating a resume for a job that doesn't exist.",
+      "supports": "Analyze test results, identify trends, and provide recommendations for optimization and improvement"
+    },
+    {
+      "source": "job_description",
+      "quote": "Job Title:** Stress Test Engineer",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

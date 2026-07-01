@@ -1,0 +1,147 @@
+{
+  "job_title": "Information Security Analysts / Cybersecurity Analysts",
+  "case_slug": "information-security-analysts-cybersecurity-analysts-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.428828",
+  "match_score": 68.03,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.5,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with cross-functional teams to design and implement robust security protocols, including incident response plans and disaster recovery strategies",
+        "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement",
+        "Highly skilled cybersecurity professional with 5+ years of experience in conducting comprehensive threat assessments, vulnerability evaluations, and penetration testing to identify and mitigate potential security risks."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Master of Science in Cybersecurity**, [University Name] (2018)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 25.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with cross-functional teams to design and implement robust security protocols, including incident response plans and disaster recovery strategies",
+        "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement",
+        "Highly skilled cybersecurity professional with 5+ years of experience in conducting comprehensive threat assessments, vulnerability evaluations, and penetration testing to identify and mitigate potential security risks."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks",
+      "evidence": [
+        "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, implement, and execute testing protocols to simulate various attack vectors and scenarios",
+      "evidence": [
+        "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test reports, including findings, recommendations, and mitigation strategies",
+      "evidence": [
+        "+ Developed and maintained detailed test reports, including findings, recommendations, and mitigation strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with emerging threats, technologies, and industry best practices",
+      "evidence": [
+        "+ Stayed up-to-date with emerging threats, technologies, and industry best practices through continuous training and professional development"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of threat modeling, vulnerability assessment, and penetration testing methodologies",
+      "evidence": [
+        "Threat modeling and vulnerability assessment"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools and techniques (e.g., Apache JMeter, NeoLoad)",
+      "evidence": [
+        "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Information Security Analysts / Cybersecurity Analysts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Cybersecurity, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in information security analysis, testing, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to design and implement robust security protocols, including incident response plans and disaster recovery strategies",
+      "supports": "Conduct thorough analysis of the scoring engine's architecture and design"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement",
+      "supports": "Develop and execute comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized stress testing tools (e.g., Apache JMeter) to simulate various attack vectors and scenarios, identifying performance bottlenecks and providing actionable recommendations for improvement",
+      "supports": "Design, implement, and execute testing protocols to simulate various attack vectors and scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled cybersecurity professional with 5+ years of experience in conducting comprehensive threat assessments, vulnerability evaluations, and penetration testing to identify and mitigate potential security risks.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

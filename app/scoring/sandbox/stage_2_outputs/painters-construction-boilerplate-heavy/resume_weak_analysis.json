@@ -1,0 +1,130 @@
+{
+  "job_title": "Painters (Construction)",
+  "case_slug": "painters-construction-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.851007",
+  "match_score": 25.75,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 6.4,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled painter with experience in applying coats of paint to various surfaces.",
+        "Low-level tool operation (putty knife, sandpaper)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Low-level tool operation (putty knife, sandpaper)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 35.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled painter with experience in applying coats of paint to various surfaces.",
+        "Low-level tool operation (putty knife, sandpaper)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough stress testing of scoring engines under various conditions (temperature, pressure, vibration, etc.)",
+      "evidence": [
+        "Highly skilled painter with experience in applying coats of paint to various surfaces."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in test equipment operation and data analysis software (e.g.",
+      "evidence": [
+        "Low-level tool operation (putty knife, sandpaper)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Join Our Dynamic Team as a Scoring Engine Stress Tester!**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans to simulate extreme scenarios",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze data and provide detailed reports on engine performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry developments and emerging trends in scoring engine technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Mechanical Engineering, Electrical Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or similar role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine principles and technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled painter with experience in applying coats of paint to various surfaces.",
+      "supports": "Conduct thorough stress testing of scoring engines under various conditions (temperature, pressure, vibration, etc.)"
+    },
+    {
+      "source": "resume",
+      "quote": "Low-level tool operation (putty knife, sandpaper)",
+      "supports": "Proficiency in test equipment operation and data analysis software (e.g."
+    },
+    {
+      "source": "job_description",
+      "quote": "Join Our Dynamic Team as a Scoring Engine Stress Tester!**",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

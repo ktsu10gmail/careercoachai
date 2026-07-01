@@ -1,0 +1,32 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**IT Project Manager**
+
+**Summary:**
+Highly motivated IT project manager with 5+ years of experience in managing small-scale projects, focusing on testing and quality assurance.
+
+**Technical Skills:**
+
+* Proficient in Python programming language
+* Experienced with Selenium for web automation testing
+* Familiarity with Docker containerization technology
+* Knowledge of Git version control system
+
+**Professional Experience:**
+
+* **IT Project Manager**, ABC Company (2018-Present)
+	+ Managed small-scale projects, ensuring timely completion and quality assurance
+	+ Coordinated with cross-functional teams to identify and prioritize testing efforts
+	+ Developed and executed test plans, including data generation and results analysis
+	+ Collaborated with development teams to gather requirements and ensure test cases aligned with project goals
+* **Quality Assurance Engineer**, DEF Company (2015-2018)
+	+ Conducted manual testing for web applications using Selenium
+	+ Created test scripts and automated tests using Python
+	+ Participated in continuous improvement initiatives, contributing to the development of new testing methodologies
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015)
+
+This resume snippet lacks enterprise scope, as it focuses on small-scale projects and doesn't mention any experience with cloud-based infrastructure or DevOps practices. The technical skills listed are also limited to web automation testing and containerization technology, which may not be sufficient for the job description's requirements.

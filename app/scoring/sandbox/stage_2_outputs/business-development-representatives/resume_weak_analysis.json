@@ -1,0 +1,134 @@
+{
+  "job_title": "Business Development Representatives",
+  "case_slug": "business-development-representatives",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:56.139520",
+  "match_score": 52.77,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.9,
+      "reason": "Found 5 direct, 8 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Business Development Representative",
+        "Utilized CRM software to track sales interactions and manage client relationships",
+        "Created presentations using Microsoft Office Suite to pitch product offerings to potential customers",
+        "Conducted needs assessments and provided customized solutions to meet customer requirements, leveraging industry knowledge gained through online research"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 40.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Utilized CRM software to track sales interactions and manage client relationships"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Business Development Representative",
+        "Utilized CRM software to track sales interactions and manage client relationships",
+        "Created presentations using Microsoft Office Suite to pitch product offerings to potential customers",
+        "Conducted needs assessments and provided customized solutions to meet customer requirements, leveraging industry knowledge gained through online research"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct needs assessments and provide customized solutions to meet customer requirements",
+      "evidence": [
+        "Conducted needs assessments and provided customized solutions to meet customer requirements, leveraging industry knowledge gained through online research"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Track and report on sales performance, providing regular updates to senior management",
+      "evidence": [
+        "Tracked sales performance using Excel spreadsheets and reported quarterly updates to management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in business development, sales, or a related field",
+      "evidence": [
+        "\"Business Development Representative"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce.com) and Microsoft Office Suite",
+      "evidence": [
+        "Proficient in CRM software (Salesforce.com) and Microsoft Office Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Strong communication skills, with ability to work independently and as part of a team\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (e.g.",
+      "evidence": [
+        "Utilized CRM software to track sales interactions and manage client relationships"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Excellent communication, presentation, and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Business Development Representative",
+      "supports": "Identify and pursue new business opportunities through research, networking, and outreach to existing clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software to track sales interactions and manage client relationships",
+      "supports": "Develop and maintain relationships with key decision-makers at target companies"
+    },
+    {
+      "source": "resume",
+      "quote": "Created presentations using Microsoft Office Suite to pitch product offerings to potential customers",
+      "supports": "Present product or service offerings to potential customers, highlighting value proposition and competitive advantages"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted needs assessments and provided customized solutions to meet customer requirements, leveraging industry knowledge gained through online research",
+      "supports": "Conduct needs assessments and provide customized solutions to meet customer requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Tracked sales performance using Excel spreadsheets and reported quarterly updates to management",
+      "supports": "Track and report on sales performance, providing regular updates to senior management"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,37 @@
+Here is a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Technical Support Specialist**
+
+Highly skilled technical support specialist with 3+ years of experience in resolving complex technical issues and collaborating with internal teams to resolve escalated cases.
+
+**Technical Skills:**
+
+* Proficient in Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform
+* Experienced with Docker, Kubernetes, Ansible, Puppet, and Chef
+* Strong understanding of Git and JIRA for version control and issue tracking
+
+**Problem-Solving Skills:**
+
+* Proven ability to troubleshoot complex technical issues using various tools and platforms
+* Skilled in critical thinking and problem-solving, with a strong track record of resolving issues efficiently
+
+**Communication Skills:**
+
+* Excellent communication and interpersonal skills, with the ability to effectively communicate with customers and internal stakeholders
+* Strong written and verbal communication skills, with experience communicating technical information to non-technical audiences
+
+**Experience:**
+
+* Technical Support Specialist at XYZ Corporation (2020-Present)
+ + Resolved complex technical issues via phone, email, and chat, with a customer satisfaction rating of 95%
+ + Collaborated with internal teams, including engineering and product management, to resolve escalated cases
+ + Participated in stress testing of our scoring engine to identify performance bottlenecks and areas for improvement
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, ABC University (2018)
+
+**Certifications/Awards:**
+
+* Certified Technical Support Specialist, DEF Institute (2020)
+* Recipient of the XYZ Corporation Employee of the Month Award (2022)

@@ -1,0 +1,26 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Summary:**
+Results-driven executive with 10+ years of experience in leading high-performing teams and developing business plans. Proven track record of driving growth through strategic planning, team management, and stakeholder engagement.
+
+**Experience:**
+
+* CEO, XYZ Corporation (2018-Present)
+ + Developed and implemented strategic plans to drive business growth and expansion
+ + Successfully led and managed a team of senior executives to achieve organizational goals
+ + Built and maintained relationships with key stakeholders, including investors, customers, and partners
+
+**Skills:**
+
+* Java, Python, C++, JavaScript, SQL, Excel, Tableau, Power BI, Salesforce.com, Oracle, SAP, Microsoft Office 365
+* Agile methodologies, Lean principles, Six Sigma certification (in progress)
+
+**Note:** While I have experience with cloud computing platforms and migration strategies, I did not successfully implement a cloud-first strategy during my tenure at ABC Corporation. Additionally, while I possess strong network and relationship-building skills, I did not achieve the desired level of stakeholder engagement in my previous role as Director of Business Development.
+
+This snippet highlights some relevant terms from the job description, but also explicitly states that the candidate:
+
+* Did not implement a cloud-first strategy
+* Did not achieve the desired level of stakeholder engagement
+* Is currently working on Six Sigma certification (but did not complete it)
+
+These statements provide contra-evidence to support the candidate's claims, while also showcasing their strengths and weaknesses.

@@ -1,0 +1,27 @@
+Responsibilities:
+
+* Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers
+* Perform daily backups of critical data using Veritas NetBackup and ensure at least 3 days' worth of recoverable data
+* Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX
+* Implement and enforce security policies using OpenSSH, SELinux, and IPTables
+* Collaborate with development teams to resolve issues related to database performance and scalability
+* Develop and maintain documentation for system configurations and troubleshooting procedures
+* Participate in on-call rotation for critical systems, including 24/7 support during peak hours
+
+Required Skills:
+
+* 3+ years of experience as a systems administrator or equivalent
+* Strong knowledge of Linux operating systems (Red Hat Enterprise Linux or CentOS)
+* Experience with network devices and protocols (TCP/IP, DNS, DHCP)
+* Familiarity with database management systems (MySQL, PostgreSQL)
+* Understanding of security best practices and compliance regulations (HIPAA, PCI-DSS)
+* Experience with backup and disaster recovery tools
+* Strong problem-solving skills and ability to work independently
+
+Preferred Skills:
+
+* Experience with cloud-based infrastructure (AWS or Azure)
+* Knowledge of containerization technologies (Docker, Kubernetes)
+* Familiarity with scripting languages (Bash, Python)
+* Certification in CompTIA A+ or equivalent
+* Experience with IT service management tools (ServiceNow, BMC Helix)

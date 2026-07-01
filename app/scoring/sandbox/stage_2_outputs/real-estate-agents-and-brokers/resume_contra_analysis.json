@@ -1,0 +1,157 @@
+{
+  "job_title": "Real Estate Agents and Brokers",
+  "case_slug": "real-estate-agents-and-brokers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.580463",
+  "match_score": 48.17,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.8,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of success in attracting potential buyers through targeted property showings and open houses.",
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing.",
+        "However, I did not have the opportunity to negotiate purchase agreements or facilitate transactions between buyers and sellers due to limited experience with high-end properties.",
+        "Conducted over 500 property showings and open houses, resulting in a 25% increase in client engagement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 52.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted over 500 property showings and open houses, resulting in a 25% increase in client engagement"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 84.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of success in attracting potential buyers through targeted property showings and open houses.",
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing.",
+        "However, I did not have the opportunity to negotiate purchase agreements or facilitate transactions between buyers and sellers due to limited experience with high-end properties.",
+        "Conducted over 500 property showings and open houses, resulting in a 25% increase in client engagement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct property showings and open houses to attract potential buyers",
+      "evidence": [
+        "Proven track record of success in attracting potential buyers through targeted property showings and open houses."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare and present marketing materials, including listings and sales presentations",
+      "evidence": [
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "real estate license a plus",
+      "evidence": [
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "1-2 years of experience in real estate sales or related field",
+      "evidence": [
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, including Word, Excel, and Outlook",
+      "evidence": [
+        "Skilled in preparing and presenting marketing materials, including listings and sales presentations."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2-5 years of experience in real estate sales or related field",
+      "evidence": [
+        "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Negotiate purchase agreements and facilitate transactions between buyers and sellers",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to negotiate purchase agreements or facilitate transactions between buyers and sellers due to limited experience with high-end properties.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with CRM software and other industry tools",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I am proficient in Microsoft Office and CRM software, I do not have formal training in real estate appraisal, negotiation, or other specialized areas.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in attracting potential buyers through targeted property showings and open houses.",
+      "supports": "Conduct property showings and open houses to attract potential buyers"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Real Estate Agent with 3+ years of experience in sales and marketing.",
+      "supports": "Prepare and present marketing materials, including listings and sales presentations"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have the opportunity to negotiate purchase agreements or facilitate transactions between buyers and sellers due to limited experience with high-end properties.",
+      "supports": "Negotiate purchase agreements and facilitate transactions between buyers and sellers"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted over 500 property showings and open houses, resulting in a 25% increase in client engagement",
+      "supports": "Maintain accurate records of client interactions, transactions, and market data"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented effective marketing strategies that resulted in a 50% increase in sales revenue",
+      "supports": "Stay up-to-date on local market trends and adjust strategies accordingly"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

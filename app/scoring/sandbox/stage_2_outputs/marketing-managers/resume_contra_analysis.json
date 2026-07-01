@@ -1,0 +1,152 @@
+{
+  "job_title": "Marketing Managers",
+  "case_slug": "marketing-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:04.587550",
+  "match_score": 47.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.9,
+      "reason": "Found 2 direct, 8 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email.",
+        "Led a team of 3 marketing professionals, providing guidance and performance feedback, but did not have direct supervisory experience.",
+        "Analyzed market trends and competitor activity using Google Analytics, but did not have experience with data analytics tools beyond basic reporting.",
+        "Proven track record of driving sales growth through targeted campaigns."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 56.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "led",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed market trends and competitor activity using Google Analytics, but did not have experience with data analytics tools beyond basic reporting.",
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 98.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email.",
+        "Led a team of 3 marketing professionals, providing guidance and performance feedback, but did not have direct supervisory experience.",
+        "Analyzed market trends and competitor activity using Google Analytics, but did not have experience with data analytics tools beyond basic reporting.",
+        "Proven track record of driving sales growth through targeted campaigns."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of driving revenue growth through effective marketing strategies",
+      "evidence": [
+        "Proven track record of driving sales growth through targeted campaigns."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of digital marketing channels (paid social, email, search engine optimization)",
+      "evidence": [
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive marketing strategies to drive brand awareness and sales growth across multiple channels (digital, social media, email, events)",
+      "evidence": [
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Manage and optimize marketing budgets, ensuring ROI and efficiency",
+      "evidence": [
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent project management and leadership skills, with ability to motivate and guide team members",
+      "evidence": [
+        "Skilled in project management and leadership, with ability to motivate team members."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Certification in Google Analytics or HubSpot Inbound Marketing",
+      "evidence": [
+        "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Lead a team of 3-5 marketing professionals, providing guidance, mentorship, and performance feedback",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Led a team of 3 marketing professionals, providing guidance and performance feedback, but did not have direct supervisory experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed market trends and competitor activity using Google Analytics, but did not have experience with data analytics tools beyond basic reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with experience using data analytics tools (Google Analytics, Excel)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed market trends and competitor activity using Google Analytics, but did not have experience with data analytics tools beyond basic reporting.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of SEO best practices and content management systems (WordPress, Drupal)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email.",
+      "supports": "Develop and execute comprehensive marketing strategies to drive brand awareness and sales growth across multiple channels (digital, social media, email, events)"
+    },
+    {
+      "source": "resume",
+      "quote": "Led a team of 3 marketing professionals, providing guidance and performance feedback, but did not have direct supervisory experience.",
+      "supports": "Lead a team of 3-5 marketing professionals, providing guidance, mentorship, and performance feedback"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed market trends and competitor activity using Google Analytics, but did not have experience with data analytics tools beyond basic reporting.",
+      "supports": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email.",
+      "supports": "Manage and optimize marketing budgets, ensuring ROI and efficiency"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven marketing professional with 3+ years of experience in digital marketing channels, including paid social and email.",
+      "supports": "Create and maintain a comprehensive marketing calendar, tracking progress and adjusting strategies as needed"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,157 @@
+{
+  "job_title": "Aircraft Mechanics",
+  "case_slug": "aircraft-mechanics-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:55.119319",
+  "match_score": 45.86,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Aircraft Mechanic",
+        "Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+        "3 years of experience as an Aircraft Mechanic at **AirTech Services**, performing routine maintenance and repairs on small aircraft.",
+        "+ Performed routine maintenance and repairs on small aircraft, including engine overhauls and avionics installations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 36.1,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Aircraft Mechanic",
+        "Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+        "3 years of experience as an Aircraft Mechanic at **AirTech Services**, performing routine maintenance and repairs on small aircraft.",
+        "+ Performed routine maintenance and repairs on small aircraft, including engine overhauls and avionics installations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 89.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Aircraft Mechanic",
+        "Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+        "3 years of experience as an Aircraft Mechanic at **AirTech Services**, performing routine maintenance and repairs on small aircraft.",
+        "+ Performed routine maintenance and repairs on small aircraft, including engine overhauls and avionics installations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Aircraft Mechanic - Stress Test**",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience as an Aircraft Mechanic or in a related field",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Company:** SkyTech Aviation Services",
+      "evidence": [
+        "3 years of experience as an Aircraft Mechanic at **AirTech Services**, performing routine maintenance and repairs on small aircraft."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of aircraft engine systems, including fuel systems, cooling systems, and electrical systems",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating extreme operating conditions to identify potential issues and ensure the reliability of our aircraft engines.",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough inspections and testing of aircraft engines under various operating conditions",
+      "evidence": [
+        "Aircraft Mechanic"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** AMT-1234",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute test plans to simulate extreme temperatures, pressures, and vibrations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Aircraft Mechanic",
+      "supports": "Aircraft Mechanic - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+      "supports": "Job ID:** AMT-1234"
+    },
+    {
+      "source": "resume",
+      "quote": "3 years of experience as an Aircraft Mechanic at **AirTech Services**, performing routine maintenance and repairs on small aircraft.",
+      "supports": "Company:** SkyTech Aviation Services"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet lacks the enterprise scope and experience required for the job description, and instead focuses on low-level tools and skills that are not directly relevant to the position.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Aircraft Mechanic",
+      "supports": "The successful candidate will be responsible for simulating extreme operating conditions to identify potential issues and ensure the reliability of our aircraft engines."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

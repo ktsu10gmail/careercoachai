@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Logistics Coordinators**
+
+* 2+ years of experience in logistics coordination
+* Familiarity with stress testing tools, such as Apache JMeter and Docker
+* Knowledge of cloud-based infrastructure, including AWS
+* Strong analytical and problem-solving skills, with ability to identify performance bottlenecks and develop effective solutions
+* Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+Note that this resume snippet lacks the essential domain qualifier (Software/SaaS) and scope qualifiers (Domain scope trap scenarios, API performance testing, etc.), as well as the required experience in stress testing or performance engineering.

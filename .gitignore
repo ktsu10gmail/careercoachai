@@ -1,0 +1,36 @@
+__pycache__/
+*.pyc
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!frontend/.env.example
+
+# Runtime uploads and local databases
+uploads/
+*.sqlite3
+*.db
+*.log
+.DS_Store
+.vscode/
+
+# Python local state
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+
+# Playwright/browser test artifacts
+.playwright-mcp/
+playwright-report/
+test-results/
+
+# Nested source repo kept separate from the main app repo
+Resume making/

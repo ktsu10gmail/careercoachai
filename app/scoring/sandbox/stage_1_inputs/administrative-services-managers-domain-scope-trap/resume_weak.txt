@@ -1,0 +1,29 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Information**
+
+* Summary:
+  - Experienced in load testing and performance engineering
+  - Proficient in Apache JMeter, Python, and Docker
+  - Strong analytical skills with experience working on small projects
+
+* Work Experience:
+
+* Load Tester (2018-Present)
+  - Used Apache JMeter to test web applications
+  - Developed custom scripts using Python
+  - Set up and ran load tests on local machines
+  - Analyzed results and provided feedback to development team
+
+* Freelance Consultant (2015-2018)
+  - Worked with small businesses to improve performance of their websites
+  - Used Docker to containerize applications
+  - Conducted load testing using Apache JMeter
+  - Provided recommendations for improvement
+
+* Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Note: This resume snippet lacks the essential domain qualifier "Software/SaaS" and omits experience with cloud-based infrastructure and regulated industry. It also focuses on small-scale projects rather than enterprise scope.

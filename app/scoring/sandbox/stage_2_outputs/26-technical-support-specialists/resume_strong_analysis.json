@@ -1,0 +1,151 @@
+{
+  "job_title": "26. Technical Support Specialists",
+  "case_slug": "26-technical-support-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:48.054376",
+  "match_score": 65.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 55.0,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers.",
+        "Proficient in Windows operating systems (Windows 10, Server 2019) and macOS, with hands-on experience troubleshooting and resolving issues.",
+        "Developed and maintained knowledge base articles and documentation to improve customer support processes and reduce repeat incidents.",
+        "Participated in on-call rotations for 24/7 support coverage, demonstrating a commitment to providing timely and effective support to internal customers."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.5,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced in using IT service management tools such as ServiceNow, JIRA, and BMC Helix to manage and resolve technical incidents.",
+        "Familiarity with cloud-based technologies including AWS, Azure, and Google Cloud Platform, with a solid understanding of their respective architectures and use cases.",
+        "Proficient in Windows operating systems (Windows 10, Server 2019) and macOS, with hands-on experience troubleshooting and resolving issues."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers.",
+        "Proficient in Windows operating systems (Windows 10, Server 2019) and macOS, with hands-on experience troubleshooting and resolving issues.",
+        "Developed and maintained knowledge base articles and documentation to improve customer support processes and reduce repeat incidents.",
+        "Participated in on-call rotations for 24/7 support coverage, demonstrating a commitment to providing timely and effective support to internal customers."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain knowledge base articles and documentation to improve customer support",
+      "evidence": [
+        "Developed and maintained knowledge base articles and documentation to improve customer support processes and reduce repeat incidents."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotations for 24/7 support coverage",
+      "evidence": [
+        "Participated in on-call rotations for 24/7 support coverage, demonstrating a commitment to providing timely and effective support to internal customers."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Windows operating systems (Windows 10, Server 2019) and macOS",
+      "evidence": [
+        "Proficient in Windows operating systems (Windows 10, Server 2019) and macOS, with hands-on experience troubleshooting and resolving issues."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management tools such as ServiceNow, JIRA, and BMC Helix",
+      "evidence": [
+        "Experienced in using IT service management tools such as ServiceNow, JIRA, and BMC Helix to manage and resolve technical incidents."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based technologies such as AWS, Azure, and Google Cloud Platform",
+      "evidence": [
+        "Familiarity with cloud-based technologies including AWS, Azure, and Google Cloud Platform, with a solid understanding of their respective architectures and use cases."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "evidence": [
+        "Excellent communication and problem-solving skills, with the ability to effectively communicate complex technical issues to both technical and non-technical stakeholders."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide technical support to internal customers via phone, email, and chat platforms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in technical support or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of network protocols and devices (TCP/IP, DNS, DHCP)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in CompTIA A+ or equivalent",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented technical support professional with 3+ years of experience in resolving complex hardware and software issues for internal customers.",
+      "supports": "Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Windows operating systems (Windows 10, Server 2019) and macOS, with hands-on experience troubleshooting and resolving issues.",
+      "supports": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained knowledge base articles and documentation to improve customer support processes and reduce repeat incidents.",
+      "supports": "Develop and maintain knowledge base articles and documentation to improve customer support"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in on-call rotations for 24/7 support coverage, demonstrating a commitment to providing timely and effective support to internal customers.",
+      "supports": "Participate in on-call rotations for 24/7 support coverage"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in using IT service management tools such as ServiceNow, JIRA, and BMC Helix to manage and resolve technical incidents.",
+      "supports": "Monitor and report system performance and security incidents using tools such as Nagios, SolarWinds, and Splunk"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,153 @@
+{
+  "job_title": "HVAC Mechanics and Installers",
+  "case_slug": "hvac-mechanics-and-installers-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:02.357226",
+  "match_score": 51.13,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.9,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled HVAC mechanic with experience in installing and maintaining heating, ventilation, and air conditioning systems.",
+        "+ Developed strong problem-solving skills through hands-on experience with complex systems",
+        "+ Performed routine maintenance tasks, including filter replacements and system cleanings",
+        "Proficient in using various tools and equipment to ensure efficient system performance."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Performed routine maintenance tasks, including filter replacements and system cleanings",
+        "The scope qualifiers for cloud-based infrastructure, containerization technologies, and DevOps practices are also not present."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled HVAC mechanic with experience in installing and maintaining heating, ventilation, and air conditioning systems.",
+        "+ Developed strong problem-solving skills through hands-on experience with complex systems",
+        "+ Performed routine maintenance tasks, including filter replacements and system cleanings",
+        "Proficient in using various tools and equipment to ensure efficient system performance."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will have expertise in identifying and exploiting vulnerabilities in complex systems, ensuring the reliability and performance of our products.",
+      "evidence": [
+        "+ Developed strong problem-solving skills through hands-on experience with complex systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)",
+      "evidence": [
+        "The scope qualifiers for cloud-based infrastructure, containerization technologies, and DevOps practices are also not present."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent problem-solving skills and attention to detail",
+      "evidence": [
+        "+ Developed strong problem-solving skills through hands-on experience with complex systems"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress tests for our software applications",
+      "evidence": [
+        "Highly skilled HVAC mechanic with experience in installing and maintaining heating, ventilation, and air conditioning systems."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop stress test scenarios that simulate real-world usage patterns, including high-traffic, high-load, and low-latency conditions",
+      "evidence": [
+        "+ Performed routine maintenance tasks, including filter replacements and system cleanings"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Utilize industry-standard tools and techniques to identify and exploit vulnerabilities in software applications",
+      "evidence": [
+        "Proficient in using various tools and equipment to ensure efficient system performance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and reports to document test results and provide actionable insights for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software applications, including domain scope trap scenarios (essential)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak and scope-mismatch resume snippet for an HVAC Mechanics and Installer position, lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Domain Qualifiers",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits any experience with industry-standard tools or techniques related to stress testing.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled HVAC mechanic with experience in installing and maintaining heating, ventilation, and air conditioning systems.",
+      "supports": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress tests for our software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed strong problem-solving skills through hands-on experience with complex systems",
+      "supports": "The successful candidate will have expertise in identifying and exploiting vulnerabilities in complex systems, ensuring the reliability and performance of our products."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Performed routine maintenance tasks, including filter replacements and system cleanings",
+      "supports": "Design and develop stress test scenarios that simulate real-world usage patterns, including high-traffic, high-load, and low-latency conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in using various tools and equipment to ensure efficient system performance.",
+      "supports": "Utilize industry-standard tools and techniques to identify and exploit vulnerabilities in software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in using various tools and equipment to ensure efficient system performance.",
+      "supports": "Conduct regular testing and analysis of new features and updates to ensure seamless integration and minimal impact on existing functionality"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

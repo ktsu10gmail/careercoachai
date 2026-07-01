@@ -1,0 +1,139 @@
+{
+  "job_title": "Accountants and Auditors",
+  "case_slug": "accountants-and-auditors-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.546424",
+  "match_score": 72.29,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.4,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Note:** While I have experience in stress testing and performance engineering, I did not work on global or multi-site projects, nor did I develop test scripts for low-latency trading infrastructure.",
+        "Highly motivated and detail-oriented professional with experience in stress testing and performance engineering, seeking to leverage skills in a dynamic environment.",
+        "+ Developed and executed test plans, including setting up test environments, running tests, and analyzing results"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "AWS)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Note:** While I have experience in stress testing and performance engineering, I did not work on global or multi-site projects, nor did I develop test scripts for low-latency trading infrastructure.",
+        "Highly motivated and detail-oriented professional with experience in stress testing and performance engineering, seeking to leverage skills in a dynamic environment.",
+        "+ Developed and executed test plans, including setting up test environments, running tests, and analyzing results"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute test plans, including setting up test environments, running tests, and analyzing results",
+      "evidence": [
+        "+ Developed and executed test plans, including setting up test environments, running tests, and analyzing results"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues found during testing, working closely with the development team to reproduce and resolve them",
+      "evidence": [
+        "+ Identified and reported defects or issues found during testing, working closely with the development team to reproduce and resolve them"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and best practices in stress testing and performance engineering",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with experience in stress testing and performance engineering, seeking to leverage skills in a dynamic environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with experience in stress testing and performance engineering, seeking to leverage skills in a dynamic environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, including design, development, testing, and deployment",
+      "evidence": [
+        "Strong understanding of software development life cycles, including design, development, testing, and deployment"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and containerization technologies (e.g.",
+      "evidence": [
+        "AWS)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience in stress testing and performance engineering, I did not work on global or multi-site projects, nor did I develop test scripts for low-latency trading infrastructure.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide regular progress updates and status reports to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience in stress testing and performance engineering, I did not work on global or multi-site projects, nor did I develop test scripts for low-latency trading infrastructure.",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented professional with experience in stress testing and performance engineering, seeking to leverage skills in a dynamic environment.",
+      "supports": "Design and develop stress testing scenarios for domain scope trap, including identifying key performance indicators (KPIs) and developing test scripts to simulate various loads and"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed test plans, including setting up test environments, running tests, and analyzing results",
+      "supports": "Develop and execute test plans, including setting up test environments, running tests, and analyzing results"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Identified and reported defects or issues found during testing, working closely with the development team to reproduce and resolve them",
+      "supports": "Identify and report defects or issues found during testing, working closely with the development team to reproduce and resolve them"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

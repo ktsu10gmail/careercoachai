@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet for a Retail Salesperson position:
+
+**John Doe**
+**Contact Info**
+
+* 123 Main St, Anytown USA 12345
+* (555) 555-5555 | [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary:**
+Highly motivated and detail-oriented individual with experience in IT project management and network administration. Proficient in Linux and Windows operating systems.
+
+**Work Experience:**
+
+* **Network Administrator**, ABC Corporation (2018-2020)
+ + Managed and maintained company networks, ensuring optimal performance and security
+ + Implemented and configured network devices, including routers and switches
+ + Collaborated with IT team to resolve technical issues and improve overall system efficiency
+* **IT Project Manager**, DEF Startups (2015-2018)
+ + Led cross-functional teams in planning, executing, and delivering IT projects on time and within budget
+ + Coordinated with stakeholders to gather requirements and ensure project deliverables met expectations
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+**Skills:**
+
+* Linux and Windows operating systems
+* Network administration and management
+* IT project management
+* Basic math skills and accuracy with handling cash and credit transactions

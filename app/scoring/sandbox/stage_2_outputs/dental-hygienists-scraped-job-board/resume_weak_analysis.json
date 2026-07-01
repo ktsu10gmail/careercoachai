@@ -1,0 +1,168 @@
+{
+  "job_title": "Dental Hygienists",
+  "case_slug": "dental-hygienists-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:58.654724",
+  "match_score": 39.53,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+        "Summary:",
+        "+ Educated patients on proper oral hygiene techniques using visual aids and demonstrations",
+        "Highly skilled and experienced dental hygienist with a strong background in oral health education."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 28.6,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+        "Summary:",
+        "+ Educated patients on proper oral hygiene techniques using visual aids and demonstrations",
+        "Highly skilled and experienced dental hygienist with a strong background in oral health education."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+        "Summary:",
+        "+ Educated patients on proper oral hygiene techniques using visual aids and demonstrations",
+        "Highly skilled and experienced dental hygienist with a strong background in oral health education."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "You will also work closely with dentists to develop treatment plans and educate patients on proper oral hygiene techniques.",
+      "evidence": [
+        "+ Educated patients on proper oral hygiene techniques using visual aids and demonstrations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Educate patients on proper oral hygiene techniques and provide personalized recommendations for improvement",
+      "evidence": [
+        "+ Educated patients on proper oral hygiene techniques using visual aids and demonstrations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date patient records",
+      "evidence": [
+        "+ Maintained patient records and schedules"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough oral exams, including visual examinations and X-ray analysis",
+      "evidence": [
+        "Highly skilled and experienced dental hygienist with a strong background in oral health education."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Dental Hygienist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** DH-1234",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company Rating:** 4.5/5 stars (based on 200+ reviews)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Dental Hygienist, you will be responsible for conducting thorough oral exams, taking X-rays, and providing preventative dental care to patients of all ages.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Take and develop radiographs (X-rays) as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide preventative dental care, including cleanings, fluoride treatments, and sealants",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current with the latest dental technologies and techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Associate's degree in Dental Hygiene from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+      "supports": "Job ID:** DH-1234"
+    },
+    {
+      "source": "resume",
+      "quote": "The candidate is missing relevant experience in a clinical setting, and their skills are not aligned with the job requirements.",
+      "supports": "Job Type:** Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Educated patients on proper oral hygiene techniques using visual aids and demonstrations",
+      "supports": "You will also work closely with dentists to develop treatment plans and educate patients on proper oral hygiene techniques."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled and experienced dental hygienist with a strong background in oral health education.",
+      "supports": "Conduct thorough oral exams, including visual examinations and X-ray analysis"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

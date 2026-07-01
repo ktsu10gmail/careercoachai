@@ -1,0 +1,21 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Experience:**
+
+* Stress Test Engineer (2018-2020)
+	+ Designed and executed stress tests on various software applications, including load testing and performance benchmarking
+	+ Developed and maintained test plans, scripts, and tools to simulate realistic user scenarios and workload patterns
+	+ Collaborated with cross-functional teams to ensure alignment and effective testing
+* Quality Assurance Engineer (2015-2018)
+	+ Conducted manual testing of software applications, including functional and usability testing
+	+ Identified defects and reported them to the development team for resolution
+
+**Skills:**
+
+* Proficient in load testing tools such as JMeter and Gatling
+* Experienced with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Strong understanding of system architecture, design patterns, and microservices principles
+
+**Note:** While I have experience with stress testing and quality assurance, my experience was limited to small-scale applications and did not involve high-volume or low-latency requirements. I also did not work on enterprise-level software or in the insurance industry.
+
+In this snippet, the candidate mentions relevant skills and experience but explicitly states that their experience was limited to smaller scales and did not meet the higher-scope requirements of the job description.

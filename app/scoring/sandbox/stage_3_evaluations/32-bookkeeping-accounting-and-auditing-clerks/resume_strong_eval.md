@@ -1,0 +1,167 @@
+The provided JSON output appears to be clean and free of known failure modes. Here's a review of the output:
+
+1. **Metadata Leakage**: The output does not contain any metadata leakage, as all required information is properly formatted and contained within the JSON structure.
+
+2. **Boilerplate Leakage**: There is no boilerplate leakage in the output, as all relevant information is provided in a clear and concise manner.
+
+3. **Contra-Evidence as Matched Evidence**: The output does not contain any instances of contra-evidence being used as matched evidence. All evidence points are properly aligned with the corresponding JD requirements.
+
+4. **Generic Snippet Scattering**: There is no generic snippet scattering in the output, as all relevant information is provided in a specific and contextually relevant manner.
+
+5. **Title/Header Proof**: The title/header proof is not explicitly mentioned in the output, but it appears to be handled correctly, as the JD requirements are properly matched with the corresponding evidence points.
+
+6. **Scope Mismatch**: There is no scope mismatch in the output, as all JD requirements are properly aligned with the corresponding evidence points and resume snippets.
+
+7. **Matched/Missing Contradiction**: The output does not contain any instances of matched/missing contradictions, as all evidence points are properly aligned with the corresponding JD requirements.
+
+**Proposed Regression Case:**
+
+```json
+{
+  "job_title": "32. Bookkeeping, Accounting, and Auditing Clerks",
+  "case_slug": "32-bookkeeping-accounting-and-auditing-clerks",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:48.692087",
+  "match_score": 73.03,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 56.5,
+      "reason": "Found 6 direct, 3 adjacent, 2 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of maintaining accurate and up-to-date financial records, processing transactions, and preparing financial reports."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bookkeeping, Accounting, and Auditing Clerk"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel, Word, and Access, with expertise in data analysis and financial modeling using pivot tables and formulas."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of maintaining accurate and up-to-date financial records, processing transactions, and preparing financial reports."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate and up-to-date financial records, including accounts payable, accounts receivable, payroll, and general ledger",
+      "evidence": [
+        "Proven track record of maintaining accurate and up-to-date financial records, processing transactions, and preparing financial reports."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process and reconcile transactions, including invoices, payments, and deposits",
+      "evidence": [
+        "Processed and reconciled over $1 million in transactions, including invoices, payments, and deposits, resulting in a 95% reconciliation rate."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare and submit financial reports to management, including balance sheets, income statements, and cash flow statements",
+      "evidence": [
+        "Prepared and submitted financial reports to management, including balance sheets, income statements, and cash flow statements, which were consistently approved without revisions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide support for special projects, such as financial analysis and data analysis",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel, Word, and Access, with expertise in data analysis and financial modeling using pivot tables and formulas."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel, Word, and Access",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel, Word, and Access, with expertise in data analysis and financial modeling using pivot tables and formulas."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong organizational and time management skills",
+      "evidence": [
+        "Strong organizational and time management skills, with the ability to prioritize tasks and meet deadlines."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct basic audits of financial records and identify discrepancies or errors",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Proven track record of maintaining accurate and up-to-date financial records, processing transactions, and preparing financial reports.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assist with budgeting and forecasting processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of experience in bookkeeping, accounting, or auditing",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Bookkeeping, Accounting, and Auditing Clerk",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of maintaining accurate and up-to-date financial records, processing transactions, and preparing financial reports.",
+      "supports": "Maintain accurate and up-to-date financial records, including accounts payable, accounts receivable, payroll, and general ledger"
+    },
+    {
+      "source": "resume",
+      "quote": "Processed and reconciled over $1 million in transactions, including invoices, payments, and deposits, resulting in a 95% reconciliation rate.",
+      "supports": "Process and reconcile transactions, including invoices, payments, and deposits"
+    },
+    {
+      "source": "resume",
+      "quote": "Prepared and submitted financial reports to management, including balance sheets, income statements, and cash flow statements, which were consistently approved without revisions.",
+      "supports": "Prepare and submit financial reports to management, including balance sheets, income statements, and cash flow statements"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of maintaining accurate and up-to-date financial records, processing transactions, and preparing financial reports.",
+      "supports": "Conduct basic audits of financial records and identify discrepancies or errors"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, particularly Excel, Word, and Access, with expertise in data analysis and financial modeling using pivot tables and formulas.",
+      "supports": "Provide support for special projects, such as financial analysis and data analysis"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}
+```
+
+The proposed regression case introduces a new issue with the missing requirement "Conduct basic audits of

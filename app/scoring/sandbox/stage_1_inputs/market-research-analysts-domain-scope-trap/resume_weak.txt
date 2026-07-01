@@ -1,0 +1,21 @@
+Here's a weak and scope-mismatch resume snippet for a Market Research Analyst position:
+
+**Summary:**
+Results-driven professional with 2+ years of experience in market research, focusing on consumer behavior and trends.
+
+**Experience:**
+
+* Market Research Analyst
+	+ Conducted surveys and focus groups to gather data on consumer preferences
+	+ Analyzed data using statistical software (e.g., R, SPSS)
+	+ Created reports and presentations to present findings to clients
+	+ Collaborated with cross-functional teams to develop marketing strategies
+
+**Skills:**
+
+* Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)
+* Experience with survey design and data analysis tools (e.g., Qualtrics, SurveyMonkey)
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+
+Note that this resume snippet lacks the essential domain qualifier of "Market Research" and omits specific experience in high-volume or low-latency market research scenarios. The scope qualifiers are also not present, as the job description does not mention global, multi-site, or high-volume requirements.

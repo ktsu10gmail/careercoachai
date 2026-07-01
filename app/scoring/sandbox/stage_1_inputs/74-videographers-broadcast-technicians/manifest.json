@@ -1,0 +1,20 @@
+{
+  "job_title": "74. Videographers / Broadcast Technicians",
+  "case_slug": "74-videographers-broadcast-technicians",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:40:12.630890",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

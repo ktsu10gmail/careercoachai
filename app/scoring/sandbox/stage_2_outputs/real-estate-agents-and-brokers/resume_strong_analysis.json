@@ -1,0 +1,146 @@
+{
+  "job_title": "Real Estate Agents and Brokers",
+  "case_slug": "real-estate-agents-and-brokers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.608059",
+  "match_score": 73.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.8,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted over 500 property showings and open houses, resulting in a 25% increase in sales volume",
+        "Results-driven real estate professional with 2+ years of experience driving sales growth and delivering exceptional client experiences.",
+        "Proven track record of success in negotiating purchase agreements, facilitating transactions, and staying ahead of local market trends.",
+        "Maintained accurate records of client interactions, transactions, and market data using CRM software and Microsoft Office"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Real Estate License, State of [State] (20XX)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 32.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Maintained accurate records of client interactions, transactions, and market data using CRM software and Microsoft Office"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted over 500 property showings and open houses, resulting in a 25% increase in sales volume",
+        "Results-driven real estate professional with 2+ years of experience driving sales growth and delivering exceptional client experiences.",
+        "Proven track record of success in negotiating purchase agreements, facilitating transactions, and staying ahead of local market trends.",
+        "Maintained accurate records of client interactions, transactions, and market data using CRM software and Microsoft Office"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate records of client interactions, transactions, and market data",
+      "evidence": [
+        "Maintained accurate records of client interactions, transactions, and market data using CRM software and Microsoft Office"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on local market trends and adjust strategies accordingly",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with the ability to stay up-to-date on local market trends and adjust strategies accordingly"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, ABC High School (20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "real estate license a plus",
+      "evidence": [
+        "Real Estate License, State of [State] (20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills, with the ability to work effectively with clients, colleagues, and industry partners"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, including Word, Excel, and Outlook",
+      "evidence": [
+        "Proficient in Microsoft Office, including Word, Excel, and Outlook"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "1-2 years of experience in real estate sales or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2-5 years of experience in real estate sales or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted over 500 property showings and open houses, resulting in a 25% increase in sales volume",
+      "supports": "Conduct property showings and open houses to attract potential buyers"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven real estate professional with 2+ years of experience driving sales growth and delivering exceptional client experiences.",
+      "supports": "Prepare and present marketing materials, including listings and sales presentations"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of success in negotiating purchase agreements, facilitating transactions, and staying ahead of local market trends.",
+      "supports": "Negotiate purchase agreements and facilitate transactions between buyers and sellers"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of client interactions, transactions, and market data using CRM software and Microsoft Office",
+      "supports": "Maintain accurate records of client interactions, transactions, and market data"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical and problem-solving skills, with the ability to stay up-to-date on local market trends and adjust strategies accordingly",
+      "supports": "Stay up-to-date on local market trends and adjust strategies accordingly"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

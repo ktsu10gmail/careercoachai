@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Accountant**
+
+* 2+ years of experience in accounting
+* Strong understanding of financial reporting and analysis
+* Proficient in Microsoft Office, including Excel
+* Familiarity with cloud-based accounting software (e.g. QuickBooks Online)
+* Excellent problem-solving skills, attention to detail, and analytical thinking
+
+Note: I've omitted the domain qualifiers (Software/SaaS, Enterprise, Regulated industry) and scope qualifiers (Global, Multi-site, High-volume, Low-latency) as per your request.

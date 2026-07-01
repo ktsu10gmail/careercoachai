@@ -1,0 +1,163 @@
+{
+  "job_title": "Chief Executive Officers / Top Executives",
+  "case_slug": "chief-executive-officers-top-executives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:56.811082",
+  "match_score": 38.03,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.2,
+      "reason": "Found 3 direct, 5 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven executive with 8+ years of experience in driving business growth and profitability.",
+        "Led and managed a team to achieve organizational objectives (although we missed our quarterly targets by 20%)",
+        "Proven track record of leading high-performing teams and building strong relationships with key stakeholders.",
+        "Skilled in financial planning, budgeting, and forecasting, with proficiency in Excel and SAP."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 54.7,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "led",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "\"Results-driven executive with 8+ years of experience in driving business growth and profitability."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 91.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven executive with 8+ years of experience in driving business growth and profitability.",
+        "Led and managed a team to achieve organizational objectives (although we missed our quarterly targets by 20%)",
+        "Proven track record of leading high-performing teams and building strong relationships with key stakeholders.",
+        "Skilled in financial planning, budgeting, and forecasting, with proficiency in Excel and SAP."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Lead and manage a high-performing executive team to achieve organizational objectives",
+      "evidence": [
+        "Led and managed a team to achieve organizational objectives (although we missed our quarterly targets by 20%)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Foster strong relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "Proven track record of leading high-performing teams and building strong relationships with key stakeholders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of driving business growth and profitability",
+      "evidence": [
+        "Proven track record of leading high-performing teams and building strong relationships with key stakeholders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement strategic plans to drive business growth and profitability",
+      "evidence": [
+        "\"Results-driven executive with 8+ years of experience in driving business growth and profitability."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to build strong relationships with key stakeholders",
+      "evidence": [
+        "Proven track record of leading high-performing teams and building strong relationships with key stakeholders."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Oversee financial planning, budgeting, and forecasting to ensure alignment with company goals",
+      "evidence": [
+        "Skilled in financial planning, budgeting, and forecasting, with proficiency in Excel and SAP."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Make informed decisions on major investments, acquisitions, and divestitures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with regulatory requirements and maintain a culture of integrity and ethics",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute plans for innovation and R&D to stay competitive in the market",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and implemented strategic plans to drive business growth (but did not achieve desired ROI)",
+      "severity": "high"
+    },
+    {
+      "requirement": "MBA preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Strong leadership and management skills, with ability to motivate and inspire high-performing teams",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Proven track record of leading high-performing teams and building strong relationships with key stakeholders.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to make informed decisions under pressure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven executive with 8+ years of experience in driving business growth and profitability.",
+      "supports": "Develop and implement strategic plans to drive business growth and profitability"
+    },
+    {
+      "source": "resume",
+      "quote": "Led and managed a team to achieve organizational objectives (although we missed our quarterly targets by 20%)",
+      "supports": "Lead and manage a high-performing executive team to achieve organizational objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of leading high-performing teams and building strong relationships with key stakeholders.",
+      "supports": "Foster strong relationships with key stakeholders, including investors, customers, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in financial planning, budgeting, and forecasting, with proficiency in Excel and SAP.",
+      "supports": "Oversee financial planning, budgeting, and forecasting to ensure alignment with company goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "supports": "Ensure compliance with regulatory requirements and maintain a culture of integrity and ethics"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

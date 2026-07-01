@@ -1,0 +1,163 @@
+{
+  "job_title": "Hosts and Hostesses",
+  "case_slug": "hosts-and-hostesses-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:01.791775",
+  "match_score": 53.29,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.2,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists.",
+        "Additionally, while I provided excellent customer service, I did not have direct experience managing waitlists or dealing with complex seating arrangements for large groups.",
+        "Greeted an average of 50 guests per shift, consistently meeting or exceeding daily targets",
+        "Demonstrated strong communication skills with servers, bartenders, and kitchen staff to ensure seamless service"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 99.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.2,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists.",
+        "Additionally, while I provided excellent customer service, I did not have direct experience managing waitlists or dealing with complex seating arrangements for large groups.",
+        "Greeted an average of 50 guests per shift, consistently meeting or exceeding daily targets",
+        "Demonstrated strong communication skills with servers, bartenders, and kitchen staff to ensure seamless service"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 77.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists.",
+        "Additionally, while I provided excellent customer service, I did not have direct experience managing waitlists or dealing with complex seating arrangements for large groups.",
+        "Greeted an average of 50 guests per shift, consistently meeting or exceeding daily targets",
+        "Demonstrated strong communication skills with servers, bartenders, and kitchen staff to ensure seamless service"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Ensure seamless service by communicating effectively with servers, bartenders, and kitchen staff",
+      "evidence": [
+        "Demonstrated strong communication skills with servers, bartenders, and kitchen staff to ensure seamless service"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Hosts and Hostesses**",
+      "evidence": [
+        "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Manage seating arrangements, table assignments, and waitlists",
+      "evidence": [
+        "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain a clean and organized hostess stand area",
+      "evidence": [
+        "Skilled in multitasking, prioritizing tasks, and maintaining a clean hostess stand area."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "I'm excited to bring my strong communication and interpersonal skills to a new role and continue to grow and develop as a Hosts and Hostesses.\""
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Greet guests warmly and efficiently check them in",
+      "evidence": [
+        "Greeted an average of 50 guests per shift, consistently meeting or exceeding daily targets"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** HH-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** [Simulated Company Name]",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time, Hourly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Simulated Company Name] is a leading hospitality company with a passion for delivering exceptional customer experiences.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I provided excellent customer service, I did not have direct experience managing waitlists or dealing with complex seating arrangements for large groups.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Handle cash, credit card transactions, and process payments accurately",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to develop my math skills in a fast-paced environment, as our restaurant's cash handling system was automated.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Basic math skills and accuracy with handling cash and credit transactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have the opportunity to develop my math skills in a fast-paced environment, as our restaurant's cash handling system was automated.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists.",
+      "supports": "Hosts and Hostesses**"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, while I provided excellent customer service, I did not have direct experience managing waitlists or dealing with complex seating arrangements for large groups.",
+      "supports": "[Simulated Company Name] is a leading hospitality company with a passion for delivering exceptional customer experiences."
+    },
+    {
+      "source": "resume",
+      "quote": "Greeted an average of 50 guests per shift, consistently meeting or exceeding daily targets",
+      "supports": "Greet guests warmly and efficiently check them in"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Hosts and Hostesses with experience in managing seating arrangements and waitlists.",
+      "supports": "Manage seating arrangements, table assignments, and waitlists"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong communication skills with servers, bartenders, and kitchen staff to ensure seamless service",
+      "supports": "Ensure seamless service by communicating effectively with servers, bartenders, and kitchen staff"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

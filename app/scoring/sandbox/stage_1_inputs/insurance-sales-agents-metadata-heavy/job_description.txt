@@ -1,0 +1,37 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional remote work)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Occasional travel to industry conferences and training events (up to 10% of the time)
+* Sponsorship: Company-sponsored relocation assistance available for selected candidates
+* Security Clearance: Not required, but a valid passport is necessary for occasional remote work
+
+**Job Description:**
+
+We are seeking an experienced Stress Test Engineer - Scoring Engine to join our team. As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to ensure the reliability and performance of our scoring engine.
+
+**Responsibilities:**
+
+* Design and execute stress testing scenarios to identify potential bottlenecks and areas for improvement in the scoring engine
+* Collaborate with cross-functional teams, including engineering, product management, and operations, to understand system requirements and develop test plans
+* Develop and maintain a comprehensive understanding of the scoring engine's architecture, data flows, and performance characteristics
+* Execute stress testing scenarios using various tools and techniques, including load testing, performance testing, and endurance testing
+* Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement
+* Work closely with the development team to reproduce issues found during testing and collaborate on resolving them
+* Develop and maintain a library of reusable test scripts and frameworks to improve efficiency and reduce testing time
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering, preferably in a metadata-heavy environment
+* Strong understanding of software architecture, data structures, and algorithms
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools, such as Apache JMeter or Gatling
+* Knowledge of performance testing frameworks, such as Selenium or Cypress
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop creative solutions
+* Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams
+* Bachelor's degree in Computer Science, Engineering, or a related field

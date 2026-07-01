@@ -1,0 +1,24 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**Job Title:** Packaging and Filling Machine Operator
+
+**Summary:**
+
+Detail-oriented individual seeking a role as a packaging and filling machine operator. Proficient in operating machines, maintaining equipment, and following procedures.
+
+**Experience:**
+
+* Operated a 3D printer for personal projects
+* Maintained a small CNC mill for hobby use
+* Assisted with data analysis using Excel
+
+**Skills:**
+
+* PLC programming (Ladder Logic)
+* CAD design tools (Autodesk Inventor)
+
+**Education:**
+
+* Completed coursework in robotics and automation
+
+This resume snippet lacks the required skills, experience, and education to match the job description. The scorer must avoid matched/missing contradictions by not including Java, Python, C++, MATLAB, SolidWorks, Autodesk Inventor, 3D printing software, CAD design tools, PLC programming languages, SCADA systems, robotics programming languages, data analysis software, quality control software, lean manufacturing principles, and Six Sigma certification.

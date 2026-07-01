@@ -1,0 +1,31 @@
+Here's a weak and scope-mismatch resume snippet for an HVAC Mechanics and Installer position, lacking enterprise scope:
+
+**John Doe**
+**HVAC Mechanic & Installer**
+
+**Contact Info:**
+
+* Phone: 555-555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary:**
+Highly skilled HVAC mechanic with experience in installing and maintaining heating, ventilation, and air conditioning systems. Proficient in using various tools and equipment to ensure efficient system performance.
+
+**Work Experience:**
+
+* **HVAC Mechanic**, ABC Company (2018-Present)
+	+ Installed and maintained HVAC systems in residential and commercial settings
+	+ Performed routine maintenance tasks, including filter replacements and system cleanings
+	+ Utilized hand tools and power equipment to complete tasks efficiently
+* **Freelance HVAC Technician** (2015-2018)
+	+ Completed HVAC installations and repairs for various clients
+	+ Developed strong problem-solving skills through hands-on experience with complex systems
+
+**Skills:**
+
+* HVAC system installation and maintenance
+* Troubleshooting and repair of heating, ventilation, and air conditioning systems
+* Use of hand tools and power equipment
+* Basic electrical knowledge (not applicable to stress testing)
+
+Note that this resume snippet lacks the essential domain qualifier "Software/SaaS" and omits any experience with industry-standard tools or techniques related to stress testing. The scope qualifiers for cloud-based infrastructure, containerization technologies, and DevOps practices are also not present.

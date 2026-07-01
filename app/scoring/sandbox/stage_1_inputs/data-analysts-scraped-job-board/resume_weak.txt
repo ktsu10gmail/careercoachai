@@ -1,0 +1,42 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Data Analyst**
+
+**Contact Information:**
+
+* Phone: 555-555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated and detail-oriented data analyst with experience in SQL, Python, and R. Proficient in data visualization tools like Tableau.
+
+**Technical Skills:**
+
+* Programming languages: Python, R
+* Databases: MySQL, PostgreSQL
+* Data visualization tools: Tableau
+* Operating Systems: Windows, Linux
+
+**Experience:**
+
+* **Data Analyst**, Small Business (2018-Present)
+	+ Analyzed customer data to identify trends and insights using SQL and Python.
+	+ Created data visualizations using Tableau to communicate findings to stakeholders.
+	+ Collaborated with cross-functional teams to develop solutions for business needs.
+* **Freelance Data Analyst** (2015-2018)
+	+ Worked on various projects, including data analysis and visualization for clients.
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015)
+
+This resume snippet lacks enterprise scope by:
+
+* Not mentioning experience with large-scale databases or complex data sets
+* Not highlighting any experience with cloud-based technologies or big data platforms
+* Not showcasing expertise in machine learning or advanced statistical modeling techniques
+* Not including any certifications or relevant coursework in data science or analytics
+
+However, the candidate has some adjacent low-level tools skills, such as proficiency in SQL, Python, and R, which could be beneficial for a Data Analyst role.

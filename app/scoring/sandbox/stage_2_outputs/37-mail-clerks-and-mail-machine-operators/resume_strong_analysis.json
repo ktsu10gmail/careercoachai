@@ -1,0 +1,137 @@
+{
+  "job_title": "37. Mail Clerks and Mail Machine Operators",
+  "case_slug": "37-mail-clerks-and-mail-machine-operators",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:49.094705",
+  "match_score": 65.81,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 69.3,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Mail Clerk & Mail Machine Operator",
+        "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed.",
+        "Highly detail-oriented and organized professional with 2+ years of experience in mail processing, seeking a challenging role that leverages my expertise in postal procedures, equipment operation, and customer service.",
+        "Basic knowledge of postal procedures and regulations, with ongoing training to stay up-to-date on industry developments."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 51.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 69.3,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Mail Clerk & Mail Machine Operator",
+        "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed.",
+        "Highly detail-oriented and organized professional with 2+ years of experience in mail processing, seeking a challenging role that leverages my expertise in postal procedures, equipment operation, and customer service.",
+        "Basic knowledge of postal procedures and regulations, with ongoing training to stay up-to-date on industry developments."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Mail Clerk & Mail Machine Operator",
+        "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed.",
+        "Highly detail-oriented and organized professional with 2+ years of experience in mail processing, seeking a challenging role that leverages my expertise in postal procedures, equipment operation, and customer service.",
+        "Basic knowledge of postal procedures and regulations, with ongoing training to stay up-to-date on industry developments."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operates postal equipment such as mail sorters, scanners, and postage meters",
+      "evidence": [
+        "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintains accurate records of mail processing, including tracking numbers and delivery confirmations",
+      "evidence": [
+        "Highly detail-oriented and organized professional with 2+ years of experience in mail processing, seeking a challenging role that leverages my expertise in postal procedures, equipment operation, and customer service."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic knowledge of postal procedures and regulations",
+      "evidence": [
+        "Basic knowledge of postal procedures and regulations, with ongoing training to stay up-to-date on industry developments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to operate postal equipment, including manual sorters and scanners",
+      "evidence": [
+        "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "evidence": [
+        "Strong attention to detail and organizational skills, ensuring accurate processing and timely delivery of mail."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "evidence": [
+        "Excellent communication and customer service skills, with a proven track record of providing exceptional support to internal and external customers."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Familiarity with barcode scanning technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Mail Clerk & Mail Machine Operator",
+      "supports": "Sorts and processes incoming and outgoing mail, packages, and parcels according to established procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed.",
+      "supports": "Operates postal equipment such as mail sorters, scanners, and postage meters"
+    },
+    {
+      "source": "resume",
+      "quote": "Mail Clerk & Mail Machine Operator",
+      "supports": "Reads and interprets mail labels, addresses, and barcodes to ensure accurate sorting and delivery"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and organized professional with 2+ years of experience in mail processing, seeking a challenging role that leverages my expertise in postal procedures, equipment operation, and customer service.",
+      "supports": "Maintains accurate records of mail processing, including tracking numbers and delivery confirmations"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated various postal equipment, including manual sorters, scanners, and postage meters, with precision and speed.",
+      "supports": "Assists with mail-related tasks, such as addressing envelopes, affixing postage, and preparing packages for shipping"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

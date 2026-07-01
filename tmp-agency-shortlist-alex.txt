@@ -1,0 +1,9 @@
+Alex Morgan
+alex.shortlist@example.com
+(555) 210-1100
+San Jose, CA
+
+Backend platform engineer with experience in Python, FastAPI, PostgreSQL,
+Docker, API design, monitoring, CI/CD, and incident response. Built internal
+workflow services, improved API reliability, and partnered with product and
+customer teams to ship integrations.

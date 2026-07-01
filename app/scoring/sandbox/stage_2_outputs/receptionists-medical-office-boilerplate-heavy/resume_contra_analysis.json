@@ -1,0 +1,170 @@
+{
+  "job_title": "Receptionists (Medical/Office)",
+  "case_slug": "receptionists-medical-office-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.927663",
+  "match_score": 50.09,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.8,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet highlights the candidate's strengths while also explicitly mentioning areas where they did not meet the higher-scope requirements of the job description.",
+        "Managed front desk operations, including answering phone calls and responding to patient inquiries",
+        "Processed payments and managed billing and insurance claims with 95% accuracy rate",
+        "Maintained accurate records and files, both physical and electronic (with some minor discrepancies in data entry accuracy)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 59.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Provided exceptional customer service to patients, families, and healthcare professionals (although there were a few instances of miscommunication due to language barriers)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet highlights the candidate's strengths while also explicitly mentioning areas where they did not meet the higher-scope requirements of the job description.",
+        "Managed front desk operations, including answering phone calls and responding to patient inquiries",
+        "Processed payments and managed billing and insurance claims with 95% accuracy rate",
+        "Maintained accurate records and files, both physical and electronic (with some minor discrepancies in data entry accuracy)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments",
+      "evidence": [
+        "Managed front desk operations, including answering phone calls and responding to patient inquiries"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service to patients, families, and healthcare professionals",
+      "evidence": [
+        "Provided exceptional customer service to patients, families, and healthcare professionals (although there were a few instances of miscommunication due to language barriers)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records and files, both physical and electronic",
+      "evidence": [
+        "Maintained accurate records and files, both physical and electronic (with some minor discrepancies in data entry accuracy)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Process payments and manage billing and insurance claims",
+      "evidence": [
+        "Processed payments and managed billing and insurance claims with 95% accuracy rate"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package, including",
+      "evidence": [
+        "Managed front desk operations, including answering phone calls and responding to patient inquiries"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "Processed payments and managed billing and insurance claims with 95% accuracy rate"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We strive to create a culture of excellence, where every employee feels valued, supported, and empowered to make a positive impact.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet highlights the candidate's strengths while also explicitly mentioning areas where they did not meet the higher-scope requirements of the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Generous paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and identities.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet highlights the candidate's strengths while also explicitly mentioning areas where they did not meet the higher-scope requirements of the job description.",
+      "supports": "We strive to create a culture of excellence, where every employee feels valued, supported, and empowered to make a positive impact."
+    },
+    {
+      "source": "resume",
+      "quote": "Managed front desk operations, including answering phone calls and responding to patient inquiries",
+      "supports": "We offer a comprehensive benefits package, including"
+    },
+    {
+      "source": "resume",
+      "quote": "Processed payments and managed billing and insurance claims with 95% accuracy rate",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed front desk operations, including answering phone calls and responding to patient inquiries",
+      "supports": "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records and files, both physical and electronic (with some minor discrepancies in data entry accuracy)",
+      "supports": "Maintain accurate records and files, both physical and electronic"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

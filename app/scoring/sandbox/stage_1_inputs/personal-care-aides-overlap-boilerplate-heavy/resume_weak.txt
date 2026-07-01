@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Info**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary**
+
+High school graduate with experience in basic computer skills and personal care. Seeking a Personal Care Aide position where I can apply my skills to support individuals.
+
+**Work Experience**
+
+* **Personal Assistant**, Local Non-Profit (2018-2020)
+ + Assisted clients with daily living activities, such as meal preparation
+ + Maintained accurate records of client interactions using Microsoft Excel
+ + Developed basic computer skills using Windows and Google Suite
+* **IT Support Specialist**, Small Business (2015-2018)
+ + Resolved hardware issues using online troubleshooting guides
+ + Installed software updates on personal devices
+
+**Education**
+
+* **High School Diploma**, Local High School (2015)
+
+**Skills**
+
+* Basic computer skills (Windows, Google Suite)
+* Personal care experience (meal preparation, daily living activities)
+* Microsoft Excel proficiency

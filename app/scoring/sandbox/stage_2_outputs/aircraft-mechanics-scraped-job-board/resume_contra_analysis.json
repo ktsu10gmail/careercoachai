@@ -1,0 +1,158 @@
+{
+  "job_title": "Aircraft Mechanics",
+  "case_slug": "aircraft-mechanics-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.060988",
+  "match_score": 25.68,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 9.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)",
+        "Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 9.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)",
+        "Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 34.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)",
+        "Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute test plans to simulate extreme temperatures, pressures, and vibrations",
+      "evidence": [
+        "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain accurate records of test results and recommendations for improvement",
+      "evidence": [
+        "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Aircraft Mechanic - Stress Test**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** AMT-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** SkyTech Aviation Services",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating extreme operating conditions to identify potential issues and ensure the reliability of our aircraft engines.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough inspections and testing of aircraft engines under various operating conditions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor engine performance and make adjustments as needed to achieve optimal results",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience as an Aircraft Mechanic or in a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of aircraft engine systems, including fuel systems, cooling systems, and electrical systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with stress testing and simulation techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)",
+      "supports": "Develop and execute test plans to simulate extreme temperatures, pressures, and vibrations"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques",
+      "supports": "Monitor engine performance and make adjustments as needed to achieve optimal results"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed test plans to simulate moderate temperatures, pressures, and vibrations (2+ years of experience)",
+      "supports": "Maintain accurate records of test results and recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques",
+      "supports": "Experience with stress testing and simulation techniques"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong analytical skills in troubleshooting engine issues, but did not have experience with stress testing or simulation techniques",
+      "supports": "Excellent analytical and problem-solving skills"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

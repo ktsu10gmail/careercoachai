@@ -1,0 +1,163 @@
+{
+  "job_title": "Marketing Managers",
+  "case_slug": "marketing-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.647937",
+  "match_score": 62.69,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 8 direct, 0 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and executed digital marketing campaigns using tools like Google Analytics, Excel, and social media advertising platforms (Facebook Ads)",
+        "Led a team of 2-3 marketing professionals, providing guidance and performance feedback",
+        "Analyzed market trends and competitor activity using data analytics tools",
+        "It also does not mention leading a team of 3-5 marketing professionals or creating and maintaining a comprehensive marketing calendar."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "led",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed market trends and competitor activity using data analytics tools",
+        "This resume snippet lacks the required 5+ years of experience, proven track record of driving revenue growth, and specific technical skills such as marketing automation platforms, CRM systems, SEO best practices, and content management syst"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and executed digital marketing campaigns using tools like Google Analytics, Excel, and social media advertising platforms (Facebook Ads)",
+        "Led a team of 2-3 marketing professionals, providing guidance and performance feedback",
+        "Analyzed market trends and competitor activity using data analytics tools",
+        "It also does not mention leading a team of 3-5 marketing professionals or creating and maintaining a comprehensive marketing calendar."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute comprehensive marketing strategies to drive brand awareness and sales growth across multiple channels (digital, social media, email, events)",
+      "evidence": [
+        "Developed and executed digital marketing campaigns using tools like Google Analytics, Excel, and social media advertising platforms (Facebook Ads)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Lead a team of 3-5 marketing professionals, providing guidance, mentorship, and performance feedback",
+      "evidence": [
+        "Led a team of 2-3 marketing professionals, providing guidance and performance feedback"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions",
+      "evidence": [
+        "Analyzed market trends and competitor activity using data analytics tools"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in marketing management, preferably in a B2B or consumer goods industry",
+      "evidence": [
+        "3+ years of experience in marketing management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of digital marketing channels (paid social, email, search engine optimization)",
+      "evidence": [
+        "Digital marketing channels (paid social, email)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent project management and leadership skills, with ability to motivate and guide team members",
+      "evidence": [
+        "Project management and leadership skills"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage and optimize marketing budgets, ensuring ROI and efficiency",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and maintain a comprehensive marketing calendar, tracking progress and adjusting strategies as needed",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: It also does not mention leading a team of 3-5 marketing professionals or creating and maintaining a comprehensive marketing calendar.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of driving revenue growth through effective marketing strategies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of driving revenue growth, and specific technical skills such as marketing automation platforms, CRM systems, SEO best practices, and content management syst",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with marketing automation platforms (Marketo, Pardot) and CRM systems (Salesforce)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of driving revenue growth, and specific technical skills such as marketing automation platforms, CRM systems, SEO best practices, and content management syst",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of SEO best practices and content management systems (WordPress, Drupal)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 5+ years of experience, proven track record of driving revenue growth, and specific technical skills such as marketing automation platforms, CRM systems, SEO best practices, and content management syst",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in Google Analytics or HubSpot Inbound Marketing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and executed digital marketing campaigns using tools like Google Analytics, Excel, and social media advertising platforms (Facebook Ads)",
+      "supports": "Develop and execute comprehensive marketing strategies to drive brand awareness and sales growth across multiple channels (digital, social media, email, events)"
+    },
+    {
+      "source": "resume",
+      "quote": "Led a team of 2-3 marketing professionals, providing guidance and performance feedback",
+      "supports": "Lead a team of 3-5 marketing professionals, providing guidance, mentorship, and performance feedback"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed market trends and competitor activity using data analytics tools",
+      "supports": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "It also does not mention leading a team of 3-5 marketing professionals or creating and maintaining a comprehensive marketing calendar.",
+      "supports": "Create and maintain a comprehensive marketing calendar, tracking progress and adjusting strategies as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in marketing management",
+      "supports": "5+ years of experience in marketing management, preferably in a B2B or consumer goods industry"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

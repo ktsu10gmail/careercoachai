@@ -1,0 +1,157 @@
+{
+  "job_title": "Editors / Proofreaders",
+  "case_slug": "editors-proofreaders-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.003130",
+  "match_score": 44.54,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+        "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing.",
+        "+ Developed and maintained documentation of testing procedures and test results",
+        "Note that this resume snippet does not mention the candidate's experience with scoring engines or machine learning models, which are required skills for the job."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+        "Note that this resume snippet does not mention the candidate's experience with scoring engines or machine learning models, which are required skills for the job."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+        "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing.",
+        "+ Developed and maintained documentation of testing procedures and test results",
+        "Note that this resume snippet does not mention the candidate's experience with scoring engines or machine learning models, which are required skills for the job."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test plans, and test results",
+      "evidence": [
+        "+ Developed and maintained documentation of testing procedures and test results"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Python, Java, and Docker, with strong problem-solving skills and attention to detail."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "evidence": [
+        "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "evidence": [
+        "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and meetups (up to 2 weeks per year)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company will provide sponsorship for visa applications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines and their components (e.g., machine learning models, natural language processing)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention the candidate's experience with scoring engines or machine learning models, which are required skills for the job.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+      "supports": "Security Clearance: Top Secret clearance required"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, it does not mention any experience with Kubernetes or Top Secret clearance, which are also mentioned in the job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing.",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated software engineer with 3+ years of experience in performance engineering and stress testing.",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

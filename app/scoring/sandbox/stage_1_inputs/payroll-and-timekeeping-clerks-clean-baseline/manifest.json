@@ -1,0 +1,21 @@
+{
+  "job_title": "Payroll and Timekeeping Clerks",
+  "case_slug": "payroll-and-timekeeping-clerks-clean-baseline",
+  "scenario": "clean_baseline",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:12:14.492358",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

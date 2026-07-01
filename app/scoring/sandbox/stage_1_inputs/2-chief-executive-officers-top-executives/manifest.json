@@ -1,0 +1,20 @@
+{
+  "job_title": "2. Chief Executive Officers / Top Executives",
+  "case_slug": "2-chief-executive-officers-top-executives",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:18:33.191118",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "job_title": "Supply Chain Managers / Logisticians",
+  "case_slug": "supply-chain-managers-logisticians-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:10.325489",
+  "match_score": 50.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.6,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels",
+        "Developed and implemented supply chain strategies that aligned with business objectives (although these were largely reactive in nature)",
+        "Collaborated with cross-functional teams to identify and mitigate supply chain risks, but often found that internal stakeholders were not responsive or communicative",
+        "Conducted regular reviews of supply chain performance data, but did not have the authority to make changes or implement improvements"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular reviews of supply chain performance data, but did not have the authority to make changes or implement improvements",
+        "Implemented and enforced compliance with regulatory requirements and company policies (although this was largely a solo effort)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels",
+        "Developed and implemented supply chain strategies that aligned with business objectives (although these were largely reactive in nature)",
+        "Collaborated with cross-functional teams to identify and mitigate supply chain risks, but often found that internal stakeholders were not responsive or communicative",
+        "Conducted regular reviews of supply chain performance data, but did not have the authority to make changes or implement improvements"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement supply chain strategies that align with business objectives",
+      "evidence": [
+        "Developed and implemented supply chain strategies that aligned with business objectives (although these were largely reactive in nature)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and coordinate the transportation of goods, including arranging for shipments and tracking inventory levels",
+      "evidence": [
+        "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement and enforce compliance with regulatory requirements and company policies",
+      "evidence": [
+        "Implemented and enforced compliance with regulatory requirements and company policies (although this was largely a solo effort)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills, with ability to work effectively with cross-functional teams",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and mitigate supply chain risks, but often found that internal stakeholders were not responsive or communicative"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our logistics team, you will be responsible for ensuring the efficient and effective movement of goods, services, and information from raw materials to end custo",
+      "evidence": [
+        "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze and optimize logistics operations to improve efficiency and reduce costs",
+      "evidence": [
+        "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Supply Chain Manager/Logistician",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular reviews of supply chain performance data to identify areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular reviews of supply chain performance data, but did not have the authority to make changes or implement improvements",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of supply chain principles, including demand planning, inventory management, and transportation management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong knowledge of transportation management systems (TMS) and global trade compliance regulations (although I've only used them in a limited capacity)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular reviews of supply chain performance data, but did not have the authority to make changes or implement improvements",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels",
+      "supports": "As a key member of our logistics team, you will be responsible for ensuring the efficient and effective movement of goods, services, and information from raw materials to end custo"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented supply chain strategies that aligned with business objectives (although these were largely reactive in nature)",
+      "supports": "Develop and implement supply chain strategies that align with business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels",
+      "supports": "Analyze and optimize logistics operations to improve efficiency and reduce costs"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day logistics operations, including coordinating shipments and tracking inventory levels",
+      "supports": "Manage and coordinate the transportation of goods, including arranging for shipments and tracking inventory levels"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and mitigate supply chain risks, but often found that internal stakeholders were not responsive or communicative",
+      "supports": "Develop and maintain relationships with suppliers, carriers, and other stakeholders to ensure seamless communication and collaboration"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

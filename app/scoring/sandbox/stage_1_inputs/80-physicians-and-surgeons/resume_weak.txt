@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet for an 80-year-old Physician and Surgeon:
+
+"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care. Skilled in ordering lab work and interpreting imaging studies. Proficient in using low-level tools such as a microscope and a thermometer.
+
+Education:
+
+* Bachelor's degree in biology from XYZ University (1975)
+* Doctor of Medicine (M.D.) degree from ABC Medical School (1980)
+
+Experience:
+
+* Primary Care Physician, Private Practice (1980-2010)
+* Part-time Instructor, Local Community College (2005-2015)
+
+Skills:
+
+* Strong communication and interpersonal skills
+* Ability to work effectively in a fast-paced environment
+* Proficient in using low-level EMR systems, such as Meditech
+
+Certifications:
+
+* Board Certified in Family Medicine (1985)
+* Basic Life Support Certification (2010)"
+
+This resume snippet is weak or scope-mismatch because it:
+
+* Lacks relevant experience and skills for an 80-year-old Physician and Surgeon
+* Does not mention any advanced medical procedures, certifications, or specialized knowledge
+* Uses outdated EMR systems and lacks proficiency in modern electronic medical records systems
+* Does not highlight the candidate's ability to work effectively in a fast-paced environment, which is a critical requirement for this role

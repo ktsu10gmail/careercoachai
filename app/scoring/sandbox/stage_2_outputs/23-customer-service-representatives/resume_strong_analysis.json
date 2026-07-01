@@ -1,0 +1,141 @@
+{
+  "job_title": "23. Customer Service Representatives",
+  "case_slug": "23-customer-service-representatives",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:47.808950",
+  "match_score": 82.06,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.2,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Respond to customer inquiries via phone, email, and chat within a 2-hour response time frame, ensuring timely resolution of issues and exceeding daily sales targets of $12,000.",
+        "Customer Service Representative",
+        "Utilized Salesforce CRM software to maintain accurate records of customer interactions and order history, resulting in a 25% reduction in data entry errors.",
+        "Participated in regular team meetings and training sessions, staying up-to-date on product knowledge and industry trends to provide expert-level support to customers."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 76.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Customer Service Representative",
+        "Proficient in Salesforce CRM software and Microsoft Office Suite (Word, Excel, Outlook), with experience working in fast-paced environments with multiple priorities and deadlines."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 77.9,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Respond to customer inquiries via phone, email, and chat within a 2-hour response time frame, ensuring timely resolution of issues and exceeding daily sales targets of $12,000.",
+        "Customer Service Representative",
+        "Utilized Salesforce CRM software to maintain accurate records of customer interactions and order history, resulting in a 25% reduction in data entry errors.",
+        "Participated in regular team meetings and training sessions, staying up-to-date on product knowledge and industry trends to provide expert-level support to customers."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Respond to customer inquiries via phone, email, and chat within a 2-hour response time frame, ensuring timely resolution of issues and exceeding daily sales targets of $12,000.",
+        "Customer Service Representative",
+        "Utilized Salesforce CRM software to maintain accurate records of customer interactions and order history, resulting in a 25% reduction in data entry errors.",
+        "Participated in regular team meetings and training sessions, staying up-to-date on product knowledge and industry trends to provide expert-level support to customers."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to customer inquiries via phone, email, and chat within a 4-hour response time frame",
+      "evidence": [
+        "Respond to customer inquiries via phone, email, and chat within a 2-hour response time frame, ensuring timely resolution of issues and exceeding daily sales targets of $12,000."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of customer interactions and order history using CRM software (Salesforce)",
+      "evidence": [
+        "Utilized Salesforce CRM software to maintain accurate records of customer interactions and order history, resulting in a 25% reduction in data entry errors."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "evidence": [
+        "Excellent communication and problem-solving skills, with a strong focus on delivering exceptional customer experiences."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (Salesforce) and Microsoft Office Suite (Word, Excel, Outlook)",
+      "evidence": [
+        "Proficient in Salesforce CRM software and Microsoft Office Suite (Word, Excel, Outlook), with experience working in fast-paced environments with multiple priorities and deadlines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "evidence": [
+        "Strong attention to detail and organizational skills, with a proven track record of accuracy and efficiency in data entry and order processing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience working in the retail or e-commerce industry preferred",
+      "evidence": [
+        "Proficient in Salesforce CRM software and Microsoft Office Suite (Word, Excel, Outlook), with experience working in fast-paced environments with multiple priorities and deadlines."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Respond to customer inquiries via phone, email, and chat within a 2-hour response time frame, ensuring timely resolution of issues and exceeding daily sales targets of $12,000.",
+      "supports": "Respond to customer inquiries via phone, email, and chat within a 4-hour response time frame"
+    },
+    {
+      "source": "resume",
+      "quote": "Customer Service Representative",
+      "supports": "Resolve customer complaints and issues in a timely and professional manner, escalating complex issues to senior team members as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Customer Service Representative",
+      "supports": "Process customer orders and payments accurately and efficiently, meeting daily sales targets of $10,000"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized Salesforce CRM software to maintain accurate records of customer interactions and order history, resulting in a 25% reduction in data entry errors.",
+      "supports": "Maintain accurate records of customer interactions and order history using CRM software (Salesforce)"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in regular team meetings and training sessions, staying up-to-date on product knowledge and industry trends to provide expert-level support to customers.",
+      "supports": "Participate in regular team meetings and training sessions to stay up-to-date on product knowledge and industry trends"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

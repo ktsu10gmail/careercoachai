@@ -1,0 +1,32 @@
+Here's a contra-evidence resume snippet:
+
+Help Desk Technician Candidate
+
+Summary:
+Highly motivated and detail-oriented technical support professional seeking to leverage my strong communication skills and technical expertise to drive customer satisfaction.
+
+Experience:
+
+* Help Desk Technician, XYZ Corporation (20XX-20XX)
+ + Responded to and resolved technical issues via phone, email, and chat for internal and external customers
+ + Utilized diagnostic tools such as HP ProCurve network analyzers to troubleshoot hardware and software problems
+ + Collaborated with internal teams to resolve complex technical issues, although I did not have direct involvement in process improvements
+ + Documented customer interactions in a help desk management system (e.g. ServiceNow), but did not track customer satisfaction metrics or analyze ticket resolution rates
+ + Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides
+ + Participated in regular team meetings, but did not contribute to the development of process improvements or implement changes
+
+Education:
+
+* Bachelor's Degree in Computer Science, ABC University (20XX-20XX)
+
+Skills:
+
+* Strong technical skills in Windows, macOS, and Linux operating systems; familiarity with cloud-based services (e.g. Office 365, Google Workspace)
+* Excellent communication and problem-solving skills
+* Ability to work in a fast-paced environment and prioritize multiple tasks simultaneously
+
+Certifications:
+
+* CompTIA A+ certification, although I did not maintain the certification through ongoing education or professional development.
+
+Note: This resume snippet highlights the candidate's relevant skills and experience while also explicitly stating that they did not perform certain higher-scope requirements, such as process improvements, knowledge base articles, or agile project management methodologies.

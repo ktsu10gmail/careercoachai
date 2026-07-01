@@ -1,0 +1,163 @@
+{
+  "job_title": "66. Public Relations Specialists",
+  "case_slug": "66-public-relations-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.254169",
+  "match_score": 63.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.5,
+      "reason": "Found 5 direct, 3 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Public Relations Specialists job title:",
+        "Developed and implemented comprehensive PR campaigns that secured press coverage for key events and announcements, resulting in [X] media impressions and [Y]% increase in brand awareness.",
+        "Crafted and disseminated press releases, media advisories, and other written materials to support PR efforts, with a focus on [specific industry or topic].",
+        "In terms of crisis communications software, I have used [similar tool] to manage crisis communications efforts, but I do not have experience with Crisis Communications Management specifically."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 47.5,
+      "reason": "Found 5 direct, 3 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Public Relations Specialists job title:",
+        "Developed and implemented comprehensive PR campaigns that secured press coverage for key events and announcements, resulting in [X] media impressions and [Y]% increase in brand awareness.",
+        "Crafted and disseminated press releases, media advisories, and other written materials to support PR efforts, with a focus on [specific industry or topic].",
+        "In terms of crisis communications software, I have used [similar tool] to manage crisis communications efforts, but I do not have experience with Crisis Communications Management specifically."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Public Relations Specialists job title:",
+        "Developed and implemented comprehensive PR campaigns that secured press coverage for key events and announcements, resulting in [X] media impressions and [Y]% increase in brand awareness.",
+        "Crafted and disseminated press releases, media advisories, and other written materials to support PR efforts, with a focus on [specific industry or topic].",
+        "In terms of crisis communications software, I have used [similar tool] to manage crisis communications efforts, but I do not have experience with Crisis Communications Management specifically."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct media outreach and secure press coverage for key events, announcements, and initiatives",
+      "evidence": [
+        "Developed and implemented comprehensive PR campaigns that secured press coverage for key events and announcements, resulting in [X] media impressions and [Y]% increase in brand awareness."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Craft and disseminate press releases, media advisories, and other written materials to support PR efforts",
+      "evidence": [
+        "Crafted and disseminated press releases, media advisories, and other written materials to support PR efforts, with a focus on [specific industry or topic]."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in public relations, with a focus on corporate communications",
+      "evidence": [
+        "Public Relations Specialists job title:"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of media relations, crisis communications, and social media strategy",
+      "evidence": [
+        "\"Results-driven public relations professional with 5+ years of experience in corporate communications, seeking to leverage my expertise in media relations and crisis communications to drive organizational success."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of social media management platforms, including Hootsuite, Sprout Social, or similar tools",
+      "evidence": [
+        "While I have experience with social media strategy, my primary focus has been on traditional media relations and crisis communications, rather than social media management platforms."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive public relations campaigns to promote organizational image and reputation",
+      "evidence": [
+        "Public Relations Specialists job title:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage crisis communications and respond to inquiries from the media, public, and stakeholders",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: In terms of crisis communications software, I have used [similar tool] to manage crisis communications efforts, but I do not have experience with Crisis Communications Management specifically.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Public Relations, Communications, Journalism, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I do not possess certification in public relations, as I am currently pursuing [related field or training].",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent writing, editing, and verbal communication skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with content management systems, such as WordPress or Drupal",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Public Relations Specialists job title:",
+      "supports": "Develop and implement comprehensive public relations campaigns to promote organizational image and reputation"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive PR campaigns that secured press coverage for key events and announcements, resulting in [X] media impressions and [Y]% increase in brand awareness.",
+      "supports": "Conduct media outreach and secure press coverage for key events, announcements, and initiatives"
+    },
+    {
+      "source": "resume",
+      "quote": "Crafted and disseminated press releases, media advisories, and other written materials to support PR efforts, with a focus on [specific industry or topic].",
+      "supports": "Craft and disseminate press releases, media advisories, and other written materials to support PR efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "In terms of crisis communications software, I have used [similar tool] to manage crisis communications efforts, but I do not have experience with Crisis Communications Management specifically.",
+      "supports": "Manage crisis communications and respond to inquiries from the media, public, and stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven public relations professional with 5+ years of experience in corporate communications, seeking to leverage my expertise in media relations and crisis communications to drive organizational success.",
+      "supports": "Analyze media coverage and track key metrics to assess campaign effectiveness"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,7 @@
+Here's a weak or scope-mismatch resume snippet for a Web Developer position:
+
+"Front-end developer with 2 years of experience building responsive websites using HTML5 and CSS3. Proficient in JavaScript and has worked on several small-scale projects, including a personal blog and a few freelance gigs. Familiar with Git version control system.
+
+Experience with Jira project management tool and basic understanding of Agile development methodologies. Strong understanding of web security best practices, but no experience with secure coding standards or compliance.
+
+Familiarity with AWS cloud platform, but only used it for a single small-scale project. No experience with back-end programming languages, database management systems, or testing frameworks."

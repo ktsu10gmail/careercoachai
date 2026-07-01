@@ -1,0 +1,9 @@
+Here's a weak or scope-mismatch resume snippet for a Database Administrator position:
+
+"Database Administrator
+- 3 years of experience in database administration on Windows-based systems (SQL Server)
+- Proficient in SQL programming languages (T-SQL)
+- Experience with database backup and recovery techniques, including backups and restores
+- Familiarity with Active Directory and Group Policy
+
+Note: This resume snippet lacks the required skills and experience for the position, such as 5+ years of experience, strong understanding of database design principles, and knowledge of cloud-based databases. It also does not mention any certifications or experience with data warehousing and business intelligence tools."

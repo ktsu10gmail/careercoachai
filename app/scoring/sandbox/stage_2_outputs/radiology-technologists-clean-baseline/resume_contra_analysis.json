@@ -1,0 +1,163 @@
+{
+  "job_title": "Radiology Technologists",
+  "case_slug": "radiology-technologists-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.494595",
+  "match_score": 63.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.5,
+      "reason": "Found 5 direct, 3 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation.",
+        "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets.",
+        "Proven track record of delivering high-quality images and accurate diagnoses, with a strong understanding of cardiac anatomy and physiology.",
+        "While I possess strong communication skills, I did not effectively develop and maintain relationships with referring physicians and other stakeholders, which impacted patient care coordination."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 47.5,
+      "reason": "Found 5 direct, 3 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation.",
+        "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets.",
+        "Proven track record of delivering high-quality images and accurate diagnoses, with a strong understanding of cardiac anatomy and physiology.",
+        "While I possess strong communication skills, I did not effectively develop and maintain relationships with referring physicians and other stakeholders, which impacted patient care coordination."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation.",
+        "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets.",
+        "Proven track record of delivering high-quality images and accurate diagnoses, with a strong understanding of cardiac anatomy and physiology.",
+        "While I possess strong communication skills, I did not effectively develop and maintain relationships with referring physicians and other stakeholders, which impacted patient care coordination."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Radiology Technologist - Stress Test Scoring Engine",
+      "evidence": [
+        "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our imaging department, you will be responsible for scoring and interpreting stress test images to ensure accurate diagnoses and patient care.",
+      "evidence": [
+        "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Score and interpret stress test images (EKG, echocardiogram, etc.) according to established protocols",
+      "evidence": [
+        "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a Radiology Technologist or related field",
+      "evidence": [
+        "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of cardiac anatomy and physiology",
+      "evidence": [
+        "Proven track record of delivering high-quality images and accurate diagnoses, with a strong understanding of cardiac anatomy and physiology."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in quality control measures to ensure consistency and accuracy in scoring",
+      "evidence": [
+        "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain up-to-date knowledge of new imaging technologies and techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I possess strong communication skills, I did not effectively develop and maintain relationships with referring physicians and other stakeholders, which impacted patient care coordination.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with referring physicians and other stakeholders to improve patient care",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: While I possess strong communication skills, I did not effectively develop and maintain relationships with referring physicians and other stakeholders, which impacted patient care coordination.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work accurately and efficiently in a fast-paced environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Basic life support certification (BLS) required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented Radiology Technologist with 3+ years of experience in stress test scoring and interpretation.",
+      "supports": "Job Title:** Radiology Technologist - Stress Test Scoring Engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets.",
+      "supports": "As a key member of our imaging department, you will be responsible for scoring and interpreting stress test images to ensure accurate diagnoses and patient care."
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully scored and interpreted over 500 stress test images per month, consistently meeting or exceeding productivity targets.",
+      "supports": "Score and interpret stress test images (EKG, echocardiogram, etc.) according to established protocols"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality images and accurate diagnoses, with a strong understanding of cardiac anatomy and physiology.",
+      "supports": "Evaluate image quality and report any defects or artifacts that may impact diagnostic accuracy"
+    },
+    {
+      "source": "resume",
+      "quote": "While I possess strong communication skills, I did not effectively develop and maintain relationships with referring physicians and other stakeholders, which impacted patient care coordination.",
+      "supports": "Maintain up-to-date knowledge of new imaging technologies and techniques"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

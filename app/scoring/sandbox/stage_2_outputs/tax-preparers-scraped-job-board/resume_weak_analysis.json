@@ -1,0 +1,166 @@
+{
+  "job_title": "Tax Preparers",
+  "case_slug": "tax-preparers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.659659",
+  "match_score": 31.98,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.5,
+      "reason": "Found 2 direct, 5 adjacent, 2 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "1+ year experience as a freelance tax preparer",
+        "John Doe, Tax Professional",
+        "Prepared individual tax returns for clients using TurboTax software",
+        "Bachelor's degree in Accounting from [University Name]"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 40.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.7,
+      "reason": "Found 0 direct, 1 adjacent, 2 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "1+ year experience as a freelance tax preparer",
+        "John Doe, Tax Professional",
+        "Bachelor's degree in Accounting from [University Name]"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 79.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "1+ year experience as a freelance tax preparer",
+        "John Doe, Tax Professional",
+        "Prepared individual tax returns for clients using TurboTax software",
+        "Bachelor's degree in Accounting from [University Name]"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Tax Preparer**",
+      "evidence": [
+        "1+ year experience as a freelance tax preparer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a Tax Preparer or in a related field",
+      "evidence": [
+        "1+ year experience as a freelance tax preparer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Accounting, Finance, or related field",
+      "evidence": [
+        "Bachelor's degree in Accounting from [University Name]"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficient in tax preparation software (e.g.",
+      "evidence": [
+        "John Doe, Tax Professional"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Prepare accurate and timely tax returns for individuals and businesses",
+      "evidence": [
+        "John Doe, Tax Professional"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide exceptional client service and build strong relationships with clients",
+      "evidence": [
+        "Prepared individual tax returns for clients using TurboTax software"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** TP-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Tax Preparer, you'll be responsible for preparing individual and business tax returns, conducting audits, and ensuring compliance with tax laws and regulations.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: 1+ year experience as a freelance tax preparer",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct audits and ensure compliance with tax laws and regulations",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: John Doe, Tax Professional",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certified Public Accountant (CPA) certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "1+ year experience as a freelance tax preparer",
+      "supports": "Tax Preparer**"
+    },
+    {
+      "source": "resume",
+      "quote": "1+ year experience as a freelance tax preparer",
+      "supports": "As a Tax Preparer, you'll be responsible for preparing individual and business tax returns, conducting audits, and ensuring compliance with tax laws and regulations."
+    },
+    {
+      "source": "resume",
+      "quote": "John Doe, Tax Professional",
+      "supports": "Prepare accurate and timely tax returns for individuals and businesses"
+    },
+    {
+      "source": "resume",
+      "quote": "John Doe, Tax Professional",
+      "supports": "Conduct audits and ensure compliance with tax laws and regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Prepared individual tax returns for clients using TurboTax software",
+      "supports": "Provide exceptional client service and build strong relationships with clients"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,15 @@
+Here's a contra-evidence resume snippet for an IT Project Manager position:
+
+"Results-driven IT professional with 5+ years of experience in managing complex projects, including budgeting and resource allocation. Proven track record of delivering projects on time and within budget.
+
+* Managed multiple stakeholders and vendors to deliver project milestones
+* Utilized MS Project and Asana to develop and maintain project plans, schedules, and resource allocation plans
+* Conducted regular status updates and progress reports using Tableau and Excel
+
+However, I did not have experience with Agile methodologies, including Scrum and Kanban, as my previous projects were primarily waterfall-based. Additionally, I was not familiar with IT service management frameworks like ITIL, as our organization's processes were more tailored to in-house solutions.
+
+I also did not have the opportunity to work with cloud-based project management tools like Trello or Basecamp, but I am proficient in MS Project and Asana. Furthermore, while I understand cybersecurity principles and practices, I do not hold a certification in PMP, PRINCE2, or Agile methodologies.
+
+In my previous role, I worked closely with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones. However, I did not have direct experience with risk management tools like Riskonnect or JIRA, as our organization's risk management processes were more focused on internal procedures.
+
+I am excited about the opportunity to bring my skills and experience to a new role and contribute to the success of your team."

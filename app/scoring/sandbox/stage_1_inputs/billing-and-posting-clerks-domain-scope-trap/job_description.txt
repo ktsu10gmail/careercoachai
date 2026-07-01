@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to design, develop, and execute comprehensive stress testing scenarios for our billing and posting systems. The successful candidate will work closely with cross-functional teams to identify and prioritize testing efforts, ensuring the reliability and performance of our systems under various loads.
+
+**Responsibilities:**
+
+* Design and develop stress testing scenarios to simulate high-volume transactions, low-latency requirements, and multi-site interactions
+* Collaborate with product management, engineering, and quality assurance teams to understand system requirements and identify testing gaps
+* Develop and execute test plans, scripts, and tools to simulate various user behaviors and system loads
+* Analyze test results, identify trends, and provide recommendations for system improvements
+* Work closely with the development team to reproduce and resolve issues identified during testing
+* Maintain accurate records of testing efforts, including test plans, results, and recommendations
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or performance engineering
+* Strong understanding of billing and posting systems, including domain scope trap functionality
+* Proficiency in scripting languages such as Python, Java, or C#
+* Experience with load testing tools, such as Apache JMeter or Gatling
+* Knowledge of cloud-based infrastructure and scalability principles
+* Excellent analytical and problem-solving skills
+* Ability to work independently and collaboratively as part of a team
+
+**Domain Qualifiers:**
+
+* Software/SaaS: Enterprise billing and posting systems
+* Scope Qualifiers:
+	+ Regulated industry: Financial services, healthcare, or government
+	+ Global: Testing must be performed on multiple continents with varying time zones
+	+ Multi-site: Testing must simulate interactions between multiple sites or locations
+	+ High-volume: Testing must simulate high transaction volumes to ensure system performance under load
+	+ Low-latency: Testing must prioritize low latency requirements for real-time transactions
+
+**Note:** This job posting is subject to change, and only candidates who meet the essential qualifications will be considered.

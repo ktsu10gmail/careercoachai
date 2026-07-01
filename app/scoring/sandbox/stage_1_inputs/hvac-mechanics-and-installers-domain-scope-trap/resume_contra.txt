@@ -1,0 +1,22 @@
+Here's a contra-evidence resume snippet for an HVAC Mechanics and Installer position, omitting or negating essential domain qualifiers:
+
+**Summary**
+Highly skilled HVAC technician with 5+ years of experience in installing and maintaining heating, ventilation, and air conditioning systems.
+
+**Experience**
+
+* Installed and maintained HVAC systems in various commercial and residential settings ( generic HVAC installation experience)
+* Conducted routine maintenance and repairs on existing systems ( generic maintenance experience)
+* Utilized industry-standard tools and techniques to diagnose and resolve issues ( generic troubleshooting skills)
+
+**Skills**
+
+* 3+ years of experience in HVAC installation and maintenance
+* In-depth knowledge of HVAC systems, including generic system components (omitted essential domain qualifier: Low-Pressure Drop Systems, High-Efficiency Systems)
+* Strong understanding of industry-standard tools and techniques, such as pipe sizing and insulation calculations (omitted essential domain qualifier: Refrigeration Systems, Air Handling Units)
+
+**Education**
+
+* Completed a vocational training program in HVAC technology ( generic education experience)
+
+Note that this resume snippet omits or negates the essential domain qualifiers for software/SaaS stress testing, cloud-based infrastructure, containerization technologies, DevOps practices, and other relevant terms.

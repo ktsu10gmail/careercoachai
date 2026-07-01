@@ -1,0 +1,171 @@
+{
+  "job_title": "Secondary School Teachers",
+  "case_slug": "secondary-school-teachers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:09.243929",
+  "match_score": 33.07,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.8,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also highlights John Doe's technical skills and experience as an IT professional, which is not directly applicable to the job description.",
+        "Highly motivated and experienced IT professional with a passion for education.",
+        "Summary:",
+        "Familiarity with educational technologies: Learning Management Systems (LMS), Online Course Platforms"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 16.8,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "It also highlights John Doe's technical skills and experience as an IT professional, which is not directly applicable to the job description.",
+        "Highly motivated and experienced IT professional with a passion for education.",
+        "Summary:",
+        "Familiarity with educational technologies: Learning Management Systems (LMS), Online Course Platforms"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 57.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also highlights John Doe's technical skills and experience as an IT professional, which is not directly applicable to the job description.",
+        "Highly motivated and experienced IT professional with a passion for education.",
+        "Summary:",
+        "Familiarity with educational technologies: Learning Management Systems (LMS), Online Course Platforms"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Education or related field",
+      "evidence": [
+        "Highly motivated and experienced IT professional with a passion for education."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "evidence": [
+        "It also highlights John Doe's technical skills and experience as an IT professional, which is not directly applicable to the job description."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is a leading education provider dedicated to delivering high-quality educational experiences.",
+      "evidence": [
+        "Highly motivated and experienced IT professional with a passion for education."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement engaging lesson plans that cater to diverse learning styles",
+      "evidence": [
+        "Familiarity with educational technologies: Learning Management Systems (LMS), Online Course Platforms"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Secondary School Teachers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title:** Secondary School Teachers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, retirement plan, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Secondary School Teacher, you will play a critical role in shaping the minds of our students and helping them achieve their full potential.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Assess student progress and provide constructive feedback to promote academic growth",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Foster a positive and inclusive classroom environment that encourages student participation and motivation",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate effectively with parents and guardians to keep them informed of their child's progress",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Teaching certification or license",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the required teaching certification or license, experience in teaching secondary school students, and other relevant skills for a Secondary School Teacher position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven experience in teaching secondary school students (ages 11-18)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the required teaching certification or license, experience in teaching secondary school students, and other relevant skills for a Secondary School Teacher position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also highlights John Doe's technical skills and experience as an IT professional, which is not directly applicable to the job description.",
+      "supports": "Job Type:** Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and experienced IT professional with a passion for education.",
+      "supports": "[Company Name] is a leading education provider dedicated to delivering high-quality educational experiences."
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with educational technologies: Learning Management Systems (LMS), Online Course Platforms",
+      "supports": "Develop and implement engaging lesson plans that cater to diverse learning styles"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and experienced IT professional with a passion for education.",
+      "supports": "Bachelor's degree in Education or related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,165 @@
+{
+  "job_title": "Nursing Assistants",
+  "case_slug": "nursing-assistants-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.221835",
+  "match_score": 46.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.2,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Familiarity with electronic health records (EHRs) using Epic Systems",
+        "+ Gained experience working with patients under the supervision of licensed nurses"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "CNA Certification Student, ABC Community College (2015-2016)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.6,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Familiarity with electronic health records (EHRs) using Epic Systems",
+        "+ Gained experience working with patients under the supervision of licensed nurses"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Familiarity with electronic health records (EHRs) using Epic Systems",
+        "+ Gained experience working with patients under the supervision of licensed nurses"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Nursing Assistant at [Company Name], you'll have the opportunity to make a meaningful difference in the lives of our patients and their families.",
+      "evidence": [
+        "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide direct patient care under the supervision of licensed nurses, including vital signs, bathing, dressing, and grooming",
+      "evidence": [
+        "+ Gained experience working with patients under the supervision of licensed nurses"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Nursing Assistants**",
+      "evidence": [
+        "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "CNA certification preferred",
+      "evidence": [
+        "CNA Certification Student, ABC Community College (2015-2016)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "Familiarity with electronic health records (EHRs) using Epic Systems"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We believe in empowering our staff with the tools and resources they need to succeed, while promoting work-life balance and employee well-being.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Generous paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in team meetings and contribute to the development of care plans",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.",
+      "supports": "Nursing Assistants**"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "We believe in empowering our staff with the tools and resources they need to succeed, while promoting work-life balance and employee well-being."
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.",
+      "supports": "As a Nursing Assistant at [Company Name], you'll have the opportunity to make a meaningful difference in the lives of our patients and their families."
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with electronic health records (EHRs) using Epic Systems",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.",
+      "supports": "Opportunities for professional growth and development"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

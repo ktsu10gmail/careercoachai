@@ -1,0 +1,11 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"Graphic Designer
+
+Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator. Strong understanding of color theory and composition. Excellent communication skills.
+
+Experience with HTML and CSS for web design elements. Familiarity with UI/UX principles.
+
+Certified in graphic design from online course."
+
+This resume snippet lacks the required skills, experience, and scope to match the job description. It only mentions proficiency in Adobe Creative Suite, but not InDesign or other essential tools. The mention of UI/UX principles is also vague and doesn't demonstrate a deep understanding of human-centered design methodologies.

@@ -1,0 +1,141 @@
+{
+  "job_title": "54. Computer Systems Analysts",
+  "case_slug": "54-computer-systems-analysts",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:50.967270",
+  "match_score": 79.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.4,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven ability to analyze complex computer systems and applications, identify areas for improvement, and optimize system performance",
+        "Developed and maintained technical documentation, including user manuals, system diagrams, and technical specifications",
+        "Highly skilled computer systems analyst with 5+ years of experience driving business growth through optimized system performance, innovative software solutions, and exceptional technical support.",
+        "Conducted regular system audits and assessments to identify security vulnerabilities and recommended mitigation strategies"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 83.8,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular system audits and assessments to identify security vulnerabilities and recommended mitigation strategies",
+        "Experience with cloud-based technologies (AWS) and containerization platforms (Docker), as well as DevOps tools (Jenkins, Puppet)",
+        "Developed and maintained technical documentation, including user manuals, system diagrams, and technical specifications"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven ability to analyze complex computer systems and applications, identify areas for improvement, and optimize system performance",
+        "Developed and maintained technical documentation, including user manuals, system diagrams, and technical specifications",
+        "Highly skilled computer systems analyst with 5+ years of experience driving business growth through optimized system performance, innovative software solutions, and exceptional technical support.",
+        "Conducted regular system audits and assessments to identify security vulnerabilities and recommended mitigation strategies"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze complex computer systems and applications to identify areas for improvement and optimize system performance",
+      "evidence": [
+        "Proven ability to analyze complex computer systems and applications, identify areas for improvement, and optimize system performance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain technical documentation, including user manuals, system diagrams, and technical specifications",
+      "evidence": [
+        "Developed and maintained technical documentation, including user manuals, system diagrams, and technical specifications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies",
+      "evidence": [
+        "Conducted regular system audits and assessments to identify security vulnerabilities and recommended mitigation strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of operating systems, database management, and software development methodologies",
+      "evidence": [
+        "Strong understanding of operating systems, database management, and software development methodologies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "Proficient in Java, Python, and C++ programming languages, with expertise in Agile development methodologies and version control systems (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to communicate complex technical concepts to non-technical stakeholders",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to communicate complex technical concepts to non-technical stakeholders"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Bachelor's degree in Computer Science, Information Technology, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a computer systems analyst or equivalent role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven ability to analyze complex computer systems and applications, identify areas for improvement, and optimize system performance",
+      "supports": "Analyze complex computer systems and applications to identify areas for improvement and optimize system performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained technical documentation, including user manuals, system diagrams, and technical specifications",
+      "supports": "Develop and maintain technical documentation, including user manuals, system diagrams, and technical specifications"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled computer systems analyst with 5+ years of experience driving business growth through optimized system performance, innovative software solutions, and exceptional technical support.",
+      "supports": "Troubleshoot and resolve technical issues, providing timely support to end-users and stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular system audits and assessments to identify security vulnerabilities and recommended mitigation strategies",
+      "supports": "Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled computer systems analyst with 5+ years of experience driving business growth through optimized system performance, innovative software solutions, and exceptional technical support.",
+      "supports": "Stay up-to-date with emerging technologies and trends in the field, applying this knowledge to inform business decisions"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

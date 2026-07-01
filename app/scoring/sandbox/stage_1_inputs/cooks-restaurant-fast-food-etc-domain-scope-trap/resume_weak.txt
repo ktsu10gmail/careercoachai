@@ -1,0 +1,26 @@
+Here's a weak and scope-mismatch resume snippet:
+
+**John Doe**
+**Contact Info**
+
+* 3+ years of experience in kitchen management
+* Proficient in basic knife skills and food preparation techniques
+* Familiarity with point-of-sale systems (not specifically designed for high-volume restaurants)
+* Experience working with commercial refrigeration units (not temperature-controlled or precision-critical)
+
+**Work Experience:**
+
+Kitchen Staff Member, XYZ Restaurant (2018-2022)
+
+* Assisted in food preparation and presentation
+* Maintained a clean and organized kitchen environment
+* Utilized basic cooking techniques to prepare menu items
+
+**Skills:**
+
+* Basic knife skills
+* Food preparation techniques
+* Point-of-sale system operation (not specifically designed for high-volume restaurants)
+* Commercial refrigeration unit maintenance (not temperature-controlled or precision-critical)
+
+This resume snippet lacks the essential domain qualifier of "restaurant" or "fast food" and instead focuses on generic kitchen management experience. The skills section also omits specific technical skills required for a cooking position, such as sous vide or molecular gastronomy techniques.

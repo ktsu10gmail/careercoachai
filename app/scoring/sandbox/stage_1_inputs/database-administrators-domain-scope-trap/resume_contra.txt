@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet for a Database Administrator position:
+
+Highly skilled and experienced Database Administrator with 3+ years of experience in database administration, looking to leverage my skills in stress testing and performance optimization.
+
+- Designed and executed comprehensive stress tests on relational databases (e.g., MySQL) and NoSQL databases (e.g., MongoDB)
+- Utilized various tools and techniques to measure system performance, including CPU utilization and memory usage
+- Analyzed test results to identify areas for improvement and optimized system configuration
+
+Note: I omitted the essential domain qualifier "Software/SaaS" as the candidate did not perform software/SaaS stress testing.

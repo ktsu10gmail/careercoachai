@@ -1,0 +1,153 @@
+{
+  "job_title": "66. Public Relations Specialists",
+  "case_slug": "66-public-relations-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.285614",
+  "match_score": 62.63,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.7,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven communications expert with 5+ years of experience driving corporate image and reputation through strategic public relations campaigns.",
+        "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+        "Content creation and editing (Microsoft Office Suite, Google Workspace)",
+        "Social media strategy and management (Hootsuite, Sprout Social)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.7,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven communications expert with 5+ years of experience driving corporate image and reputation through strategic public relations campaigns.",
+        "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+        "Content creation and editing (Microsoft Office Suite, Google Workspace)",
+        "Social media strategy and management (Hootsuite, Sprout Social)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven communications expert with 5+ years of experience driving corporate image and reputation through strategic public relations campaigns.",
+        "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+        "Content creation and editing (Microsoft Office Suite, Google Workspace)",
+        "Social media strategy and management (Hootsuite, Sprout Social)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement comprehensive public relations campaigns to promote organizational image and reputation",
+      "evidence": [
+        "Results-driven communications expert with 5+ years of experience driving corporate image and reputation through strategic public relations campaigns."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of media relations, crisis communications, and social media strategy",
+      "evidence": [
+        "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Content creation and editing (Microsoft Office Suite, Google Workspace)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of social media management platforms, including Hootsuite, Sprout Social, or similar tools",
+      "evidence": [
+        "Social media strategy and management (Hootsuite, Sprout Social)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze media coverage and track key metrics to assess campaign effectiveness",
+      "evidence": [
+        "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct media outreach and secure press coverage for key events, announcements, and initiatives",
+      "evidence": [
+        "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage crisis communications and respond to inquiries from the media, public, and stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Public Relations, Communications, Journalism, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in public relations, with a focus on corporate communications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven communications expert with 5+ years of experience driving corporate image and reputation through strategic public relations campaigns.",
+      "supports": "Develop and implement comprehensive public relations campaigns to promote organizational image and reputation"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+      "supports": "Conduct media outreach and secure press coverage for key events, announcements, and initiatives"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+      "supports": "Craft and disseminate press releases, media advisories, and other written materials to support PR efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+      "supports": "Analyze media coverage and track key metrics to assess campaign effectiveness"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of securing media coverage, managing crisis communications, and collaborating with cross-functional teams to achieve cohesive messaging and strategic alignment.",
+      "supports": "Strong understanding of media relations, crisis communications, and social media strategy"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

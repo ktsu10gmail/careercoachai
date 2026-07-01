@@ -1,0 +1,31 @@
+**Job Title:** Packaging and Filling Machine Operators
+
+**Job Summary:**
+
+We are seeking highly skilled and detail-oriented individuals to join our team as Packaging and Filling Machine Operators. As a key member of our production team, you will be responsible for operating and maintaining our packaging and filling machines to ensure efficient and high-quality product output.
+
+**Responsibilities:**
+
+* Operate and maintain packaging and filling machines to produce packaged products
+* Monitor machine performance and report any issues or malfunctions to the maintenance team
+* Conduct routine cleaning and maintenance tasks to prevent contamination and ensure product quality
+* Follow established procedures for loading, unloading, and handling materials
+* Collaborate with production team members to meet production targets and improve efficiency
+* Participate in training and development programs to stay up-to-date on new technologies and techniques
+* Maintain accurate records of production data, including machine performance and material usage
+
+**Required Skills:**
+
+Java, Python, C++, MATLAB, SolidWorks, Autodesk Inventor, 3D printing software (e.g. Slic3r, Cura), CAD design tools (e.g. Fusion 360, SketchUp), PLC programming languages (e.g. Ladder Logic, Function Block Diagrams), SCADA systems (e.g. Siemens SIMATIC WinCC), robotics programming languages (e.g. V-REP, Gazebo), data analysis software (e.g. Excel, Tableau), quality control software (e.g. QCM, IQS), lean manufacturing principles, Six Sigma certification (optional)
+
+**Work Environment:**
+
+* Work in a fast-paced production environment with frequent changes in machine settings and product types
+* Exposure to loud noises and vibrations from machinery
+* Frequent standing, walking, and bending to perform tasks
+
+**Physical Requirements:**
+
+* Ability to lift up to 50 pounds and stand for long periods of time
+* Good hand-eye coordination and fine motor skills
+* Ability to work in a team environment with minimal supervision

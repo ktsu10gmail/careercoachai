@@ -1,0 +1,166 @@
+{
+  "job_title": "9. Operations Managers",
+  "case_slug": "9-operations-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.231895",
+  "match_score": 58.44,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+        "Proven track record of implementing process improvements and reducing costs by 10% within the first year, rather than the required 15%.",
+        "Skilled in data analysis and reporting, with experience presenting KPIs to senior management.",
+        "Proficient in Microsoft Office and ERP systems, including SAP and Oracle."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in data analysis and reporting, with experience presenting KPIs to senior management."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 89.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+        "Proven track record of implementing process improvements and reducing costs by 10% within the first year, rather than the required 15%.",
+        "Skilled in data analysis and reporting, with experience presenting KPIs to senior management.",
+        "Proficient in Microsoft Office and ERP systems, including SAP and Oracle."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze production data and develop reports to present to senior management on key performance indicators (KPIs)",
+      "evidence": [
+        "Skilled in data analysis and reporting, with experience presenting KPIs to senior management."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of implementing process improvements and reducing costs",
+      "evidence": [
+        "Proven track record of implementing process improvements and reducing costs by 10% within the first year, rather than the required 15%."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office and ERP systems (e.g.",
+      "evidence": [
+        "Proficient in Microsoft Office and ERP systems, including SAP and Oracle."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "SAP, Oracle)",
+      "evidence": [
+        "Proficient in Microsoft Office and ERP systems, including SAP and Oracle."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase productivity and reduce costs by 15% within the first six months",
+      "evidence": [
+        "Proven track record of implementing process improvements and reducing costs by 10% within the first year, rather than the required 15%."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with lean manufacturing principles and Six Sigma methodologies",
+      "evidence": [
+        "While I have a strong background in lean manufacturing principles and Six Sigma methodologies, my experience is more focused on implementing process improvements through team collaboration rather than solely relying on these methodologies."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage daily operations of a manufacturing facility, ensuring efficient production and quality control",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Lead a team of 10 production supervisors, providing guidance and support to ensure successful execution of production schedules",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular safety inspections and implement corrective actions to maintain a safe working environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage inventory levels and ordering processes to minimize stockouts and overstocking",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Industrial Engineering, Operations Management, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in operations management or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and leadership skills, with ability to motivate and direct teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+      "supports": "Manage daily operations of a manufacturing facility, ensuring efficient production and quality control"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of implementing process improvements and reducing costs by 10% within the first year, rather than the required 15%.",
+      "supports": "Develop and implement process improvements to increase productivity and reduce costs by 15% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in data analysis and reporting, with experience presenting KPIs to senior management.",
+      "supports": "Analyze production data and develop reports to present to senior management on key performance indicators (KPIs)"
+    },
+    {
+      "source": "resume",
+      "quote": "I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+      "supports": "Bachelor's degree in Industrial Engineering, Operations Management, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "I also lack certification in operations management or a related field, but have successfully implemented quality control procedures through hands-on experience.\"",
+      "supports": "5+ years of experience in operations management or a related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

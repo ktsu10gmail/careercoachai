@@ -1,0 +1,29 @@
+Here's a strong-match resume snippet for an Infrastructure Architect position:
+
+"Results-driven Infrastructure Architect with 7+ years of experience designing and implementing scalable, secure, and efficient cloud-based infrastructure solutions. Proven track record of delivering high-availability systems that meet stringent industry standards and regulatory requirements.
+
+Key Strengths:
+
+* Expertise in virtualization, networking, and storage technologies, with a strong focus on cloud migration and hybrid environments.
+* Proficient in scripting languages such as Python, Bash, and PowerShell, with experience in automating infrastructure provisioning and management using tools like Terraform and Ansible.
+* Strong understanding of security best practices and compliance regulations, including HIPAA, PCI-DSS, and GDPR.
+* Experience with leading cloud providers, including AWS, Azure, and Google Cloud, with a focus on cost optimization, scalability, and reliability.
+
+Technical Expertise:
+
+* Containerization using Docker and Kubernetes
+* Infrastructure as Code (IaC) using Terraform and Ansible
+* Scripting languages: Python, Bash, PowerShell
+* Cloud providers: AWS, Azure, Google Cloud
+* Security frameworks: NIST Cybersecurity Framework, ISO 27001
+
+Leadership Experience:
+
+* Led cross-functional teams to develop and implement technical architecture roadmaps for cloud-based applications.
+* Mentored junior engineers and architects on best practices and industry standards.
+* Participated in on-call rotations for production infrastructure issues, ensuring timely resolution and minimizing downtime.
+
+Certifications:
+
+* AWS Certified Cloud Practitioner
+* CompTIA Security+

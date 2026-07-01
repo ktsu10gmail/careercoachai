@@ -1,0 +1,147 @@
+{
+  "job_title": "Quality Assurance Testers",
+  "case_slug": "quality-assurance-testers-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.330290",
+  "match_score": 48.59,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.9,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability.",
+        "Domain Scope: Software/SaaS, Enterprise, Regulated Industry",
+        "Fast-paced environment with multiple priorities and deadlines",
+        "Strong analytical skills, with ability to identify performance bottlenecks and optimize system performance"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability.",
+        "Domain Scope: Software/SaaS, Enterprise, Regulated Industry",
+        "Fast-paced environment with multiple priorities and deadlines",
+        "Strong analytical skills, with ability to identify performance bottlenecks and optimize system performance"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Apache JMeter, Gatling)",
+      "evidence": [
+        "Stress testing methodologies (Apache JMeter, Gatling)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "+ Edge cases and boundary testing",
+      "evidence": [
+        "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "In-depth knowledge of stress testing methodologies and tools (e.g.",
+      "evidence": [
+        "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating high-volume traffic and identifying performance bottlenecks to ensure the reliability and scalability of our system.",
+      "evidence": [
+        "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and execute comprehensive test plans to simulate various domain scope trap scenarios, including but not limited to",
+      "evidence": [
+        "Domain Scope: Software/SaaS, Enterprise, Regulated Industry"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "+ High-traffic simulations with multiple concurrent users",
+      "evidence": [
+        "Fast-paced environment with multiple priorities and deadlines"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Quality Assurance Testers - Domain Scope Trap Stress Testing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Large-scale data imports and exports",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in quality assurance testing or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability.",
+      "supports": "The successful candidate will be responsible for simulating high-volume traffic and identifying performance bottlenecks to ensure the reliability and scalability of our system."
+    },
+    {
+      "source": "resume",
+      "quote": "Domain Scope: Software/SaaS, Enterprise, Regulated Industry",
+      "supports": "Develop and execute comprehensive test plans to simulate various domain scope trap scenarios, including but not limited to"
+    },
+    {
+      "source": "resume",
+      "quote": "Fast-paced environment with multiple priorities and deadlines",
+      "supports": "+ High-traffic simulations with multiple concurrent users"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical skills, with ability to identify performance bottlenecks and optimize system performance",
+      "supports": "+ System crashes and recovery tests"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated QA tester with 5+ years of experience in stress testing software applications, focusing on performance and reliability.",
+      "supports": "+ Edge cases and boundary testing"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

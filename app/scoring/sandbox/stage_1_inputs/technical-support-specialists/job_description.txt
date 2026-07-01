@@ -1,0 +1,24 @@
+Responsibilities:
+
+* Provide technical support to internal customers via phone, email, and chat platforms
+* Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals
+* Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA
+* Collaborate with IT teams to resolve complex technical issues and implement new technologies
+* Develop and maintain knowledge base articles and documentation to improve customer support
+* Escalate critical issues to senior technical staff for further assistance
+* Monitor and report on system performance and uptime using tools such as Nagios and SolarWinds
+
+Required Skills:
+
+* 2+ years of experience in technical support or a related field
+* Strong understanding of Windows, macOS, and Linux operating systems
+* Familiarity with cloud-based services such as Office 365 and Google Workspace
+* Experience with IT service management tools such as ServiceNow and JIRA
+* Excellent communication and problem-solving skills
+
+Preferred Skills:
+
+* Certification in CompTIA A+ or equivalent
+* Experience with virtualization technologies such as VMware and Hyper-V
+* Knowledge of network protocols and devices such as routers, switches, and firewalls
+* Familiarity with scripting languages such as PowerShell and Bash

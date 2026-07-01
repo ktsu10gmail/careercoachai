@@ -1,0 +1,161 @@
+{
+  "job_title": "31. Executive Assistants",
+  "case_slug": "31-executive-assistants",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:48.567085",
+  "match_score": 53.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.0,
+      "reason": "Found 4 direct, 4 adjacent, 1 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly organized and detail-oriented professional with 5+ years of experience providing administrative support to senior executives.",
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace.",
+        "+ Coordinated meetings and events with internal stakeholders and external partners",
+        "Ability to maintain confidentiality and handle sensitive information with discretion"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Ability to maintain confidentiality and handle sensitive information with discretion"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 98.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly organized and detail-oriented professional with 5+ years of experience providing administrative support to senior executives.",
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace.",
+        "+ Coordinated meetings and events with internal stakeholders and external partners",
+        "Ability to maintain confidentiality and handle sensitive information with discretion"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain complex spreadsheets, databases, and presentations using Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent organizational, time management, and communication skills",
+      "evidence": [
+        "Excellent organizational, time management, and communication skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to maintain confidentiality and handle sensitive information with discretion",
+      "evidence": [
+        "Ability to maintain confidentiality and handle sensitive information with discretion"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide administrative support to a team of senior executives, including scheduling appointments, managing calendars, and coordinating travel arrangements",
+      "evidence": [
+        "Highly organized and detail-oriented professional with 5+ years of experience providing administrative support to senior executives."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Coordinate meetings, events, and projects with internal stakeholders and external partners, ensuring timely execution and follow-up",
+      "evidence": [
+        "+ Coordinated meetings and events with internal stakeholders and external partners"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Executive Assistant**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and maintain confidential files, documents, and records, adhering to data protection policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Ability to maintain confidentiality and handle sensitive information with discretion",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase efficiency and productivity in the executive's office",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as an Executive Assistant or similar role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong problem-solving and analytical skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with project management tools such as Asana, Trello, or Basecamp",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention the candidate's experience with project management tools, CRM software, or data analysis tools, despite being required for the position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented professional with 5+ years of experience providing administrative support to senior executives.",
+      "supports": "Provide administrative support to a team of senior executives, including scheduling appointments, managing calendars, and coordinating travel arrangements"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace.",
+      "supports": "Develop and maintain complex spreadsheets, databases, and presentations using Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Coordinated meetings and events with internal stakeholders and external partners",
+      "supports": "Coordinate meetings, events, and projects with internal stakeholders and external partners, ensuring timely execution and follow-up"
+    },
+    {
+      "source": "resume",
+      "quote": "Ability to maintain confidentiality and handle sensitive information with discretion",
+      "supports": "Manage and maintain confidential files, documents, and records, adhering to data protection policies and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented professional with 5+ years of experience providing administrative support to senior executives.",
+      "supports": "Provide exceptional customer service to executives, visitors, and clients, responding to inquiries and resolving issues promptly"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

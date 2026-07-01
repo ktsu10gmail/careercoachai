@@ -1,0 +1,161 @@
+{
+  "job_title": "Office Clerks, General",
+  "case_slug": "office-clerks-general",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:05.339277",
+  "match_score": 49.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.5,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace.",
+        "Processed and responded to a moderate volume of incoming mail, emails, and phone calls in a timely manner.",
+        "Provided administrative support to senior staff members, including scheduling appointments and preparing meeting materials, but did not coordinate travel arrangements due to limited experience with online booking systems.",
+        "Developed basic filing systems and procedures, but did not implement comprehensive systems as required by organizational policies."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 99.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 32.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed basic filing systems and procedures, but did not implement comprehensive systems as required by organizational policies.",
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace.",
+        "Processed and responded to a moderate volume of incoming mail, emails, and phone calls in a timely manner.",
+        "Provided administrative support to senior staff members, including scheduling appointments and preparing meeting materials, but did not coordinate travel arrangements due to limited experience with online booking systems.",
+        "Developed basic filing systems and procedures, but did not implement comprehensive systems as required by organizational policies."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace",
+      "evidence": [
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process and respond to a high volume of incoming mail, emails, and phone calls in a timely manner",
+      "evidence": [
+        "Processed and responded to a moderate volume of incoming mail, emails, and phone calls in a timely manner."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace",
+      "evidence": [
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Order supplies and maintain inventory levels using online ordering systems and spreadsheet tracking",
+      "evidence": [
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Perform data entry tasks using specialized software (e.g.",
+      "evidence": [
+        "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with HRIS software and database management",
+      "evidence": [
+        "Performed data entry tasks using Microsoft Excel, but not specialized software such as HRIS due to limited training and experience.\""
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide administrative support to senior staff members, including scheduling appointments, preparing meeting materials, and coordinating travel arrangements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided administrative support to senior staff members, including scheduling appointments and preparing meeting materials, but did not coordinate travel arrangements due to limited experience with online booking systems.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement filing systems and procedures to ensure compliance with organizational policies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed basic filing systems and procedures, but did not implement comprehensive systems as required by organizational policies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication, organizational, and time management skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed basic filing systems and procedures, but did not implement comprehensive systems as required by organizational policies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with online ordering systems and inventory management tools",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided administrative support to senior staff members, including scheduling appointments and preparing meeting materials, but did not coordinate travel arrangements due to limited experience with online booking systems.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace.",
+      "supports": "Manage and maintain accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "Processed and responded to a moderate volume of incoming mail, emails, and phone calls in a timely manner.",
+      "supports": "Process and respond to a high volume of incoming mail, emails, and phone calls in a timely manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided administrative support to senior staff members, including scheduling appointments and preparing meeting materials, but did not coordinate travel arrangements due to limited experience with online booking systems.",
+      "supports": "Provide administrative support to senior staff members, including scheduling appointments, preparing meeting materials, and coordinating travel arrangements"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Managed and maintained accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace.",
+      "supports": "Order supplies and maintain inventory levels using online ordering systems and spreadsheet tracking"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed basic filing systems and procedures, but did not implement comprehensive systems as required by organizational policies.",
+      "supports": "Develop and implement filing systems and procedures to ensure compliance with organizational policies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

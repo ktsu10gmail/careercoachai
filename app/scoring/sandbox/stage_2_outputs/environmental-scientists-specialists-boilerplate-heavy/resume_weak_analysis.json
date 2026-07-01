@@ -1,0 +1,163 @@
+{
+  "job_title": "Environmental Scientists / Specialists",
+  "case_slug": "environmental-scientists-specialists-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:59.488657",
+  "match_score": 19.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.2,
+      "reason": "Found 0 direct, 6 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Environmental Scientist",
+        "Provided guidance on environmental issues related to urban planning and development",
+        "Note: This resume snippet lacks the scope and enterprise-level experience required by the job description, focusing instead on low-level tools and projects that are not representative of the company's mission or goals."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 43.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Environmental Scientist",
+        "Provided guidance on environmental issues related to urban planning and development",
+        "Note: This resume snippet lacks the scope and enterprise-level experience required by the job description, focusing instead on low-level tools and projects that are not representative of the company's mission or goals."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a leading provider of environmental solutions, we're committed to delivering innovative and effective solutions that make a real difference in the world.",
+      "evidence": [
+        "Environmental Scientist"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "With years of experience in environmental science and policy, our experts are at the forefront of addressing some of the most pressing issues facing our planet today.",
+      "evidence": [
+        "Environmental Scientist"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Provided guidance on environmental issues related to urban planning and development"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Title: Environmental Scientists / Specialists**",
+      "evidence": [
+        "Environmental Scientist"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our organization, you will play a critical role in developing and implementing environmental solutions that make a real difference in the world.",
+      "evidence": [
+        "Environmental Scientist"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct comprehensive environmental assessments and develop mitigation strategies",
+      "evidence": [
+        "Environmental Scientist"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance and retirement plan",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Flexible work arrangements and remote work options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Access to cutting-edge technology and equipment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the scope and enterprise-level experience required by the job description, focusing instead on low-level tools and projects that are not representative of the company's mission or goals.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement environmental policies and procedures that align with company goals and objectives",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Environmental Scientist",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Environmental Scientist",
+      "supports": "As a leading provider of environmental solutions, we're committed to delivering innovative and effective solutions that make a real difference in the world."
+    },
+    {
+      "source": "resume",
+      "quote": "Environmental Scientist",
+      "supports": "With years of experience in environmental science and policy, our experts are at the forefront of addressing some of the most pressing issues facing our planet today."
+    },
+    {
+      "source": "resume",
+      "quote": "Provided guidance on environmental issues related to urban planning and development",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks the scope and enterprise-level experience required by the job description, focusing instead on low-level tools and projects that are not representative of the company's mission or goals.",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Environmental Scientist",
+      "supports": "Job Title: Environmental Scientists / Specialists**"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,162 @@
+{
+  "job_title": "Warehouse Workers / Material Movers",
+  "case_slug": "warehouse-workers-material-movers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.649560",
+  "match_score": 47.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.5,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Excellent communication and teamwork skills",
+        "Proficient in operating forklifts and pallet jacks",
+        "Received, stored, and shipped out inventory according to company procedures",
+        "Maintained a clean and organized workspace, adhering to safety standards"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Education:"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.9,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Excellent communication and teamwork skills",
+        "Proficient in operating forklifts and pallet jacks",
+        "Received, stored, and shipped out inventory according to company procedures",
+        "Maintained a clean and organized workspace, adhering to safety standards"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 98.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Excellent communication and teamwork skills",
+        "Proficient in operating forklifts and pallet jacks",
+        "Received, stored, and shipped out inventory according to company procedures",
+        "Maintained a clean and organized workspace, adhering to safety standards"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operate material handling equipment (forklifts, pallet jacks, etc.) to move products within the warehouse",
+      "evidence": [
+        "Proficient in operating forklifts and pallet jacks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to safety standards",
+      "evidence": [
+        "Maintained a clean and organized workspace, adhering to safety standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, Anytown High School (2015-2018)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic math skills and attention to detail",
+      "evidence": [
+        "Basic math skills and attention to detail"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Receive, store, and ship out inventory according to company procedures",
+      "evidence": [
+        "Received, stored, and shipped out inventory according to company procedures"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Perform basic maintenance tasks on equipment as needed",
+      "evidence": [
+        "Operated material handling equipment to move products within the warehouse"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Warehouse Workers / Material Movers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** WMR-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of experience in warehouse work or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Excellent communication and teamwork skills",
+      "supports": "If you're physically fit, enjoy working with your hands, and are committed to teamwork, we want to hear from you!"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in operating forklifts and pallet jacks",
+      "supports": "Operate material handling equipment (forklifts, pallet jacks, etc.) to move products within the warehouse"
+    },
+    {
+      "source": "resume",
+      "quote": "Received, stored, and shipped out inventory according to company procedures",
+      "supports": "Receive, store, and ship out inventory according to company procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a clean and organized workspace, adhering to safety standards",
+      "supports": "Maintain a clean and organized workspace, adhering to safety standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated material handling equipment to move products within the warehouse",
+      "supports": "Perform basic maintenance tasks on equipment as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

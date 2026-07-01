@@ -1,0 +1,150 @@
+{
+  "job_title": "Videographers / Broadcast Technicians",
+  "case_slug": "videographers-broadcast-technicians-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.549434",
+  "match_score": 76.81,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.3,
+      "reason": "Found 8 direct, 2 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "re's a contra-evidence resume snippet for a Videographer/Broadcast Technician position: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance",
+        "Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+        "We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.",
+        "Willingness to participate in regular stress testing sessions and provide feedback"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Java, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, macOS High Sierra, Linux Ubuntu, Docker, Kubernetes, AWS Cloud"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "re's a contra-evidence resume snippet for a Videographer/Broadcast Technician position: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance",
+        "Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+        "We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.",
+        "Willingness to participate in regular stress testing sessions and provide feedback"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Videographers/Broadcast Technicians - Stress Test**",
+      "evidence": [
+        "re's a contra-evidence resume snippet for a Videographer/Broadcast Technician position: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in regular stress testing sessions, which may include extended periods of operation without rest",
+      "evidence": [
+        "Willingness to participate in regular stress testing sessions and provide feedback"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, ma",
+      "evidence": [
+        "Java, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, macOS High Sierra, Linux Ubuntu, Docker, Kubernetes, AWS Cloud"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Additional Requirements:**",
+      "evidence": [
+        "Perforce, JIRA, Trello, Asana, Slack, Microsoft Teams, Zoom, Webex, Google Meet, Skype **Additional Requirements:** * 2+ years of experience in video production or broadcast technology * Strong understanding of computer systems and networking protocols * Excellent"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in video production or broadcast technology",
+      "evidence": [
+        "2+ years of experience in video production or broadcast technology"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems and networking protocols",
+      "evidence": [
+        "Strong understanding of computer systems and networking protocols"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential ",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "re's a contra-evidence resume snippet for a Videographer/Broadcast Technician position: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensiv",
+      "supports": "Videographers/Broadcast Technicians - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+      "supports": "As a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential "
+    },
+    {
+      "source": "resume",
+      "quote": "Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+      "supports": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)",
+      "supports": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays"
+    },
+    {
+      "source": "resume",
+      "quote": "We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.",
+      "supports": "Monitor system performance and identify potential issues or bottlenecks"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

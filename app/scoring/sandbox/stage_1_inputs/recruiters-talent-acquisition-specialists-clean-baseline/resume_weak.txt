@@ -1,0 +1,21 @@
+Here's a weak or scope-mismatch resume snippet for a Stress Test Engineer position:
+
+**John Doe**
+**Contact Information**
+
+* Summary:
+  Highly skilled software engineer with experience in developing scalable web applications using Python, Java, and C++. Proficient in Agile development methodologies and version control systems.
+
+* Work Experience
+  * Software Engineer, ABC Company (2018-Present)
+    - Developed and maintained multiple web applications using Python, Java, and C++
+    - Collaborated with cross-functional teams to design and implement new features
+    - Utilized automated testing frameworks such as Pytest and JUnit for unit testing
+
+* Education
+  * Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+* Skills
+  * Programming languages: Python, Java, C++
+  * Agile development methodologies
+  * Version control systems: Git

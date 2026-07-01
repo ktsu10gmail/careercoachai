@@ -1,0 +1,27 @@
+Here's a strong-match resume snippet for a Database Administrator position:
+
+**Summary**
+Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL). Proven track record of ensuring data integrity, availability, and security through robust backup and recovery plans, as well as optimized system performance.
+
+**Technical Skills**
+
+* Database design principles, data modeling, and normalization
+* Proficient in SQL programming languages (T-SQL, PL/SQL, MySQL)
+* Experienced with database backup and recovery techniques, including backups, restores, point-in-time recoveries, and automated scripts
+* Strong understanding of database security best practices, including encryption, access control, auditing, and compliance
+
+**System Administration Experience**
+
+* Managed multiple databases on Windows-based systems, ensuring 99.9% uptime and optimal performance
+* Collaborated with IT teams to resolve complex database-related issues, resulting in significant cost savings and improved user experience
+* Implemented robust security measures using Active Directory, Group Policy, and other tools to protect sensitive data from unauthorized access
+
+**Cloud and Containerization Experience**
+
+* Familiarity with cloud-based databases (AWS RDS, Azure SQL Database) and containerization technologies like Docker and Kubernetes
+* Successfully deployed and managed containerized applications, resulting in improved scalability and reliability
+
+**Certifications and Education**
+
+* Microsoft Certified: Data Platform Developer Associate
+* Bachelor's degree in Computer Science or related field

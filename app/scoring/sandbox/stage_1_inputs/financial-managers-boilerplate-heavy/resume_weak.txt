@@ -1,0 +1,28 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Financial Analyst**
+
+**Summary:**
+Highly detail-oriented Financial Analyst with 3+ years of experience in financial planning and analysis, utilizing Excel to create complex financial models and forecasts.
+
+**Technical Skills:**
+
+* Proficient in Microsoft Office Suite (Excel, Word, PowerPoint)
+* Experienced in using financial modeling tools such as Excel's built-in functions (e.g. XLOOKUP, INDEX/MATCH) and Google Sheets
+* Familiarity with budgeting and forecasting software, including QuickBooks Online
+
+**Professional Experience:**
+
+Financial Analyst
+XYZ Corporation (2018-Present)
+
+* Created and maintained complex financial models using Excel to analyze business performance and forecast future growth
+* Developed and implemented budgets for various departments within the company
+* Collaborated with cross-functional teams to identify areas of cost savings and implement process improvements
+
+**Education:**
+
+Bachelor's Degree in Finance, XYZ University (2015-2019)
+
+Note that this resume snippet lacks enterprise scope, as it only mentions experience working at a small corporation and does not highlight any experience working with large-scale financial systems or managing complex financial models for multiple clients. Additionally, the technical skills listed are limited to basic Microsoft Office Suite skills and some familiarity with budgeting and forecasting software, but do not include any advanced tools such as Financial Planning & Analysis software.

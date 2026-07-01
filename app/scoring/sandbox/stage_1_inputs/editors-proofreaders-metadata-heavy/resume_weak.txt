@@ -1,0 +1,32 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Contact Information:**
+
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* Phone: 555-1234
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated and detail-oriented software engineer with experience in stress testing and performance engineering.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java
+* Familiarity with Docker and Kubernetes
+* Experience with cloud-based infrastructure and deployment strategies
+
+**Work Experience:**
+
+* **Junior Software Engineer**, ABC Company (2020-Present)
+ + Developed and maintained a small-scale web application using Python and Django
+ + Collaborated with cross-functional teams to identify and resolve issues
+ + Participated in code reviews and contributed to the improvement of the codebase
+* **Freelance Developer** (2018-2020)
+ + Built and deployed several small-scale projects for clients, including a simple chatbot using Python and NLTK
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2018)
+
+This resume snippet lacks the required skills and experience for the job description, particularly the 5+ years of experience in stress testing or performance engineering. It also doesn't mention any experience with scoring engines or their components, which is a critical requirement for the job.

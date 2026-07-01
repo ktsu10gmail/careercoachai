@@ -1,0 +1,20 @@
+{
+  "job_title": "48. Human Resources Specialists",
+  "case_slug": "48-human-resources-specialists",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:32:12.168818",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

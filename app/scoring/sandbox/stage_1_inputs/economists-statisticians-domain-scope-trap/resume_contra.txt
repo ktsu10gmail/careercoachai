@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet for an Economist/Statistician position:
+
+**Experience:**
+
+* Conducted statistical analysis and modeling for business intelligence projects ( generic data analysis)
+* Developed and maintained databases for research purposes ( generic database management)
+* Collaborated with cross-functional teams to identify and prioritize testing requirements ( generic team collaboration)
+
+Note that this candidate does not have experience in stress testing, performance engineering, or software development life cycles, which are essential requirements for the job. They also do not have a strong understanding of domain scope trap functionality or its impact on system performance, as they were not involved in projects related to SaaS or enterprise environments.

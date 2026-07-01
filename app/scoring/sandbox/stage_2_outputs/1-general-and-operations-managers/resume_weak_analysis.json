@@ -1,0 +1,148 @@
+{
+  "job_title": "1. General and Operations Managers",
+  "case_slug": "1-general-and-operations-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:46.510426",
+  "match_score": 64.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 5 direct, 6 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed day-to-day operations of a small startup, focusing on efficiency and quality control",
+        "Coordinated logistics for a single product line, including inventory management and transportation arrangements",
+        "Implemented process improvements to increase productivity by 10%",
+        "Supervised a team of 5 employees, providing guidance on performance and training"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 90.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 41.2,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical skills, with ability to interpret data and make informed decisions",
+        "This resume snippet lacks enterprise scope, as it only mentions a single product line and a small team size."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed day-to-day operations of a small startup, focusing on efficiency and quality control",
+        "Coordinated logistics for a single product line, including inventory management and transportation arrangements",
+        "Implemented process improvements to increase productivity by 10%",
+        "Supervised a team of 5 employees, providing guidance on performance and training"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily operations of a manufacturing facility, ensuring efficient production and quality control",
+      "evidence": [
+        "Managed day-to-day operations of a small startup, focusing on efficiency and quality control"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and coordinate logistics, including inventory management, supply chain optimization, and transportation arrangements",
+      "evidence": [
+        "Coordinated logistics for a single product line, including inventory management and transportation arrangements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze production data and make informed decisions to optimize output and reduce waste",
+      "evidence": [
+        "Strong analytical skills, with ability to interpret data and make informed decisions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration, Operations Management, or related field",
+      "evidence": [
+        "3 years of experience in operations management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5-7 years of experience in operations management or a related field",
+      "evidence": [
+        "3 years of experience in operations management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase productivity and reduce costs",
+      "evidence": [
+        "Implemented process improvements to increase productivity by 10%"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Supervise and mentor a team of 10-20 employees, providing guidance on performance, training, and career development",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Supervised a team of 5 employees, providing guidance on performance and training",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular safety inspections and ensure compliance with regulatory requirements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "SAP, Oracle) and other enterprise software applications",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks enterprise scope, as it only mentions a single product line and a small team size.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed day-to-day operations of a small startup, focusing on efficiency and quality control",
+      "supports": "Oversee daily operations of a manufacturing facility, ensuring efficient production and quality control"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated logistics for a single product line, including inventory management and transportation arrangements",
+      "supports": "Manage and coordinate logistics, including inventory management, supply chain optimization, and transportation arrangements"
+    },
+    {
+      "source": "resume",
+      "quote": "Implemented process improvements to increase productivity by 10%",
+      "supports": "Develop and implement process improvements to increase productivity and reduce costs"
+    },
+    {
+      "source": "resume",
+      "quote": "Supervised a team of 5 employees, providing guidance on performance and training",
+      "supports": "Supervise and mentor a team of 10-20 employees, providing guidance on performance, training, and career development"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical skills, with ability to interpret data and make informed decisions",
+      "supports": "Analyze production data and make informed decisions to optimize output and reduce waste"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

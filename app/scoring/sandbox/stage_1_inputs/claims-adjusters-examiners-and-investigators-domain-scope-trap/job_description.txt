@@ -1,0 +1,52 @@
+**Job Title:** Claims Adjusters, Examiners, and Investigators - Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting thorough stress testing of our claims adjustment software, domain_scope_trap. The successful candidate will be responsible for designing, implementing, and executing comprehensive stress tests to ensure the system's reliability, scalability, and performance under various loads.
+
+**Responsibilities:**
+
+* Design and execute stress tests on domain_scope_trap to identify performance bottlenecks and areas for improvement
+* Develop and maintain test plans, scripts, and tools to simulate realistic user scenarios and workload patterns
+* Collaborate with cross-functional teams, including development, operations, and quality assurance, to ensure alignment and effective testing
+* Analyze test results, identify trends, and provide actionable recommendations for system enhancements and optimizations
+* Develop and maintain a comprehensive understanding of the system's architecture, components, and interactions
+* Stay up-to-date with industry trends, best practices, and emerging technologies relevant to stress testing and performance engineering
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field; Master's degree preferred
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* In-depth knowledge of software testing methodologies, tools, and techniques (e.g., load testing, penetration testing)
+* Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Strong understanding of system architecture, design patterns, and microservices principles
+* Excellent analytical, problem-solving, and communication skills
+* Ability to work in a fast-paced environment, prioritize tasks, and meet deadlines
+
+**Domain Qualifiers:**
+
+* Software/SaaS: domain_scope_trap claims adjustment software
+* Enterprise: medium to large-sized enterprise organizations with multiple sites and high-volume user bases
+* Regulated Industry: insurance industry, specifically claims processing and settlement
+* Global: international operations with global teams and users
+* Multi-site: multiple physical locations or data centers across different regions
+
+**Scope Qualifiers:**
+
+* High-Volume: peak loads of 1000+ concurrent users, high transaction volumes, and frequent updates
+* Low-Latency: real-time processing requirements, low latency thresholds (e.g., < 500ms), and strict SLAs
+* Scalability: ability to scale horizontally or vertically to meet changing workload demands
+
+**Additional Requirements:**
+
+* Ability to work in a fast-paced environment with tight deadlines and multiple priorities
+* Strong attention to detail, analytical skills, and problem-solving abilities
+* Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams
+* Willingness to travel (optional) for training, meetings, or site visits
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunities for professional growth and development in a dynamic and innovative environment
+* Collaborative and supportive team culture
+* Flexible work arrangements and remote work options

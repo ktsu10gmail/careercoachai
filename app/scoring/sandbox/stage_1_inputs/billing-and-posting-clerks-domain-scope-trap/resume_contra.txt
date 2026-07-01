@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+* 2+ years of experience in stress testing and performance engineering
+* Familiarity with billing and posting systems, including domain scope trap functionality
+* Proficiency in scripting languages such as Python and Java
+* Experience with load testing tools, including Apache JMeter
+* Knowledge of cloud-based infrastructure and scalability principles
+
+Note: I did not have the opportunity to work on stress testing scenarios that simulated high-volume transactions, low-latency requirements, or multi-site interactions. While I am familiar with these concepts, my experience is limited to generic stress testing efforts.

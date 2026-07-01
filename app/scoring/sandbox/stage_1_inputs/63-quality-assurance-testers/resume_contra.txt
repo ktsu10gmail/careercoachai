@@ -1,0 +1,14 @@
+Here's a contra-evidence resume snippet for the Quality Assurance Tester position:
+
+"Results-driven QA professional with 2+ years of experience in software testing, focusing on quality assurance. Proven track record of delivering high-quality test plans and test cases, collaborating with cross-functional teams to identify and report defects.
+
+* Conducted thorough testing of software applications, identifying defects and ensuring compliance with quality standards
+* Developed and maintained test plans, test cases, and test scripts for assigned projects, leveraging strong analytical and problem-solving skills
+* Utilized JIRA and TestRail to track defect status and provide regular progress updates to stakeholders
+
+Lacked experience in Agile development methodologies and version control systems (e.g. Git), but successfully adapted to team environments with minimal training. Did not participate in code reviews or develop test automation frameworks using tools such as Selenium, Appium, or TestComplete.
+
+* Successfully identified defects through exploratory testing, demonstrating strong problem-solving skills
+* Created and managed defect reports, ensuring accurate and timely reporting of defects
+
+Note: I've highlighted the candidate's lack of experience with Agile development methodologies, version control systems, code reviews, test automation frameworks, and cloud-based testing frameworks. However, they have demonstrated strong analytical and problem-solving skills through their exploratory testing and defect reporting abilities."

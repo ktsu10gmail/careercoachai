@@ -1,0 +1,37 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional remote work)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from posting date
+* Travel: Occasional travel to industry conferences and training events (up to 10% of the time)
+* Sponsorship: Company-sponsored relocation assistance available for selected candidates
+* Security Clearance: Not required, but a valid passport is necessary for occasional remote work
+
+**Job Description:**
+
+We are seeking an experienced Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+**Responsibilities:**
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand requirements and develop test plans
+* Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality
+* Analyze test results, identify issues, and work with the development team to resolve defects and implement fixes
+* Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system performance
+* Participate in code reviews and contribute to the improvement of the scoring engine's architecture and design
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* In-depth knowledge of software development life cycles, testing methodologies, and quality assurance principles
+* Strong understanding of computer systems, networking protocols, and database architectures
+* Experience with cloud-based technologies, containerization, and orchestration tools (e.g., Kubernetes)
+* Proficiency in programming languages such as Python, Java, or C++
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+
+If you are a motivated and detail-oriented individual with a passion for testing and performance engineering, we encourage you to apply.

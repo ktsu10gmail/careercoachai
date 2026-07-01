@@ -1,0 +1,173 @@
+{
+  "job_title": "Dental Hygienists",
+  "case_slug": "dental-hygienists-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.595859",
+  "match_score": 52.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.7,
+      "reason": "Found 4 direct, 2 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques.",
+        "Note that the candidate did not mention working closely with dentists to develop treatment plans or maintaining accurate and up-to-date patient records, which are higher-scope requirements for the job.",
+        "+ Conducted visual examinations and X-ray analysis for patients"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.7,
+      "reason": "Found 4 direct, 2 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Summary:",
+        "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques.",
+        "Note that the candidate did not mention working closely with dentists to develop treatment plans or maintaining accurate and up-to-date patient records, which are higher-scope requirements for the job.",
+        "+ Conducted visual examinations and X-ray analysis for patients"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques.",
+        "Note that the candidate did not mention working closely with dentists to develop treatment plans or maintaining accurate and up-to-date patient records, which are higher-scope requirements for the job.",
+        "+ Conducted visual examinations and X-ray analysis for patients"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Dental Hygienist, you will be responsible for conducting thorough oral exams, taking X-rays, and providing preventative dental care to patients of all ages.",
+      "evidence": [
+        "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough oral exams, including visual examinations and X-ray analysis",
+      "evidence": [
+        "+ Conducted visual examinations and X-ray analysis for patients"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide preventative dental care, including cleanings, fluoride treatments, and sealants",
+      "evidence": [
+        "+ Provided preventative dental care, including cleanings and fluoride treatments"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Educate patients on proper oral hygiene techniques and provide personalized recommendations for improvement",
+      "evidence": [
+        "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Take and develop radiographs (X-rays) as needed",
+      "evidence": [
+        "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Dental Hygienist**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** DH-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company Rating:** 4.5/5 stars (based on 200+ reviews)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "You will also work closely with dentists to develop treatment plans and educate patients on proper oral hygiene techniques.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that the candidate did not mention working closely with dentists to develop treatment plans or maintaining accurate and up-to-date patient records, which are higher-scope requirements for the job.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date patient records",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that the candidate did not mention working closely with dentists to develop treatment plans or maintaining accurate and up-to-date patient records, which are higher-scope requirements for the job.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current with the latest dental technologies and techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Associate's degree in Dental Hygiene from an accredited program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques.",
+      "supports": "As a Dental Hygienist, you will be responsible for conducting thorough oral exams, taking X-rays, and providing preventative dental care to patients of all ages."
+    },
+    {
+      "source": "resume",
+      "quote": "Note that the candidate did not mention working closely with dentists to develop treatment plans or maintaining accurate and up-to-date patient records, which are higher-scope requirements for the job.",
+      "supports": "You will also work closely with dentists to develop treatment plans and educate patients on proper oral hygiene techniques."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted visual examinations and X-ray analysis for patients",
+      "supports": "Conduct thorough oral exams, including visual examinations and X-ray analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of conducting thorough oral exams, taking X-rays, and educating patients on proper oral hygiene techniques.",
+      "supports": "Take and develop radiographs (X-rays) as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,41 @@
+<h2>Electrician - Quality Assurance Engineer</h2>
+
+<p>Results-driven quality assurance engineer with 5+ years of experience in conducting thorough stress tests on complex systems, ensuring reliability and performance. Proven track record of identifying performance bottlenecks and collaborating with cross-functional teams to resolve issues.</p>
+
+<p><strong>Professional Experience:</strong></p>
+
+* Senior Quality Assurance Engineer, ABC Corporation (2020-Present)
+	+ Conducted comprehensive stress tests on software applications, identifying and resolving performance issues
+	+ Collaborated with development teams to reproduce and resolve complex bugs
+	+ Developed and executed test plans, ensuring timely delivery of high-quality products
+	+ Analyzed system behavior under various loads and conditions, providing actionable recommendations for improvement
+* Quality Assurance Engineer, DEF Startups (2018-2020)
+	+ Conducted manual and automated testing on software applications, identifying defects and collaborating with development teams to resolve issues
+	+ Developed and maintained test frameworks, ensuring efficient testing of complex systems
+
+<p><strong>Education:</strong></p>
+
+* Bachelor's degree in Computer Science, XYZ University (2015-2019)
+
+<p><strong>Technical Skills:</strong></p>
+
+* Programming languages: Python, Java, C++
+* Stress testing tools: Apache JMeter, NeoLoad
+* Agile methodologies: Scrum, Kanban
+* Operating Systems: Windows, Linux
+
+<p><strong>Achievements:</strong></p>
+
+* Improved test coverage by 30% through the development and execution of comprehensive test plans
+* Collaborated with cross-functional teams to resolve complex issues, resulting in a 25% reduction in defect density
+* Developed and maintained a custom test framework, reducing testing time by 50%
+
+<p><strong>Certifications:</p>
+
+* Certified Scrum Master (CSM)
+* Certified Quality Engineer (CQE)
+
+<p><strong>Personal Projects:</p>
+
+* Developed a custom stress testing tool using Python and Apache JMeter
+* Contributed to open-source projects on GitHub, improving the reliability and performance of software applications

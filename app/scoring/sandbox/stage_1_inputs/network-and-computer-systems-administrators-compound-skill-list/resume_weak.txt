@@ -1,0 +1,16 @@
+Here is a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Network and Computer Systems Administrator**
+
+* Experienced in designing and implementing small-scale network infrastructure using Cisco IOS and Juniper SRX
+* Proficient in Red Hat Enterprise Linux and Windows Server 2019 for system administration tasks
+* Familiarity with Docker and Kubernetes for containerization
+* Knowledge of Python 3.x and PowerShell 5.0 for scripting and automation
+* Basic understanding of Nagios Core for monitoring and troubleshooting
+
+Note: This resume snippet lacks enterprise scope by:
+
+- Not mentioning AWS CloudFormation, Ansible Tower, or other tools commonly used in large-scale network administration.
+- Focusing on small-scale network infrastructure design and implementation.
+- Missing experience with cloud security best practices, machine learning, and artificial intelligence technologies.
+- Not including certifications like CompTIA Network+ or Cisco CCNA.

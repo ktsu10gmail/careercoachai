@@ -1,0 +1,21 @@
+{
+  "job_title": "Tool and Die Makers",
+  "case_slug": "tool-and-die-makers-boilerplate-heavy",
+  "scenario": "boilerplate_heavy",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T18:01:31.737446",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

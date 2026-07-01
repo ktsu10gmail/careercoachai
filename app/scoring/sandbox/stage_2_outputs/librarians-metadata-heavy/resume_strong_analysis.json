@@ -1,0 +1,159 @@
+{
+  "job_title": "Librarians",
+  "case_slug": "librarians-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.762707",
+  "match_score": 29.98,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.3,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 49.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a suite of automated testing tools to support stress testing efforts",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and provide recommendations for improving the performance and scalability of the scoring engine",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not currently based in San Francisco",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies that may impact our scoring engine's performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software architecture, scalability, and performance optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of metadata storage and retrieval technologies (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "relational databases, NoSQL databases)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads."
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position.",
+      "supports": "Develop and maintain a suite of automated testing tools to support stress testing efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position.",
+      "supports": "Analyze test results and provide recommendations for improving the performance and scalability of the scoring engine"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

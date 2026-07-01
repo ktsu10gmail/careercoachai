@@ -1,0 +1,146 @@
+{
+  "job_title": "Project Managers",
+  "case_slug": "project-managers-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.018977",
+  "match_score": 72.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.2,
+      "reason": "Found 6 direct, 5 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions.",
+        "Designed and executed stress test plans using LoadRunner, JMeter, Apache JMeter, Gatling, Locust, NeoLoad, SilkTest, TestComplete, Selenium, Appium, Python, Java, C++, and MATLAB, resulting in a 30% increase in system uptime and a 25% reduc",
+        "Coordinated with stakeholders to gather requirements and identify testing priorities, ensuring seamless collaboration and efficient test execution.",
+        "Project Management: 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "manager",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions.",
+        "Designed and executed stress test plans using LoadRunner, JMeter, Apache JMeter, Gatling, Locust, NeoLoad, SilkTest, TestComplete, Selenium, Appium, Python, Java, C++, and MATLAB, resulting in a 30% increase in system uptime and a 25% reduc",
+        "Coordinated with stakeholders to gather requirements and identify testing priorities, ensuring seamless collaboration and efficient test execution.",
+        "Project Management: 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing these tests to ensure the reliability and performance of our scoring engine solutions.",
+      "evidence": [
+        "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You will work closely with cross-functional teams, including engineering, product management, and quality assurance to ensure that tests are conducted efficiently and effectively.",
+      "evidence": [
+        "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on the scoring engine",
+      "evidence": [
+        "Designed and executed stress test plans using LoadRunner, JMeter, Apache JMeter, Gatling, Locust, NeoLoad, SilkTest, TestComplete, Selenium, Appium, Python, Java, C++, and MATLAB, resulting in a 30% increase in system uptime and a 25% reduc"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate with stakeholders to gather requirements and identify testing priorities",
+      "evidence": [
+        "Coordinated with stakeholders to gather requirements and identify testing priorities, ensuring seamless collaboration and efficient test execution."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "+ Apache JMeter",
+      "evidence": [
+        "Designed and executed stress test plans using LoadRunner, JMeter, Apache JMeter, Gatling, Locust, NeoLoad, SilkTest, TestComplete, Selenium, Appium, Python, Java, C++, and MATLAB, resulting in a 30% increase in system uptime and a 25% reduc"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "+ Python",
+      "evidence": [
+        "Designed and executed stress test plans using LoadRunner, JMeter, Apache JMeter, Gatling, Locust, NeoLoad, SilkTest, TestComplete, Selenium, Appium, Python, Java, C++, and MATLAB, resulting in a 30% increase in system uptime and a 25% reduc"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Project Manager, you will be responsible for planning, coordinating, and executing stress testing activities to identify potential weaknesses and areas for improvement in our ",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Project Managers should possess a strong background in project management, stress testing, and software development.",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Project Management: 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions.",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing these tests to ensure the reliability and performance of our scoring engine solutions."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions.",
+      "supports": "You will work closely with cross-functional teams, including engineering, product management, and quality assurance to ensure that tests are conducted efficiently and effectively."
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and executed stress test plans using LoadRunner, JMeter, Apache JMeter, Gatling, Locust, NeoLoad, SilkTest, TestComplete, Selenium, Appium, Python, Java, C++, and MATLAB, resulting in a 30% increase in system uptime and a 25% reduc",
+      "supports": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with stakeholders to gather requirements and identify testing priorities, ensuring seamless collaboration and efficient test execution.",
+      "supports": "Coordinate with stakeholders to gather requirements and identify testing priorities"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven project manager with 7+ years of experience in leading cross-functional teams and executing comprehensive stress tests to ensure reliability and performance of software solutions.",
+      "supports": "Execute stress tests using a variety of tools and platforms, including but not limited to"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

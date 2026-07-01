@@ -1,0 +1,136 @@
+{
+  "job_title": "27. Help Desk Technicians",
+  "case_slug": "27-help-desk-technicians",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:48.149552",
+  "match_score": 78.15,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.4,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and detail-oriented IT professional with 1.5 years of experience in resolving technical issues via phone, email, and chat for diverse customer bases.",
+        "Proven track record of effectively troubleshooting hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software.",
+        "Experienced in providing training and support for new employees on company technology systems",
+        "Proficient in Windows operating systems (Windows 10/Server) and Microsoft Office applications"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.3,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Windows operating systems (Windows 10/Server) and Microsoft Office applications",
+        "Basic understanding of Linux operating systems and scripting languages (Bash, PowerShell)",
+        "Proven track record of effectively troubleshooting hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and detail-oriented IT professional with 1.5 years of experience in resolving technical issues via phone, email, and chat for diverse customer bases.",
+        "Proven track record of effectively troubleshooting hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software.",
+        "Experienced in providing training and support for new employees on company technology systems",
+        "Proficient in Windows operating systems (Windows 10/Server) and Microsoft Office applications"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to and resolve technical issues via phone, email, and chat for a diverse customer base",
+      "evidence": [
+        "Highly motivated and detail-oriented IT professional with 1.5 years of experience in resolving technical issues via phone, email, and chat for diverse customer bases."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Troubleshoot hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software",
+      "evidence": [
+        "Proven track record of effectively troubleshooting hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide training and support for new employees on company technology systems",
+      "evidence": [
+        "Experienced in providing training and support for new employees on company technology systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong technical skills, including proficiency with Windows operating systems, Microsoft Office, and common network protocols",
+      "evidence": [
+        "Proficient in Windows operating systems (Windows 10/Server) and Microsoft Office applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "evidence": [
+        "Excellent communication and problem-solving skills, with the ability to effectively collaborate with internal teams and customers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic knowledge of Linux operating systems and scripting languages (e.g.",
+      "evidence": [
+        "Basic understanding of Linux operating systems and scripting languages (Bash, PowerShell)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "1-2 years of experience as a help desk technician or similar role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented IT professional with 1.5 years of experience in resolving technical issues via phone, email, and chat for diverse customer bases.",
+      "supports": "Respond to and resolve technical issues via phone, email, and chat for a diverse customer base"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of effectively troubleshooting hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software.",
+      "supports": "Troubleshoot hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented IT professional with 1.5 years of experience in resolving technical issues via phone, email, and chat for diverse customer bases.",
+      "supports": "Document and track all technical issues and resolutions in the ticketing system"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in providing training and support for new employees on company technology systems",
+      "supports": "Provide training and support for new employees on company technology systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of effectively troubleshooting hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software.",
+      "supports": "Participate in regular team meetings and contribute to the development of knowledge base articles and troubleshooting guides"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

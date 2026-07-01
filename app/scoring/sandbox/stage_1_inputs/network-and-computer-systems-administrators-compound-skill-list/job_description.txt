@@ -1,0 +1,42 @@
+**Network and Computer Systems Administrator**
+
+We are seeking a highly skilled Network and Computer Systems Administrator to join our team. As a key member of our IT department, you will be responsible for designing, implementing, and maintaining our network infrastructure, as well as ensuring the security and performance of our computer systems.
+
+**Job Summary:**
+
+As a Network and Computer Systems Administrator, you will be responsible for:
+
+* Designing, implementing, and maintaining our network infrastructure, including routers, switches, firewalls, and network protocols
+* Ensuring the security and integrity of our computer systems, including vulnerability assessments and penetration testing
+* Monitoring and troubleshooting network and system issues, including performance optimization and capacity planning
+* Collaborating with other teams to implement new technologies and solutions
+* Developing and maintaining technical documentation and knowledge base articles
+* Participating in on-call rotations for after-hours support
+
+**Responsibilities:**
+
+* Perform regular backups and disaster recovery procedures
+* Implement and maintain network segmentation and access controls
+* Conduct routine system updates and patches
+* Collaborate with developers to ensure smooth integration of new systems and applications
+* Develop and implement security policies and procedures
+* Participate in incident response and disaster recovery planning
+
+**Required Skills:**
+
+Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Git, Azure DevOps, Jenkins, Puppet, Chef, Ansible Tower, Cisco Umbrella, Fortinet FortiGate
+
+**Nice to Have:**
+
+* Experience with containerization using Docker and Kubernetes
+* Knowledge of cloud security best practices
+* Familiarity with machine learning and artificial intelligence technologies
+* Experience with network monitoring tools such as SolarWinds or NetFlow
+* Certification in CompTIA Network+ or Cisco CCNA
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunities for professional growth and development
+* Collaborative and dynamic work environment
+* Flexible work arrangements, including remote work options

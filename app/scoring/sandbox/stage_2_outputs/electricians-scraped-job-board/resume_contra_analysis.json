@@ -1,0 +1,140 @@
+{
+  "job_title": "Electricians",
+  "case_slug": "electricians-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.103139",
+  "match_score": 17.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 14 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+        "Maintained accurate records of electrical work performed, but did not provide detailed reports on test results or recommendations for improvement.",
+        "Utilized basic electrical tools and techniques to diagnose and repair electrical issues, but lacked experience with advanced testing equipment such as multimeters and circuit analyzers."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 9.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+        "Maintained accurate records of electrical work performed, but did not provide detailed reports on test results or recommendations for improvement.",
+        "Utilized basic electrical tools and techniques to diagnose and repair electrical issues, but lacked experience with advanced testing equipment such as multimeters and circuit analyzers."
+      ]
+    }
+  ],
+  "requirement_matches": [],
+  "missing_requirements": [
+    {
+      "requirement": "<h2>Electrician - Scoring Engine Stress Test</h2>",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "<p>Join our team of expert engineers as a Scoring Engine Stress Tester! As an integral part of our Quality Assurance team, you will play a crucial role in ensuring the reliability ",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "<p><strong>Job Summary:</strong></p>",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating various scenarios to identify potential bottlenecks, optimize system performance, and ensure the overall quality of our ",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough analysis of the scoring engine's behavior under different loads and conditions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute comprehensive stress test plans to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide detailed reports on test results, including recommendations for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained accurate records of electrical work performed, but did not provide detailed reports on test results or recommendations for improvement.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized basic electrical tools and techniques to diagnose and repair electrical issues, but lacked experience with advanced testing equipment such as multimeters and circuit analyzers.",
+      "severity": "high"
+    },
+    {
+      "requirement": "<p><strong>Required Skills:</p>",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Electrical Engineering, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, quality assurance, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized basic electrical tools and techniques to diagnose and repair electrical issues, but lacked experience with advanced testing equipment such as multimeters and circuit analyzers.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, algorithms, and data structures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "supports": "<p>Join our team of expert engineers as a Scoring Engine Stress Tester! As an integral part of our Quality Assurance team, you will play a crucial role in ensuring the reliability "
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "supports": "The successful candidate will be responsible for simulating various scenarios to identify potential bottlenecks, optimize system performance, and ensure the overall quality of our "
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.",
+      "supports": "Develop and execute comprehensive stress test plans to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of electrical work performed, but did not provide detailed reports on test results or recommendations for improvement.",
+      "supports": "Provide detailed reports on test results, including recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized basic electrical tools and techniques to diagnose and repair electrical issues, but lacked experience with advanced testing equipment such as multimeters and circuit analyzers.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

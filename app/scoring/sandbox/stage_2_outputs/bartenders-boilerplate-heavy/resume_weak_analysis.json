@@ -1,0 +1,166 @@
+{
+  "job_title": "Bartenders",
+  "case_slug": "bartenders-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:55.680809",
+  "match_score": 38.95,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.1,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems.",
+        "Collaborated with colleagues to achieve sales goals and maintain a positive team atmosphere.",
+        "Resolved hardware and software issues for clients using low-level tools such as nmap and Wireshark."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 12.1,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 10 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems.",
+        "Collaborated with colleagues to achieve sales goals and maintain a positive team atmosphere.",
+        "Resolved hardware and software issues for clients using low-level tools such as nmap and Wireshark."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 47.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems.",
+        "Collaborated with colleagues to achieve sales goals and maintain a positive team atmosphere.",
+        "Resolved hardware and software issues for clients using low-level tools such as nmap and Wireshark."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage cash handling, including operating a point-of-sale system and processing transactions",
+      "evidence": [
+        "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You'll be responsible for crafting innovative cocktails, managing cash handling, and providing exceptional customer service to our diverse community.",
+      "evidence": [
+        "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to health and safety standards",
+      "evidence": [
+        "Collaborated with colleagues to achieve sales goals and maintain a positive team atmosphere."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide exceptional customer service, responding to customer inquiries and resolving issues promptly",
+      "evidence": [
+        "Resolved hardware and software issues for clients using low-level tools such as nmap and Wireshark."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a Bartender at [Company Name], you'll be the heartbeat of our bars, cafes, and restaurants.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive hourly rate",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive training program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Discounts on food and drinks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A fun and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from all qualified candidates, regardless of age, sex, race, color, national origin, disability, or any other protected characteristic.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and serve food and beverages in a fast-paced environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems.",
+      "supports": "You'll be responsible for crafting innovative cocktails, managing cash handling, and providing exceptional customer service to our diverse community."
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled bartender with 2+ years of experience in managing cash registers and operating point-of-sale systems.",
+      "supports": "Manage cash handling, including operating a point-of-sale system and processing transactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with colleagues to achieve sales goals and maintain a positive team atmosphere.",
+      "supports": "Maintain a clean and organized workspace, adhering to health and safety standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Resolved hardware and software issues for clients using low-level tools such as nmap and Wireshark.",
+      "supports": "Provide exceptional customer service, responding to customer inquiries and resolving issues promptly"
+    },
+    {
+      "source": "job_description",
+      "quote": "As a Bartender at [Company Name], you'll be the heartbeat of our bars, cafes, and restaurants.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

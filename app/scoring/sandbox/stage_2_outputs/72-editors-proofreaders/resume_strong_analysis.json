@@ -1,0 +1,147 @@
+{
+  "job_title": "72. Editors / Proofreaders",
+  "case_slug": "72-editors-proofreaders",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.927622",
+  "match_score": 60.55,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.1,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications.",
+        "Conducted thorough fact-checking to verify accuracy of information, utilizing AP Stylebook guidelines for consistency.",
+        "Collaborated with authors, designers, and production teams to clarify content, resolve issues, and meet tight deadlines for publication schedules.",
+        "Bachelor of Arts in English, ABC University (2018)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 52.1,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications.",
+        "Conducted thorough fact-checking to verify accuracy of information, utilizing AP Stylebook guidelines for consistency.",
+        "Collaborated with authors, designers, and production teams to clarify content, resolve issues, and meet tight deadlines for publication schedules.",
+        "Bachelor of Arts in English, ABC University (2018)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications.",
+        "Conducted thorough fact-checking to verify accuracy of information, utilizing AP Stylebook guidelines for consistency.",
+        "Collaborated with authors, designers, and production teams to clarify content, resolve issues, and meet tight deadlines for publication schedules.",
+        "Bachelor of Arts in English, ABC University (2018)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Review written content for grammar, punctuation, spelling, and syntax errors",
+      "evidence": [
+        "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ensure consistency in style, tone, and formatting throughout publications",
+      "evidence": [
+        "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet tight deadlines for publication schedules",
+      "evidence": [
+        "Collaborated with authors, designers, and production teams to clarify content, resolve issues, and meet tight deadlines for publication schedules."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough fact-checking to verify accuracy of information",
+      "evidence": [
+        "Conducted thorough fact-checking to verify accuracy of information, utilizing AP Stylebook guidelines for consistency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite and Adobe Acrobat",
+      "evidence": [
+        "Proficient in Microsoft Office Suite (Word, Excel, PowerPoint) and Adobe Acrobat."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of grammar, punctuation, and syntax rules",
+      "evidence": [
+        "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "2+ years of experience in editing or proofreading",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bilingualism or multilingual writing experience",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications.",
+      "supports": "Review written content for grammar, punctuation, spelling, and syntax errors"
+    },
+    {
+      "source": "resume",
+      "quote": "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications.",
+      "supports": "Ensure consistency in style, tone, and formatting throughout publications"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough fact-checking to verify accuracy of information, utilizing AP Stylebook guidelines for consistency.",
+      "supports": "Conduct thorough fact-checking to verify accuracy of information"
+    },
+    {
+      "source": "resume",
+      "quote": "Reviewed and edited manuscripts for grammar, punctuation, spelling, and syntax errors, ensuring consistency in style, tone, and formatting throughout publications.",
+      "supports": "Apply company-specific style guides (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with authors, designers, and production teams to clarify content, resolve issues, and meet tight deadlines for publication schedules.",
+      "supports": "Meet tight deadlines for publication schedules"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

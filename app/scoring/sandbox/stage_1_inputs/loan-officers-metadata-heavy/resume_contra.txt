@@ -1,0 +1,25 @@
+Here's a contra-evidence resume snippet for a Loan Officer position:
+
+**Loan Officer Candidate**
+
+**Summary:**
+Highly motivated and detail-oriented professional with 3+ years of experience in loan processing and underwriting. Proven track record of successfully managing complex loan portfolios and meeting deadlines.
+
+**Experience:**
+
+* **Loan Processor**, XYZ Bank (2018-Present)
+ + Processed and underwrote mortgage loans for clients, ensuring timely and accurate delivery
+ + Managed loan files, including documentation and communication with clients and internal stakeholders
+ + Collaborated with cross-functional teams to resolve complex loan issues and ensure compliance with regulatory requirements
+
+**Skills:**
+
+* Proficient in loan processing software, including [list specific software]
+* Strong understanding of loan regulations and industry standards
+* Excellent communication and organizational skills, with ability to work effectively in fast-paced environment
+
+**Education:**
+
+* **Bachelor's Degree**, Finance or related field (2015-2018)
+
+Note: The candidate did not have 5+ years of experience in stress testing or performance engineering for software applications, nor did they have experience with load testing tools such as Apache JMeter, Gatling, or Locust.

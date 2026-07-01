@@ -1,0 +1,11 @@
+Here's a contra-evidence resume snippet for an Electrician position:
+
+**Electrician**
+
+* Conducted routine electrical inspections and identified potential safety hazards, but did not develop or execute comprehensive stress test plans to identify performance bottlenecks.
+* Utilized basic electrical tools and techniques to diagnose and repair electrical issues, but lacked experience with advanced testing equipment such as multimeters and circuit analyzers.
+* Collaborated with team members to complete projects, but did not demonstrate strong analytical and problem-solving skills in resolving complex electrical issues.
+* Maintained accurate records of electrical work performed, but did not provide detailed reports on test results or recommendations for improvement.
+* Stayed current with industry developments through online training courses, but did not have experience with stress testing tools and frameworks such as Apache JMeter or NeoLoad.
+
+Note: This resume snippet highlights the candidate's lack of experience in higher-scope requirements, such as developing comprehensive stress test plans, using advanced testing equipment, and demonstrating strong analytical skills.

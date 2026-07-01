@@ -1,0 +1,142 @@
+{
+  "job_title": "60. UX/UI Designers",
+  "case_slug": "60-ux-ui-designers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:51.755674",
+  "match_score": 64.91,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "2 years of experience in designing user interfaces for small startups",
+        "Proficient in Sketch, Figma, and Adobe XD",
+        "It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer.\"",
+        "Strong understanding of human-centered design principles and usability guidelines"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 57.1,
+      "reason": "Found 4 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "2 years of experience in designing user interfaces for small startups",
+        "Proficient in Sketch, Figma, and Adobe XD",
+        "It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer.\"",
+        "Strong understanding of human-centered design principles and usability guidelines"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "2 years of experience in designing user interfaces for small startups",
+        "Proficient in Sketch, Figma, and Adobe XD",
+        "It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer.\"",
+        "Strong understanding of human-centered design principles and usability guidelines"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision",
+      "evidence": [
+        "Proficient in Sketch, Figma, and Adobe XD"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain design systems, style guides, and component libraries",
+      "evidence": [
+        "It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in design tools such as Sketch, Figma, Adobe XD, and InVision",
+      "evidence": [
+        "Proficient in Sketch, Figma, and Adobe XD"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with design systems and style guides (e.g.",
+      "evidence": [
+        "It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in UX/UI design",
+      "evidence": [
+        "2 years of experience in designing user interfaces for small startups"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Understanding of human-centered design principles, usability, and accessibility guidelines",
+      "evidence": [
+        "Strong understanding of human-centered design principles and usability guidelines"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Stay up-to-date with industry trends, best practices, and emerging technologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the required 3+ years of experience, strong portfolio, and industry trends knowledge.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "2 years of experience in designing user interfaces for small startups",
+      "supports": "Conduct user research, create personas, and develop user journeys to inform design decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Sketch, Figma, and Adobe XD",
+      "supports": "Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision"
+    },
+    {
+      "source": "resume",
+      "quote": "It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer.\"",
+      "supports": "Develop and maintain design systems, style guides, and component libraries"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of human-centered design principles and usability guidelines",
+      "supports": "Work with developers to ensure design is implemented correctly and meets usability standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of human-centered design principles and usability guidelines",
+      "supports": "Conduct usability testing and gather feedback from stakeholders to iterate on designs"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

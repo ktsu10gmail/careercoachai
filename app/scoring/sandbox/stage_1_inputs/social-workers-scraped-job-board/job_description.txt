@@ -1,0 +1,43 @@
+**Social Worker - Stress Test**
+
+**Job Title:** Social Worker
+**Company:** Community Care Services
+**Location:** 123 Main St, Anytown, USA
+**Rating:** 4.5/5 (based on 200+ reviews)
+
+**Job Type:** Full-time
+**Salary:** $60,000 - $80,000 per year
+
+**About Us:**
+
+At Community Care Services, we're dedicated to providing high-quality social work services to our community. We're seeking a skilled and compassionate Social Worker to join our team.
+
+**Responsibilities:**
+
+* Conduct stress tests on scoring engines to identify performance bottlenecks
+* Develop and implement test cases to simulate real-world scenarios
+* Collaborate with cross-functional teams to ensure test results are actionable and effective
+* Analyze test data to identify trends and areas for improvement
+* Communicate test results and recommendations to stakeholders
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or a related field
+* Strong understanding of scoring engines and their performance characteristics
+* Excellent analytical and problem-solving skills
+* Ability to work independently and collaboratively as part of a team
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with test automation frameworks (e.g. Selenium, Appium)
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on high-profile projects and contribute to the development of our scoring engine
+* Collaborative and dynamic work environment
+* Professional development opportunities
+
+**Equal Employment Opportunity:**
+
+Community Care Services is an equal opportunity employer committed to diversity and inclusion. We welcome applications from qualified candidates of all backgrounds.
+
+**Apply Now:**

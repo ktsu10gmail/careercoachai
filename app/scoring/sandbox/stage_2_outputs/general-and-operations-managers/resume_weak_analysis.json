@@ -1,0 +1,142 @@
+{
+  "job_title": "General and Operations Managers",
+  "case_slug": "general-and-operations-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.824082",
+  "match_score": 78.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 60.0,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed daily operations of 2 facilities, ensuring efficient use of resources and adherence to company policies",
+        "Facility A (2018-Present)",
+        "Supervised a team of 3 staff members, providing guidance, training, and performance evaluations as needed",
+        "There is no mention of supervising a team of 5-10 staff members or coordinating with external vendors and contractors."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed daily operations of 2 facilities, ensuring efficient use of resources and adherence to company policies",
+        "Facility A (2018-Present)",
+        "Supervised a team of 3 staff members, providing guidance, training, and performance evaluations as needed",
+        "There is no mention of supervising a team of 5-10 staff members or coordinating with external vendors and contractors."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies",
+      "evidence": [
+        "Managed daily operations of 2 facilities, ensuring efficient use of resources and adherence to company policies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and supervise a team of 5-10 staff members, providing guidance, training, and performance evaluations as needed",
+      "evidence": [
+        "Supervised a team of 3 staff members, providing guidance, training, and performance evaluations as needed"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration, Operations Management, or related field",
+      "evidence": [
+        "2+ years of experience in operations management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in operations management, preferably in a similar industry",
+      "evidence": [
+        "2+ years of experience in operations management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to build strong relationships with stakeholders",
+      "evidence": [
+        "Excellent communication and interpersonal skills, with ability to build strong relationships with stakeholders\""
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Knowledge of industry-specific regulations and standards (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: The preferred skills section lists experience with facility management software, industry-specific regulations, and certification in operations management, but there is no evidence of these skills being used in the actual work experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in operations management or a related field (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed daily operations of 2 facilities, ensuring efficient use of resources and adherence to company policies",
+      "supports": "Oversee daily operations of multiple facilities, ensuring efficient use of resources and adherence to company policies"
+    },
+    {
+      "source": "resume",
+      "quote": "Facility A (2018-Present)",
+      "supports": "Develop and implement strategic plans for facility improvement, including budgeting and resource allocation"
+    },
+    {
+      "source": "resume",
+      "quote": "Supervised a team of 3 staff members, providing guidance, training, and performance evaluations as needed",
+      "supports": "Manage and supervise a team of 5-10 staff members, providing guidance, training, and performance evaluations as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "There is no mention of supervising a team of 5-10 staff members or coordinating with external vendors and contractors.",
+      "supports": "Coordinate with external vendors and contractors to ensure timely completion of projects and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented strategic plans for facility improvement, including budgeting and resource allocation",
+      "supports": "Conduct regular site visits to monitor progress, identify areas for improvement, and implement corrective actions"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

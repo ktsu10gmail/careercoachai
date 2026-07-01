@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet for a Cooks position:
+
+"Experienced cook with 3+ years of kitchen management experience, where I successfully coordinated food preparation and inventory control. Skilled in menu planning and cost control, with a focus on efficiency and quality. Proficient in food safety protocols and team leadership.
+
+* Managed daily kitchen operations, including ordering supplies and maintaining equipment.
+* Coordinated with servers to ensure timely food delivery.
+* Implemented a new menu system that resulted in a 25% increase in sales.
+
+Note: I did not implement any inventory management software or track inventory levels in real-time. Also, I was not responsible for managing a high-volume kitchen during peak hours, as our restaurant's busiest period is typically during lunch and dinner service."

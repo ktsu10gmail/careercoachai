@@ -1,0 +1,157 @@
+{
+  "job_title": "Market Research Analysts",
+  "case_slug": "market-research-analysts-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:04.491662",
+  "match_score": 29.98,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 5.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+        "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction.",
+        "Conducted market research and analyzed consumer trends, but did not specialize in financial services or technology"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 17.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+        "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction.",
+        "Conducted market research and analyzed consumer trends, but did not specialize in financial services or technology"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine, focusing on domain scope trap scenarios",
+      "evidence": [
+        "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines, specifically domain scope trap scenarios",
+      "evidence": [
+        "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the ",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and methodologies to simulate various types of traffic and loads",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for system improvements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted market research and analyzed consumer trends, but did not specialize in financial services or technology",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test scripts, and results",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in regular team meetings and contribute to the development of testing strategies and methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills, with ability to identify performance bottlenecks and optimize system performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills, with experience working with cross-functional teams",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+      "supports": "The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the "
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine, focusing on domain scope trap scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted market research and analyzed consumer trends, but did not specialize in financial services or technology",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for system improvements"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify market opportunities, but did not work closely with product management or engineering teams",
+      "supports": "3+ years of experience in stress testing or performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've omitted the essential domain qualifier \"Financial Services\" and scope qualifiers \"Global\", \"High-volume\", and \"Low-latency\" as per your instruction.",
+      "supports": "In-depth knowledge of scoring engines, specifically domain scope trap scenarios"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

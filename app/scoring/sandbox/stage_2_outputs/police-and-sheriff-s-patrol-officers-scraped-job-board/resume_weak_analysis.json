@@ -1,0 +1,168 @@
+{
+  "job_title": "Police and Sheriff\u2019s Patrol Officers",
+  "case_slug": "police-and-sheriff-s-patrol-officers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:06.546988",
+  "match_score": 34.43,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.4,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Law Enforcement Intern**, Local Police Department (Summer 2020)",
+        "Summary:",
+        "The skills section only lists basic software proficiency, which may not be sufficient for a Patrol Officer position.",
+        "High school graduate with experience in IT and law enforcement."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.4,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Law Enforcement Intern**, Local Police Department (Summer 2020)",
+        "Summary:",
+        "The skills section only lists basic software proficiency, which may not be sufficient for a Patrol Officer position.",
+        "High school graduate with experience in IT and law enforcement."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 61.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Law Enforcement Intern**, Local Police Department (Summer 2020)",
+        "Summary:",
+        "The skills section only lists basic software proficiency, which may not be sufficient for a Patrol Officer position.",
+        "High school graduate with experience in IT and law enforcement."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Patrol Officer, you will be responsible for enforcing laws and maintaining public safety in our communities.",
+      "evidence": [
+        "The skills section only lists basic software proficiency, which may not be sufficient for a Patrol Officer position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Police and Sheriff's Patrol Officers**",
+      "evidence": [
+        "Law Enforcement Intern**, Local Police Department (Summer 2020)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "This is an excellent opportunity for those who want to make a difference in their community and start or advance their career in law enforcement.",
+      "evidence": [
+        "High school graduate with experience in IT and law enforcement."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Enforce laws and regulations related to traffic, criminal activity, and other community issues",
+      "evidence": [
+        "+ Assisted customers with technical issues via phone and email"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** PSPO-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career advancement and professional development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Employment Opportunity:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Law Enforcement Intern**, Local Police Department (Summer 2020)",
+      "supports": "Police and Sheriff's Patrol Officers**"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "The skills section only lists basic software proficiency, which may not be sufficient for a Patrol Officer position.",
+      "supports": "As a Patrol Officer, you will be responsible for enforcing laws and maintaining public safety in our communities."
+    },
+    {
+      "source": "resume",
+      "quote": "High school graduate with experience in IT and law enforcement.",
+      "supports": "This is an excellent opportunity for those who want to make a difference in their community and start or advance their career in law enforcement."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Assisted customers with technical issues via phone and email",
+      "supports": "Enforce laws and regulations related to traffic, criminal activity, and other community issues"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,148 @@
+{
+  "job_title": "Marketing Managers",
+  "case_slug": "marketing-managers-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.715045",
+  "match_score": 21.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 19.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "evidence": [
+        "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Type: Full-time",
+      "evidence": [
+        "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for improvement",
+      "evidence": [
+        "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing and executing comprehensive stress testing scenarios to identify performance bottle",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will work closely with cross-functional teams to ensure the reliability, scalability, and security of our platform.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios to simulate real-world usage patterns and identify performance bottlenecks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with containerization tools like Docker and Kubernetes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based infrastructure and deployment models",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles.",
+      "supports": "Job Title: Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles.",
+      "supports": "Job Type: Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information on job descriptions, required skills, or preferred skills for specific job titles.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for improvement"
+    },
+    {
+      "source": "job_description",
+      "quote": "Job Title: Stress Test Engineer",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

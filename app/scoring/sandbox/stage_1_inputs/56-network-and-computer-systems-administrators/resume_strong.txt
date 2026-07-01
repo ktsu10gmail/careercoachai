@@ -1,0 +1,28 @@
+Here's a strong-match resume snippet for a 56 Network and Computer Systems Administrator position:
+
+**Summary:**
+Highly experienced IT professional with over 5 years of experience in network administration and computer systems management. Proven track record of designing, implementing, and managing complex networks and systems, ensuring optimal performance, security, and integrity.
+
+**Technical Skills:**
+
+* Proficient in Windows Server operating systems (Windows Server 2012/2016/2019) and Linux operating systems (Red Hat Enterprise Linux/CentOS)
+* Strong knowledge of network protocols, including TCP/IP, DNS, DHCP, HTTP/HTTPS, and routing
+* Experience with virtualization technologies, such as VMware vSphere and Hyper-V
+* Familiarity with cloud computing platforms, including AWS and Azure
+
+**Network Administration:**
+
+* Installed, configured, and maintained local area networks (LANs), wide area networks (WANs), and the Internet, ensuring network security and integrity
+* Designed, implemented, and managed computer systems, including servers, workstations, and mobile devices
+* Developed and implemented backup and disaster recovery plans to minimize downtime and data loss
+
+**System Management:**
+
+* Collaborated with IT teams to resolve technical issues and improve system performance
+* Monitored network traffic and system logs to identify potential security threats and optimize system resources
+* Implemented and enforced organizational policies for computer systems, including access controls and data encryption
+
+**Security and Compliance:**
+
+* Familiarity with network security tools, including firewalls, intrusion detection systems, and antivirus software
+* Basic understanding of cybersecurity frameworks, such as NIST Cybersecurity Framework

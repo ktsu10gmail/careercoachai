@@ -1,0 +1,166 @@
+{
+  "job_title": "Architects",
+  "case_slug": "architects-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.270294",
+  "match_score": 50.8,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 18.9,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Designed and developed architectural plans and specifications for various projects",
+        "+ Conducted site visits and analyzed building performance data",
+        "+ Collaborated with clients, engineers, and contractors to ensure project success"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 92.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "lead",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Conducted site visits and analyzed building performance data"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 52.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Designed and developed architectural plans and specifications for various projects",
+        "+ Conducted site visits and analyzed building performance data",
+        "+ Collaborated with clients, engineers, and contractors to ensure project success"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and develop architectural plans and specifications",
+      "evidence": [
+        "+ Designed and developed architectural plans and specifications for various projects"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct site visits and analyze building performance data",
+      "evidence": [
+        "+ Conducted site visits and analyzed building performance data"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in architectural design and project management",
+      "evidence": [
+        "+ Designed and developed architectural plans and specifications for various projects"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will be responsible for creating detailed designs, collaborating with cross-functional teams, and ensuring that all projects meet our high standards of quality and excellence.",
+      "evidence": [
+        "+ Designed and developed architectural plans and specifications for various projects"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain relationships with clients, partners, and stakeholders",
+      "evidence": [
+        "+ Collaborated with clients, engineers, and contractors to ensure project success"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** Simulated Scraped Job Board",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an Architect, you will play a critical role in designing and developing our projects from concept to completion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, technologies, and best practices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Architecture or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in Autodesk Revit, SketchUp, and Adobe Creative Suite",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed architectural plans and specifications for various projects",
+      "supports": "You will be responsible for creating detailed designs, collaborating with cross-functional teams, and ensuring that all projects meet our high standards of quality and excellence."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed architectural plans and specifications for various projects",
+      "supports": "Design and develop architectural plans and specifications"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted site visits and analyzed building performance data",
+      "supports": "Conduct site visits and analyze building performance data"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with clients, engineers, and contractors to ensure project success",
+      "supports": "Develop and maintain relationships with clients, partners, and stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed architectural plans and specifications for various projects",
+      "supports": "5+ years of experience in architectural design and project management"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

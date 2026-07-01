@@ -1,0 +1,162 @@
+{
+  "job_title": "Tailors and Dressmakers",
+  "case_slug": "tailors-and-dressmakers-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.568211",
+  "match_score": 33.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.8,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g.",
+        "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.8,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g.",
+        "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 47.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g.",
+        "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Overlock Machin",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Ski",
+      "evidence": [
+        "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life.",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will be responsible for measuring and fitting clients, creating prototypes, and producing final garments using your expertise in sewing, pattern-making, and textile manipulatio",
+      "evidence": [
+        "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Produce high-quality garments using a variety of techniques and materials",
+      "evidence": [
+        "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Tailors and Dressmakers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our design and production team, you will be responsible for creating high-quality garments that meet our customers' needs.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Measure and fit clients to create custom garments",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create prototypes and make adjustments as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Work with the design team to bring designs to life",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Meet production deadlines and manage workload effectively",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide excellent customer service and communicate effectively with clients",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g.",
+      "supports": "As a Tailor or Dressmaker, you will work closely with our design team to bring our designs to life."
+    },
+    {
+      "source": "resume",
+      "quote": "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g.",
+      "supports": "You will be responsible for measuring and fitting clients, creating prototypes, and producing final garments using your expertise in sewing, pattern-making, and textile manipulatio"
+    },
+    {
+      "source": "resume",
+      "quote": "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills.",
+      "supports": "Produce high-quality garments using a variety of techniques and materials"
+    },
+    {
+      "source": "resume",
+      "quote": "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Cutting Table, Measuring Tape, Pattern-Making Software (e.g.",
+      "supports": "Java, Python, JavaScript, HTML/CSS, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Microsoft Office, Sketchbook Pro, Tailor's Ham, Sewing Machine, Serger, Overlock Machin"
+    },
+    {
+      "source": "resume",
+      "quote": "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Skills.",
+      "supports": "Adobe Illustrator), Textile Finishing Techniques, Garment Construction Methods, Quality Control Procedures, Time Management and Organization, Attention to Detail, Communication Ski"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

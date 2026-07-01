@@ -1,0 +1,167 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.969515",
+  "match_score": 32.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 15.4,
+      "reason": "Found 0 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in machine learning algorithms and deep learning frameworks, with strong knowledge of cloud-based infrastructure and containerization tools.",
+        "Participated in code reviews and contributed to the improvement of our development processes",
+        "Note: The candidate did not mention working on high-level projects or leading teams, which are higher-scope requirements mentioned in the job description.",
+        "Technical Skills"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in machine learning algorithms and deep learning frameworks, with strong knowledge of cloud-based infrastructure and containerization tools.",
+        "Note: The candidate did not mention working on high-level projects or leading teams, which are higher-scope requirements mentioned in the job description."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 48.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in machine learning algorithms and deep learning frameworks, with strong knowledge of cloud-based infrastructure and containerization tools.",
+        "Participated in code reviews and contributed to the improvement of our development processes",
+        "Note: The candidate did not mention working on high-level projects or leading teams, which are higher-scope requirements mentioned in the job description.",
+        "Technical Skills"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain technical documentation and knowledge bases",
+      "evidence": [
+        "Technical Skills"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of our development processes",
+      "evidence": [
+        "Participated in code reviews and contributed to the improvement of our development processes"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "With a strong focus on collaboration, creativity, and continuous learning, we're committed to pushing the boundaries of what's possible with AI.",
+      "evidence": [
+        "Proficient in machine learning algorithms and deep learning frameworks, with strong knowledge of cloud-based infrastructure and containerization tools."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Participated in code reviews and contributed to the improvement of our development processes"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance and retirement plan",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Generous paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A dynamic and collaborative work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "NovaTech is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design, develop, and deploy AI systems that meet business requirements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not mention working on high-level projects or leading teams, which are higher-scope requirements mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and advancements in AI technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in machine learning algorithms and deep learning frameworks, with strong knowledge of cloud-based infrastructure and containerization tools.",
+      "supports": "With a strong focus on collaboration, creativity, and continuous learning, we're committed to pushing the boundaries of what's possible with AI."
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in code reviews and contributed to the improvement of our development processes",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not mention working on high-level projects or leading teams, which are higher-scope requirements mentioned in the job description.",
+      "supports": "Design, develop, and deploy AI systems that meet business requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "Technical Skills",
+      "supports": "Develop and maintain technical documentation and knowledge bases"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in code reviews and contributed to the improvement of our development processes",
+      "supports": "Participate in code reviews and contribute to the improvement of our development processes"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

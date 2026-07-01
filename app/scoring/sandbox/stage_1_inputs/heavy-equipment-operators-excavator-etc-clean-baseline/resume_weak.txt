@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet:
+
+John Doe
+Heavy Equipment Operator
+
+Contact Info: (123) 456-7890 | [johndoe@email.com](mailto:johndoe@email.com)
+
+Summary:
+Experienced operator with 5+ years of experience in operating heavy equipment for small-scale projects.
+
+Work Experience:
+
+* Heavy Equipment Operator, Small Construction Co. (2018-Present)
+ + Operated excavators and backhoes for residential construction projects
+ + Conducted pre-operational checks on equipment before each use
+ + Maintained a clean and organized work area
+
+Education:
+
+* High School Diploma, Local High School (2015)
+
+Skills:
+
+* Heavy Equipment Operator certification (OSHA 30-Hour)
+* Experience with hydraulic excavators (Caterpillar)
+* Basic knowledge of excavation safety procedures
+
+Certifications:
+
+* OSHA 30-Hour Certification
+* First Aid Certification

@@ -1,0 +1,145 @@
+{
+  "job_title": "Welders, Cutters, Solderers, and Brazers",
+  "case_slug": "welders-cutters-solderers-and-brazers-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:11.878783",
+  "match_score": 75.01,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 68.2,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation.",
+        "+ Operated scoring engine under various operating conditions to simulate real-world scenarios",
+        "+ Conducted thorough inspections of the engine and its components after each test cycle",
+        "+ Documented test results, including any anomalies or issues encountered"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 68.2,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation.",
+        "+ Operated scoring engine under various operating conditions to simulate real-world scenarios",
+        "+ Conducted thorough inspections of the engine and its components after each test cycle",
+        "+ Documented test results, including any anomalies or issues encountered"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation.",
+        "+ Operated scoring engine under various operating conditions to simulate real-world scenarios",
+        "+ Conducted thorough inspections of the engine and its components after each test cycle",
+        "+ Documented test results, including any anomalies or issues encountered"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operate the scoring engine under various operating conditions to simulate real-world scenarios",
+      "evidence": [
+        "+ Operated scoring engine under various operating conditions to simulate real-world scenarios"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough inspections of the engine and its components after each test cycle",
+      "evidence": [
+        "+ Conducted thorough inspections of the engine and its components after each test cycle"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Document test results, including any anomalies or issues encountered",
+      "evidence": [
+        "+ Documented test results, including any anomalies or issues encountered"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in regular maintenance and calibration of the scoring engine",
+      "evidence": [
+        "+ Operated scoring engine under various operating conditions to simulate real-world scenarios"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience working with high-performance thermal management systems",
+      "evidence": [
+        "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The ideal candidate will have experience with high-performance equipment and a strong understanding of thermal management systems.",
+      "evidence": [
+        "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and documentation skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation.",
+      "supports": "The ideal candidate will have experience with high-performance equipment and a strong understanding of thermal management systems."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated scoring engine under various operating conditions to simulate real-world scenarios",
+      "supports": "Operate the scoring engine under various operating conditions to simulate real-world scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled welder with 3+ years of experience in high-performance thermal management systems, utilizing expertise in stress testing equipment and procedures to drive innovation.",
+      "supports": "Monitor system performance and identify areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted thorough inspections of the engine and its components after each test cycle",
+      "supports": "Conduct thorough inspections of the engine and its components after each test cycle"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Documented test results, including any anomalies or issues encountered",
+      "supports": "Document test results, including any anomalies or issues encountered"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

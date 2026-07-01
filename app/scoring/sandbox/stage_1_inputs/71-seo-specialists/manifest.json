@@ -1,0 +1,20 @@
+{
+  "job_title": "71. SEO Specialists",
+  "case_slug": "71-seo-specialists",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:39:25.043727",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

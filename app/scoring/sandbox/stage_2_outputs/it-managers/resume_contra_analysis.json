@@ -1,0 +1,165 @@
+{
+  "job_title": "IT Managers",
+  "case_slug": "it-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.115207",
+  "match_score": 58.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 44.6,
+      "reason": "Found 5 direct, 3 adjacent, 2 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications.",
+        "Proven track record of successfully implementing comprehensive IT strategies to support business objectives.",
+        "However, I would like to clarify that in my previous role, I did not have the opportunity to oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devi",
+        "I also want to note that although I have a strong understanding of database management systems (DBMS) such as Oracle, SQL Server, or MySQL, I did not have the chance to apply them in my previous role."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 98.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 27.0,
+      "reason": "Found 1 direct, 1 adjacent, 1 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I also want to note that although I have a strong understanding of database management systems (DBMS) such as Oracle, SQL Server, or MySQL, I did not have the chance to apply them in my previous role.",
+        "\"Results-driven IT professional with 5+ years of experience in managing IT teams and projects.",
+        "Collaborated with senior management to identify and prioritize IT projects, allocating resources and budget accordingly.",
+        "Skilled in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with strong knowledge of IT service management frameworks (ITIL) and agile methodologies."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications.",
+        "Proven track record of successfully implementing comprehensive IT strategies to support business objectives.",
+        "However, I would like to clarify that in my previous role, I did not have the opportunity to oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devi",
+        "I also want to note that although I have a strong understanding of database management systems (DBMS) such as Oracle, SQL Server, or MySQL, I did not have the chance to apply them in my previous role."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications",
+      "evidence": [
+        "Managed a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals",
+      "evidence": [
+        "Proven track record of successfully implementing comprehensive IT strategies to support business objectives."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully managing IT teams and projects",
+      "evidence": [
+        "Proven track record of successfully implementing comprehensive IT strategies to support business objectives."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Windows Server, Linux, and cloud-based platforms (AWS, Azure)",
+      "evidence": [
+        "Skilled in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with strong knowledge of IT service management frameworks (ITIL) and agile methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management frameworks (ITIL) and agile methodologies",
+      "evidence": [
+        "Skilled in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with strong knowledge of IT service management frameworks (ITIL) and agile methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and manage budgets for IT projects, tracking expenses and ensuring cost-effectiveness",
+      "evidence": [
+        "\"Results-driven IT professional with 5+ years of experience in managing IT teams and projects."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devices",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I would like to clarify that in my previous role, I did not have the opportunity to oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devi",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with industry regulations and standards, such as HIPAA, PCI-DSS, and GDPR",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also want to note that although I have a strong understanding of database management systems (DBMS) such as Oracle, SQL Server, or MySQL, I did not have the chance to apply them in my previous role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Proven track record of successfully implementing comprehensive IT strategies to support business objectives.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular security audits and vulnerability assessments to identify potential threats",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Collaborated with senior management to identify and prioritize IT projects, allocating resources and budget accordingly.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience as an IT professional or manager",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cybersecurity tools and technologies (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, while I am familiar with cybersecurity tools and technologies, I do not have direct experience with Symantec, McAfee, or Kaspersky.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications.",
+      "supports": "Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing comprehensive IT strategies to support business objectives.",
+      "supports": "Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I would like to clarify that in my previous role, I did not have the opportunity to oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devi",
+      "supports": "Oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devices"
+    },
+    {
+      "source": "resume",
+      "quote": "I also want to note that although I have a strong understanding of database management systems (DBMS) such as Oracle, SQL Server, or MySQL, I did not have the chance to apply them in my previous role.",
+      "supports": "Ensure compliance with industry regulations and standards, such as HIPAA, PCI-DSS, and GDPR"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing comprehensive IT strategies to support business objectives.",
+      "supports": "Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

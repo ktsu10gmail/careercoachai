@@ -1,0 +1,165 @@
+{
+  "job_title": "Account Managers / Executives",
+  "case_slug": "account-managers-executives-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.438207",
+  "match_score": 39.46,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Consistently met or exceeded sales targets, demonstrating ability to work under pressure and adapt to changing market conditions",
+        "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth",
+        "Results-driven sales professional with 5+ years of experience in account management, seeking to leverage my skills in driving revenue growth and building strong relationships with clients."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 67.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Consistently met or exceeded sales targets, demonstrating ability to work under pressure and adapt to changing market conditions",
+        "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth",
+        "Results-driven sales professional with 5+ years of experience in account management, seeking to leverage my skills in driving revenue growth and building strong relationships with clients."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou",
+      "evidence": [
+        "+ Consistently met or exceeded sales targets, demonstrating ability to work under pressure and adapt to changing market conditions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests to identify system bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for system optimization and improvement",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Results-driven sales professional with 5+ years of experience in account management, seeking to leverage my skills in driving revenue growth and building strong relationships with clients."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, system architecture, and scalability principles",
+      "evidence": [
+        "It also downplays the importance of software/SaaS sales by not explicitly mentioning it as a relevant skill or experience."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain test scripts and tools to simulate realistic user behavior and traffic patterns",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of test plans, test scripts, and test results",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks (e.g., Selenium, Appium) and scripting languages (e.g., Bash, Perl)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Consistently met or exceeded sales targets, demonstrating ability to work under pressure and adapt to changing market conditions",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth",
+      "supports": "Design and execute stress tests to identify system bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to identify new business opportunities and drive growth",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for system optimization and improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven sales professional with 5+ years of experience in account management, seeking to leverage my skills in driving revenue growth and building strong relationships with clients.",
+      "supports": "5+ years of experience in stress testing, performance engineering, or a related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

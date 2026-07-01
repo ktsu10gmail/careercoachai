@@ -1,0 +1,15 @@
+Here's a contra-evidence resume snippet for an AI Systems Engineer position:
+
+"Results-driven AI engineer with 5+ years of experience in systems automation and process/data engineering. Proven track record of delivering high-quality solutions that meet business needs.
+
+* Designed and implemented multiple AI-powered automations using modern orchestration frameworks, including n8n and LangGraph.
+* Developed and maintained a robust governance model for prompt engineering, agent testing, and audit trails.
+* Collaborated with cross-functional teams to identify automation opportunities and drive self-service adoption.
+
+However, I did not have the opportunity to:
+
+* Build production-grade LLM applications using ChatGPT Enterprise and related LLM APIs, as our organization's focus was on internal tools and process/data engineering rather than AI agent deployment.
+* Own and communicate the AI Ops roadmap to Data & AI leadership, as my role was focused on delivering high-quality solutions within existing frameworks rather than driving strategic direction.
+* Develop expertise in prompt libraries, embeddings-based retrieval, or vector databases (Pinecone, Weaviate) and RAG pipelines, as our organization's priorities were centered around internal tools and process/data engineering.
+
+I am excited to bring my skills and experience to a role that aligns with the company's focus on AI systems engineering and look forward to learning and growing in this new context."

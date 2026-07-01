@@ -1,0 +1,153 @@
+{
+  "job_title": "3. Sales Managers",
+  "case_slug": "3-sales-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:48.379979",
+  "match_score": 30.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.1,
+      "reason": "Found 1 direct, 0 adjacent, 1 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed a budget of $500,000 with some success, but frequently overspent on travel and training due to lack of planning and prioritization.\"",
+        "\"Results-driven sales professional with 5+ years of experience in sales management and leadership.",
+        "Proven track record of driving revenue growth, but struggled to scale team performance beyond quarterly targets.",
+        "Demonstrated strong understanding of the software industry, but lacked expertise in CRM software (utilized manual processes instead)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 35.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed a budget of $500,000 with some success, but frequently overspent on travel and training due to lack of planning and prioritization.\"",
+        "\"Results-driven sales professional with 5+ years of experience in sales management and leadership.",
+        "Proven track record of driving revenue growth, but struggled to scale team performance beyond quarterly targets.",
+        "Demonstrated strong understanding of the software industry, but lacked expertise in CRM software (utilized manual processes instead)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "5+ years of experience in sales management or a related field",
+      "evidence": [
+        "\"Results-driven sales professional with 5+ years of experience in sales management and leadership."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage a team of sales representatives to achieve quarterly sales targets",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement sales strategies to expand customer base and increase revenue",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular sales performance reviews with individual team members, providing coaching and feedback to improve results",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to identify opportunities for growth and adjust sales tactics accordingly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and pursue new business opportunities through networking and relationship-building",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage a budget of $500,000 for sales-related expenses, including travel and training",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed a budget of $500,000 with some success, but frequently overspent on travel and training due to lack of planning and prioritization.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of success in driving revenue growth and team performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proven track record of driving revenue growth, but struggled to scale team performance beyond quarterly targets.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and its current market trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated strong understanding of the software industry, but lacked expertise in CRM software (utilized manual processes instead).",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Excellent communication skills, but had difficulty articulating a clear vision for the sales team.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with CRM software (Salesforce.com) and sales analytics tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based software solutions and their sales strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed a budget of $500,000 with some success, but frequently overspent on travel and training due to lack of planning and prioritization.\"",
+      "supports": "Manage a budget of $500,000 for sales-related expenses, including travel and training"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven sales professional with 5+ years of experience in sales management and leadership.",
+      "supports": "5+ years of experience in sales management or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of driving revenue growth, but struggled to scale team performance beyond quarterly targets.",
+      "supports": "Proven track record of success in driving revenue growth and team performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated strong understanding of the software industry, but lacked expertise in CRM software (utilized manual processes instead).",
+      "supports": "Strong understanding of the software industry and its current market trends"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication skills, but had difficulty articulating a clear vision for the sales team.",
+      "supports": "Excellent communication, leadership, and problem-solving skills"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

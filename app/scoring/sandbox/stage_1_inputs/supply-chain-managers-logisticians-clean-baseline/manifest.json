@@ -1,0 +1,21 @@
+{
+  "job_title": "Supply Chain Managers / Logisticians",
+  "case_slug": "supply-chain-managers-logisticians-clean-baseline",
+  "scenario": "clean_baseline",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:03:14.545381",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

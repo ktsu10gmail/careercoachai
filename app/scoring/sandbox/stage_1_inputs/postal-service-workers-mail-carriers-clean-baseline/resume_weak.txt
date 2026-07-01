@@ -1,0 +1,26 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Contact Info**
+
+* Address: 123 Main St, Anytown USA
+* Phone: 555-555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Work Experience**
+
+* **Freelance Data Entry Clerk**, Various Clients (2018-Present)
+ + Entered data into spreadsheets for clients using Microsoft Excel and Google Sheets
+ + Utilized basic understanding of SQL to query databases
+* **IT Support Specialist**, Local Computer Repair Shop (2015-2018)
+ + Resolved hardware issues with computers, laptops, and printers
+ + Installed operating systems, including Windows 10 and macOS High Sierra
+
+**Skills**
+
+* Microsoft Office Suite (Excel, Word, PowerPoint)
+* Google Workspace (Docs, Sheets, Slides)
+* Basic SQL knowledge
+* Hardware troubleshooting and installation
+
+Note: This resume snippet lacks enterprise scope and focuses on low-level tools, but still highlights relevant skills for a Postal Service Worker/Mail Carrier role.

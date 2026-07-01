@@ -1,0 +1,132 @@
+{
+  "job_title": "21. Account Managers / Executives",
+  "case_slug": "21-account-managers-executives",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:47.644425",
+  "match_score": 83.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 87.5,
+      "reason": "Found 9 direct, 5 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully managed a portfolio of 30+ key accounts, resulting in a 50% increase in overall revenue within 2 years",
+        "Developed and executed strategic account plans that led to a 30% expansion of market share within 12 months",
+        "Conducted regular business reviews with clients, identifying opportunities for upselling and cross-selling that resulted in an average annual increase of 15%",
+        "Strong analytical skills, with the ability to analyze sales data and market trends to inform account strategies and identify new business opportunities"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "led",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 76.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong analytical skills, with the ability to analyze sales data and market trends to inform account strategies and identify new business opportunities",
+        "Results-driven sales leader with 7+ years of experience driving revenue growth and customer satisfaction across diverse software portfolios.",
+        "Experienced user of cloud-based software solutions (SaaS) and data analytics tools (Tableau, Power BI)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully managed a portfolio of 30+ key accounts, resulting in a 50% increase in overall revenue within 2 years",
+        "Developed and executed strategic account plans that led to a 30% expansion of market share within 12 months",
+        "Conducted regular business reviews with clients, identifying opportunities for upselling and cross-selling that resulted in an average annual increase of 15%",
+        "Strong analytical skills, with the ability to analyze sales data and market trends to inform account strategies and identify new business opportunities"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction",
+      "evidence": [
+        "Successfully managed a portfolio of 30+ key accounts, resulting in a 50% increase in overall revenue within 2 years"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute strategic account plans to achieve sales targets and expand market share",
+      "evidence": [
+        "Developed and executed strategic account plans that led to a 30% expansion of market share within 12 months"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to inform account strategies and identify new business opportunities",
+      "evidence": [
+        "Strong analytical skills, with the ability to analyze sales data and market trends to inform account strategies and identify new business opportunities"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in account management or a related field (sales, business development)",
+      "evidence": [
+        "Account Management Executive"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of consistently meeting or exceeding sales targets",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets, with a current average annual increase of 25% year-over-year."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and current market trends",
+      "evidence": [
+        "Strong understanding of the software industry and current market trends, with regular attendance at industry conferences and events"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully managed a portfolio of 30+ key accounts, resulting in a 50% increase in overall revenue within 2 years",
+      "supports": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed strategic account plans that led to a 30% expansion of market share within 12 months",
+      "supports": "Develop and execute strategic account plans to achieve sales targets and expand market share"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular business reviews with clients, identifying opportunities for upselling and cross-selling that resulted in an average annual increase of 15%",
+      "supports": "Conduct regular business reviews with clients, identifying opportunities for upselling and cross-selling"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical skills, with the ability to analyze sales data and market trends to inform account strategies and identify new business opportunities",
+      "supports": "Analyze sales data and market trends to inform account strategies and identify new business opportunities"
+    },
+    {
+      "source": "resume",
+      "quote": "Key Achievements:",
+      "supports": "Build and maintain strong relationships with key decision-makers at client organizations"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

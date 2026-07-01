@@ -1,0 +1,21 @@
+Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Job Title:** Scoring Engine Stress Tester
+
+**Summary:**
+Highly skilled stress tester with 3+ years of experience in performance engineering, proficient in Apache JMeter, Gatling, and Locust. Strong analytical and problem-solving skills.
+
+**Experience:**
+
+* Stress Tester (2018-Present)
+ + Designed and executed stress tests on small-scale scoring engines
+ + Utilized knowledge of low-latency traffic patterns to create realistic test scenarios
+ + Collaborated with cross-functional teams to gather requirements and ensure test plans aligned with business objectives
+ + Analyzed test results, identified areas for improvement, and provided actionable recommendations for optimization
+
+**Skills:**
+
+* Stress testing and performance engineering
+* Apache JMeter, Gatling, Locust
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills

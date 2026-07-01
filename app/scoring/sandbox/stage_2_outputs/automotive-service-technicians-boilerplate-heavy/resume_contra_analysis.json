@@ -1,0 +1,156 @@
+{
+  "job_title": "Automotive Service Technicians",
+  "case_slug": "automotive-service-technicians-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.445142",
+  "match_score": 25.16,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted inspections and assessments to identify potential problems before they became major issues",
+        "Excellent communication skills with customers and colleagues",
+        "Note:** While I have experience working on a variety of vehicles, including those with complex electrical systems and engine issues."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 7.5,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 11 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted inspections and assessments to identify potential problems before they became major issues",
+        "Excellent communication skills with customers and colleagues",
+        "Note:** While I have experience working on a variety of vehicles, including those with complex electrical systems and engine issues."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 45.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted inspections and assessments to identify potential problems before they became major issues",
+        "Excellent communication skills with customers and colleagues",
+        "Note:** While I have experience working on a variety of vehicles, including those with complex electrical systems and engine issues."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Our state-of-the-art facility is equipped with the latest technology, ensuring our technicians have access to the tools they need to get the job done right.",
+      "evidence": [
+        "Conducted inspections and assessments to identify potential problems before they became major issues"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We strive to build long-lasting relationships with our customers, partners, and employees, while continuously improving our processes and services to stay ahead of the curve.",
+      "evidence": [
+        "Excellent communication skills with customers and colleagues"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive benefits package, including medical, dental, and vision coverage",
+      "evidence": [
+        "Note:** While I have experience working on a variety of vehicles, including those with complex electrical systems and engine issues."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a commitment to innovation and customer satisfaction, we've established ourselves as a leader in the industry.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Join our team and be part of a collaborative environment that values teamwork, innovation, and customer satisfaction.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a valued member of our team, you'll enjoy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive hourly rate",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Overtime pay available",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) retirement plan with company match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "TurboTech is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted inspections and assessments to identify potential problems before they became major issues",
+      "supports": "Our state-of-the-art facility is equipped with the latest technology, ensuring our technicians have access to the tools they need to get the job done right."
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent communication skills with customers and colleagues",
+      "supports": "We strive to build long-lasting relationships with our customers, partners, and employees, while continuously improving our processes and services to stay ahead of the curve."
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience working on a variety of vehicles, including those with complex electrical systems and engine issues.",
+      "supports": "Comprehensive benefits package, including medical, dental, and vision coverage"
+    },
+    {
+      "source": "job_description",
+      "quote": "With a commitment to innovation and customer satisfaction, we've established ourselves as a leader in the industry.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,158 @@
+{
+  "job_title": "Tax Preparers",
+  "case_slug": "tax-preparers-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:10.633134",
+  "match_score": 62.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 50.8,
+      "reason": "Found 4 direct, 4 adjacent, 2 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Tax Preparer",
+        "Summary:",
+        "Proven track record of ensuring compliance with tax laws and regulations, while providing exceptional client service and building strong relationships.",
+        "Excellent communication and interpersonal skills, with ability to work effectively with clients and colleagues"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Certified Public Accountant (CPA)**, [State Board of Accountancy] (2020)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 2 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Tax Preparer"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Tax Preparer",
+        "Summary:",
+        "Proven track record of ensuring compliance with tax laws and regulations, while providing exceptional client service and building strong relationships.",
+        "Certified Public Accountant (CPA)**, [State Board of Accountancy] (2020)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Tax Preparer**",
+      "evidence": [
+        "Tax Preparer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on changes in tax laws and regulations",
+      "evidence": [
+        "Proven track record of ensuring compliance with tax laws and regulations, while providing exceptional client service and building strong relationships."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a Tax Preparer or in a related field",
+      "evidence": [
+        "Tax Preparer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certified Public Accountant (CPA) certification preferred",
+      "evidence": [
+        "Certified Public Accountant (CPA)**, [State Board of Accountancy] (2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills, with ability to work effectively with clients and colleagues"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** TP-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Tax Preparer, you'll be responsible for preparing individual and business tax returns, conducting audits, and ensuring compliance with tax laws and regulations.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Tax Preparer",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct audits and ensure compliance with tax laws and regulations",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Tax Preparer",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Accounting, Finance, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Tax Preparer",
+      "supports": "Tax Preparer**"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Tax Preparer",
+      "supports": "As a Tax Preparer, you'll be responsible for preparing individual and business tax returns, conducting audits, and ensuring compliance with tax laws and regulations."
+    },
+    {
+      "source": "resume",
+      "quote": "Tax Preparer",
+      "supports": "Prepare accurate and timely tax returns for individuals and businesses"
+    },
+    {
+      "source": "resume",
+      "quote": "Tax Preparer",
+      "supports": "Conduct audits and ensure compliance with tax laws and regulations"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

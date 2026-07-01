@@ -1,0 +1,154 @@
+{
+  "job_title": "Marketing Managers",
+  "case_slug": "marketing-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.619285",
+  "match_score": 80.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.8,
+      "reason": "Found 9 direct, 1 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of delivering high-impact campaigns across digital, social media, email, and events channels.",
+        "Successfully managed a team of marketing professionals, resulting in a 25% increase in sales growth within 6 months.",
+        "Utilized data analytics tools (Google Analytics, Excel) to analyze market trends, competitor activity, and customer behavior.",
+        "Marketing Management Experience"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "manager",
+        "led",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Utilized data analytics tools (Google Analytics, Excel) to analyze market trends, competitor activity, and customer behavior.",
+        "Familiarity with CRM systems (Salesforce)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of delivering high-impact campaigns across digital, social media, email, and events channels.",
+        "Successfully managed a team of marketing professionals, resulting in a 25% increase in sales growth within 6 months.",
+        "Utilized data analytics tools (Google Analytics, Excel) to analyze market trends, competitor activity, and customer behavior.",
+        "Marketing Management Experience"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute comprehensive marketing strategies to drive brand awareness and sales growth across multiple channels (digital, social media, email, events)",
+      "evidence": [
+        "Proven track record of delivering high-impact campaigns across digital, social media, email, and events channels."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Lead a team of 3-5 marketing professionals, providing guidance, mentorship, and performance feedback",
+      "evidence": [
+        "Successfully managed a team of marketing professionals, resulting in a 25% increase in sales growth within 6 months."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions",
+      "evidence": [
+        "Utilized data analytics tools (Google Analytics, Excel) to analyze market trends, competitor activity, and customer behavior."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in marketing management, preferably in a B2B or consumer goods industry",
+      "evidence": [
+        "Marketing Management Experience"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of driving revenue growth through effective marketing strategies",
+      "evidence": [
+        "Proven track record of delivering high-impact campaigns across digital, social media, email, and events channels."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of digital marketing channels (paid social, email, search engine optimization)",
+      "evidence": [
+        "Digital marketing channels (paid social, email, search engine optimization)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage and optimize marketing budgets, ensuring ROI and efficiency",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and maintain a comprehensive marketing calendar, tracking progress and adjusting strategies as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of SEO best practices and content management systems (WordPress, Drupal)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in Google Analytics or HubSpot Inbound Marketing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-impact campaigns across digital, social media, email, and events channels.",
+      "supports": "Develop and execute comprehensive marketing strategies to drive brand awareness and sales growth across multiple channels (digital, social media, email, events)"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully managed a team of marketing professionals, resulting in a 25% increase in sales growth within 6 months.",
+      "supports": "Lead a team of 3-5 marketing professionals, providing guidance, mentorship, and performance feedback"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized data analytics tools (Google Analytics, Excel) to analyze market trends, competitor activity, and customer behavior.",
+      "supports": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Marketing Management Experience",
+      "supports": "5+ years of experience in marketing management, preferably in a B2B or consumer goods industry"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-impact campaigns across digital, social media, email, and events channels.",
+      "supports": "Proven track record of driving revenue growth through effective marketing strategies"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

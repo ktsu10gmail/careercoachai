@@ -1,0 +1,41 @@
+Here's a weak or scope-mismatch resume snippet for a First-Line Supervisor of Retail Sales Workers:
+
+John Doe
+Retail Manager
+(123) 456-7890 | johndoe@email.com
+
+Objective:
+To utilize my technical expertise in Linux and Python to optimize retail operations.
+
+Summary:
+Results-driven IT professional with experience managing large-scale networks and developing scalable software solutions. Proven track record of improving system efficiency and reducing costs.
+
+Work Experience:
+
+* Senior Network Administrator, ABC Corporation (2018-2022)
+ + Managed a team of 10 network administrators to ensure seamless IT operations
+ + Implemented a Linux-based server cluster to improve system reliability and scalability
+ + Developed custom Python scripts to automate tasks and enhance system performance
+* Junior Developer, DEF Startups (2015-2018)
+ + Contributed to the development of multiple software projects using Java and C++
+ + Collaborated with cross-functional teams to design and implement new features
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Skills:
+
+* Linux administration
+* Python programming
+* Network management
+* System administration
+* Software development (Java, C++)
+* Basic math skills and accuracy with cash handling (self-taught)
+* Familiarity with point-of-sale systems and inventory management software (limited experience)
+
+Certifications:
+
+* CompTIA A+ certification in IT support and maintenance
+
+Note: This resume snippet is weak because it lacks relevant retail experience and focuses on technical skills that are not directly applicable to the job description. The scope-mismatch is also evident as the candidate's expertise lies in IT management, whereas the job requires retail management skills.

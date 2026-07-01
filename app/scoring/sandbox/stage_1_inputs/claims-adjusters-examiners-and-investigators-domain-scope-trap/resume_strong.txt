@@ -1,0 +1,39 @@
+Here's a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Summary:**
+Highly experienced Stress Test Engineer with 7+ years of expertise in software testing methodologies, cloud-based infrastructure, and performance engineering. Proven track record of designing and executing comprehensive stress tests to identify performance bottlenecks and areas for improvement.
+
+**Technical Skills:**
+
+* Proficient in load testing tools such as Apache JMeter, Gatling, and NeoLoad
+* Experienced with containerization technologies like Docker and Kubernetes
+* Strong understanding of system architecture, design patterns, and microservices principles
+* Familiarity with cloud-based infrastructure on AWS, including EC2, S3, and RDS
+
+**Experience:**
+
+* Stress Test Engineer at XYZ Corporation (2018-Present)
+ + Designed and executed stress tests for medium to large-sized enterprise software applications
+ + Collaborated with cross-functional teams to ensure alignment and effective testing
+ + Analyzed test results, identified trends, and provided actionable recommendations for system enhancements and optimizations
+* Performance Engineer at ABC Inc. (2015-2018)
+ + Developed and maintained performance testing plans, scripts, and tools
+ + Worked closely with development teams to identify and address performance bottlenecks
+ + Implemented performance optimization techniques to improve application scalability and reliability
+
+**Education:**
+
+* Bachelor's degree in Computer Science from [University Name] (2010-2014)
+
+**Certifications:**
+
+* Certified Performance Tester (CPT) - International Society for Performance Measurement (ISPM)
+* AWS Certified Developer - Associate (2019)
+
+**Soft Skills:**
+
+* Excellent analytical, problem-solving, and communication skills
+* Ability to work in a fast-paced environment with tight deadlines and multiple priorities
+* Strong attention to detail and ability to prioritize tasks effectively
+
+Note that I've omitted the domain qualifiers (software/SaaS, enterprise, regulated industry, global, multi-site) as they are not explicitly mentioned in the job description. However, I've included relevant experience and skills that align with the job requirements.

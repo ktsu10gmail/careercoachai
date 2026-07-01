@@ -1,0 +1,50 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting comprehensive stress testing for our software applications, specifically focusing on domain scope trap scenarios. The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems.
+
+**Responsibilities:**
+
+* Design and execute stress tests to simulate various types of traffic and loads on our software applications
+* Identify and analyze performance bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including development, operations, and quality assurance, to understand system requirements and identify testing opportunities
+* Develop and maintain test scripts, tools, and methodologies to ensure efficient and effective stress testing
+* Analyze test results, identify trends, and provide recommendations for process improvements
+* Communicate test findings and recommendations to stakeholders, including product management, development, and operations teams
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or performance engineering
+* Strong understanding of software applications, including architecture, design patterns, and scalability models
+* Experience with stress testing tools, such as Apache JMeter, Gatling, or Locust
+* Knowledge of cloud-based infrastructure, including AWS or Azure
+* Familiarity with containerization technologies, such as Docker
+* Strong analytical and problem-solving skills, with ability to identify performance bottlenecks and develop effective solutions
+* Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (e.g. finance, healthcare)
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Scope Qualifiers:**
+
+* Domain scope trap scenarios (e.g. e-commerce checkout, payment processing)
+* API performance testing
+* Database performance testing
+* Cloud-based infrastructure performance testing
+
+**Essential Requirements:**
+
+* Experience with stress testing tools and methodologies
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+* Ability to work effectively in a fast-paced environment with multiple priorities and deadlines
+
+If you are a motivated and experienced Stress Test Engineer looking for a new challenge, please submit your resume and cover letter to [insert contact information].

@@ -1,0 +1,10 @@
+Here's a weak or scope-mismatch resume snippet for a UX/UI Designer position:
+
+"UX/UI Designer
+- 2 years of experience in designing user interfaces for small startups
+- Proficient in Sketch, Figma, and Adobe XD
+- Strong understanding of human-centered design principles and usability guidelines
+- Experience with HTML, CSS, and JavaScript for front-end development
+- Familiarity with responsive web design and mobile-first approach
+
+Note: This resume snippet lacks the required 3+ years of experience, strong portfolio, and industry trends knowledge. It also doesn't mention design systems, style guides, or component libraries, which are important skills for a UX/UI Designer."

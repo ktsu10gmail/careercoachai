@@ -1,0 +1,27 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Summary:**
+Experienced IT professional seeking a Nursing Assistant role where I can apply my technical skills to deliver high-quality patient care.
+
+**Technical Skills:**
+
+* Proficient in Windows 10 and Linux operating systems
+* Experienced with network protocols (TCP/IP, DNS) and device management (Windows Server)
+* Skilled in data analysis using Excel and SQL
+* Familiarity with electronic health records (EHRs) using Epic Systems
+
+**Work Experience:**
+
+* IT Support Specialist, XYZ Corporation (2018-Present)
+ + Provided technical support for employees and managed computer hardware and software
+ + Assisted with network troubleshooting and implemented security measures to prevent data breaches
+ + Developed and maintained documentation for IT processes and procedures
+* CNA Certification Student, ABC Community College (2015-2016)
+ + Completed coursework in anatomy, physiology, and nursing skills
+ + Gained experience working with patients under the supervision of licensed nurses
+
+**Education:**
+
+* Associate's Degree in Computer Science, XYZ University (2015)
+
+Note that this resume snippet lacks enterprise scope and is more focused on technical skills than patient care. The candidate's experience as an IT support specialist may not be directly applicable to a Nursing Assistant role, and their education and training are geared towards computer science rather than nursing.

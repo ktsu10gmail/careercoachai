@@ -1,0 +1,21 @@
+Here's a weak or scope-mismatch resume snippet for a Customer Service Representative position:
+
+"Customer Service Experience:
+
+* 1 year of experience working on a personal project, handling customer inquiries via email and resolving issues using online resources
+* Utilized CRM software to track interactions with clients in a small business setting
+* Processed orders and payments accurately, meeting daily sales targets of $500
+
+Skills:
+
+* Proficient in Microsoft Office Suite and Google Workspace
+* Familiarity with Salesforce.com CRM system
+* Strong analytical skills, with attention to detail and ability to multitask
+
+Tools Used:
+
+* Slack for team communication
+* Zoom for video conferencing
+* Discord for community engagement"
+
+This resume snippet lacks the scope and enterprise experience required for the position, instead highlighting personal project experience and small business experience. The skills listed are also not as relevant or extensive as those required by the job description.

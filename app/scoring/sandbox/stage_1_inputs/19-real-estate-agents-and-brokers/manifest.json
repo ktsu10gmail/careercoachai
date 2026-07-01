@@ -1,0 +1,20 @@
+{
+  "job_title": "19. Real Estate Agents and Brokers",
+  "case_slug": "19-real-estate-agents-and-brokers",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:23:41.898976",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

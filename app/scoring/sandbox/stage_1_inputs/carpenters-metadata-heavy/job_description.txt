@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional remote work)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)
+* Sponsorship: Company-sponsored relocation assistance available for external candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its reliability, performance, and scalability under various loads.
+
+**Responsibilities:**
+
+* Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand business requirements and ensure alignment with testing goals
+* Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions
+* Utilize industry-standard tools and techniques to simulate various types of loads (e.g., concurrent requests, data ingestion, query patterns) on the scoring engine
+* Analyze test results, identify trends, and provide actionable recommendations for performance optimization and improvement
+* Develop and maintain automated testing frameworks to support ongoing testing efforts
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)
+* In-depth knowledge of scoring engine architectures, component interactions, and data ingestion pipelines
+* Proficiency in industry-standard tools such as Apache JMeter, Gatling, or Locust
+* Strong understanding of cloud computing platforms (e.g., AWS, GCP) and containerization technologies (e.g., Docker, Kubernetes)
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+* Bachelor's degree in Computer Science, Engineering, or a related field; Master's degree preferred.

@@ -1,0 +1,144 @@
+{
+  "job_title": "Help Desk Technicians",
+  "case_slug": "help-desk-technicians",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:01.483630",
+  "match_score": 67.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 69.3,
+      "reason": "Found 9 direct, 2 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Responded to and resolved technical issues via phone, email, and chat for internal and external customers",
+        "+ Utilized diagnostic tools such as HP ProCurve network analyzers to troubleshoot hardware and software problems",
+        "+ Documented customer interactions in a help desk management system (e.g.",
+        "+ Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 83.8,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Utilized diagnostic tools such as HP ProCurve network analyzers to troubleshoot hardware and software problems",
+        "Strong technical skills in Windows, macOS, and Linux operating systems;",
+        "familiarity with cloud-based services (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Responded to and resolved technical issues via phone, email, and chat for internal and external customers",
+        "+ Utilized diagnostic tools such as HP ProCurve network analyzers to troubleshoot hardware and software problems",
+        "+ Documented customer interactions in a help desk management system (e.g.",
+        "+ Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to and resolve technical issues via phone, email, and chat for internal and external customers",
+      "evidence": [
+        "+ Responded to and resolved technical issues via phone, email, and chat for internal and external customers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Troubleshoot hardware and software problems using diagnostic tools such as HP ProCurve network analyzers, ITIL-compliant ticketing systems, and troubleshooting guides",
+      "evidence": [
+        "+ Utilized diagnostic tools such as HP ProCurve network analyzers to troubleshoot hardware and software problems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Document and track customer interactions in a help desk management system (e.g.",
+      "evidence": [
+        "+ Documented customer interactions in a help desk management system (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong technical skills in Windows, macOS, and Linux operating systems;",
+      "evidence": [
+        "Strong technical skills in Windows, macOS, and Linux operating systems;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "familiarity with cloud-based services (e.g.",
+      "evidence": [
+        "familiarity with cloud-based services (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Office 365, Google Workspace)",
+      "evidence": [
+        "Office 365, Google Workspace)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide training and support for new employees on company technology and software applications",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in regular team meetings and contribute to the development of knowledge base articles and troubleshooting guides",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: + Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of experience as a Help Desk Technician or similar role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Responded to and resolved technical issues via phone, email, and chat for internal and external customers",
+      "supports": "Respond to and resolve technical issues via phone, email, and chat for internal and external customers"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Utilized diagnostic tools such as HP ProCurve network analyzers to troubleshoot hardware and software problems",
+      "supports": "Troubleshoot hardware and software problems using diagnostic tools such as HP ProCurve network analyzers, ITIL-compliant ticketing systems, and troubleshooting guides"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Documented customer interactions in a help desk management system (e.g.",
+      "supports": "Document and track customer interactions in a help desk management system (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides",
+      "supports": "Provide training and support for new employees on company technology and software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided training and support for new employees on company technology and software applications, but did not develop comprehensive knowledge base articles or troubleshooting guides",
+      "supports": "Participate in regular team meetings and contribute to the development of knowledge base articles and troubleshooting guides"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

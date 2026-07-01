@@ -1,0 +1,146 @@
+{
+  "job_title": "65. Marketing Specialists / Coordinators",
+  "case_slug": "65-marketing-specialists-coordinators",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.222388",
+  "match_score": 66.35,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 55.0,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed social media campaigns using Hootsuite and Adobe Creative Suite",
+        "Managed email marketing campaigns with Mailchimp, but didn't have experience with Constant Contact",
+        "Conducted market research using free online tools, but didn't analyze data or track campaign performance",
+        "Coordinated trade show appearances and product demos, but didn't work with cross-functional teams on marketing strategies"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "designed",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted market research using free online tools, but didn't analyze data or track campaign performance"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed social media campaigns using Hootsuite and Adobe Creative Suite",
+        "Managed email marketing campaigns with Mailchimp, but didn't have experience with Constant Contact",
+        "Conducted market research using free online tools, but didn't analyze data or track campaign performance",
+        "Coordinated trade show appearances and product demos, but didn't work with cross-functional teams on marketing strategies"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement targeted social media campaigns to increase brand awareness and engagement across multiple platforms (Facebook, Twitter, Instagram, LinkedIn)",
+      "evidence": [
+        "Developed social media campaigns using Hootsuite and Adobe Creative Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and optimize email marketing campaigns using tools such as Mailchimp and Constant Contact",
+      "evidence": [
+        "Managed email marketing campaigns with Mailchimp, but didn't have experience with Constant Contact"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct market research and analyze data to inform marketing decisions and track campaign performance",
+      "evidence": [
+        "Conducted market research using free online tools, but didn't analyze data or track campaign performance"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of email marketing best practices and campaign analytics",
+      "evidence": [
+        "Basic understanding of email marketing best practices"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills",
+      "evidence": [
+        "Excellent written communication skills\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Adobe Creative Suite (Photoshop, InDesign, Illustrator)",
+      "evidence": [
+        "Developed social media campaigns using Hootsuite and Adobe Creative Suite"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Create and maintain a content calendar to ensure consistent brand messaging across all marketing channels",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in marketing or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in HubSpot Inbound Marketing or similar marketing software",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed social media campaigns using Hootsuite and Adobe Creative Suite",
+      "supports": "Develop and implement targeted social media campaigns to increase brand awareness and engagement across multiple platforms (Facebook, Twitter, Instagram, LinkedIn)"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed email marketing campaigns with Mailchimp, but didn't have experience with Constant Contact",
+      "supports": "Manage and optimize email marketing campaigns using tools such as Mailchimp and Constant Contact"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted market research using free online tools, but didn't analyze data or track campaign performance",
+      "supports": "Conduct market research and analyze data to inform marketing decisions and track campaign performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated trade show appearances and product demos, but didn't work with cross-functional teams on marketing strategies",
+      "supports": "Coordinate trade show appearances and product demonstrations with internal stakeholders and external partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed social media campaigns using Hootsuite and Adobe Creative Suite",
+      "supports": "Proficiency in Adobe Creative Suite (Photoshop, InDesign, Illustrator)"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,21 @@
+{
+  "job_title": "Economists / Statisticians",
+  "case_slug": "economists-statisticians-domain-scope-trap",
+  "scenario": "domain_scope_trap",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T18:07:03.150761",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

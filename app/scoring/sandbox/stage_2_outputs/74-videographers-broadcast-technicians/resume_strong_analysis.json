@@ -1,0 +1,134 @@
+{
+  "job_title": "74. Videographers / Broadcast Technicians",
+  "case_slug": "74-videographers-broadcast-technicians",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.101067",
+  "match_score": 86.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 82.9,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled videographer/broadcast technician with 3+ years of experience in capturing high-quality video footage for broadcast television, including live events, news segments, and studio productions.",
+        "Operated robotic camera systems (Jib, Crane) for added flexibility and precision in capturing dynamic footage.",
+        "Demonstrated expertise in setting up and maintaining camera equipment, lighting, and sound systems for seamless execution of live broadcasts and pre-recorded content.",
+        "Troubleshooted technical issues during live broadcasts, resolving problems quickly to maintain a smooth production flow."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Maintained accurate records of shot lists, camera settings, and other production data, ensuring efficient post-production review and editing processes."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled videographer/broadcast technician with 3+ years of experience in capturing high-quality video footage for broadcast television, including live events, news segments, and studio productions.",
+        "Operated robotic camera systems (Jib, Crane) for added flexibility and precision in capturing dynamic footage.",
+        "Demonstrated expertise in setting up and maintaining camera equipment, lighting, and sound systems for seamless execution of live broadcasts and pre-recorded content.",
+        "Troubleshooted technical issues during live broadcasts, resolving problems quickly to maintain a smooth production flow."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Capture high-quality video footage for broadcast television, including live events, news segments, and studio productions",
+      "evidence": [
+        "Highly skilled videographer/broadcast technician with 3+ years of experience in capturing high-quality video footage for broadcast television, including live events, news segments, and studio productions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras",
+      "evidence": [
+        "Operated robotic camera systems (Jib, Crane) for added flexibility and precision in capturing dynamic footage."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Set up and maintain camera equipment, lighting, and sound systems for live broadcasts and pre-recorded content",
+      "evidence": [
+        "Demonstrated expertise in setting up and maintaining camera equipment, lighting, and sound systems for seamless execution of live broadcasts and pre-recorded content."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Troubleshoot technical issues during live broadcasts and resolve problems quickly",
+      "evidence": [
+        "Troubleshooted technical issues during live broadcasts, resolving problems quickly to maintain a smooth production flow."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of shot lists, camera settings, and other production data",
+      "evidence": [
+        "Maintained accurate records of shot lists, camera settings, and other production data, ensuring efficient post-production review and editing processes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in operating HD cameras, Steadicams, and drone-mounted cameras",
+      "evidence": [
+        "Successfully operated HD cameras, Steadicams, and drone-mounted cameras to deliver crisp, engaging visuals for various broadcast productions."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "2+ years of experience as a videographer or broadcast technician",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled videographer/broadcast technician with 3+ years of experience in capturing high-quality video footage for broadcast television, including live events, news segments, and studio productions.",
+      "supports": "Capture high-quality video footage for broadcast television, including live events, news segments, and studio productions"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated robotic camera systems (Jib, Crane) for added flexibility and precision in capturing dynamic footage.",
+      "supports": "Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras"
+    },
+    {
+      "source": "resume",
+      "quote": "Demonstrated expertise in setting up and maintaining camera equipment, lighting, and sound systems for seamless execution of live broadcasts and pre-recorded content.",
+      "supports": "Set up and maintain camera equipment, lighting, and sound systems for live broadcasts and pre-recorded content"
+    },
+    {
+      "source": "resume",
+      "quote": "Troubleshooted technical issues during live broadcasts, resolving problems quickly to maintain a smooth production flow.",
+      "supports": "Troubleshoot technical issues during live broadcasts and resolve problems quickly"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of shot lists, camera settings, and other production data, ensuring efficient post-production review and editing processes.",
+      "supports": "Maintain accurate records of shot lists, camera settings, and other production data"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,5 @@
+Here's a weak or scope-mismatch resume snippet for an IT Manager position:
+
+"IT Professional with 3+ years of experience in managing small teams and implementing new technologies. Skilled in project management tools like Asana and Trello, as well as cloud-based platforms such as AWS. Proficient in ITIL framework and have experience with incident management processes. Strong communication skills and ability to work collaboratively with stakeholders. Seeking an entry-level position where I can apply my skills and knowledge to contribute to the success of a growing organization."
+
+This resume snippet lacks the required 5+ years of experience, proven track record of managing teams, and strong knowledge of IT service management frameworks, which are essential for the IT Manager role. It also doesn't mention any experience with cybersecurity best practices or threat management tools, which is a preferred skill for the position.

@@ -1,0 +1,173 @@
+{
+  "job_title": "Tax Preparers",
+  "case_slug": "tax-preparers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:10.602375",
+  "match_score": 47.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.4,
+      "reason": "Found 2 direct, 3 adjacent, 1 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly motivated tax professional with 3+ years of experience in preparing individual and business tax returns.",
+        "Provided exceptional client service, building strong relationships with clients through regular communication and follow-up",
+        "Prepared accurate and timely tax returns for individuals and businesses, ensuring compliance with tax laws and regulations"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Enrolled Agent (EA) certification, [Certification Date]"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.7,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly motivated tax professional with 3+ years of experience in preparing individual and business tax returns.",
+        "Bachelor's Degree in Accounting, [University Name] (2015-2019)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 75.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly motivated tax professional with 3+ years of experience in preparing individual and business tax returns.",
+        "Provided exceptional client service, building strong relationships with clients through regular communication and follow-up",
+        "Prepared accurate and timely tax returns for individuals and businesses, ensuring compliance with tax laws and regulations"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Stay up-to-date on changes in tax laws and regulations",
+      "evidence": [
+        "Prepared accurate and timely tax returns for individuals and businesses, ensuring compliance with tax laws and regulations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide exceptional client service and build strong relationships with clients",
+      "evidence": [
+        "Provided exceptional client service, building strong relationships with clients through regular communication and follow-up"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Accounting, Finance, or related field",
+      "evidence": [
+        "Bachelor's Degree in Accounting, [University Name] (2015-2019)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Certified Public Accountant (CPA) certification preferred",
+      "evidence": [
+        "Enrolled Agent (EA) certification, [Certification Date]"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Tax Preparer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** TP-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Tax Preparer, you'll be responsible for preparing individual and business tax returns, conducting audits, and ensuring compliance with tax laws and regulations.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Highly motivated tax professional with 3+ years of experience in preparing individual and business tax returns.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare accurate and timely tax returns for individuals and businesses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct audits and ensure compliance with tax laws and regulations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a Tax Preparer or in a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficient in tax preparation software (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated tax professional with 3+ years of experience in preparing individual and business tax returns.",
+      "supports": "As a Tax Preparer, you'll be responsible for preparing individual and business tax returns, conducting audits, and ensuring compliance with tax laws and regulations."
+    },
+    {
+      "source": "resume",
+      "quote": "Provided exceptional client service, building strong relationships with clients through regular communication and follow-up",
+      "supports": "Provide exceptional client service and build strong relationships with clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Prepared accurate and timely tax returns for individuals and businesses, ensuring compliance with tax laws and regulations",
+      "supports": "Stay up-to-date on changes in tax laws and regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Accounting, [University Name] (2015-2019)",
+      "supports": "Bachelor's degree in Accounting, Finance, or related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

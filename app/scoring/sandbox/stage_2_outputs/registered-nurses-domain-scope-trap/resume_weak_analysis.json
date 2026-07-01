@@ -1,0 +1,155 @@
+{
+  "job_title": "Registered Nurses",
+  "case_slug": "registered-nurses-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:08.205549",
+  "match_score": 55.97,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Stress Test Engineer - Domain Scope Trap",
+        "Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+        "Highly skilled stress test engineer with 3+ years of experience in load testing and performance benchmarking.",
+        "Proficient in Python, Java, and C++."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Cloud-Based Infrastructure (AWS)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Stress Test Engineer - Domain Scope Trap",
+        "Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+        "Highly skilled stress test engineer with 3+ years of experience in load testing and performance benchmarking.",
+        "Proficient in Python, Java, and C++."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Python, Java, and C++."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure, including AWS or Azure",
+      "evidence": [
+        "Cloud-Based Infrastructure (AWS)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job Title:** Stress Test Engineer - Domain Scope Trap"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Job Title:** Stress Test Engineer - Domain Scope Trap"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou",
+      "evidence": [
+        "Job Title:** Stress Test Engineer - Domain Scope Trap"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "evidence": [
+        "Job Title:** Stress Test Engineer - Domain Scope Trap"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex data sets",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Stress Test Engineer - Domain Scope Trap",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Stress Test Engineer - Domain Scope Trap",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Here is a weak or scope-mismatch resume snippet for a Registered Nurse with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Stress Test Engineer - Domain Scope Trap",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

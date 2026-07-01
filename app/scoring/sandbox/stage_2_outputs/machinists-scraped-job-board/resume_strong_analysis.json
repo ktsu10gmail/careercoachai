@@ -1,0 +1,149 @@
+{
+  "job_title": "Machinists",
+  "case_slug": "machinists-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.181168",
+  "match_score": 72.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 58.5,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Machinist**, XYZ Manufacturing Co.",
+        "Read blueprints and technical drawings to understand production requirements, resulting in a 25% reduction in production time",
+        "Summary:",
+        "Highly skilled Machinist with 3+ years of experience in operating machine tools and equipment to manufacture precision parts and components."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Associate of Applied Science in Manufacturing Technology**, Springfield Community College (2018)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 58.9,
+      "reason": "Found 4 direct, 7 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Machinist**, XYZ Manufacturing Co.",
+        "Read blueprints and technical drawings to understand production requirements, resulting in a 25% reduction in production time",
+        "Summary:",
+        "Highly skilled Machinist with 3+ years of experience in operating machine tools and equipment to manufacture precision parts and components."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Machinist**, XYZ Manufacturing Co.",
+        "Read blueprints and technical drawings to understand production requirements, resulting in a 25% reduction in production time",
+        "Summary:",
+        "Highly skilled Machinist with 3+ years of experience in operating machine tools and equipment to manufacture precision parts and components."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Company:** XYZ Manufacturing Co.",
+      "evidence": [
+        "Machinist**, XYZ Manufacturing Co."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Machinist, you'll be responsible for operating machine tools and equipment to manufacture precision parts and components.",
+      "evidence": [
+        "Highly skilled Machinist with 3+ years of experience in operating machine tools and equipment to manufacture precision parts and components."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate various machine tools and equipment, including lathes, mills, grinders, and drill presses",
+      "evidence": [
+        "Operated various machine tools and equipment, including lathes, mills, grinders, and drill presses, with 99% accuracy rate"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Read blueprints and technical drawings to understand production requirements",
+      "evidence": [
+        "Read blueprints and technical drawings to understand production requirements, resulting in a 25% reduction in production time"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Measure and inspect parts for accuracy and quality",
+      "evidence": [
+        "Highly skilled Machinist with 3+ years of experience in operating machine tools and equipment to manufacture precision parts and components."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Machinist**, XYZ Manufacturing Co.",
+      "supports": "Company:** XYZ Manufacturing Co."
+    },
+    {
+      "source": "resume",
+      "quote": "Read blueprints and technical drawings to understand production requirements, resulting in a 25% reduction in production time",
+      "supports": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Machinist with 3+ years of experience in operating machine tools and equipment to manufacture precision parts and components.",
+      "supports": "As a Machinist, you'll be responsible for operating machine tools and equipment to manufacture precision parts and components."
+    },
+    {
+      "source": "resume",
+      "quote": "Operated various machine tools and equipment, including lathes, mills, grinders, and drill presses, with 99% accuracy rate",
+      "supports": "Operate various machine tools and equipment, including lathes, mills, grinders, and drill presses"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

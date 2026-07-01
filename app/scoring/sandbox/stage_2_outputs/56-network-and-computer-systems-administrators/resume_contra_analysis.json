@@ -1,0 +1,145 @@
+{
+  "job_title": "56. Network and Computer Systems Administrators",
+  "case_slug": "56-network-and-computer-systems-administrators",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.165684",
+  "match_score": 66.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 51.5,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management.",
+        "Experience with virtualization technologies, including VMware.",
+        "Proven track record of successfully implementing backup and disaster recovery plans for small to medium-sized businesses.",
+        "Certifications: CompTIA Network+ (2018) and CCNA (2020)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Certifications: CompTIA Network+ (2018) and CCNA (2020)."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management.",
+        "Proven track record of successfully implementing backup and disaster recovery plans for small to medium-sized businesses.",
+        "Experience with virtualization technologies, including VMware.",
+        "Certifications: CompTIA Network+ (2018) and CCNA (2020)."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management.",
+        "Experience with virtualization technologies, including VMware.",
+        "Proven track record of successfully implementing backup and disaster recovery plans for small to medium-sized businesses.",
+        "Certifications: CompTIA Network+ (2018) and CCNA (2020)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement backup and disaster recovery plans to minimize downtime and data loss",
+      "evidence": [
+        "Proven track record of successfully implementing backup and disaster recovery plans for small to medium-sized businesses."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Windows Server operating systems (Windows Server 2012 or later) and Linux operating systems (Red Hat Enterprise Linux or Ubuntu)",
+      "evidence": [
+        "Strong knowledge of Windows Server 2012, Linux (Ubuntu), and network protocols (TCP/IP, DNS, DHCP)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic understanding of cloud computing platforms, including AWS or Azure",
+      "evidence": [
+        "Familiarity with cloud computing platforms, including AWS."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in network administration and/or computer systems management",
+      "evidence": [
+        "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "CompTIA Network+ or equivalent certification;",
+      "evidence": [
+        "Certifications: CompTIA Network+ (2018) and CCNA (2020)."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with network protocols, including TCP/IP, DNS, DHCP, and HTTP/HTTPS",
+      "evidence": [
+        "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Install, configure, and maintain local area networks (LANs), wide area networks (WANs), and the Internet;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "troubleshoot hardware and software issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management.",
+      "supports": "ensure network security and integrity"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with virtualization technologies, including VMware.",
+      "supports": "Design, implement, and manage computer systems, including servers, workstations, and mobile devices;"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully implementing backup and disaster recovery plans for small to medium-sized businesses.",
+      "supports": "Develop and implement backup and disaster recovery plans to minimize downtime and data loss"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven network administrator with 5+ years of experience in LAN/WAN setup and management.",
+      "supports": "Monitor network traffic and system logs to identify potential security threats and optimize system resources"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with virtualization technologies, including VMware.",
+      "supports": "Implement and enforce organizational policies for computer systems, including access controls and data encryption"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

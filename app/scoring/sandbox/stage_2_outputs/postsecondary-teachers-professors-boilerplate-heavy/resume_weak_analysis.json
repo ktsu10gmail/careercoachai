@@ -1,0 +1,143 @@
+{
+  "job_title": "Postsecondary Teachers / Professors",
+  "case_slug": "postsecondary-teachers-professors-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:06.643778",
+  "match_score": 23.64,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 2.5,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Education:",
+        "Highly motivated and experienced IT professional with a passion for teaching."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 57.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented",
+        "managed",
+        "delivered"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 2.5,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 12 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Education:",
+        "Highly motivated and experienced IT professional with a passion for teaching."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 33.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Education:",
+        "Highly motivated and experienced IT professional with a passion for teaching."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Opportunities for professional development and growth",
+      "evidence": [
+        "Highly motivated and experienced IT professional with a passion for teaching."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landsca",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Education:",
+      "severity": "high"
+    },
+    {
+      "requirement": "We offer a competitive salary and benefits package, including",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Institution Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from candidates of all backgrounds, perspectives, and experiences.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Postsecondary Teachers/Professors**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a postsecondary teacher/professor at [Institution Name], you will have the opportunity to teach courses, conduct research, and mentor students in a dynamic and supportive academ",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Teach undergraduate and graduate courses in your area of expertise",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement curriculum that aligns with institutional goals and standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Education:",
+      "supports": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landsca"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and experienced IT professional with a passion for teaching.",
+      "supports": "Opportunities for professional development and growth"
+    },
+    {
+      "source": "job_description",
+      "quote": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landscape.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

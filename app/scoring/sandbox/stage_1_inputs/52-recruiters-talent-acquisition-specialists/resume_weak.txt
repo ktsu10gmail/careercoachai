@@ -1,0 +1,26 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"Recruitment Specialist
+
+* Utilized Microsoft Excel to track candidate progress and ATS reports to analyze recruitment metrics
+* Conducted interviews using Zoom and Google Forms for reference checks
+* Created job descriptions in Word and posted them on Indeed and LinkedIn
+* Managed the entire recruitment process from posting to onboarding, but relied on hiring managers to handle paperwork
+* Proficient in Microsoft Office Suite (Word, Excel, PowerPoint) and used it to create spreadsheets and presentations
+
+Skills:
+
+* Bachelor's degree in Business Administration
+* 1 year of experience in HR
+* Excellent communication skills
+* Ability to work in a fast-paced environment with multiple priorities and deadlines"
+
+This resume snippet lacks the required skills and experience for the job title, and also doesn't demonstrate the necessary scope and enterprise-level tools. The candidate is missing:
+
+* Experience with recruitment software (Workday, BambooHR, Lever)
+* Knowledge of employment laws and regulations
+* Certification in HR or recruitment
+* Familiarity with social media platforms for recruitment marketing
+* Bilingual or multilingual skills
+
+The candidate's experience and skills are also not aligned with the job description, which requires 2+ years of experience in talent acquisition or a related role.

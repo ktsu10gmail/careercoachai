@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Supply Chain Manager**
+
+* 2+ years of experience in supply chain management, focusing on optimizing inventory levels using Excel macros
+* Strong knowledge of basic supply chain principles, including demand planning and transportation management
+* Proficient in Microsoft Office, particularly Excel (with some VBA programming), Word, and PowerPoint
+* Experience with low-level tools like PowerShell for automating tasks
+* Certification in supply chain management, such as APICS (with a focus on inventory management)
+* Familiarity with basic transportation management systems (TMS) like ShipWorks
+
+Note: This resume snippet lacks the enterprise scope required by the job description, focusing instead on low-level tools and skills that are not directly relevant to the role.

@@ -1,0 +1,166 @@
+{
+  "job_title": "Social Workers",
+  "case_slug": "social-workers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:09.893208",
+  "match_score": 35.46,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.4,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+        "+ Collaborated with cross-functional teams to coordinate services and resources",
+        "The candidate's experience is in crisis intervention and case management, but not stress testing or scoring engines.",
+        "Ability to work independently and collaboratively as part of a team"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 60.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+        "+ Collaborated with cross-functional teams to coordinate services and resources",
+        "The candidate's experience is in crisis intervention and case management, but not stress testing or scoring engines.",
+        "Ability to work independently and collaboratively as part of a team"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in stress testing or a related field",
+      "evidence": [
+        "The candidate's experience is in crisis intervention and case management, but not stress testing or scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "evidence": [
+        "Ability to work independently and collaboratively as part of a team"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Company:** Community Care Services",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to coordinate services and resources"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of scoring engines and their performance characteristics",
+      "evidence": [
+        "The candidate's experience is in crisis intervention and case management, but not stress testing or scoring engines."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Social Worker - Stress Test**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title:** Social Worker",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct stress tests on scoring engines to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement test cases to simulate real-world scenarios",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test data to identify trends and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate test results and recommendations to stakeholders",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "supports": "Social Worker - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to coordinate services and resources",
+      "supports": "Company:** Community Care Services"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "supports": "Conduct stress tests on scoring engines to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "supports": "Develop and implement test cases to simulate real-world scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position.",
+      "supports": "Analyze test data to identify trends and areas for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

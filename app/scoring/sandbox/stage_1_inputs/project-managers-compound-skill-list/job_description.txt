@@ -1,0 +1,55 @@
+**Project Manager - Stress Test**
+
+We are seeking a highly skilled and experienced Project Manager to lead our team in conducting comprehensive stress tests on scoring engines. The successful candidate will be responsible for designing, executing, and analyzing these tests to ensure the reliability and performance of our scoring engine solutions.
+
+**Job Summary:**
+
+As a Project Manager, you will be responsible for planning, coordinating, and executing stress testing activities to identify potential weaknesses and areas for improvement in our scoring engine solutions. You will work closely with cross-functional teams, including engineering, product management, and quality assurance to ensure that tests are conducted efficiently and effectively.
+
+**Responsibilities:**
+
+* Design and develop comprehensive stress test plans to simulate various scenarios and loads on the scoring engine
+* Coordinate with stakeholders to gather requirements and identify testing priorities
+* Execute stress tests using a variety of tools and platforms, including but not limited to:
+	+ LoadRunner
+	+ JMeter
+	+ Apache JMeter
+	+ Gatling
+	+ Locust
+	+ NeoLoad
+	+ SilkTest
+	+ TestComplete
+	+ Selenium
+	+ Appium
+	+ Python
+	+ Java
+	+ C++
+	+ MATLAB
+	+ Excel
+* Analyze test results and identify trends, patterns, and areas for improvement
+* Collaborate with engineering teams to implement fixes and enhancements based on test findings
+* Develop and maintain test scripts and frameworks to ensure consistency and efficiency
+* Communicate test results and recommendations to stakeholders, including product management and quality assurance
+* Ensure compliance with testing standards and methodologies
+
+**Required Skills:**
+
+Project Managers should possess a strong background in project management, stress testing, and software development. Essential skills include:
+
+* 5+ years of experience in project management or a related field
+* Strong understanding of stress testing principles and methodologies
+* Experience with load testing tools and platforms (LoadRunner, JMeter, etc.)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+Optional but highly desirable skills include:
+
+* Experience with Agile development methodologies
+* Knowledge of cloud-based technologies (AWS, Azure, Google Cloud)
+* Familiarity with containerization (Docker, Kubernetes)
+* Experience with DevOps practices and tools (Jenkins, GitLab CI/CD)
+* Strong understanding of software development life cycles (SDLC)
+
+**What We Offer:**
+
+We offer a competitive salary, comprehensive benefits package, and opportunities for professional growth and development. If you are a motivated and experienced Project Manager looking to take on new challenges, please submit your application today!

@@ -1,0 +1,28 @@
+Here is a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Summary:**
+Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines. Proven track record of developing and implementing testing strategies, analyzing results, and providing actionable recommendations for improvement.
+
+**Technical Skills:**
+
+* Proficient in Java, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Trello, Slack, Zoom, Webex, GitHub, GitLab, Jenkins, Docker, Kubernetes, AWS, Azure, Google Cloud Platform
+* Experienced with Load Testing, Stress Testing, Performance Testing, and User Acceptance Testing (UAT)
+* Skilled in Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and Agile methodologies
+* Familiarity with containerization and orchestration tools, including Docker and Kubernetes
+
+**Leadership Experience:**
+
+* Led cross-functional teams to design and execute comprehensive testing protocols, resulting in 25% increase in scoring engine reliability
+* Developed and implemented testing strategies, analyzing results and providing actionable recommendations for improvement
+* Collaborated with product management and engineering teams to identify and prioritize areas for testing and resource allocation
+
+**Project Management:**
+
+* Managed testing plans, schedules, and budgets, ensuring timely completion of projects and meeting stakeholder expectations
+* Coordinated with stakeholders to communicate test results and recommendations, resulting in 95% customer satisfaction rate
+
+**Certifications/Awards:**
+
+* Certified Scrum Master (CSM)
+* Agile Coach Certification
+* Winner of the "Best Testing Team" award at a major industry conference

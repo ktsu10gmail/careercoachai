@@ -1,0 +1,152 @@
+{
+  "job_title": "Claims Adjusters, Examiners, and Investigators",
+  "case_slug": "claims-adjusters-examiners-and-investigators-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:57.181961",
+  "match_score": 64.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 51.5,
+      "reason": "Found 5 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Job Title:** Claims Adjusters, Examiners, and Investigators - Junior Software Tester",
+        "Proficient in writing test cases and executing automated tests to ensure application stability.",
+        "Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Highly motivated junior software tester with experience in testing small-scale web applications using tools like Selenium and JUnit."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Computer Science or related field"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 35.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "junior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Job Title:** Claims Adjusters, Examiners, and Investigators - Junior Software Tester",
+        "Proficient in writing test cases and executing automated tests to ensure application stability.",
+        "Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Highly motivated junior software tester with experience in testing small-scale web applications using tools like Selenium and JUnit."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title:** Claims Adjusters, Examiners, and Investigators - Stress Test Engineer",
+      "evidence": [
+        "Job Title:** Claims Adjusters, Examiners, and Investigators - Junior Software Tester"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field;",
+      "evidence": [
+        "Bachelor's degree in Computer Science or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Bachelor's degree in Computer Science or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software testing methodologies, tools, and techniques (e.g., load testing, penetration testing)",
+      "evidence": [
+        "Knowledge of testing methodologies, tools, and techniques (e.g., unit testing, integration testing)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)",
+      "evidence": [
+        "Familiarity with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Job Title:** Claims Adjusters, Examiners, and Investigators - Junior Software Tester"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Design and execute stress tests on domain_scope_trap to identify performance bottlenecks and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate realistic user scenarios and workload patterns",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the system's architecture, components, and interactions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of system architecture, design patterns, and microservices principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Job Title:** Claims Adjusters, Examiners, and Investigators - Junior Software Tester",
+      "supports": "Job Title:** Claims Adjusters, Examiners, and Investigators - Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Job Title:** Claims Adjusters, Examiners, and Investigators - Junior Software Tester",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in writing test cases and executing automated tests to ensure application stability.",
+      "supports": "The successful candidate will be responsible for designing, implementing, and executing comprehensive stress tests to ensure the system's reliability, scalability, and performance "
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Design and execute stress tests on domain_scope_trap to identify performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak and scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate realistic user scenarios and workload patterns"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

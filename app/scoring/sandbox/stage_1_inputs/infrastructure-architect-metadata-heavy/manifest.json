@@ -1,0 +1,21 @@
+{
+  "job_title": "Infrastructure Architect",
+  "case_slug": "infrastructure-architect-metadata-heavy",
+  "scenario": "metadata_heavy",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T19:59:22.632697",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

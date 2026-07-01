@@ -1,0 +1,21 @@
+{
+  "job_title": "Tax Preparers",
+  "case_slug": "tax-preparers-scraped-job-board",
+  "scenario": "scraped_job_board",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:15:22.141226",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

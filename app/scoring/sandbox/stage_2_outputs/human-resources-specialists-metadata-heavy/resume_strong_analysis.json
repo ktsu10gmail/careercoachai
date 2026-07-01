@@ -1,0 +1,167 @@
+{
+  "job_title": "Human Resources Specialists",
+  "case_slug": "human-resources-specialists-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.212361",
+  "match_score": 38.29,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 14.6,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note that I've used a more conversational tone and focused on showcasing the candidate's achievements and skills, rather than just listing job responsibilities.",
+        "+ Developed and implemented comprehensive recruitment strategies to fill high-priority positions, resulting in 25% increase in hire rates",
+        "Proven track record of improving organizational efficiency through process optimization and strategic planning.",
+        "Results-driven HR professional with 7+ years of experience in talent acquisition, employee engagement, and benefits administration."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 56.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note that I've used a more conversational tone and focused on showcasing the candidate's achievements and skills, rather than just listing job responsibilities.",
+        "+ Developed and implemented comprehensive recruitment strategies to fill high-priority positions, resulting in 25% increase in hire rates",
+        "Proven track record of improving organizational efficiency through process optimization and strategic planning.",
+        "Results-driven HR professional with 7+ years of experience in talent acquisition, employee engagement, and benefits administration."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Note that I've used a more conversational tone and focused on showcasing the candidate's achievements and skills, rather than just listing job responsibilities."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks",
+      "evidence": [
+        "+ Developed and implemented comprehensive recruitment strategies to fill high-priority positions, resulting in 25% increase in hire rates"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability",
+      "evidence": [
+        "Proven track record of improving organizational efficiency through process optimization and strategic planning."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Results-driven HR professional with 7+ years of experience in talent acquisition, employee engagement, and benefits administration."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software architecture and design patterns",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to design and implement employee engagement initiatives, leading to a 30% reduction in turnover rates"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for candidates who are not based in San Francisco",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle large volumes of metadata-he",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a suite of automated testing tools to support stress testing efforts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve our testing methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines and metadata-heavy workloads",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with automated testing frameworks and tools (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note that I've used a more conversational tone and focused on showcasing the candidate's achievements and skills, rather than just listing job responsibilities.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and implemented comprehensive recruitment strategies to fill high-priority positions, resulting in 25% increase in hire rates",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of improving organizational efficiency through process optimization and strategic planning.",
+      "supports": "Analyze test results and provide actionable recommendations for improving the scoring engine's performance and scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven HR professional with 7+ years of experience in talent acquisition, employee engagement, and benefits administration.",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to design and implement employee engagement initiatives, leading to a 30% reduction in turnover rates",
+      "supports": "Strong understanding of software architecture and design patterns"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

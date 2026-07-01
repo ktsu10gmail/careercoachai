@@ -1,0 +1,168 @@
+{
+  "job_title": "Account Managers / Executives",
+  "case_slug": "account-managers-executives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.329278",
+  "match_score": 43.19,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.6,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed a portfolio of 10-15 key accounts, ensuring consistent revenue growth and customer satisfaction (note: did not meet the requirement for managing 20-30 key accounts)",
+        "Developed and executed strategic account plans to achieve sales targets, but did not have the opportunity to expand market share through cross-selling initiatives",
+        "\"Results-driven Account Manager with 5+ years of experience in sales and business development.",
+        "Proven track record of consistently meeting revenue growth targets, with a focus on building strong relationships with key decision-makers at client organizations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven Account Manager with 5+ years of experience in sales and business development.",
+        "Analyzed sales data and market trends to inform account strategies, but did not have experience with cloud-based software solutions (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 62.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed a portfolio of 10-15 key accounts, ensuring consistent revenue growth and customer satisfaction (note: did not meet the requirement for managing 20-30 key accounts)",
+        "Developed and executed strategic account plans to achieve sales targets, but did not have the opportunity to expand market share through cross-selling initiatives",
+        "\"Results-driven Account Manager with 5+ years of experience in sales and business development.",
+        "Proven track record of consistently meeting revenue growth targets, with a focus on building strong relationships with key decision-makers at client organizations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Build and maintain strong relationships with key decision-makers at client organizations",
+      "evidence": [
+        "Proven track record of consistently meeting revenue growth targets, with a focus on building strong relationships with key decision-makers at client organizations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in account management or a related field (sales, business development)",
+      "evidence": [
+        "\"Results-driven Account Manager with 5+ years of experience in sales and business development."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular business reviews with clients, identifying opportunities for upselling and cross-selling",
+      "evidence": [
+        "\"Results-driven Account Manager with 5+ years of experience in sales and business development."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze sales data and market trends to inform account strategies and identify new business opportunities",
+      "evidence": [
+        "\"Results-driven Account Manager with 5+ years of experience in sales and business development."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed a portfolio of 10-15 key accounts, ensuring consistent revenue growth and customer satisfaction (note: did not meet the requirement for managing 20-30 key accounts)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute strategic account plans to achieve sales targets and expand market share",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed strategic account plans to achieve sales targets, but did not have the opportunity to expand market share through cross-selling initiatives",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of consistently meeting or exceeding sales targets",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular business reviews with clients, identifying opportunities for upselling, but did not have a proven track record of consistently meeting or exceeding sales targets",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of the software industry and current market trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed sales data and market trends to inform account strategies, but did not have experience with cloud-based software solutions (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficient in CRM software (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed sales data and market trends to inform account strategies, but did not have experience with cloud-based software solutions (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Salesforce) and Microsoft Office",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based software solutions (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed sales data and market trends to inform account strategies, but did not have experience with cloud-based software solutions (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of data analytics tools (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed sales data and market trends to inform account strategies, but did not have experience with cloud-based software solutions (e.g.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed a portfolio of 10-15 key accounts, ensuring consistent revenue growth and customer satisfaction (note: did not meet the requirement for managing 20-30 key accounts)",
+      "supports": "Manage a portfolio of 20-30 key accounts, ensuring consistent revenue growth and customer satisfaction"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed strategic account plans to achieve sales targets, but did not have the opportunity to expand market share through cross-selling initiatives",
+      "supports": "Develop and execute strategic account plans to achieve sales targets and expand market share"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Account Manager with 5+ years of experience in sales and business development.",
+      "supports": "Conduct regular business reviews with clients, identifying opportunities for upselling and cross-selling"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Account Manager with 5+ years of experience in sales and business development.",
+      "supports": "Analyze sales data and market trends to inform account strategies and identify new business opportunities"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting revenue growth targets, with a focus on building strong relationships with key decision-makers at client organizations.",
+      "supports": "Build and maintain strong relationships with key decision-makers at client organizations"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

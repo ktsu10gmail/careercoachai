@@ -1,0 +1,157 @@
+{
+  "job_title": "Jewelers",
+  "case_slug": "jewelers-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.471011",
+  "match_score": 67.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 54.3,
+      "reason": "Found 5 direct, 4 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "3+ years of experience in jewelry design and fabrication, with a focus on high-end custom pieces",
+        "Strong understanding of color theory, texture, and composition, with a keen eye for detail and aesthetic appeal",
+        "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting",
+        "Design Principles:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 54.3,
+      "reason": "Found 5 direct, 4 adjacent, 0 domain/scope gaps, and 5 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "3+ years of experience in jewelry design and fabrication, with a focus on high-end custom pieces",
+        "Strong understanding of color theory, texture, and composition, with a keen eye for detail and aesthetic appeal",
+        "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting",
+        "Design Principles:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "3+ years of experience in jewelry design and fabrication, with a focus on high-end custom pieces",
+        "Strong understanding of color theory, texture, and composition, with a keen eye for detail and aesthetic appeal",
+        "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting",
+        "Design Principles:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "If you have a passion for jewelry-making and a keen eye for detail, we want to hear from you!",
+      "evidence": [
+        "Strong understanding of color theory, texture, and composition, with a keen eye for detail and aesthetic appeal"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create custom jewelry pieces using various techniques, including casting, soldering, and setting stones",
+      "evidence": [
+        "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of jewelry design principles, including color theory, texture, and composition",
+      "evidence": [
+        "Design Principles:"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in various jewelry-making techniques, including casting, soldering, and setting stones",
+      "evidence": [
+        "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "evidence": [
+        "Excellent communication and customer service skills, with the ability to work effectively with diverse customers and understand their needs"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "We're seeking skilled Jewelers to join our team! As a Jeweler, you'll be responsible for creating beautiful pieces that exceed our customers' expectations.",
+      "evidence": [
+        "3+ years of experience in jewelry design and fabrication, with a focus on high-end custom pieces"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** JEWELER-001",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to safety protocols and quality control standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment and meet deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in jewelry design and fabrication, with a focus on high-end custom pieces",
+      "supports": "We're seeking skilled Jewelers to join our team! As a Jeweler, you'll be responsible for creating beautiful pieces that exceed our customers' expectations."
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of color theory, texture, and composition, with a keen eye for detail and aesthetic appeal",
+      "supports": "If you have a passion for jewelry-making and a keen eye for detail, we want to hear from you!"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting",
+      "supports": "Create custom jewelry pieces using various techniques, including casting, soldering, and setting stones"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in jewelry design and fabrication, with a focus on high-end custom pieces",
+      "supports": "Work with customers to understand their design preferences and create bespoke pieces that meet their needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in various techniques, including casting, soldering, and setting stones, with expertise in metalworking and gemstone setting",
+      "supports": "Stay up-to-date on industry trends and new techniques to continuously improve skills and knowledge"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

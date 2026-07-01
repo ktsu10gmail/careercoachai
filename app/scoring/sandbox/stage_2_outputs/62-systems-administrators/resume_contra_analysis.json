@@ -1,0 +1,157 @@
+{
+  "job_title": "62. Systems Administrators",
+  "case_slug": "62-systems-administrators",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:51.872182",
+  "match_score": 60.49,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 54.6,
+      "reason": "Found 6 direct, 3 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Managed and maintained a minimum of 200 user accounts across multiple Linux-based servers, utilizing Red Hat Enterprise Linux as our primary operating system.",
+        "While I have experience with network devices and protocols, my expertise lies more in Cisco IOS configuration rather than Juniper SRX.",
+        "In terms of security policies, I've implemented OpenSSH and SELinux, but not IPTables.",
+        "Additionally, while I'm familiar with database management systems, my experience is primarily with MySQL, not PostgreSQL."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.4,
+      "reason": "Found 3 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Managed and maintained a minimum of 200 user accounts across multiple Linux-based servers, utilizing Red Hat Enterprise Linux as our primary operating system.",
+        "While I have experience with network devices and protocols, my expertise lies more in Cisco IOS configuration rather than Juniper SRX.",
+        "In terms of security policies, I've implemented OpenSSH and SELinux, but not IPTables."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Managed and maintained a minimum of 200 user accounts across multiple Linux-based servers, utilizing Red Hat Enterprise Linux as our primary operating system.",
+        "While I have experience with network devices and protocols, my expertise lies more in Cisco IOS configuration rather than Juniper SRX.",
+        "In terms of security policies, I've implemented OpenSSH and SELinux, but not IPTables.",
+        "Additionally, while I'm familiar with database management systems, my experience is primarily with MySQL, not PostgreSQL."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers",
+      "evidence": [
+        "\"Managed and maintained a minimum of 200 user accounts across multiple Linux-based servers, utilizing Red Hat Enterprise Linux as our primary operating system."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX",
+      "evidence": [
+        "While I have experience with network devices and protocols, my expertise lies more in Cisco IOS configuration rather than Juniper SRX."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborate with development teams to resolve issues related to database performance and scalability",
+      "evidence": [
+        "Additionally, while I'm familiar with database management systems, my experience is primarily with MySQL, not PostgreSQL."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation for system configurations and troubleshooting procedures",
+      "evidence": [
+        "I've also developed documentation for system configurations, but not specifically for troubleshooting procedures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Linux operating systems (Red Hat Enterprise Linux or CentOS)",
+      "evidence": [
+        "\"Managed and maintained a minimum of 200 user accounts across multiple Linux-based servers, utilizing Red Hat Enterprise Linux as our primary operating system."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with database management systems (MySQL, PostgreSQL)",
+      "evidence": [
+        "Additionally, while I'm familiar with database management systems, my experience is primarily with MySQL, not PostgreSQL."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Perform daily backups of critical data using Veritas NetBackup and ensure at least 3 days' worth of recoverable data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotation for critical systems, including 24/7 support during peak hours",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a systems administrator or equivalent",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with backup and disaster recovery tools",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong problem-solving skills and ability to work independently",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Managed and maintained a minimum of 200 user accounts across multiple Linux-based servers, utilizing Red Hat Enterprise Linux as our primary operating system.",
+      "supports": "Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience with network devices and protocols, my expertise lies more in Cisco IOS configuration rather than Juniper SRX.",
+      "supports": "Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX"
+    },
+    {
+      "source": "resume",
+      "quote": "In terms of security policies, I've implemented OpenSSH and SELinux, but not IPTables.",
+      "supports": "Implement and enforce security policies using OpenSSH, SELinux, and IPTables"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, while I'm familiar with database management systems, my experience is primarily with MySQL, not PostgreSQL.",
+      "supports": "Collaborate with development teams to resolve issues related to database performance and scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "I've also developed documentation for system configurations, but not specifically for troubleshooting procedures.",
+      "supports": "Develop and maintain documentation for system configurations and troubleshooting procedures"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

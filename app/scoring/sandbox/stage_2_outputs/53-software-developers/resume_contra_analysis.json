@@ -1,0 +1,170 @@
+{
+  "job_title": "53. Software Developers",
+  "case_slug": "53-software-developers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:50.794096",
+  "match_score": 42.9,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 26.1,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#.",
+        "Participated in code reviews and contributed to improving coding standards, although I did not have a significant impact on overall team coding standards due to being part of a smaller team.",
+        "Troubleshooted complex technical issues, but often relied on QA engineers for assistance rather than resolving them independently.",
+        "Implemented automated testing frameworks to improve code quality and reliability, but unfortunately, did not have the opportunity to develop and implement comprehensive test automation strategies due to limited project scope."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 8.8,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#.",
+        "Implemented automated testing frameworks to improve code quality and reliability, but unfortunately, did not have the opportunity to develop and implement comprehensive test automation strategies due to limited project scope."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 69.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#.",
+        "Participated in code reviews and contributed to improving coding standards, although I did not have a significant impact on overall team coding standards due to being part of a smaller team.",
+        "Troubleshooted complex technical issues, but often relied on QA engineers for assistance rather than resolving them independently.",
+        "Implemented automated testing frameworks to improve code quality and reliability, but unfortunately, did not have the opportunity to develop and implement comprehensive test automation strategies due to limited project scope."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design, develop, test, and maintain software applications for various industries using Java, Python, and C#",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Java, Python, C#, and Agile methodologies",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement automated testing frameworks to ensure code quality and reliability",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in software development",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of data structures, algorithms, and software design patterns",
+      "evidence": [
+        "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of the overall coding standards",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Participated in code reviews and contributed to improving coding standards, although I did not have a significant impact on overall team coding standards due to being part of a smaller team.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Troubleshoot and resolve complex technical issues in a timely manner",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Troubleshooted complex technical issues, but often relied on QA engineers for assistance rather than resolving them independently.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, new technologies, and emerging platforms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with version control systems (Git, SVN)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent problem-solving skills and attention to detail",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based platforms (AWS, Azure, Google Cloud)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of machine learning frameworks (TensorFlow, PyTorch) and natural language processing libraries (NLTK, spaCy)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Implemented automated testing frameworks to improve code quality and reliability, but unfortunately, did not have the opportunity to develop and implement comprehensive test automation strategies due to limited project scope.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with containerization tools (Docker, Kubernetes)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#.",
+      "supports": "Design, develop, test, and maintain software applications for various industries using Java, Python, and C#"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#.",
+      "supports": "Develop and implement automated testing frameworks to ensure code quality and reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in code reviews and contributed to improving coding standards, although I did not have a significant impact on overall team coding standards due to being part of a smaller team.",
+      "supports": "Participate in code reviews and contribute to the improvement of the overall coding standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Troubleshooted complex technical issues, but often relied on QA engineers for assistance rather than resolving them independently.",
+      "supports": "Troubleshoot and resolve complex technical issues in a timely manner"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Software Developer with 3+ years of experience in designing, developing, testing, and maintaining software applications using Java, Python, and C#.",
+      "supports": "3+ years of experience in software development"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,23 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Summary:**
+Highly motivated and detail-oriented professional with experience in stress testing and performance engineering, seeking to leverage skills in a dynamic environment.
+
+**Experience:**
+
+* Stress Test Engineer (2018-Present)
+ + Designed and developed stress testing scenarios for on-premise infrastructure
+ + Collaborated with product management, engineering, and QA teams to understand requirements and identify areas for improvement
+ + Developed and executed test plans, including setting up test environments, running tests, and analyzing results
+ + Identified and reported defects or issues found during testing, working closely with the development team to reproduce and resolve them
+
+**Skills:**
+
+* Strong understanding of software development life cycles, including design, development, testing, and deployment
+* Experience with stress testing tools such as Apache JMeter
+* Knowledge of cloud-based infrastructure (e.g. AWS)
+* Excellent problem-solving skills, attention to detail, and analytical thinking
+
+**Note:** While I have experience in stress testing and performance engineering, I did not work on global or multi-site projects, nor did I develop test scripts for low-latency trading infrastructure. Additionally, my experience is limited to on-premise infrastructure, whereas the ideal candidate should have experience with cloud-based infrastructure and containerization technologies.
+
+This snippet highlights relevant skills and experience while explicitly stating that the candidate did not meet certain higher-scope requirements (global/multi-site projects, low-latency trading infrastructure, and cloud-based infrastructure/containerization).

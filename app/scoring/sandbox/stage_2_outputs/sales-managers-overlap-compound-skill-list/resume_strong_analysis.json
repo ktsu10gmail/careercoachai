@@ -1,0 +1,143 @@
+{
+  "job_title": "Sales Managers (overlap)",
+  "case_slug": "sales-managers-overlap-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:08.921812",
+  "match_score": 67.67,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 84.2,
+      "reason": "Found 9 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines.",
+        "Summary:",
+        "Led cross-functional teams to design and execute comprehensive testing protocols, resulting in 25% increase in scoring engine reliability",
+        "Collaborated with product management and engineering teams to identify and prioritize areas for testing and resource allocation"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 91.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "manager",
+        "led",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Java, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Trello, Slack, Zoom, Webex, GitHub, GitLab, Jenkins, Docker, Kubernetes, AWS, Azure, Google Cloud Platform"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines.",
+        "Summary:",
+        "Led cross-functional teams to design and execute comprehensive testing protocols, resulting in 25% increase in scoring engine reliability",
+        "Collaborated with product management and engineering teams to identify and prioritize areas for testing and resource allocation"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our operations team, you will be responsible for designing and executing comprehensive testing protocols to ensure the reliability and performance of our scoring",
+      "evidence": [
+        "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Sales Manager - Stress Test, you will be responsible for developing and implementing testing strategies to identify potential bottlenecks in our scoring engine.",
+      "evidence": [
+        "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You will work closely with cross-functional teams to design and execute stress tests, analyze results, and provide recommendations for improvement.",
+      "evidence": [
+        "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "This is an exciting opportunity to join a dynamic team and make a meaningful impact on the performance of our scoring engine.",
+      "evidence": [
+        "Led cross-functional teams to design and execute comprehensive testing protocols, resulting in 25% increase in scoring engine reliability"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive testing protocols to identify potential bottlenecks in the scoring engine",
+      "evidence": [
+        "Led cross-functional teams to design and execute comprehensive testing protocols, resulting in 25% increase in scoring engine reliability"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including product management and engineering teams",
+      "evidence": [
+        "Collaborated with product management and engineering teams to identify and prioritize areas for testing and resource allocation"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with machine learning and artificial intelligence",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines.",
+      "supports": "As a key member of our operations team, you will be responsible for designing and executing comprehensive testing protocols to ensure the reliability and performance of our scoring"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines.",
+      "supports": "As a Sales Manager - Stress Test, you will be responsible for developing and implementing testing strategies to identify potential bottlenecks in our scoring engine."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Manager with 8+ years of experience in leading cross-functional teams to design and execute comprehensive testing protocols, ensuring reliability and performance of scoring engines.",
+      "supports": "You will work closely with cross-functional teams to design and execute stress tests, analyze results, and provide recommendations for improvement."
+    },
+    {
+      "source": "resume",
+      "quote": "Led cross-functional teams to design and execute comprehensive testing protocols, resulting in 25% increase in scoring engine reliability",
+      "supports": "This is an exciting opportunity to join a dynamic team and make a meaningful impact on the performance of our scoring engine."
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

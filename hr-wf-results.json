@@ -1,0 +1,30 @@
+[
+  {
+    "step": "HR creates/publishes job",
+    "note": "Backend created job id 26 during the first run; UI success banner was slow/missed by Playwright wait."
+  },
+  {
+    "step": "HR opens dashboard and sees pipeline",
+    "url": "http://localhost:3001/hr/dashboard"
+  },
+  {
+    "step": "HR reviews AI score/comments and applicant evidence",
+    "url": "http://localhost:3001/hr/dashboard"
+  },
+  {
+    "step": "HR prequalifies candidate",
+    "url": "http://localhost:3001/hr/dashboard"
+  },
+  {
+    "step": "HR routes shortlist and schedules interview with HM",
+    "url": "http://localhost:3001/hr/dashboard"
+  },
+  {
+    "step": "HR receives HM recommendation",
+    "url": "http://localhost:3001/hr/dashboard"
+  },
+  {
+    "step": "HR records final decision/status update",
+    "url": "http://localhost:3001/hr/dashboard"
+  }
+]

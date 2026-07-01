@@ -1,0 +1,160 @@
+{
+  "job_title": "Real Estate Agents and Brokers",
+  "case_slug": "real-estate-agents-and-brokers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:07.629492",
+  "match_score": 45.17,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 46.2,
+      "reason": "Found 5 direct, 2 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "0 years of experience in real estate sales or related field.",
+        "High school diploma;",
+        "Proficient in Microsoft Office (Word, Excel, Outlook).",
+        "Familiar with CRM software and other industry tools."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Real estate license (active)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 20.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "0 years of experience in real estate sales or related field.",
+        "High school diploma;",
+        "Real estate license (active)",
+        "Proficient in Microsoft Office (Word, Excel, Outlook)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "real estate license a plus",
+      "evidence": [
+        "Real estate license (active)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1-2 years of experience in real estate sales or related field",
+      "evidence": [
+        "0 years of experience in real estate sales or related field."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with CRM software and other industry tools",
+      "evidence": [
+        "Familiar with CRM software and other industry tools."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in business, marketing, or related field",
+      "evidence": [
+        "0 years of experience in real estate sales or related field."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2-5 years of experience in real estate sales or related field",
+      "evidence": [
+        "0 years of experience in real estate sales or related field."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct property showings and open houses to attract potential buyers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Negotiate purchase agreements and facilitate transactions between buyers and sellers",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of client interactions, transactions, and market data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on local market trends and adjust strategies accordingly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "0 years of experience in real estate sales or related field.",
+      "supports": "Prepare and present marketing materials, including listings and sales presentations"
+    },
+    {
+      "source": "resume",
+      "quote": "High school diploma;",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Real estate license (active)",
+      "supports": "real estate license a plus"
+    },
+    {
+      "source": "resume",
+      "quote": "0 years of experience in real estate sales or related field.",
+      "supports": "1-2 years of experience in real estate sales or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office (Word, Excel, Outlook).",
+      "supports": "Proficiency in Microsoft Office, including Word, Excel, and Outlook"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

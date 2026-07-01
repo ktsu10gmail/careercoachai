@@ -1,0 +1,38 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, remote work options available
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent position
+* Target Start Date: March 15th, 2024
+* Travel: Occasional travel to industry conferences and meetups (up to 2 weeks per year)
+* Sponsorship: Company will provide sponsorship for visa applications
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of software engineers. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+**Responsibilities:**
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Collaborate with cross-functional teams (engineering, product management, and operations) to understand requirements and develop test plans
+* Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality
+* Analyze test results, identify issues, and work with the engineering team to resolve defects and implement fixes
+* Develop and maintain documentation of testing procedures, test plans, and test results
+* Stay up-to-date with industry trends and emerging technologies to continuously improve our testing methodologies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engines and their components (e.g., machine learning models, natural language processing)
+* Strong understanding of software architecture, design patterns, and scalability principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with containerization tools like Docker and Kubernetes
+* Familiarity with cloud-based infrastructure and deployment strategies
+* Excellent problem-solving skills, attention to detail, and analytical thinking
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+If you are a motivated and experienced software engineer looking for a new challenge, please submit your resume and cover letter to [insert contact information].

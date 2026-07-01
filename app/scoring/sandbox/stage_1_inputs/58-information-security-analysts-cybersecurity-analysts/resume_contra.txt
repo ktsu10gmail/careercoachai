@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet:
+
+"Results-driven cybersecurity professional with 5+ years of experience in information security. Proven track record of conducting vulnerability assessments and penetration testing to identify security weaknesses in computer systems and networks. 
+
+* Conducted vulnerability assessments using Nessus, but did not perform comprehensive network traffic monitoring or system log analysis.
+* Developed incident response plans, but did not implement them across the entire organization.
+* Collaborated with cross-functional teams, including IT, development, and operations, to ensure comprehensive security measures were in place, although this was limited to a single project.
+* Analyzed and responded to security alerts and incidents, providing recommendations for remediation and prevention, but did not have experience with threat intelligence platforms or cloud security frameworks.
+* Stayed up-to-date with emerging threats and technologies, applying this knowledge to inform security strategies and best practices, although I relied heavily on industry publications and online resources rather than attending conferences or training sessions."

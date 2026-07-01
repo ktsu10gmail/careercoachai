@@ -1,0 +1,166 @@
+{
+  "job_title": "Social Workers",
+  "case_slug": "social-workers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:09.832813",
+  "match_score": 32.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 16.8,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and compassionate social worker with experience in case management and community outreach.",
+        "This resume snippet highlights the candidate's relevant skills and experience, but explicitly states that they did not perform one of the higher-scope requirements (high-level analysis) mentioned in the job description.",
+        "Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role.",
+        "Developed and implemented a case management software system to streamline client data entry and tracking"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and implemented a case management software system to streamline client data entry and tracking"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 57.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and compassionate social worker with experience in case management and community outreach.",
+        "This resume snippet highlights the candidate's relevant skills and experience, but explicitly states that they did not perform one of the higher-scope requirements (high-level analysis) mentioned in the job description.",
+        "Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role.",
+        "Developed and implemented a case management software system to streamline client data entry and tracking"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "evidence": [
+        "Ability to work independently and collaboratively as part of a team"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Company:** Community Care Services",
+      "evidence": [
+        "Highly motivated and compassionate social worker with experience in case management and community outreach."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test data to identify trends and areas for improvement",
+      "evidence": [
+        "Developed and implemented a case management software system to streamline client data entry and tracking"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of scoring engines and their performance characteristics",
+      "evidence": [
+        "My expertise lies in case management and community outreach, rather than scoring engine performance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Social Worker - Stress Test**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title:** Social Worker",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet highlights the candidate's relevant skills and experience, but explicitly states that they did not perform one of the higher-scope requirements (high-level analysis) mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct stress tests on scoring engines to identify performance bottlenecks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement test cases to simulate real-world scenarios",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate test results and recommendations to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and compassionate social worker with experience in case management and community outreach.",
+      "supports": "Company:** Community Care Services"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet highlights the candidate's relevant skills and experience, but explicitly states that they did not perform one of the higher-scope requirements (high-level analysis) mentioned in the job description.",
+      "supports": "Job Type:** Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role.",
+      "supports": "Conduct stress tests on scoring engines to identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented a case management software system to streamline client data entry and tracking",
+      "supports": "Analyze test data to identify trends and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with stress testing, I did not perform the high-level analysis required for this role.",
+      "supports": "3+ years of experience in stress testing or a related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

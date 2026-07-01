@@ -1,0 +1,163 @@
+{
+  "job_title": "Financial Analysts",
+  "case_slug": "financial-analysts-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.648258",
+  "match_score": 27.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.8,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note that this snippet highlights the candidate's relevant experience and skills, while also explicitly stating areas where they did not meet the higher-scope requirements of the job description.",
+        "Developed and executed comprehensive stress test plans to identify potential vulnerabilities in our scoring engine",
+        "Simulated various economic scenarios, including interest rate changes and market volatility",
+        "Analyzed results and provided actionable recommendations for improving model performance"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 63.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note that this snippet highlights the candidate's relevant experience and skills, while also explicitly stating areas where they did not meet the higher-scope requirements of the job description.",
+        "Developed and executed comprehensive stress test plans to identify potential vulnerabilities in our scoring engine",
+        "Simulated various economic scenarios, including interest rate changes and market volatility",
+        "Analyzed results and provided actionable recommendations for improving model performance"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute comprehensive stress test plans to identify potential vulnerabilities in our scoring engine",
+      "evidence": [
+        "Developed and executed comprehensive stress test plans to identify potential vulnerabilities in our scoring engine"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Simulate a wide range of economic scenarios, including interest rate changes, credit score fluctuations, and market volatility",
+      "evidence": [
+        "Simulated various economic scenarios, including interest rate changes and market volatility"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging risks to continuously improve stress testing methodologies",
+      "evidence": [
+        "Familiarity with VaR and EVA stress testing methodologies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Excel, VBA, and statistical analysis software (e.g.",
+      "evidence": [
+        "Proficient in Excel, VBA, and statistical analysis software (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze results and provide actionable recommendations for improving model performance and risk management",
+      "evidence": [
+        "Analyzed results and provided actionable recommendations for improving model performance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Financial Analysts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this snippet highlights the candidate's relevant experience and skills, while also explicitly stating areas where they did not meet the higher-scope requirements of the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating various scenarios to evaluate the robustness and performance of our financial models under different market conditions.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed documentation of testing procedures, results, and recommendations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, I did not develop and maintain detailed documentation of testing procedures, results, and recommendations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Finance, Economics, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "advanced degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in financial modeling, risk management, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of financial markets, instruments, and regulations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "R, Python)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note that this snippet highlights the candidate's relevant experience and skills, while also explicitly stating areas where they did not meet the higher-scope requirements of the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed comprehensive stress test plans to identify potential vulnerabilities in our scoring engine",
+      "supports": "Develop and execute comprehensive stress test plans to identify potential vulnerabilities in our scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Simulated various economic scenarios, including interest rate changes and market volatility",
+      "supports": "Simulate a wide range of economic scenarios, including interest rate changes, credit score fluctuations, and market volatility"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed results and provided actionable recommendations for improving model performance",
+      "supports": "Analyze results and provide actionable recommendations for improving model performance and risk management"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, I did not develop and maintain detailed documentation of testing procedures, results, and recommendations.",
+      "supports": "Develop and maintain detailed documentation of testing procedures, results, and recommendations"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

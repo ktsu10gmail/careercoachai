@@ -1,0 +1,147 @@
+{
+  "job_title": "Training and Development Specialists",
+  "case_slug": "training-and-development-specialists-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.068849",
+  "match_score": 42.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory.",
+        "Collaborated with subject matter experts to develop comprehensive training content (I worked closely with my team to create engaging training materials, but did not have formal collaborations with external SMEs)",
+        "Conducted needs assessments to identify learning gaps and opportunities for growth (although I did not have direct experience with Learning Management Systems like Canvas or Blackboard)",
+        "Designed and developed training programs for employees at all levels of the organization (note: while I have experience with e-learning authoring tools, my primary focus was on project management methodologies such as Agile, rather than ins"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 88.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory.",
+        "Collaborated with subject matter experts to develop comprehensive training content (I worked closely with my team to create engaging training materials, but did not have formal collaborations with external SMEs)",
+        "Conducted needs assessments to identify learning gaps and opportunities for growth (although I did not have direct experience with Learning Management Systems like Canvas or Blackboard)",
+        "Designed and developed training programs for employees at all levels of the organization (note: while I have experience with e-learning authoring tools, my primary focus was on project management methodologies such as Agile, rather than ins"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will have a strong background in instructional design, adult learning theory, and technology-enhanced learning.",
+      "evidence": [
+        "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, develop, and implement training programs for employees at all levels of the organization",
+      "evidence": [
+        "Designed and developed training programs for employees at all levels of the organization (note: while I have experience with e-learning authoring tools, my primary focus was on project management methodologies such as Agile, rather than ins"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Instructional design principles and adult learning theory",
+      "evidence": [
+        "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Training and Development Specialist**",
+      "evidence": [
+        "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Create engaging and interactive training materials using a variety of media formats (e.g.",
+      "evidence": [
+        "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with e-learning authoring tools (e.g.",
+      "evidence": [
+        "Designed and developed training programs for employees at all levels of the organization (note: while I have experience with e-learning authoring tools, my primary focus was on project management methodologies such as Agile, rather than ins"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "They will work closely with subject matter experts to develop comprehensive training programs that align with business objectives.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with subject matter experts to develop comprehensive training content (I worked closely with my team to create engaging training materials, but did not have formal collaborations with external SMEs)",
+      "severity": "high"
+    },
+    {
+      "requirement": "The ideal candidate will be able to analyze learning gaps, identify knowledge areas for improvement, and create engaging and effective training content.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted needs assessments to identify learning gaps and opportunities for growth (although I did not have direct experience with Learning Management Systems like Canvas or Blackboard)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct needs assessments to identify learning gaps and opportunities for growth",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted needs assessments to identify learning gaps and opportunities for growth (although I did not have direct experience with Learning Management Systems like Canvas or Blackboard)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory.",
+      "supports": "Training and Development Specialist**"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory.",
+      "supports": "As a key member of our Learning and Development department, you will be responsible for designing, developing, and implementing training programs that meet the needs of our employe"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Training and Development Specialist with expertise in instructional design principles and adult learning theory.",
+      "supports": "The successful candidate will have a strong background in instructional design, adult learning theory, and technology-enhanced learning."
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with subject matter experts to develop comprehensive training content (I worked closely with my team to create engaging training materials, but did not have formal collaborations with external SMEs)",
+      "supports": "They will work closely with subject matter experts to develop comprehensive training programs that align with business objectives."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted needs assessments to identify learning gaps and opportunities for growth (although I did not have direct experience with Learning Management Systems like Canvas or Blackboard)",
+      "supports": "The ideal candidate will be able to analyze learning gaps, identify knowledge areas for improvement, and create engaging and effective training content."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

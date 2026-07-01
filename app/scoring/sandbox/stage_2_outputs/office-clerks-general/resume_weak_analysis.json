@@ -1,0 +1,161 @@
+{
+  "job_title": "Office Clerks, General",
+  "case_slug": "office-clerks-general",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.393140",
+  "match_score": 48.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.8,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Maintained accurate records and files using Microsoft Office Suite (2 years)",
+        "Coordinated travel arrangements and prepared meeting materials for senior staff members (1 year)",
+        "Managed office supplies using online ordering systems (1 year)",
+        "Assisted with data entry tasks in HRIS software (3 months)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 99.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "staff",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 32.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed office supplies using online ordering systems (1 year)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 82.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Maintained accurate records and files using Microsoft Office Suite (2 years)",
+        "Coordinated travel arrangements and prepared meeting materials for senior staff members (1 year)",
+        "Managed office supplies using online ordering systems (1 year)",
+        "Assisted with data entry tasks in HRIS software (3 months)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Maintained accurate records and files using Microsoft Office Suite (2 years)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide administrative support to senior staff members, including scheduling appointments, preparing meeting materials, and coordinating travel arrangements",
+      "evidence": [
+        "Coordinated travel arrangements and prepared meeting materials for senior staff members (1 year)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Order supplies and maintain inventory levels using online ordering systems and spreadsheet tracking",
+      "evidence": [
+        "Managed office supplies using online ordering systems (1 year)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Perform data entry tasks using specialized software (e.g.",
+      "evidence": [
+        "Managed office supplies using online ordering systems (1 year)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with HRIS software and database management",
+      "evidence": [
+        "Assisted with data entry tasks in HRIS software (3 months)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with online ordering systems and inventory management tools",
+      "evidence": [
+        "Managed office supplies using online ordering systems (1 year)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Process and respond to a high volume of incoming mail, emails, and phone calls in a timely manner",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement filing systems and procedures to ensure compliance with organizational policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of experience in an administrative role, preferably in a fast-paced office environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, organizational, and time management skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records and files using Microsoft Office Suite (2 years)",
+      "supports": "Manage and maintain accurate records, files, and databases using Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated travel arrangements and prepared meeting materials for senior staff members (1 year)",
+      "supports": "Provide administrative support to senior staff members, including scheduling appointments, preparing meeting materials, and coordinating travel arrangements"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed office supplies using online ordering systems (1 year)",
+      "supports": "Order supplies and maintain inventory levels using online ordering systems and spreadsheet tracking"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed office supplies using online ordering systems (1 year)",
+      "supports": "Perform data entry tasks using specialized software (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "Assisted with data entry tasks in HRIS software (3 months)",
+      "supports": "HRIS) and maintain confidentiality of sensitive information"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

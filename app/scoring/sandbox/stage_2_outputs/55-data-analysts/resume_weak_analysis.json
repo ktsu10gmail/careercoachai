@@ -1,0 +1,166 @@
+{
+  "job_title": "55. Data Analysts",
+  "case_slug": "55-data-analysts",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:51.121224",
+  "match_score": 41.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.9,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Basic knowledge of database design and management",
+        "Developed a few dashboards using Excel and created reports using Google Sheets.",
+        "Collaborated with a small team to identify trends in sales data, but did not have any formal training or certification in data analysis tools.",
+        "This resume snippet lacks enterprise scope and does not demonstrate proficiency in big data technologies, machine learning algorithms, or certification in data analysis tools."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 14.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Basic knowledge of database design and management",
+        "This resume snippet lacks enterprise scope and does not demonstrate proficiency in big data technologies, machine learning algorithms, or certification in data analysis tools."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 65.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Basic knowledge of database design and management",
+        "Developed a few dashboards using Excel and created reports using Google Sheets.",
+        "Collaborated with a small team to identify trends in sales data, but did not have any formal training or certification in data analysis tools.",
+        "This resume snippet lacks enterprise scope and does not demonstrate proficiency in big data technologies, machine learning algorithms, or certification in data analysis tools."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL",
+      "evidence": [
+        "Basic knowledge of database design and management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong proficiency in SQL and statistical software (e.g., R, Python)",
+      "evidence": [
+        "Basic knowledge of database design and management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with data management and database design",
+      "evidence": [
+        "Basic knowledge of database design and management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders",
+      "evidence": [
+        "Developed a few dashboards using Excel and created reports using Google Sheets."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain databases to store and manage data for reporting and analysis purposes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain data quality checks to ensure accuracy and consistency of data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify areas for process improvement and implement changes to increase efficiency and effectiveness",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with a small team to identify trends in sales data, but did not have any formal training or certification in data analysis tools.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a quantitative field (e.g., mathematics, statistics, computer science)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience with data analysis and visualization tools",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and presentation skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in a quantitative field or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with big data technologies (e.g., Hadoop, Spark)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of machine learning algorithms and techniques",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks enterprise scope and does not demonstrate proficiency in big data technologies, machine learning algorithms, or certification in data analysis tools.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in data analysis or visualization tools (e.g., Tableau, Power BI)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Basic knowledge of database design and management",
+      "supports": "Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed a few dashboards using Excel and created reports using Google Sheets.",
+      "supports": "Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with a small team to identify trends in sales data, but did not have any formal training or certification in data analysis tools.",
+      "supports": "Identify areas for process improvement and implement changes to increase efficiency and effectiveness"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic knowledge of database design and management",
+      "supports": "Strong proficiency in SQL and statistical software (e.g., R, Python)"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic knowledge of database design and management",
+      "supports": "Experience with data management and database design"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

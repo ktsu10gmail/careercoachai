@@ -1,0 +1,16 @@
+"V4.1 Future Marketplace Features (Not In Scope For Initial Release)"
+
+Examples:
+
+Candidate-to-job auto matching
+Candidate recommendation emails
+Recruiter subscription tiers
+Candidate availability status
+Salary expectation matching
+AI-generated candidate summaries
+AI-generated recruiter outreach
+Rejected-applicant recycling
+Cross-company talent marketplace
+Recruiter performance analytics
+
+Keeping these explicitly marked as future scope helps Codex stay focused on delivering V4 without implementing features you are only considering for later phases. 

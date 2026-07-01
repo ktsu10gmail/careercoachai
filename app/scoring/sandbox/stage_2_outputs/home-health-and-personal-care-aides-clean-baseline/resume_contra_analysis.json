@@ -1,0 +1,164 @@
+{
+  "job_title": "Home Health and Personal Care Aides",
+  "case_slug": "home-health-and-personal-care-aides-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:01.698064",
+  "match_score": 26.57,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.1,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Home Health and Personal Care Aides",
+        "Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+        "Managed client records and maintained accurate documentation of care plans and progress",
+        "Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine.",
+        "Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 50.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Home Health and Personal Care Aides",
+        "Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+        "Managed client records and maintained accurate documentation of care plans and progress",
+        "Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Home Health and Personal Care Aides",
+      "evidence": [
+        "Home Health and Personal Care Aides"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement",
+      "evidence": [
+        "Managed client records and maintained accurate documentation of care plans and progress"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, quality assurance, or a related field",
+      "evidence": [
+        "Familiarity with electronic medical records (EMRs) and care planning software"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on findings and recommendations for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and infrastructure to support stress testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to identify potential vulnerabilities and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, algorithms, and data structures",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools and frameworks, such as Apache JMeter or Gatling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Home Health and Personal Care Aides",
+      "supports": "Home Health and Personal Care Aides"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "supports": "Job Title: Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Additionally, my education did not include coursework in computer systems, algorithms, or data structures, which are relevant to the Stress Test Engineer role.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed client records and maintained accurate documentation of care plans and progress",
+      "supports": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience working with clients who require stress management techniques, such as deep breathing exercises and relaxation methods, I do not have direct experience designing or executing stress tests on a scoring engine.",
+      "supports": "Execute stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

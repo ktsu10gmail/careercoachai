@@ -1,0 +1,145 @@
+{
+  "job_title": "62. Systems Administrators",
+  "case_slug": "62-systems-administrators",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:51.909630",
+  "match_score": 81.87,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.2,
+      "reason": "Found 9 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly experienced systems administrator with 5+ years of experience managing and maintaining complex Linux-based server environments.",
+        "Implemented daily backups using Veritas NetBackup, resulting in a minimum of 3 days' worth of recoverable data, exceeding organizational requirements.",
+        "Configured and troubleshooted network devices, including Cisco IOS and Juniper SRX routers, switches, and firewalls, to optimize network performance and security.",
+        "Developed and enforced comprehensive security policies using OpenSSH, SELinux, and IPTables, ensuring compliance with HIPAA and PCI-DSS regulations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 85.0,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly experienced systems administrator with 5+ years of experience managing and maintaining complex Linux-based server environments.",
+        "Implemented daily backups using Veritas NetBackup, resulting in a minimum of 3 days' worth of recoverable data, exceeding organizational requirements.",
+        "Configured and troubleshooted network devices, including Cisco IOS and Juniper SRX routers, switches, and firewalls, to optimize network performance and security.",
+        "Developed and enforced comprehensive security policies using OpenSSH, SELinux, and IPTables, ensuring compliance with HIPAA and PCI-DSS regulations."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly experienced systems administrator with 5+ years of experience managing and maintaining complex Linux-based server environments.",
+        "Implemented daily backups using Veritas NetBackup, resulting in a minimum of 3 days' worth of recoverable data, exceeding organizational requirements.",
+        "Configured and troubleshooted network devices, including Cisco IOS and Juniper SRX routers, switches, and firewalls, to optimize network performance and security.",
+        "Developed and enforced comprehensive security policies using OpenSSH, SELinux, and IPTables, ensuring compliance with HIPAA and PCI-DSS regulations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers",
+      "evidence": [
+        "Highly experienced systems administrator with 5+ years of experience managing and maintaining complex Linux-based server environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX",
+      "evidence": [
+        "Configured and troubleshooted network devices, including Cisco IOS and Juniper SRX routers, switches, and firewalls, to optimize network performance and security."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement and enforce security policies using OpenSSH, SELinux, and IPTables",
+      "evidence": [
+        "Developed and enforced comprehensive security policies using OpenSSH, SELinux, and IPTables, ensuring compliance with HIPAA and PCI-DSS regulations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborate with development teams to resolve issues related to database performance and scalability",
+      "evidence": [
+        "Collaborated with development teams to resolve database performance and scalability issues, resulting in significant improvements to overall system efficiency."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation for system configurations and troubleshooting procedures",
+      "evidence": [
+        "Created and maintained detailed documentation for system configurations and troubleshooting procedures, reducing mean time to repair (MTTR) by 30%."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotation for critical systems, including 24/7 support during peak hours",
+      "evidence": [
+        "Participated in on-call rotation for critical systems, providing 24/7 support during peak hours, ensuring minimal downtime and exceptional customer satisfaction."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "3+ years of experience as a systems administrator or equivalent",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong problem-solving skills and ability to work independently",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly experienced systems administrator with 5+ years of experience managing and maintaining complex Linux-based server environments.",
+      "supports": "Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers"
+    },
+    {
+      "source": "resume",
+      "quote": "Implemented daily backups using Veritas NetBackup, resulting in a minimum of 3 days' worth of recoverable data, exceeding organizational requirements.",
+      "supports": "Perform daily backups of critical data using Veritas NetBackup and ensure at least 3 days' worth of recoverable data"
+    },
+    {
+      "source": "resume",
+      "quote": "Configured and troubleshooted network devices, including Cisco IOS and Juniper SRX routers, switches, and firewalls, to optimize network performance and security.",
+      "supports": "Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and enforced comprehensive security policies using OpenSSH, SELinux, and IPTables, ensuring compliance with HIPAA and PCI-DSS regulations.",
+      "supports": "Implement and enforce security policies using OpenSSH, SELinux, and IPTables"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with development teams to resolve database performance and scalability issues, resulting in significant improvements to overall system efficiency.",
+      "supports": "Collaborate with development teams to resolve issues related to database performance and scalability"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,41 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+John Doe
+Machinist
+
+Contact Info:
+(123) 456-7890 | johndoe@email.com
+
+Work Experience:
+
+* Machinist, ABC Machine Shop (2018-Present)
+	+ Operated lathes and mills to manufacture precision parts
+	+ Read blueprints and technical drawings to understand production requirements
+	+ Measured and inspected parts for accuracy and quality
+	+ Performed routine maintenance tasks on machinery and equipment
+
+Skills:
+
+* Machining principles and practices
+* Blueprints and technical drawings
+* Quality control and inspection
+* Basic computer skills (Microsoft Office, Google Suite)
+
+Tools:
+
+* Lathe ( manual)
+* Mill ( manual)
+* Drill Press ( manual)
+* CNC Machine ( basic programming)
+
+Education:
+
+* High School Diploma, Springfield High School (2015-2018)
+
+Certifications:
+
+* OSHA 30-Hour Construction Industry Outreach Training Program
+* Basic First Aid and CPR Certification
+
+References:
+Available upon request.

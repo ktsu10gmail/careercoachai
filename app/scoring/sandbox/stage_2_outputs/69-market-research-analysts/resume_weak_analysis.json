@@ -1,0 +1,159 @@
+{
+  "job_title": "69. Market Research Analysts",
+  "case_slug": "69-market-research-analysts",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.587404",
+  "match_score": 72.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 51.2,
+      "reason": "Found 5 direct, 3 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven data analyst with 3+ years of experience in market research and analysis.",
+        "+ Analyzed customer demographics and purchase history using R and SPSS",
+        "Education: Bachelor's degree in Statistics from XYZ University.",
+        "Proficient in R and SPSS statistical software, with strong analytical skills and ability to interpret complex data sets."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Education: Bachelor's degree in Statistics from XYZ University."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 73.0,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven data analyst with 3+ years of experience in market research and analysis.",
+        "+ Analyzed customer demographics and purchase history using R and SPSS",
+        "Proficient in R and SPSS statistical software, with strong analytical skills and ability to interpret complex data sets.",
+        "Currently working on personal projects involving data visualization using Tableau and Power BI."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven data analyst with 3+ years of experience in market research and analysis.",
+        "+ Analyzed customer demographics and purchase history using R and SPSS",
+        "Education: Bachelor's degree in Statistics from XYZ University.",
+        "Proficient in R and SPSS statistical software, with strong analytical skills and ability to interpret complex data sets."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain databases of customer demographics, purchase history, and other relevant data points",
+      "evidence": [
+        "+ Analyzed customer demographics and purchase history using R and SPSS"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex data sets",
+      "evidence": [
+        "Proficient in R and SPSS statistical software, with strong analytical skills and ability to interpret complex data sets."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in statistical software such as R or SPSS, and Microsoft Office Suite (Excel, Word, PowerPoint)",
+      "evidence": [
+        "Skilled in Microsoft Office Suite (Excel, Word, PowerPoint) and proficient in Python programming language."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of data visualization techniques using Tableau or Power BI",
+      "evidence": [
+        "Currently working on personal projects involving data visualization using Tableau and Power BI."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with programming languages such as Python or SQL",
+      "evidence": [
+        "Skilled in Microsoft Office Suite (Excel, Word, PowerPoint) and proficient in Python programming language."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze data using statistical software such as R or SPSS, and present findings in reports and presentations to senior management",
+      "evidence": [
+        "\"Results-driven data analyst with 3+ years of experience in market research and analysis."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct primary and secondary research to gather data on consumer behavior, market trends, and competitor activity",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify opportunities for market growth and develop strategies to capitalize on them",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in market research or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills, with ability to present findings to non-technical audiences",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with market research tools such as Nielsen or comScore",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven data analyst with 3+ years of experience in market research and analysis.",
+      "supports": "Analyze data using statistical software such as R or SPSS, and present findings in reports and presentations to senior management"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed customer demographics and purchase history using R and SPSS",
+      "supports": "Develop and maintain databases of customer demographics, purchase history, and other relevant data points"
+    },
+    {
+      "source": "resume",
+      "quote": "Education: Bachelor's degree in Statistics from XYZ University.",
+      "supports": "Stay up-to-date with industry trends and developments through ongoing education and training"
+    },
+    {
+      "source": "resume",
+      "quote": "Education: Bachelor's degree in Statistics from XYZ University.",
+      "supports": "Bachelor's degree in Marketing, Statistics, or related field;"
+    },
+    {
+      "source": "resume",
+      "quote": "Education: Bachelor's degree in Statistics from XYZ University.",
+      "supports": "Master's degree preferred"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,10 @@
+Here's a weak or scope-mismatch resume snippet for a Training and Development Specialist position:
+
+"Experienced instructional designer with 5+ years of experience in creating engaging online courses using Articulate Storyline. Proven track record of delivering successful training programs to small groups of employees. Skilled in adult learning principles, instructional design methodologies, and facilitation techniques. Proficient in Microsoft Office Suite and Google Workspace. Currently working on a side project to develop an e-learning platform using WordPress."
+
+This resume snippet lacks the scope-mismatch because it:
+
+* Does not mention experience with training programs for all levels of the organization
+* Lacks specific examples of needs assessments, customized training plans, or coaching/mentoring support
+* Does not highlight expertise in Learning Management Systems (LMS) or certification in instructional design/adult learning
+* Fails to demonstrate knowledge of industry trends and best practices in adult learning and performance improvement

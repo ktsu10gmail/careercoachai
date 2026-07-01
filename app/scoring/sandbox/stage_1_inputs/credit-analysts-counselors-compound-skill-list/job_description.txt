@@ -1,0 +1,33 @@
+**Job Title:** Credit Analysts / Counselors
+
+**Job Summary:**
+
+We are seeking experienced Credit Analysts/Counselors to join our team, responsible for conducting thorough credit analysis and providing expert guidance to clients on financial matters. The successful candidate will have a strong understanding of credit scoring models, market trends, and regulatory requirements.
+
+**Responsibilities:**
+
+* Conduct in-depth credit analysis using various scoring engines, including FICO, VantageScore, and proprietary models
+* Evaluate credit reports, credit histories, and other relevant data to determine creditworthiness
+* Provide expert counsel to clients on credit management strategies, debt consolidation options, and financial planning
+* Develop and maintain relationships with clients to understand their financial needs and provide tailored solutions
+* Stay up-to-date with market trends, regulatory changes, and new scoring models to ensure accurate analysis and recommendations
+* Collaborate with internal teams, including underwriting and risk management, to ensure seamless client experience
+* Prepare and present credit reports, analysis, and recommendations to clients and stakeholders
+
+**Required Skills:**
+
+Java, Python, R, SQL, Excel, Tableau, Power BI, FICO Scorecard, VantageScore, proprietary scoring engines, Bloomberg Terminal, Thomson Reuters Eikon, FactSet, S&P Capital IQ, Credit Karma, Experian, TransUnion, Equifax, credit analysis software (e.g. CreditBuilder, CreditRisk), financial modeling tools (e.g. Excel, Financial Modeling Software), regulatory compliance knowledge (e.g. Dodd-Frank, TRID), excellent communication and interpersonal skills, ability to work in a fast-paced environment, strong analytical and problem-solving skills.
+
+**Preferred Qualifications:**
+
+* Bachelor's degree in Finance, Economics, or related field
+* 2+ years of experience in credit analysis or financial services
+* Professional certifications (e.g. CFA, CAIA) or designations (e.g. Certified Credit Analyst)
+* Experience with data visualization tools and software
+
+**What We Offer:**
+
+* Competitive salary and bonus structure
+* Comprehensive benefits package, including health insurance, retirement plan, and paid time off
+* Opportunities for professional growth and development in a dynamic and growing company
+* Collaborative and supportive work environment

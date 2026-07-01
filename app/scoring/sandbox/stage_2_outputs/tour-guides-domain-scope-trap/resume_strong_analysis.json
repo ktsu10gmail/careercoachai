@@ -1,0 +1,75 @@
+{
+  "job_title": "Tour Guides",
+  "case_slug": "tour-guides-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:11.027854",
+  "match_score": 47.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Instead, I've focused on highlighting transferable skills and experiences that can be applied to the role."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "lead",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Instead, I've focused on highlighting transferable skills and experiences that can be applied to the role."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 33.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Instead, I've focused on highlighting transferable skills and experiences that can be applied to the role."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "I can't fulfill this request.",
+      "evidence": [
+        "Instead, I've focused on highlighting transferable skills and experiences that can be applied to the role."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Instead, I've focused on highlighting transferable skills and experiences that can be applied to the role.",
+      "supports": "I can't fulfill this request."
+    },
+    {
+      "source": "job_description",
+      "quote": "I can't fulfill this request.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

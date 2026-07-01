@@ -1,0 +1,144 @@
+{
+  "job_title": "62. Systems Administrators",
+  "case_slug": "62-systems-administrators",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:51.941357",
+  "match_score": 68.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 73.6,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed and maintained 200 user accounts on a single Linux-based server.",
+        "Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network.",
+        "Implemented security policies using OpenSSH, SELinux, and IPTables, but only for personal projects.",
+        "Collaborated with development teams to resolve issues related to database performance and scalability, but only on a small scale."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 43.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "junior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 80.7,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed and maintained 200 user accounts on a single Linux-based server.",
+        "Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network.",
+        "Implemented security policies using OpenSSH, SELinux, and IPTables, but only for personal projects."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed and maintained 200 user accounts on a single Linux-based server.",
+        "Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network.",
+        "Implemented security policies using OpenSSH, SELinux, and IPTables, but only for personal projects.",
+        "Collaborated with development teams to resolve issues related to database performance and scalability, but only on a small scale."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers",
+      "evidence": [
+        "Managed and maintained 200 user accounts on a single Linux-based server."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX",
+      "evidence": [
+        "Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement and enforce security policies using OpenSSH, SELinux, and IPTables",
+      "evidence": [
+        "Implemented security policies using OpenSSH, SELinux, and IPTables, but only for personal projects."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborate with development teams to resolve issues related to database performance and scalability",
+      "evidence": [
+        "Collaborated with development teams to resolve issues related to database performance and scalability, but only on a small scale."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation for system configurations and troubleshooting procedures",
+      "evidence": [
+        "Developed documentation for system configurations and troubleshooting procedures, but only for internal use."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotation for critical systems, including 24/7 support during peak hours",
+      "evidence": [
+        "Participated in on-call rotation for critical systems, but only during non-peak hours."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "3+ years of experience as a systems administrator or equivalent",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong problem-solving skills and ability to work independently",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed and maintained 200 user accounts on a single Linux-based server.",
+      "supports": "Manage and maintain a minimum of 500 user accounts across multiple Linux-based servers"
+    },
+    {
+      "source": "resume",
+      "quote": "Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network.",
+      "supports": "Perform daily backups of critical data using Veritas NetBackup and ensure at least 3 days' worth of recoverable data"
+    },
+    {
+      "source": "resume",
+      "quote": "Configured and troubleshooted network devices using Cisco IOS and Juniper SRX, but only on a small test network.",
+      "supports": "Configure and troubleshoot network devices, including routers, switches, and firewalls, using Cisco IOS and Juniper SRX"
+    },
+    {
+      "source": "resume",
+      "quote": "Implemented security policies using OpenSSH, SELinux, and IPTables, but only for personal projects.",
+      "supports": "Implement and enforce security policies using OpenSSH, SELinux, and IPTables"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with development teams to resolve issues related to database performance and scalability, but only on a small scale.",
+      "supports": "Collaborate with development teams to resolve issues related to database performance and scalability"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

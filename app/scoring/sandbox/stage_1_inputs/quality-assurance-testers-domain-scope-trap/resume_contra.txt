@@ -1,0 +1,10 @@
+Here's a contra-evidence resume snippet for a Quality Assurance Tester position:
+
+**Quality Assurance Tester**
+
+* 3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g. generic testing frameworks)
+* Strong understanding of software development life cycles and testing principles
+* Excellent analytical and problem-solving skills, with ability to identify general performance issues
+* Experience working in fast-paced environments with multiple priorities and deadlines
+
+Note: I omitted the domain qualifiers "Software/SaaS", "Enterprise", "Regulated industry", "Global", "Multi-site", "High-volume", and "Low-latency" as they are not relevant to this candidate's experience. I also did not mention stress testing of scoring engine or domain scope trap scenarios, as it is explicitly stated that the candidate does not have experience in these areas.

@@ -1,0 +1,28 @@
+Here's a contra-evidence resume snippet for an AI Systems Engineer position:
+
+**Summary**
+
+Highly motivated and detail-oriented AI systems engineer with 5+ years of experience in designing, developing, and deploying AI systems. Proficient in machine learning algorithms and deep learning frameworks, with strong knowledge of cloud-based infrastructure and containerization tools.
+
+**Technical Skills**
+
+* Strong programming skills in Python, C++, and Java
+* Experience with TensorFlow, PyTorch, and Keras
+* Familiarity with AWS, Azure, and Google Cloud Platform
+* Knowledge of containerization tools (e.g. Docker) and orchestration frameworks (e.g. Kubernetes)
+* Excellent problem-solving skills and attention to detail
+
+**Experience**
+
+AI Systems Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed AI systems for various clients across industries
+* Collaborated with cross-functional teams to identify and prioritize project needs
+* Developed and maintained technical documentation and knowledge bases
+* Participated in code reviews and contributed to the improvement of our development processes
+
+**Education**
+
+Bachelor's degree in Computer Science, XYZ University (2015-2019)
+
+Note: The candidate did not mention working on high-level projects or leading teams, which are higher-scope requirements mentioned in the job description.

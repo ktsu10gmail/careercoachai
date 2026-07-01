@@ -1,0 +1,160 @@
+{
+  "job_title": "IT Managers",
+  "case_slug": "it-managers-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.222774",
+  "match_score": 65.46,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 49.6,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.",
+        "\"Results-driven IT professional with 8+ years of experience in managing infrastructure and systems.",
+        "Developed and implemented comprehensive IT strategies to support business objectives",
+        "Managed a team of 5 IT professionals, but did not have direct supervisory responsibilities for more than 2 people at any given time."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "senior",
+        "designed",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 53.0,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in cloud computing, cybersecurity, and network architecture.",
+        "Conducted regular risk assessments and vulnerability testing, but did not identify and prioritize IT projects and initiatives in collaboration with cross-functional teams.",
+        "\"Results-driven IT professional with 8+ years of experience in managing infrastructure and systems."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.",
+        "\"Results-driven IT professional with 8+ years of experience in managing infrastructure and systems.",
+        "Developed and implemented comprehensive IT strategies to support business objectives",
+        "Managed a team of 5 IT professionals, but did not have direct supervisory responsibilities for more than 2 people at any given time."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement comprehensive IT strategies to support business objectives",
+      "evidence": [
+        "Developed and implemented comprehensive IT strategies to support business objectives"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, implement, and maintain infrastructure and systems, including network architecture, cloud computing, and cybersecurity measures",
+      "evidence": [
+        "Skilled in cloud computing, cybersecurity, and network architecture."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully leading teams and managing projects",
+      "evidence": [
+        "Proven track record of successfully leading teams and delivering projects on time."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of cloud computing, cybersecurity, and network architecture",
+      "evidence": [
+        "Skilled in cloud computing, cybersecurity, and network architecture."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and manage budgets for IT projects and initiatives",
+      "evidence": [
+        "Proven track record of successfully leading teams and delivering projects on time."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with emerging technologies and trends in the industry",
+      "evidence": [
+        "Stayed up-to-date with emerging technologies and trends in the industry through online courses and webinars, rather than attending industry conferences or workshops."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for ensuring the reliability, security, and performance of our technology platforms.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and oversee a team of IT professionals, providing guidance and mentorship as needed",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed a team of 5 IT professionals, but did not have direct supervisory responsibilities for more than 2 people at any given time.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular risk assessments and vulnerability testing to ensure the security of our technology platforms",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted regular risk assessments and vulnerability testing, but did not identify and prioritize IT projects and initiatives in collaboration with cross-functional teams.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.",
+      "supports": "Job ID:** 123456"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven IT professional with 8+ years of experience in managing infrastructure and systems.",
+      "supports": "Benefits:** Comprehensive health insurance, retirement plan, paid time off, and professional development opportunities."
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully implemented a new cloud infrastructure, but did not design or implement the entire system from scratch as required by the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive IT strategies to support business objectives",
+      "supports": "Develop and implement comprehensive IT strategies to support business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed a team of 5 IT professionals, but did not have direct supervisory responsibilities for more than 2 people at any given time.",
+      "supports": "Manage and oversee a team of IT professionals, providing guidance and mentorship as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

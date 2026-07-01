@@ -1,0 +1,8 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"Data Entry Clerk
+- Utilized Excel 2016 to track inventory discrepancies, resulting in a 2% reduction in errors.
+- Implemented a basic database using Access 2007 to store customer information, with a 30% increase in data retrieval efficiency.
+- Developed a simple script using Visual Basic 6.0 to automate data entry tasks, saving 1 hour of manual labor per day.
+
+Skills: Microsoft Office Suite (Excel, Access, Word), Basic Database Management, Scripting (VB6)"

@@ -1,0 +1,151 @@
+{
+  "job_title": "Massage Therapists",
+  "case_slug": "massage-therapists-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:04.873151",
+  "match_score": 38.78,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 25.0,
+      "reason": "Found 0 direct, 10 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Participate in continuing education workshops or conferences to stay current on industry developments",
+        "However, I did not:",
+        "3+ years of experience in massage therapy, with a focus on stress relief and relaxation techniques",
+        "Develop or implement comprehensive treatment plans for clients with complex medical conditions"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 23.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "However, I did not:",
+        "Conduct research on the latest advancements in massage therapy techniques and technologies",
+        "Strong understanding of anatomy and physiology relevant to massage therapy"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 82.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Participate in continuing education workshops or conferences to stay current on industry developments",
+        "However, I did not:",
+        "3+ years of experience in massage therapy, with a focus on stress relief and relaxation techniques",
+        "Develop or implement comprehensive treatment plans for clients with complex medical conditions"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 2 weeks per year)",
+      "evidence": [
+        "Participate in continuing education workshops or conferences to stay current on industry developments"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "evidence": [
+        "3+ years of experience in massage therapy, with a focus on stress relief and relaxation techniques"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "evidence": [
+        "3+ years of experience in massage therapy, with a focus on stress relief and relaxation techniques"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "Develop or implement comprehensive treatment plans for clients with complex medical conditions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies and recommendations",
+      "evidence": [
+        "Conduct research on the latest advancements in massage therapy techniques and technologies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of the scoring engine's architecture and design",
+      "evidence": [
+        "Participate in continuing education workshops or conferences to stay current on industry developments"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Participate in continuing education workshops or conferences to stay current on industry developments",
+      "supports": "Travel: Occasional travel to industry conferences and training events (up to 2 weeks per year)"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not:",
+      "supports": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in massage therapy, with a focus on stress relief and relaxation techniques",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in massage therapy, with a focus on stress relief and relaxation techniques",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop or implement comprehensive treatment plans for clients with complex medical conditions",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

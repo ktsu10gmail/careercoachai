@@ -1,0 +1,196 @@
+Functional Specification Document: Career Coaching AI SaaS Platform
+
+1. Executive System Summary
+
+The Career Coaching AI is a specialized Automated Mediator and Pre-Screening Accelerator engineered to optimize the transition from high-volume applicant data to high-stakes human decision-making. By transforming labor-intensive early-stage screening into a standardized, data-driven workflow, the platform enables recruitment stakeholders to bypass manual "resume overload."
+
+The system is architected to achieve three primary strategic goals:
+
+* Efficiency: Drastically reduces manual screening cycles for HR by delivering a ranked list of top-tier talent based on objective, multi-vector metrics.
+* Standardization: Mitigates hiring bias by enforcing a "level playing field" where every applicant for a specific role is evaluated against identical parameters.
+* Experience: Minimizes candidate friction and drop-off through a streamlined, "single session" engagement model for document submission and assessment.
+
+
+--------------------------------------------------------------------------------
+
+
+2. System Architecture & Relational Database Schema
+
+The Career Coaching AI utilizes a centralized architecture where the Job Opening entity serves as the relational anchor. All routing logic is driven by the job_url, which acts as the unique entry point for candidate data and dictates the static question set associated with the recruitment drive.
+
+2.1 Users Table
+
+Field	Type	Description
+user_id	Primary Key	Unique identifier.
+name	String	Full name.
+email	String	Unique login/notification address.
+password	String	Encrypted credentials.
+role	Enum	HR, Applicant, Hiring_Manager, IT_Admin.
+title	String	(Optional) Job title for HR/HM profiles.
+department	String	(Optional) Department for routing logic.
+phone	String	(Optional) Contact number for HMs.
+
+2.2 Jobs Table
+
+Field	Type	Description
+job_id	Primary Key	Unique identifier.
+hr_id	Foreign Key	Link to the initiating HR Admin.
+title	String	Official job title.
+position	String	Level/Department.
+job_description	Text	Source text for AI question generation.
+salary_range	String	Optional compensation data.
+job_url	String (Unique)	System-generated URL for routing logic.
+
+2.3 Questions Table
+
+Field	Type	Description
+question_id	Primary Key	Unique identifier.
+job_id	Foreign Key	Link to the associated Job Opening.
+question_text	Text	AI-generated question text.
+category	Enum	Hard Skill / Soft Skill.
+
+2.4 Applications Table
+
+Field	Type	Description
+application_id	Primary Key	Unique identifier.
+job_id	Foreign Key	Link to the associated Job Opening.
+applicant_id	Foreign Key	Link to the Applicant user.
+resume_path	String	Pointer to downloadable file storage.
+matching_score	Decimal(5,2)	AI-calculated Resume-to-JD relevance.
+answer_score	Decimal(5,2)	AI-calculated assessment score.
+status	Enum	Submitted, Pre-qualified, Hired, Rejected.
+
+2.5 Answers Table
+
+Field	Type	Description
+answer_id	Primary Key	Unique identifier.
+application_id	Foreign Key	Link to the specific submission.
+question_id	Foreign Key	Link to the static question.
+answer_text	Text	Full text of the applicant's response.
+
+2.6 Interviews & Evaluations Table
+
+Field	Type	Description
+interview_id	Primary Key	Unique identifier.
+application_id	Foreign Key	Link to the application.
+hiring_manager_id	Foreign Key	Link to the assigned Hiring Manager.
+schedule_time	DateTime	Scheduled face-to-face interview time.
+manager_comment	Text	Qualitative post-interview feedback.
+final_verdict	Enum	Hire or Reject.
+
+
+--------------------------------------------------------------------------------
+
+
+3. AI Evaluation & Scoring Engine Logic
+
+Principle: Holistic Evidence-Based Scoring
+The Intelligence Engine shall move beyond simple keyword matching to identify high-potential talent. It must derive competency metrics from detailed project descriptions in resumes and measure ethical alignment through standardized textual responses.
+
+3.1 Standardized Assessment Logic
+
+To ensure comparative validity, the AI generates a fixed assessment set upon JD submission. Once the job_url is generated, these questions become static for that specific recruitment drive.
+
+* The 10/10 Split: The default configuration generates 10 Hard Skill questions (derived from JD requirements) and 10 Soft Skill questions (derived from company ethics/principles).
+* Tunability: HR Administrators shall have the authority to adjust the total question count and the ratio between Hard/Soft skill questions prior to URL activation.
+
+3.2 Resume-to-JD Matching Requirements
+
+The engine must perform deep technical analysis of the uploaded resume:
+
+* Experience Depth: The engine SHALL parse chronological data and date ranges to calculate the total years of experience per identified skill tag.
+* Achievements: The engine SHALL utilize Natural Language Processing (NLP) to identify and extract outcome-based achievements (e.g., "reduced latency by 20%") from project descriptions.
+
+3.3 Weighted Answer Scoring Formula
+
+The system synthesizes the results of the 20-question assessment using the following established logic: Final Answer Score = (Hard Skill Avg × 0.70) + (Soft Skill Avg × 0.30) Note: Weights (0.70/0.30) are tunable variables within the HR Administrator dashboard.
+
+
+--------------------------------------------------------------------------------
+
+
+4. User Role Specifications & UI Components
+
+4.1 Applicant Portal
+
+* Workflow: Optimized "Single Session" experience.
+* UI Components:
+  * Secure Login: Gateway reached via the unique Job URL.
+  * Resume Upload: Drag-and-drop interface for document parsing.
+  * Assessment Interface: Sequential, non-backtrackable display of the assessment questions.
+
+4.2 HR Administrator Dashboard
+
+* Workflow: Sovereign administrative control and talent gatekeeping.
+* UI Components:
+  * JD Input Form: Text inputs for core job data and source JD.
+  * Tuning Interface: UI fields to modify assessment_total_count, hard_skill_ratio, and soft_skill_ratio.
+  * Ranked List View: Sortable dashboard displaying candidates by matching_score and answer_score.
+  * Pre-qualification Toggle: Trigger to advance candidates and assign Hiring Managers.
+  * Interview Scheduler: Tool for setting F2F times.
+
+4.3 Hiring Manager Dossier
+
+* Workflow: "One-Click Access" to synthesized candidate evidence.
+* The Dossier View: A singular, consolidated screen presenting:
+  * Downloadable resume link.
+  * Resume-to-JD analysis (Experience depth and Achievements).
+  * Weighted Answer Scores (visualized against role benchmarks).
+  * Full-text candidate responses for review.
+  * Verdict Input: Mandatory text area for commentary and Hire/Reject radio buttons.
+
+4.4 IT Administrator Backoffice
+
+* Workflow: Infrastructure maintenance and global configuration.
+* UI Components:
+  * SMTP Configuration: Fields for Host, Port, and Encrypted Credentials.
+  * Global Variable Tuning: Interface to adjust system-wide default weights (e.g., default_hard_skill_weight).
+
+
+--------------------------------------------------------------------------------
+
+
+5. Security Protocols & Administrative Governance
+
+5.1 Role-Based Access Control (RBAC) Matrix
+
+Feature/Data Type	IT Administrator	HR Administrator	Hiring Manager
+SMTP / Infrastructure	Full Access	Full Access	No Access
+Global Tuning Variables	Full Access	Full Access	No Access
+Candidate Resumes	Programmatically Barred	Full Access	Assigned Only
+Candidate Scores	Programmatically Barred	Full Access	Assigned Only
+Final Verdicts	No Access	Full Access	Assigned Only
+
+5.2 Data Siloing
+
+The system architecture SHALL enforce programmatic separation of talent data. Access tokens for recruitment data tables (Applications, Answers, Interviews) are strictly issued to sessions with HR_Admin or Hiring_Manager roles. IT_Admin tokens are restricted to system configuration and metadata tables.
+
+5.3 Supervised Troubleshooting Protocol (Directive)
+
+IT staff SHALL NOT access recruitment data independently. The following directive is strictly enforced:
+
+1. Access Granting: IT staff MUST be granted temporary, time-bound access through an HR Admin.
+2. Mandatory Supervision: All maintenance involving tables containing candidate data SHALL be performed under the direct, real-time supervision of an HR Admin.
+3. Logging and Auditing: Every supervised session MUST be logged, detailing the HR Admin providing oversight and the specific data fields accessed.
+
+
+--------------------------------------------------------------------------------
+
+
+6. Automated Communication Infrastructure
+
+The system utilizes automated triggers to facilitate the recruitment lifecycle:
+
+* Trigger 1: HR Submits Job Description -> Action: Generate Unique Job URL -> Recipient: HR Administrator.
+* Trigger 2: HR Marks Candidate "Pre-qualified" -> Action: Send Interview Notification & Dossier Access Link -> Recipient: Assigned Hiring Manager.
+* Trigger 3: Hiring Manager Records Final Verdict -> Action: Notify of Verdict and Mandatory Commentary for review -> Recipient: HR Administrator.
+
+
+--------------------------------------------------------------------------------
+
+
+7. Constraints and Forbidden Elements
+
+* Markdown Compliance: All system documentation and outputs must be strictly Markdown-compliant.
+* Rendering Limits: The system SHALL NOT generate non-renderable formats, interactive flowcharts, or external code blocks.
+* Architectural Integrity: All system logic must derive from the centralized relational schema to ensure B2B scalability and data consistency.

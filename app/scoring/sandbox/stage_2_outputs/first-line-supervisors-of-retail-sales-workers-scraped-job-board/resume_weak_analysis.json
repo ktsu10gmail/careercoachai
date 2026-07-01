@@ -1,0 +1,149 @@
+{
+  "job_title": "First-Line Supervisors of Retail Sales Workers",
+  "case_slug": "first-line-supervisors-of-retail-sales-workers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.614694",
+  "match_score": 51.56,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 29.3,
+      "reason": "Found 0 direct, 10 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Retail Sales Floor Supervisor",
+        "Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations.",
+        "+ Collaborated with **Store Manager** to develop and implement sales strategies."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 92.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years",
+        "lead",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 84.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Retail Sales Floor Supervisor",
+        "Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations.",
+        "+ Collaborated with **Store Manager** to develop and implement sales strategies."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement sales strategies to meet or exceed store performance targets",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of retail management experience",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "First-Line Supervisors of Retail Sales Workers**",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Company:** [Retail Inc.] (4.2/5 stars, 1,200+ reviews)",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our management team, you'll be responsible for coaching, training, and developing your team members to achieve sales goals and provide exceptional customer exper",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Lead and manage a team of retail sales workers, providing guidance, support, and feedback",
+      "evidence": [
+        "Retail Sales Floor Supervisor"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 12345",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment and adapt to changing priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Retail Sales Floor Supervisor",
+      "supports": "First-Line Supervisors of Retail Sales Workers**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations.",
+      "supports": "Job ID:** 12345"
+    },
+    {
+      "source": "resume",
+      "quote": "Retail Sales Floor Supervisor",
+      "supports": "Company:** [Retail Inc.] (4.2/5 stars, 1,200+ reviews)"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Retail Sales Floor Supervisor",
+      "supports": "As a key member of our management team, you'll be responsible for coaching, training, and developing your team members to achieve sales goals and provide exceptional customer exper"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

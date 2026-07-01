@@ -1,0 +1,170 @@
+{
+  "job_title": "Financial Managers",
+  "case_slug": "financial-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.746208",
+  "match_score": 46.1,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.4,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and implemented financial plans for individual clients, including budgeting and cash flow management (although I did not have the opportunity to work on forecasting due to limited resources)",
+        "Analyzed financial data to identify trends and opportunities for improvement, but did not have experience with risk management",
+        "Managed client accounts, ensuring compliance with regulatory requirements, although I did not have direct access to operations teams",
+        "Proven track record of developing comprehensive financial plans and providing actionable recommendations to clients."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 25.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed financial data to identify trends and opportunities for improvement, but did not have experience with risk management",
+        "Managed client accounts, ensuring compliance with regulatory requirements, although I did not have direct access to operations teams",
+        "Bachelor's degree in finance, accounting, or related field;"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 61.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and implemented financial plans for individual clients, including budgeting and cash flow management (although I did not have the opportunity to work on forecasting due to limited resources)",
+        "Analyzed financial data to identify trends and opportunities for improvement, but did not have experience with risk management",
+        "Managed client accounts, ensuring compliance with regulatory requirements, although I did not have direct access to operations teams",
+        "Proven track record of developing comprehensive financial plans and providing actionable recommendations to clients."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in finance, accounting, or related field;",
+      "evidence": [
+        "Bachelor's degree in finance, accounting, or related field;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with clients and internal stakeholders",
+      "evidence": [
+        "Collaborated with internal stakeholders to align financial strategies with business objectives, but primarily focused on client-facing work"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with key stakeholders, including clients, vendors, and partners",
+      "evidence": [
+        "Proven track record of developing comprehensive financial plans and providing actionable recommendations to clients."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Professional certification (e.g.",
+      "evidence": [
+        "\"Results-driven financial professional with 5+ years of experience in financial analysis and planning."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive financial plans for individual clients, including budgeting, forecasting, and cash flow management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and implemented financial plans for individual clients, including budgeting and cash flow management (although I did not have the opportunity to work on forecasting due to limited resources)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Analyzed financial data to identify trends and opportunities for improvement, but did not have experience with risk management",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and monitor client accounts, ensuring compliance with regulatory requirements and maintaining accurate records",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed client accounts, ensuring compliance with regulatory requirements, although I did not have direct access to operations teams",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular financial reviews and provide guidance on financial planning and investment decisions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a financial analyst or manager",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in financial planning software (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excel, Financial Planning & Analysis tools)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong organizational and time management skills, with ability to prioritize multiple tasks and meet deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working with investment products and services (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and implemented financial plans for individual clients, including budgeting and cash flow management (although I did not have the opportunity to work on forecasting due to limited resources)",
+      "supports": "Develop, implement, and maintain comprehensive financial plans for individual clients, including budgeting, forecasting, and cash flow management"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed financial data to identify trends and opportunities for improvement, but did not have experience with risk management",
+      "supports": "Analyze financial data to identify trends, risks, and opportunities for improvement, providing actionable recommendations to clients"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed client accounts, ensuring compliance with regulatory requirements, although I did not have direct access to operations teams",
+      "supports": "Manage and monitor client accounts, ensuring compliance with regulatory requirements and maintaining accurate records"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing comprehensive financial plans and providing actionable recommendations to clients.",
+      "supports": "Develop and maintain relationships with key stakeholders, including clients, vendors, and partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in finance, accounting, or related field;",
+      "supports": "Bachelor's degree in finance, accounting, or related field;"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

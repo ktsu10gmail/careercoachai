@@ -1,0 +1,24 @@
+Here's a contra-evidence resume snippet for a Stress Test Engineer - Scoring Engine position:
+
+**Summary:**
+Highly motivated stress test engineer with 3+ years of experience in performance engineering and load testing. Proficient in Python, Java, and C++, with a strong understanding of computer systems, networking protocols, and database architectures.
+
+**Experience:**
+
+* **Stress Test Engineer**, ABC Company (2018-Present)
+ + Designed and executed comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis
+ + Collaborated with cross-functional teams to understand system requirements and identify test scenarios
+ + Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions
+
+**Skills:**
+
+* Programming languages: Python, Java, C++
+* Load testing tools: Apache JMeter
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (2015-2019)
+
+Note that this resume snippet does not mention the candidate's experience with automated testing scripts, code reviews, or participation in industry conferences, which are mentioned in the job description.

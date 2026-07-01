@@ -1,0 +1,130 @@
+{
+  "job_title": "39. Accountants and Auditors",
+  "case_slug": "39-accountants-and-auditors",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:49.277337",
+  "match_score": 75.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.2,
+      "reason": "Found 3 direct, 9 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management.",
+        "Skilled in preparing and reviewing financial statements, transactions, and accounting systems to identify errors or irregularities.",
+        "Collaborated with internal stakeholders to ensure accurate financial reporting and compliance with regulatory requirements, while providing expert advice on tax planning, budgeting, and forecasting.",
+        "Excellent analytical, problem-solving, and communication skills, with the ability to develop and implement effective accounting policies and procedures."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Certified Public Accountant (CPA) certification, [Certification Date]"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management.",
+        "Skilled in preparing and reviewing financial statements, transactions, and accounting systems to identify errors or irregularities.",
+        "Collaborated with internal stakeholders to ensure accurate financial reporting and compliance with regulatory requirements, while providing expert advice on tax planning, budgeting, and forecasting.",
+        "Certified Public Accountant (CPA) certification, [Certification Date]"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct audits of financial statements, transactions, and accounting systems to identify errors or irregularities",
+      "evidence": [
+        "Skilled in preparing and reviewing financial statements, transactions, and accounting systems to identify errors or irregularities."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide expert advice on tax planning, budgeting, and forecasting to clients and management",
+      "evidence": [
+        "Collaborated with internal stakeholders to ensure accurate financial reporting and compliance with regulatory requirements, while providing expert advice on tax planning, budgeting, and forecasting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent analytical, problem-solving, and communication skills",
+      "evidence": [
+        "Excellent analytical, problem-solving, and communication skills, with the ability to develop and implement effective accounting policies and procedures."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare, examine, and analyze financial records, accounts, and reports to ensure accuracy and compliance with laws and regulations",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop, implement, and maintain accounting policies, procedures, and controls",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct financial analysis and provide recommendations for process improvements and cost savings",
+      "evidence": [
+        "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management.",
+      "supports": "Prepare, examine, and analyze financial records, accounts, and reports to ensure accuracy and compliance with laws and regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in preparing and reviewing financial statements, transactions, and accounting systems to identify errors or irregularities.",
+      "supports": "Conduct audits of financial statements, transactions, and accounting systems to identify errors or irregularities"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with internal stakeholders to ensure accurate financial reporting and compliance with regulatory requirements, while providing expert advice on tax planning, budgeting, and forecasting.",
+      "supports": "Provide expert advice on tax planning, budgeting, and forecasting to clients and management"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management.",
+      "supports": "Develop, implement, and maintain accounting policies, procedures, and controls"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical professional with 3+ years of experience in public accounting, providing expert financial guidance to clients and management.",
+      "supports": "Conduct financial analysis and provide recommendations for process improvements and cost savings"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

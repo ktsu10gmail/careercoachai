@@ -1,0 +1,170 @@
+{
+  "job_title": "23. Customer Service Representatives",
+  "case_slug": "23-customer-service-representatives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.779474",
+  "match_score": 49.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.3,
+      "reason": "Found 5 direct, 0 adjacent, 1 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+        "Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+        "Processed customer orders and payments accurately, but fell short of meeting daily sales targets of $10,000 on several occasions",
+        "High school diploma, ABC High School (20XX-20XX)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 37.1,
+      "reason": "Found 5 direct, 0 adjacent, 1 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+        "Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+        "Processed customer orders and payments accurately, but fell short of meeting daily sales targets of $10,000 on several occasions",
+        "High school diploma, ABC High School (20XX-20XX)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 87.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+        "Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+        "Processed customer orders and payments accurately, but fell short of meeting daily sales targets of $10,000 on several occasions",
+        "High school diploma, ABC High School (20XX-20XX)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to customer inquiries via phone, email, and chat within a 4-hour response time frame",
+      "evidence": [
+        "Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process customer orders and payments accurately and efficiently, meeting daily sales targets of $10,000",
+      "evidence": [
+        "Processed customer orders and payments accurately, but fell short of meeting daily sales targets of $10,000 on several occasions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma, ABC High School (20XX-20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (Salesforce) and Microsoft Office Suite (Word, Excel, Outlook)",
+      "evidence": [
+        "Proficient in Microsoft Office Suite (Word, Excel, Outlook)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong attention to detail and organizational skills",
+      "evidence": [
+        "Strong attention to detail and organizational skills, but can be prone to errors at times\""
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Resolve customer complaints and issues in a timely and professional manner, escalating complex issues to senior team members as needed",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of customer interactions and order history using CRM software (Salesforce)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in regular team meetings and training sessions to stay up-to-date on product knowledge and industry trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of customer service experience preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working in the retail or e-commerce industry preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Knowledge of product knowledge and technical requirements for online shopping platforms",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: \"Customer Service Representative Candidate",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in customer service or sales preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Responded to customer inquiries via phone, email, and chat within a 2-hour response time frame",
+      "supports": "Respond to customer inquiries via phone, email, and chat within a 4-hour response time frame"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+      "supports": "Resolve customer complaints and issues in a timely and professional manner, escalating complex issues to senior team members as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Processed customer orders and payments accurately, but fell short of meeting daily sales targets of $10,000 on several occasions",
+      "supports": "Process customer orders and payments accurately and efficiently, meeting daily sales targets of $10,000"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with internal teams to resolve customer complaints, but did not participate in regular team meetings or training sessions as often as expected",
+      "supports": "Participate in regular team meetings and training sessions to stay up-to-date on product knowledge and industry trends"
+    },
+    {
+      "source": "resume",
+      "quote": "High school diploma, ABC High School (20XX-20XX)",
+      "supports": "High school diploma or equivalent required;"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,144 @@
+{
+  "job_title": "First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "first-line-supervisors-of-production-and-operating-workers-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:00.381155",
+  "match_score": 59.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.6,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+        "Summary:",
+        "Developed and maintained comprehensive knowledge of production systems, including hardware, software, and network infrastructure",
+        "Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "junior",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.0,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+        "Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation",
+        "Familiarity with Agile methodologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD) pipelines"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+        "Summary:",
+        "Developed and maintained comprehensive knowledge of production systems, including hardware, software, and network infrastructure",
+        "Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium",
+      "evidence": [
+        "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies in stress testing and performance engineering",
+      "evidence": [
+        "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile meth",
+      "evidence": [
+        "Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with containerization using Docker",
+      "evidence": [
+        "Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability models",
+      "evidence": [
+        "Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with DevOps tools such as Jenkins, Travis CI, or CircleCI",
+      "evidence": [
+        "Familiarity with Agile methodologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD) pipelines"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Familiarity with machine learning and artificial intelligence concepts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+      "supports": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter",
+      "supports": "Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

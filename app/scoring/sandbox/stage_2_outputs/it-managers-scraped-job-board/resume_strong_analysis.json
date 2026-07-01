@@ -1,0 +1,141 @@
+{
+  "job_title": "IT Managers",
+  "case_slug": "it-managers-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.262406",
+  "match_score": 80.98,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.1,
+      "reason": "Found 6 direct, 7 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms.",
+        "Summary:",
+        "Budgeting: Developed and managed budgets for IT projects and initiatives, ensuring alignment with business objectives.",
+        "Team management: Led teams of up to 20 IT professionals, providing guidance, mentorship, and coaching to ensure team success and growth."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years",
+        "manager",
+        "led",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 93.0,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms.",
+        "AWS Certified Cloud Practitioner, 2015",
+        "Cybersecurity: Conducted regular risk assessments and vulnerability testing, identifying and mitigating threats that compromised company data and systems.",
+        "Results-driven IT leader with 10+ years of experience in managing complex infrastructure and systems, driving business growth through strategic technology initiatives."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms.",
+        "Summary:",
+        "Budgeting: Developed and managed budgets for IT projects and initiatives, ensuring alignment with business objectives.",
+        "Team management: Led teams of up to 20 IT professionals, providing guidance, mentorship, and coaching to ensure team success and growth."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will be responsible for ensuring the reliability, security, and performance of our technology platforms.",
+      "evidence": [
+        "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive IT strategies to support business objectives",
+      "evidence": [
+        "Budgeting: Developed and managed budgets for IT projects and initiatives, ensuring alignment with business objectives."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, implement, and maintain infrastructure and systems, including network architecture, cloud computing, and cybersecurity measures",
+      "evidence": [
+        "AWS Certified Cloud Practitioner, 2015"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular risk assessments and vulnerability testing to ensure the security of our technology platforms",
+      "evidence": [
+        "Cybersecurity: Conducted regular risk assessments and vulnerability testing, identifying and mitigating threats that compromised company data and systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of successfully leading teams and managing projects",
+      "evidence": [
+        "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of cloud computing, cybersecurity, and network architecture",
+      "evidence": [
+        "Strong knowledge of cloud computing, cybersecurity, and network architecture"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms.",
+      "supports": "Benefits:** Comprehensive health insurance, retirement plan, paid time off, and professional development opportunities."
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully leading high-performing teams, delivering projects on time, and ensuring the reliability, security, and performance of technology platforms.",
+      "supports": "The successful candidate will be responsible for ensuring the reliability, security, and performance of our technology platforms."
+    },
+    {
+      "source": "resume",
+      "quote": "Budgeting: Developed and managed budgets for IT projects and initiatives, ensuring alignment with business objectives.",
+      "supports": "Develop and implement comprehensive IT strategies to support business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Team management: Led teams of up to 20 IT professionals, providing guidance, mentorship, and coaching to ensure team success and growth.",
+      "supports": "Manage and oversee a team of IT professionals, providing guidance and mentorship as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,165 @@
+{
+  "job_title": "Physical Therapists",
+  "case_slug": "physical-therapists-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.267639",
+  "match_score": 34.86,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.1,
+      "reason": "Found 0 direct, 5 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Here is a contra-evidence resume snippet for a Physical Therapist position: **Physical Therapist - Stress Test** * Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance",
+        "Physical Therapist - Stress Test",
+        "Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+        "Provided input on design improvements and feature enhancements, but only within the scope of existing scoring engine architecture and functionality, without exploring potential applications of machine learning algorithms."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Physical Therapist - Stress Test"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 39.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Here is a contra-evidence resume snippet for a Physical Therapist position: **Physical Therapist - Stress Test** * Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance",
+        "Physical Therapist - Stress Test",
+        "Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+        "Provided input on design improvements and feature enhancements, but only within the scope of existing scoring engine architecture and functionality, without exploring potential applications of machine learning algorithms."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our research and development team, you will play a critical role in evaluating the performance of our scoring engine under various stress conditions.",
+      "evidence": [
+        "Physical Therapist - Stress Test"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain detailed test plans and execution reports",
+      "evidence": [
+        "Physical Therapist - Stress Test"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide input on design improvements and feature enhancements",
+      "evidence": [
+        "Provided input on design improvements and feature enhancements, but only within the scope of existing scoring engine architecture and functionality, without exploring potential applications of machine learning algorithms."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in stress testing or performance evaluation",
+      "evidence": [
+        "Physical Therapist - Stress Test"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in test automation tools (e.g.",
+      "evidence": [
+        "Physical Therapist - Stress Test"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Physical Therapist - Stress Test**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here is a contra-evidence resume snippet for a Physical Therapist position: **Physical Therapist - Stress Test** * Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct thorough testing of the scoring engine using standardized test protocols",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues with the scoring engine's performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to reproduce and troubleshoot defects related to user interface issues, but was unable to contribute to resolving these problems due to limited experience with Agile development methodologies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Physical Therapy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine architecture and functionality",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Physical Therapy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Here is a contra-evidence resume snippet for a Physical Therapist position: **Physical Therapist - Stress Test** * Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issue",
+      "supports": "Physical Therapist - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "Physical Therapist - Stress Test",
+      "supports": "As a key member of our research and development team, you will play a critical role in evaluating the performance of our scoring engine under various stress conditions."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+      "supports": "Conduct thorough testing of the scoring engine using standardized test protocols"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.",
+      "supports": "Identify and report defects or issues with the scoring engine's performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Physical Therapist - Stress Test",
+      "supports": "Develop and maintain detailed test plans and execution reports"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

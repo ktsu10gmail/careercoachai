@@ -1,0 +1,167 @@
+{
+  "job_title": "First-Line Supervisors of Office and Administrative Support Workers",
+  "case_slug": "first-line-supervisors-of-office-and-administrative-support-workers-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:00.170758",
+  "match_score": 44.02,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.6,
+      "reason": "Found 1 direct, 6 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Fostered a positive work environment, promoting employee engagement, retention, and growth through regular feedback, recognition, and training opportunities.",
+        "Note: I've used realistic wording and avoided copying the job description as if it were candidate evidence.",
+        "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency.",
+        "Process improvement and implementation"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 93.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 10.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 76.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Fostered a positive work environment, promoting employee engagement, retention, and growth through regular feedback, recognition, and training opportunities.",
+        "Note: I've used realistic wording and avoided copying the job description as if it were candidate evidence.",
+        "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency.",
+        "Process improvement and implementation"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Note: I've used realistic wording and avoided copying the job description as if it were candidate evidence."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events",
+      "evidence": [
+        "+ Fostered a positive work environment, promoting employee engagement, retention, and growth through regular feedback, recognition, and training opportunities."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca",
+      "evidence": [
+        "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "evidence": [
+        "Process improvement and implementation"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance",
+      "evidence": [
+        "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain technical documentation for stress tests, including test scripts, data models, and results analysis",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: + Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system quality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of stress testing principles and methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Fostered a positive work environment, promoting employee engagement, retention, and growth through regular feedback, recognition, and training opportunities.",
+      "supports": "Travel: Occasional travel to industry conferences and training events"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've used realistic wording and avoided copying the job description as if it were candidate evidence.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency.",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca"
+    },
+    {
+      "source": "resume",
+      "quote": "Process improvement and implementation",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Supervised a team of 10 administrative support staff, providing guidance, coaching, and performance feedback to ensure exceptional customer service and operational efficiency.",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

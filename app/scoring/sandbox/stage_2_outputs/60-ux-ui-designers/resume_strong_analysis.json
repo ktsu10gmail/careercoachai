@@ -1,0 +1,139 @@
+{
+  "job_title": "60. UX/UI Designers",
+  "case_slug": "60-ux-ui-designers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:51.730222",
+  "match_score": 80.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.6,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Conducted user research, created personas, and developed user journeys to inform design decisions, resulting in a 20% increase in conversion rates.",
+        "+ Created wireframes, prototypes, and high-fidelity designs using Sketch, Figma, Adobe XD, and InVision, showcasing expertise in design tools and software.",
+        "+ Developed and maintained comprehensive design systems, style guides, and component libraries, reducing design iteration time by 50%.",
+        "Results-driven UX/UI Designer with 5+ years of experience in designing user-centered digital products, driving business growth through data-informed design decisions and collaboration with cross-functional teams."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "led"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.6,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Conducted user research, created personas, and developed user journeys to inform design decisions, resulting in a 20% increase in conversion rates.",
+        "+ Created wireframes, prototypes, and high-fidelity designs using Sketch, Figma, Adobe XD, and InVision, showcasing expertise in design tools and software.",
+        "+ Developed and maintained comprehensive design systems, style guides, and component libraries, reducing design iteration time by 50%.",
+        "Results-driven UX/UI Designer with 5+ years of experience in designing user-centered digital products, driving business growth through data-informed design decisions and collaboration with cross-functional teams."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Conducted user research, created personas, and developed user journeys to inform design decisions, resulting in a 20% increase in conversion rates.",
+        "+ Created wireframes, prototypes, and high-fidelity designs using Sketch, Figma, Adobe XD, and InVision, showcasing expertise in design tools and software.",
+        "+ Developed and maintained comprehensive design systems, style guides, and component libraries, reducing design iteration time by 50%.",
+        "Results-driven UX/UI Designer with 5+ years of experience in designing user-centered digital products, driving business growth through data-informed design decisions and collaboration with cross-functional teams."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct user research, create personas, and develop user journeys to inform design decisions",
+      "evidence": [
+        "+ Conducted user research, created personas, and developed user journeys to inform design decisions, resulting in a 20% increase in conversion rates."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision",
+      "evidence": [
+        "+ Created wireframes, prototypes, and high-fidelity designs using Sketch, Figma, Adobe XD, and InVision, showcasing expertise in design tools and software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain design systems, style guides, and component libraries",
+      "evidence": [
+        "+ Developed and maintained comprehensive design systems, style guides, and component libraries, reducing design iteration time by 50%."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in UX/UI design",
+      "evidence": [
+        "This resume snippet highlights the candidate's experience, skills, and achievements in UX/UI design, while also showcasing their expertise in design tools and software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong portfolio showcasing design process, user research, and design solutions",
+      "evidence": [
+        "+ Conducted user research, created personas, and developed user journeys to inform design decisions, resulting in a 20% increase in conversion rates."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in design tools such as Sketch, Figma, Adobe XD, and InVision",
+      "evidence": [
+        "+ Created wireframes, prototypes, and high-fidelity designs using Sketch, Figma, Adobe XD, and InVision, showcasing expertise in design tools and software."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Stay up-to-date with industry trends, best practices, and emerging technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Conducted user research, created personas, and developed user journeys to inform design decisions, resulting in a 20% increase in conversion rates.",
+      "supports": "Conduct user research, create personas, and develop user journeys to inform design decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Created wireframes, prototypes, and high-fidelity designs using Sketch, Figma, Adobe XD, and InVision, showcasing expertise in design tools and software.",
+      "supports": "Create wireframes, prototypes, and high-fidelity designs using tools such as Sketch, Figma, Adobe XD, and InVision"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained comprehensive design systems, style guides, and component libraries, reducing design iteration time by 50%.",
+      "supports": "Develop and maintain design systems, style guides, and component libraries"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven UX/UI Designer with 5+ years of experience in designing user-centered digital products, driving business growth through data-informed design decisions and collaboration with cross-functional teams.",
+      "supports": "Work with developers to ensure design is implemented correctly and meets usability standards"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with developers to ensure seamless implementation of designs, resulting in a 95% satisfaction rate from stakeholders.",
+      "supports": "Conduct usability testing and gather feedback from stakeholders to iterate on designs"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

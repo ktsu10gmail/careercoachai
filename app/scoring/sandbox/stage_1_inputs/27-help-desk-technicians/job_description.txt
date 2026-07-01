@@ -1,0 +1,23 @@
+Responsibilities:
+
+* Respond to and resolve technical issues via phone, email, and chat for a diverse customer base
+* Troubleshoot hardware and software problems using diagnostic tools such as HP ProCurve switches, Cisco routers, and Symantec antivirus software
+* Collaborate with internal teams, including IT management and engineering, to resolve complex technical issues
+* Document and track all technical issues and resolutions in the ticketing system
+* Provide training and support for new employees on company technology systems
+* Participate in regular team meetings and contribute to the development of knowledge base articles and troubleshooting guides
+
+Required Skills:
+
+* 1-2 years of experience as a help desk technician or similar role
+* Strong technical skills, including proficiency with Windows operating systems, Microsoft Office, and common network protocols
+* Excellent communication and problem-solving skills
+* Ability to work in a fast-paced environment and prioritize multiple tasks simultaneously
+* Basic knowledge of Linux operating systems and scripting languages (e.g. Bash, PowerShell)
+
+Preferred Skills:
+
+* Experience with IT service management tools such as ServiceNow or BMC Helix
+* Certification in CompTIA A+ or equivalent
+* Familiarity with cloud-based technologies such as AWS or Azure
+* Knowledge of cybersecurity principles and best practices

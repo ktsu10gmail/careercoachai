@@ -1,0 +1,149 @@
+{
+  "job_title": "53. Software Developers",
+  "case_slug": "53-software-developers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:50.832168",
+  "match_score": 71.77,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.3,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly experienced software developer with over 15 years of expertise in designing, developing, testing, and maintaining scalable applications using Java, Python, C#, and Agile methodologies.",
+        "Participated in code reviews and contributed to the improvement of overall coding standards",
+        "Technical Skills",
+        "Bachelor's degree in Computer Science, XYZ University (2005-2009)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "15 years",
+        "senior",
+        "led",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 58.8,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Led a team of software engineers to develop and deploy multiple cloud-based applications using AWS and Azure",
+        "Development frameworks: Experienced with Spring Boot, Django, and ASP.NET Core"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly experienced software developer with over 15 years of expertise in designing, developing, testing, and maintaining scalable applications using Java, Python, C#, and Agile methodologies.",
+        "Participated in code reviews and contributed to the improvement of overall coding standards",
+        "Technical Skills",
+        "Bachelor's degree in Computer Science, XYZ University (2005-2009)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design, develop, test, and maintain software applications for various industries using Java, Python, and C#",
+      "evidence": [
+        "Highly experienced software developer with over 15 years of expertise in designing, developing, testing, and maintaining scalable applications using Java, Python, C#, and Agile methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of the overall coding standards",
+      "evidence": [
+        "Participated in code reviews and contributed to the improvement of overall coding standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in software development",
+      "evidence": [
+        "Agile methodologies: Certified Scrum Master with experience in Kanban and Lean software development"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Java, Python, C#, and Agile methodologies",
+      "evidence": [
+        "Highly experienced software developer with over 15 years of expertise in designing, developing, testing, and maintaining scalable applications using Java, Python, C#, and Agile methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with version control systems (Git, SVN)",
+      "evidence": [
+        "Version control systems: Proficient in Git, SVN, and Mercurial"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based platforms (AWS, Azure, Google Cloud)",
+      "evidence": [
+        "Led a team of software engineers to develop and deploy multiple cloud-based applications using AWS and Azure"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Stay up-to-date with industry trends, new technologies, and emerging platforms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of data structures, algorithms, and software design patterns",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent problem-solving skills and attention to detail",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly experienced software developer with over 15 years of expertise in designing, developing, testing, and maintaining scalable applications using Java, Python, C#, and Agile methodologies.",
+      "supports": "Design, develop, test, and maintain software applications for various industries using Java, Python, and C#"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced software developer with over 15 years of expertise in designing, developing, testing, and maintaining scalable applications using Java, Python, C#, and Agile methodologies.",
+      "supports": "Develop and implement automated testing frameworks to ensure code quality and reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in code reviews and contributed to the improvement of overall coding standards",
+      "supports": "Participate in code reviews and contribute to the improvement of the overall coding standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Technical Skills",
+      "supports": "Troubleshoot and resolve complex technical issues in a timely manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science, XYZ University (2005-2009)",
+      "supports": "Bachelor's degree in Computer Science or related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

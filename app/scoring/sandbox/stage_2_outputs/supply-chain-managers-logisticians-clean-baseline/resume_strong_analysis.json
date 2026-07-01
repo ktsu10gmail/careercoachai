@@ -1,0 +1,150 @@
+{
+  "job_title": "Supply Chain Managers / Logisticians",
+  "case_slug": "supply-chain-managers-logisticians-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:10.358215",
+  "match_score": 61.83,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Logistics Professional",
+        "Developed and executed a strategic supply chain plan that aligned with business objectives, resulting in a 15% decrease in inventory levels and a 20% improvement in fill rates.",
+        "Spearheaded the implementation of a new transportation management system (TMS), resulting in a 25% reduction in shipping costs and a 30% increase in on-time delivery rates.",
+        "Collaborated with cross-functional teams to identify and mitigate supply chain risks, ensuring seamless communication and collaboration with suppliers, carriers, and other stakeholders."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analytical Tools: Excel, SQL, Tableau;"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Logistics Professional",
+        "Developed and executed a strategic supply chain plan that aligned with business objectives, resulting in a 15% decrease in inventory levels and a 20% improvement in fill rates.",
+        "Spearheaded the implementation of a new transportation management system (TMS), resulting in a 25% reduction in shipping costs and a 30% increase in on-time delivery rates.",
+        "Collaborated with cross-functional teams to identify and mitigate supply chain risks, ensuring seamless communication and collaboration with suppliers, carriers, and other stakeholders."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement supply chain strategies that align with business objectives",
+      "evidence": [
+        "Developed and executed a strategic supply chain plan that aligned with business objectives, resulting in a 15% decrease in inventory levels and a 20% improvement in fill rates."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain relationships with suppliers, carriers, and other stakeholders to ensure seamless communication and collaboration",
+      "evidence": [
+        "Collaborated with cross-functional teams to identify and mitigate supply chain risks, ensuring seamless communication and collaboration with suppliers, carriers, and other stakeholders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field",
+      "evidence": [
+        "Supply Chain Management: Demand planning, inventory management, transportation management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "evidence": [
+        "Supply Chain Management: Demand planning, inventory management, transportation management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of supply chain principles, including demand planning, inventory management, and transportation management",
+      "evidence": [
+        "Supply Chain Management: Demand planning, inventory management, transportation management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills, with ability to work effectively with cross-functional teams",
+      "evidence": [
+        "Strong communication and interpersonal skills, with ability to work effectively with cross-functional teams."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Supply Chain Manager/Logistician",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular reviews of supply chain performance data to identify areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Implement and enforce compliance with regulatory requirements and company policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Logistics Professional",
+      "supports": "As a key member of our logistics team, you will be responsible for ensuring the efficient and effective movement of goods, services, and information from raw materials to end custo"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed a strategic supply chain plan that aligned with business objectives, resulting in a 15% decrease in inventory levels and a 20% improvement in fill rates.",
+      "supports": "Develop and implement supply chain strategies that align with business objectives"
+    },
+    {
+      "source": "resume",
+      "quote": "Logistics Professional",
+      "supports": "Analyze and optimize logistics operations to improve efficiency and reduce costs"
+    },
+    {
+      "source": "resume",
+      "quote": "Spearheaded the implementation of a new transportation management system (TMS), resulting in a 25% reduction in shipping costs and a 30% increase in on-time delivery rates.",
+      "supports": "Manage and coordinate the transportation of goods, including arranging for shipments and tracking inventory levels"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to identify and mitigate supply chain risks, ensuring seamless communication and collaboration with suppliers, carriers, and other stakeholders.",
+      "supports": "Develop and maintain relationships with suppliers, carriers, and other stakeholders to ensure seamless communication and collaboration"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

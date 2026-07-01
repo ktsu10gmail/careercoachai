@@ -1,0 +1,147 @@
+{
+  "job_title": "Special Education Teachers",
+  "case_slug": "special-education-teachers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:10.010978",
+  "match_score": 48.93,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.8,
+      "reason": "Found 7 direct, 3 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)",
+        "Note: I've kept the resume realistic by mentioning relevant terms from the job description, but explicitly stated that the candidate did not perform certain higher-scope requirements.",
+        "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios (I'm not familiar with stress testing tools and frameworks like Apache JMeter or Gatling)",
+        "Analyze test results, identify trends, and provide recommendations for optimization and improvement (My expertise lies in education, not performance engineering)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)",
+        "Note: I've kept the resume realistic by mentioning relevant terms from the job description, but explicitly stated that the candidate did not perform certain higher-scope requirements.",
+        "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios (I'm not familiar with stress testing tools and frameworks like Apache JMeter or Gatling)",
+        "Analyze test results, identify trends, and provide recommendations for optimization and improvement (My expertise lies in education, not performance engineering)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure its reliability, performance, and scalabil",
+      "evidence": [
+        "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement",
+      "evidence": [
+        "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios",
+      "evidence": [
+        "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios (I'm not familiar with stress testing tools and frameworks like Apache JMeter or Gatling)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for optimization and improvement",
+      "evidence": [
+        "Analyze test results, identify trends, and provide recommendations for optimization and improvement (My expertise lies in education, not performance engineering)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test plans, and results",
+      "evidence": [
+        "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios (I'm not familiar with stress testing tools and frameworks like Apache JMeter or Gatling)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, engineering, or a related field",
+      "evidence": [
+        "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I've kept the resume realistic by mentioning relevant terms from the job description, but explicitly stated that the candidate did not perform certain higher-scope requirements.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, algorithms, and data structures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)",
+      "supports": "Job Title:** Scoring Engine Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've kept the resume realistic by mentioning relevant terms from the job description, but explicitly stated that the candidate did not perform certain higher-scope requirements.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure its reliability, performance, and scalabil"
+    },
+    {
+      "source": "resume",
+      "quote": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement (I don't have experience in software testing or engineering)",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios (I'm not familiar with stress testing tools and frameworks like Apache JMeter or Gatling)",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

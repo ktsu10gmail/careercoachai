@@ -1,0 +1,38 @@
+Home Health and Personal Care Aides
+
+Job Title: Stress Test Engineer
+
+Job Type: Full-time
+
+Location: [Insert Location]
+
+Job Description:
+
+We are seeking a highly skilled Stress Test Engineer to join our team. As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+Responsibilities:
+
+* Design and develop comprehensive stress test plans to identify and prioritize areas of improvement
+* Execute stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking
+* Analyze test results and provide detailed reports on findings and recommendations for improvement
+* Collaborate with cross-functional teams, including engineering, product management, and quality assurance to ensure alignment and effective communication
+* Develop and maintain test scripts, tools, and infrastructure to support stress testing efforts
+* Stay up-to-date with industry trends and emerging technologies to identify potential vulnerabilities and areas for improvement
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 3+ years of experience in software testing, quality assurance, or a related field
+* Strong understanding of computer systems, algorithms, and data structures
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with stress testing tools and frameworks, such as Apache JMeter or Gatling
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+Preferred Skills:
+
+* Master's degree in Computer Science, Engineering, or related field
+* 5+ years of experience in software testing, quality assurance, or a related field
+* Experience with cloud-based technologies, such as AWS or Azure
+* Knowledge of machine learning and artificial intelligence concepts
+* Certification in stress testing or performance engineering (e.g. ISTQB, CSTE)

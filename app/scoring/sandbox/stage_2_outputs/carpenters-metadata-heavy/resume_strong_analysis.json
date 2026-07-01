@@ -1,0 +1,167 @@
+{
+  "job_title": "Carpenters",
+  "case_slug": "carpenters-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.644985",
+  "match_score": 45.19,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 22.1,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of delivering high-quality projects on time and within budget.",
+        "The language used is also more conversational and less formal than what you might find in a traditional job description.",
+        "+ Supervised a team of carpenters, ensuring timely completion of tasks and high-quality workmanship",
+        "+ Developed strong problem-solving skills, resolving issues and finding creative solutions to complex problems"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Strong knowledge of construction methods, materials, and tools"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 76.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of delivering high-quality projects on time and within budget.",
+        "The language used is also more conversational and less formal than what you might find in a traditional job description.",
+        "+ Supervised a team of carpenters, ensuring timely completion of tasks and high-quality workmanship",
+        "+ Developed strong problem-solving skills, resolving issues and finding creative solutions to complex problems"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "The language used is also more conversational and less formal than what you might find in a traditional job description."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "evidence": [
+        "Proven track record of delivering high-quality projects on time and within budget."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel",
+      "evidence": [
+        "+ Supervised a team of carpenters, ensuring timely completion of tasks and high-quality workmanship"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Developed strong problem-solving skills, resolving issues and finding creative solutions to complex problems"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Utilize industry-standard tools and techniques to simulate various types of loads (e.g., concurrent requests, data ingestion, query patterns) on the scoring engine",
+      "evidence": [
+        "Strong knowledge of construction methods, materials, and tools"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field (e.g., software development, systems administration)",
+      "evidence": [
+        "Highly skilled and experienced Carpenter with 8+ years of experience in construction management, project coordination, and team leadership."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture, components, and interactions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for performance optimization and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain automated testing frameworks to support ongoing testing efforts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architectures, component interactions, and data ingestion pipelines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of delivering high-quality projects on time and within budget.",
+      "supports": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "The language used is also more conversational and less formal than what you might find in a traditional job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Supervised a team of carpenters, ensuring timely completion of tasks and high-quality workmanship",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress testing scenarios for our scoring engine, ensuring its rel"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed strong problem-solving skills, resolving issues and finding creative solutions to complex problems",
+      "supports": "Design and execute complex stress testing scenarios to identify performance bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong knowledge of construction methods, materials, and tools",
+      "supports": "Utilize industry-standard tools and techniques to simulate various types of loads (e.g., concurrent requests, data ingestion, query patterns) on the scoring engine"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

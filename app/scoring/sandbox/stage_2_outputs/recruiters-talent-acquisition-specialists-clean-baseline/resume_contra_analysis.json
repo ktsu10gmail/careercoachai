@@ -1,0 +1,168 @@
+{
+  "job_title": "Recruiters / Talent Acquisition Specialists",
+  "case_slug": "recruiters-talent-acquisition-specialists-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.023160",
+  "match_score": 54.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 26.1,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note that this resume snippet highlights some relevant skills and experience, but also includes explicit statements that contradict the job description.",
+        "Designed and developed comprehensive stress test scenarios to simulate real-world usage patterns, with a focus on identifying performance bottlenecks in our scoring engine.",
+        "Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+        "Analyzed test results, identified performance bottlenecks, and provided recommendations for optimization, although these recommendations were not always implemented by the development team."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed test results, identified performance bottlenecks, and provided recommendations for optimization, although these recommendations were not always implemented by the development team."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 68.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note that this resume snippet highlights some relevant skills and experience, but also includes explicit statements that contradict the job description.",
+        "Designed and developed comprehensive stress test scenarios to simulate real-world usage patterns, with a focus on identifying performance bottlenecks in our scoring engine.",
+        "Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+        "Analyzed test results, identified performance bottlenecks, and provided recommendations for optimization, although these recommendations were not always implemented by the development team."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and develop comprehensive stress test scenarios to simulate real-world usage patterns",
+      "evidence": [
+        "Designed and developed comprehensive stress test scenarios to simulate real-world usage patterns, with a focus on identifying performance bottlenecks in our scoring engine."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of test results, including data analysis and visualization",
+      "evidence": [
+        "Analyzed test results, identified performance bottlenecks, and provided recommendations for optimization, although these recommendations were not always implemented by the development team."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Note that this resume snippet highlights some relevant skills and experience, but also includes explicit statements that contradict the job description."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and software architecture",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team of engineers responsible for designing, developing, and testing high-performance systems.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for creating realistic stress tests to identify performance bottlenecks in our scoring engine, ensuring it can handle large volum",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and execute automated testing scripts using various programming languages (e.g., Python, Java)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify performance bottlenecks, and provide recommendations for optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, C++, or C#",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with automated testing frameworks (e.g., Pytest, JUnit)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet highlights some relevant skills and experience, but also includes explicit statements that contradict the job description.",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress test scenarios to simulate real-world usage patterns, with a focus on identifying performance bottlenecks in our scoring engine.",
+      "supports": "Design and develop comprehensive stress test scenarios to simulate real-world usage patterns"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+      "supports": "Develop and execute automated testing scripts using various programming languages (e.g., Python, Java)"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed test results, identified performance bottlenecks, and provided recommendations for optimization, although these recommendations were not always implemented by the development team.",
+      "supports": "Maintain accurate records of test results, including data analysis and visualization"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and executed automated testing scripts using various programming languages (e.g., Python), but struggled to optimize script performance and instead relied on manual testing for optimization.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

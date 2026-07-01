@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet for a Graphic Designer position:
+
+**John Doe**
+**Graphic Designer**
+
+With 5+ years of experience in graphic design, I've honed my skills in creating visually appealing designs using Adobe Creative Suite (Photoshop, Illustrator, InDesign). My expertise lies in branding and marketing materials, with a focus on print and digital formats. I'm well-versed in color theory, typography, and composition.
+
+**Technical Skills:**
+
+* Proficient in Adobe Creative Suite
+* Familiarity with HTML and CSS for basic web design
+
+**Experience:**
+
+* Freelance Graphic Designer (2018-Present)
+	+ Created graphics, logos, and visual elements for clients across various industries
+	+ Developed a consistent design style for personal projects and client work
+* Design Intern, XYZ Corporation (Summer 2015)
+	+ Assisted in creating marketing materials and branding assets
+
+**Education:**
+
+* Bachelor of Fine Arts in Graphic Design, ABC University (2015)
+
+This resume snippet lacks the scope-mismatch characteristic by:
+
+1. Not mentioning UI/UX design principles or web development experience.
+2. Focusing solely on graphic design skills without highlighting any specific industry expertise.
+3. Lacking a portfolio section to showcase design expertise.
+
+The adjacent low-level tools mentioned in the job description (HTML, CSS) are not explicitly listed as technical skills, but rather as familiarity with coding languages for basic web design.

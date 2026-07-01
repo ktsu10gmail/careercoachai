@@ -1,0 +1,144 @@
+{
+  "job_title": "74. Videographers / Broadcast Technicians",
+  "case_slug": "74-videographers-broadcast-technicians",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.128657",
+  "match_score": 63.75,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 55.0,
+      "reason": "Found 5 direct, 6 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also doesn't mention any experience with 4K or high-frame-rate camera systems, robotic camera systems, live streaming, or social media production, which are preferred skills for the job.",
+        "Strong understanding of lighting and sound principles for live events.",
+        "This resume snippet lacks the required skills and experience for a broadcast technician position, such as multi-camera setups, switcher operation, and video editing software proficiency.",
+        "\"Experienced videographer with 5+ years of experience in capturing high-quality video footage for corporate events, weddings, and music videos."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "This resume snippet lacks the required skills and experience for a broadcast technician position, such as multi-camera setups, switcher operation, and video editing software proficiency."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also doesn't mention any experience with 4K or high-frame-rate camera systems, robotic camera systems, live streaming, or social media production, which are preferred skills for the job.",
+        "Strong understanding of lighting and sound principles for live events.",
+        "This resume snippet lacks the required skills and experience for a broadcast technician position, such as multi-camera setups, switcher operation, and video editing software proficiency.",
+        "\"Experienced videographer with 5+ years of experience in capturing high-quality video footage for corporate events, weddings, and music videos."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras",
+      "evidence": [
+        "It also doesn't mention any experience with 4K or high-frame-rate camera systems, robotic camera systems, live streaming, or social media production, which are preferred skills for the job."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in operating HD cameras, Steadicams, and drone-mounted cameras",
+      "evidence": [
+        "Proficient in operating HD cameras, Steadicams, and drone-mounted cameras."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of lighting and sound principles for live broadcasts",
+      "evidence": [
+        "Strong understanding of lighting and sound principles for live events."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Avid, Adobe Premiere)",
+      "evidence": [
+        "Familiarity with Adobe Premiere and Final Cut Pro."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with 4K or high-frame-rate camera systems",
+      "evidence": [
+        "It also doesn't mention any experience with 4K or high-frame-rate camera systems, robotic camera systems, live streaming, or social media production, which are preferred skills for the job."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with video editing software (e.g.",
+      "evidence": [
+        "\"Experienced videographer with 5+ years of experience in capturing high-quality video footage for corporate events, weddings, and music videos."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Capture high-quality video footage for broadcast television, including live events, news segments, and studio productions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a videographer or broadcast technician",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with multi-camera setups and switcher operation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for a broadcast technician position, such as multi-camera setups, switcher operation, and video editing software proficiency.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also doesn't mention any experience with 4K or high-frame-rate camera systems, robotic camera systems, live streaming, or social media production, which are preferred skills for the job.",
+      "supports": "Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of lighting and sound principles for live events.",
+      "supports": "Set up and maintain camera equipment, lighting, and sound systems for live broadcasts and pre-recorded content"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of lighting and sound principles for live events.",
+      "supports": "Troubleshoot technical issues during live broadcasts and resolve problems quickly"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required skills and experience for a broadcast technician position, such as multi-camera setups, switcher operation, and video editing software proficiency.",
+      "supports": "Maintain accurate records of shot lists, camera settings, and other production data"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Experienced videographer with 5+ years of experience in capturing high-quality video footage for corporate events, weddings, and music videos.",
+      "supports": "Participate in post-production review and editing of footage as needed"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

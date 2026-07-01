@@ -1,0 +1,165 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer-real-jd-6ccbd32db0",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-07-01T00:49:46.052708",
+  "match_score": 54.65,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.4,
+      "reason": "Found 3 direct, 4 adjacent, 2 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs.",
+        "5-8+ years of experience in systems automation, internal tools, or process/data engineering",
+        "Overall, this resume snippet is weak because it lacks the required skills, experience, behaviors, and competencies mentioned in the job description.",
+        "Familiarity with orchestration platforms and LLM applications"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 55.8,
+      "reason": "Found 3 direct, 1 adjacent, 2 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "5-8+ years of experience in systems automation, internal tools, or process/data engineering",
+        "Familiarity with orchestration platforms and LLM applications"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs.",
+        "5-8+ years of experience in systems automation, internal tools, or process/data engineering",
+        "Overall, this resume snippet is weak because it lacks the required skills, experience, behaviors, and competencies mentioned in the job description.",
+        "Familiarity with orchestration platforms and LLM applications"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As the AI Engineer at Kargo, you will architect, build, and scale AI-powered products and automations for Kargo\u2019s commercial organization.",
+      "evidence": [
+        "Familiarity with orchestration platforms and LLM applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operating within the Data & AI team, you are the connective tissue between revenue teams and AI infrastructure \u2014 proactively identifying high-value use cases, building intelligent ",
+      "evidence": [
+        "Familiarity with orchestration platforms and LLM applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "You\u2019ve established yourself as Kargo\u2019s internal thought leader on applied AI \u2014 the person teams come to when they have a problem AI might solve",
+      "evidence": [
+        "Familiarity with orchestration platforms and LLM applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Techies who want to build the future.",
+      "evidence": [
+        "Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Collaborators to build it.",
+      "evidence": [
+        "Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Data pros who turn numbers into insights.",
+      "evidence": [
+        "5-8+ years of experience in systems automation, internal tools, or process/data engineering"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Creatives who want to design it better.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicators to win business.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Product builders who turn ideas into innovations.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Anyone eager to be on a team that doesn\u2019t stop to ask what\u2019s next, because they\u2019re already building it.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Overall, this resume snippet is weak because it lacks the required skills, experience, behaviors, and competencies mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "This is a hybrid role requiring onsite presence 4 days per week.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A governance model is in place covering prompt engineering standards, audit trails, and a feedback loop that drives continuous iteration",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Familiarity with orchestration platforms and LLM applications",
+      "severity": "high"
+    },
+    {
+      "requirement": "Cross-functional stakeholders trust and use the tools you\u2019ve built, and Kargo\u2019s Data & AI leadership has a clear, prioritized AI Ops roadmap that you own and drive",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Familiarity with orchestration platforms and LLM applications",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs.",
+      "supports": "Techies who want to build the future."
+    },
+    {
+      "source": "resume",
+      "quote": "Builder's Instinct: Ships fast, iterates on real feedback, and knows when to build vs.",
+      "supports": "Collaborators to build it."
+    },
+    {
+      "source": "resume",
+      "quote": "5-8+ years of experience in systems automation, internal tools, or process/data engineering",
+      "supports": "Data pros who turn numbers into insights."
+    },
+    {
+      "source": "resume",
+      "quote": "Overall, this resume snippet is weak because it lacks the required skills, experience, behaviors, and competencies mentioned in the job description.",
+      "supports": "Anyone eager to be on a team that doesn\u2019t stop to ask what\u2019s next, because they\u2019re already building it."
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with orchestration platforms and LLM applications",
+      "supports": "As the AI Engineer at Kargo, you will architect, build, and scale AI-powered products and automations for Kargo\u2019s commercial organization."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

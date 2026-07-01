@@ -1,0 +1,150 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager-real-jd-17c9633107",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-07-01T00:37:21.602736",
+  "match_score": 57.52,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.4,
+      "reason": "Found 1 direct, 10 adjacent, 2 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+        "Developed and implemented a comprehensive financial planning and analysis framework that enhanced client partnerships and drove business growth by 20%.",
+        "Leadership Experience:",
+        "Proven track record of building high-performing teams, leading cross-functional initiatives, and delivering sustainable solutions that drive business outcomes."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "10 years",
+        "staff",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 36.4,
+      "reason": "Found 1 direct, 10 adjacent, 2 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+        "Developed and implemented a comprehensive financial planning and analysis framework that enhanced client partnerships and drove business growth by 20%.",
+        "Leadership Experience:",
+        "Proven track record of building high-performing teams, leading cross-functional initiatives, and delivering sustainable solutions that drive business outcomes."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+        "Developed and implemented a comprehensive financial planning and analysis framework that enhanced client partnerships and drove business growth by 20%.",
+        "Leadership Experience:",
+        "Proven track record of building high-performing teams, leading cross-functional initiatives, and delivering sustainable solutions that drive business outcomes."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operational Excellence",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Team Leadership",
+      "evidence": [
+        "Leadership Experience:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Create a culture of ownership, urgency, collaboration, and high standards.",
+      "evidence": [
+        "Fostered a culture of ownership, urgency, and collaboration within the team, leading to improved productivity and service quality."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Build and maintain strong, trusted relationships with client stakeholders across multiple functions and levels.",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Demonstrate professionalism, accountability, and responsiveness in all client interactions.",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Lead day-to-day account operations to ensure all projects are delivered on time, within scope, and to agreed service levels.",
+      "evidence": [
+        "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Client Leadership & Relationship Management",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Serve as a primary day-to-day leadership contact for operational matters, escalations, and service delivery topics.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Establish clear ways of working that improve communication, transparency, and partnership effectiveness.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "supports": "Client Leadership & Relationship Management"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "supports": "Build and maintain strong, trusted relationships with client stakeholders across multiple functions and levels."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "supports": "Serve as a primary day-to-day leadership contact for operational matters, escalations, and service delivery topics."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "supports": "Demonstrate professionalism, accountability, and responsiveness in all client interactions."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance leader with 10+ years of experience driving operational excellence and commercial growth in fast-paced client service environments.",
+      "supports": "Operational Excellence"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,143 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:54.899471",
+  "match_score": 78.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 81.9,
+      "reason": "Found 9 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly accomplished AI Systems Engineer with 7+ years of experience designing, developing, and deploying large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.",
+        "Developed and maintained extensive documentation for AI system architecture, data pipelines, and model training processes",
+        "Proven ability to troubleshoot complex issues related to AI system performance, scalability, and reliability, with a focus on identifying root causes and implementing effective solutions",
+        "Troubleshooting and Code Review"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 8 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly accomplished AI Systems Engineer with 7+ years of experience designing, developing, and deploying large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.",
+        "Developed and maintained extensive documentation for AI system architecture, data pipelines, and model training processes",
+        "Proven ability to troubleshoot complex issues related to AI system performance, scalability, and reliability, with a focus on identifying root causes and implementing effective solutions",
+        "Actively participated in knowledge sharing and peer review of AI-related research papers and publications, staying up-to-date with the latest advancements in the field"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly accomplished AI Systems Engineer with 7+ years of experience designing, developing, and deploying large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.",
+        "Developed and maintained extensive documentation for AI system architecture, data pipelines, and model training processes",
+        "Proven ability to troubleshoot complex issues related to AI system performance, scalability, and reliability, with a focus on identifying root causes and implementing effective solutions",
+        "Troubleshooting and Code Review"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn",
+      "evidence": [
+        "Highly accomplished AI Systems Engineer with 7+ years of experience designing, developing, and deploying large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation for AI system architecture, data pipelines, and model training processes",
+      "evidence": [
+        "Developed and maintained extensive documentation for AI system architecture, data pipelines, and model training processes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Troubleshoot complex issues related to AI system performance, scalability, and reliability",
+      "evidence": [
+        "Proven ability to troubleshoot complex issues related to AI system performance, scalability, and reliability, with a focus on identifying root causes and implementing effective solutions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in knowledge sharing and peer review of AI-related research papers and publications",
+      "evidence": [
+        "Actively participated in knowledge sharing and peer review of AI-related research papers and publications, staying up-to-date with the latest advancements in the field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience with AI/ML development, deployment, and maintenance",
+      "evidence": [
+        "Proficient in Python, C++, and Java programming languages with a strong focus on AI/ML development"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong proficiency in Python, C++, and/or Java programming languages",
+      "evidence": [
+        "Proficient in Python, C++, and Java programming languages with a strong focus on AI/ML development"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Master's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Familiarity with natural language processing (NLP) and computer vision techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly accomplished AI Systems Engineer with 7+ years of experience designing, developing, and deploying large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.",
+      "supports": "Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained extensive documentation for AI system architecture, data pipelines, and model training processes",
+      "supports": "Develop and maintain documentation for AI system architecture, data pipelines, and model training processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to troubleshoot complex issues related to AI system performance, scalability, and reliability, with a focus on identifying root causes and implementing effective solutions",
+      "supports": "Troubleshoot complex issues related to AI system performance, scalability, and reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "Troubleshooting and Code Review",
+      "supports": "Conduct regular code reviews and ensure adherence to coding standards and best practices"
+    },
+    {
+      "source": "resume",
+      "quote": "Actively participated in knowledge sharing and peer review of AI-related research papers and publications, staying up-to-date with the latest advancements in the field",
+      "supports": "Participate in knowledge sharing and peer review of AI-related research papers and publications"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,160 @@
+{
+  "job_title": "Data Analysts",
+  "case_slug": "data-analysts-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:58.260212",
+  "match_score": 51.45,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.9,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Not mentioning experience with large-scale databases or complex data sets",
+        "Databases: MySQL, PostgreSQL",
+        "+ Analyzed customer data to identify trends and insights using SQL and Python."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Not mentioning experience with large-scale databases or complex data sets",
+        "+ Analyzed customer data to identify trends and insights using SQL and Python.",
+        "+ Worked on various projects, including data analysis and visualization for clients.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Not mentioning experience with large-scale databases or complex data sets",
+        "Databases: MySQL, PostgreSQL",
+        "+ Analyzed customer data to identify trends and insights using SQL and Python."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Data Analyst, you will be responsible for designing, developing, and maintaining databases, as well as analyzing complex data sets to identify trends and insights.",
+      "evidence": [
+        "Not mentioning experience with large-scale databases or complex data sets"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze complex data sets to identify trends and insights",
+      "evidence": [
+        "+ Analyzed customer data to identify trends and insights using SQL and Python."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in data analysis or a related field",
+      "evidence": [
+        "+ Worked on various projects, including data analysis and visualization for clients."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in SQL, Python, R, or other programming languages",
+      "evidence": [
+        "Highly motivated and detail-oriented data analyst with experience in SQL, Python, and R."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Mathematics, or Statistics",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Data Analysts**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** Scraped Job Board",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement data visualizations to communicate findings to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with data visualization tools such as Tableau or Power BI",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Not mentioning experience with large-scale databases or complex data sets",
+      "supports": "As a Data Analyst, you will be responsible for designing, developing, and maintaining databases, as well as analyzing complex data sets to identify trends and insights."
+    },
+    {
+      "source": "resume",
+      "quote": "Databases: MySQL, PostgreSQL",
+      "supports": "Design, develop, and maintain databases to store and manage large datasets"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed customer data to identify trends and insights using SQL and Python.",
+      "supports": "Analyze complex data sets to identify trends and insights"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed customer data to identify trends and insights using SQL and Python.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

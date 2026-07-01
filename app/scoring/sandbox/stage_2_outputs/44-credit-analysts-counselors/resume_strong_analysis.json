@@ -1,0 +1,140 @@
+{
+  "job_title": "44. Credit Analysts / Counselors",
+  "case_slug": "44-credit-analysts-counselors",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:49.822998",
+  "match_score": 64.7,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 69.3,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors.",
+        "Maintained accurate records of client interactions, loan applications, and credit reports, ensuring compliance with regulatory requirements.",
+        "Proven ability to interpret complex financial data, collaborate with internal stakeholders, and stay up-to-date with industry regulations.",
+        "Bachelor's Degree in Finance"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's Degree in Finance",
+        "Strong analytical and problem-solving skills, with ability to interpret complex financial data using Excel, Word, and PowerPoint."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors.",
+        "Maintained accurate records of client interactions, loan applications, and credit reports, ensuring compliance with regulatory requirements.",
+        "Proven ability to interpret complex financial data, collaborate with internal stakeholders, and stay up-to-date with industry regulations.",
+        "Bachelor's Degree in Finance"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct in-depth credit analysis on commercial and industrial loans to assess creditworthiness of potential borrowers",
+      "evidence": [
+        "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Evaluate loan applications based on financial statements, industry trends, and other relevant factors",
+      "evidence": [
+        "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of client interactions, loan applications, and credit reports",
+      "evidence": [
+        "Maintained accurate records of client interactions, loan applications, and credit reports, ensuring compliance with regulatory requirements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in credit analysis or a related field",
+      "evidence": [
+        "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with ability to interpret complex financial data using Excel, Word, and PowerPoint."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with clients and internal stakeholders",
+      "evidence": [
+        "Proven ability to interpret complex financial data, collaborate with internal stakeholders, and stay up-to-date with industry regulations."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide credit counseling and recommendations to clients, including suggestions for loan modifications or refinancing options",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with credit reporting software and databases",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors.",
+      "supports": "Conduct in-depth credit analysis on commercial and industrial loans to assess creditworthiness of potential borrowers"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted in-depth credit analysis on commercial and industrial loans, assessing creditworthiness of potential borrowers and evaluating loan applications based on financial statements, industry trends, and other relevant factors.",
+      "supports": "Evaluate loan applications based on financial statements, industry trends, and other relevant factors"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of client interactions, loan applications, and credit reports, ensuring compliance with regulatory requirements.",
+      "supports": "Maintain accurate records of client interactions, loan applications, and credit reports"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to interpret complex financial data, collaborate with internal stakeholders, and stay up-to-date with industry regulations.",
+      "supports": "Stay up-to-date with changes in lending regulations and industry standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Finance",
+      "supports": "Bachelor's degree in finance, economics, or related field;"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

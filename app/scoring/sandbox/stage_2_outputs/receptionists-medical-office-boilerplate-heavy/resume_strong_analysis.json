@@ -1,0 +1,155 @@
+{
+  "job_title": "Receptionists (Medical/Office)",
+  "case_slug": "receptionists-medical-office-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:07.960207",
+  "match_score": 65.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 44.2,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments",
+        "Process payments and manage billing and insurance claims",
+        "Strong organizational and time management skills",
+        "Highly organized and compassionate administrative professional with 1.5 years of experience in medical office settings, seeking a dynamic team to join."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "staff"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Provide exceptional customer service to patients, families, and healthcare professionals"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments",
+        "Process payments and manage billing and insurance claims",
+        "Strong organizational and time management skills",
+        "Highly organized and compassionate administrative professional with 1.5 years of experience in medical office settings, seeking a dynamic team to join."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments",
+      "evidence": [
+        "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records and files, both physical and electronic",
+      "evidence": [
+        "Maintain accurate records and files, both physical and electronic"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service to patients, families, and healthcare professionals",
+      "evidence": [
+        "Provide exceptional customer service to patients, families, and healthcare professionals"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process payments and manage billing and insurance claims",
+      "evidence": [
+        "Process payments and manage billing and insurance claims"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package, including",
+      "evidence": [
+        "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "Process payments and manage billing and insurance claims"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "We strive to create a culture of excellence, where every employee feels valued, supported, and empowered to make a positive impact.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and identities.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Manage front desk operations, including answering phone calls, responding to patient inquiries, and scheduling appointments",
+      "supports": "We offer a comprehensive benefits package, including"
+    },
+    {
+      "source": "resume",
+      "quote": "Process payments and manage billing and insurance claims",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong organizational and time management skills",
+      "supports": "Generous paid time off and holidays"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly organized and compassionate administrative professional with 1.5 years of experience in medical office settings, seeking a dynamic team to join.",
+      "supports": "Opportunities for professional growth and development"
+    },
+    {
+      "source": "resume",
+      "quote": "[Previous Employer], [City]",
+      "supports": "Equal Opportunity Employer**"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

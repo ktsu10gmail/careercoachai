@@ -1,0 +1,22 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager-real-jd-b455ca0de0",
+  "scenario": "real_jd_paste",
+  "generator": "real_jd_paste_plus_ollama_resumes",
+  "generated_at": "2026-07-01T00:46:06.870785",
+  "source": "manual_real_jd_paste",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

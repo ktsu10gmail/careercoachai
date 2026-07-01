@@ -1,0 +1,30 @@
+Here's a weak or scope-mismatch resume snippet for a Special Education Teacher applying to a Scoring Engine Stress Test Engineer position:
+
+**John Doe**
+**Contact Information**
+
+**Summary:**
+Dedicated and passionate educator with experience in classroom management, lesson planning, and student assessment.
+
+**Work Experience:**
+
+* **Teacher**, XYZ Elementary School (2018-Present)
+ + Developed and implemented engaging lesson plans for students with diverse learning needs
+ + Utilized data-driven approaches to inform instruction and improve student outcomes
+ + Collaborated with colleagues to design and implement school-wide initiatives
+* **Substitute Teacher**, ABC High School (Summer 2020)
+ + Provided instructional support to students in various subjects, including math and language arts
+ + Assisted with classroom management and behavior support
+
+**Education:**
+
+* **Bachelor of Science in Education**, State University (2018)
+
+**Skills:**
+
+* Classroom management and organization
+* Lesson planning and curriculum development
+* Data analysis and interpretation
+* Communication and collaboration
+
+Note that this resume snippet lacks the required skills and experience for the Scoring Engine Stress Test Engineer position, such as programming languages, stress testing tools, and cloud-based technologies. It also fails to demonstrate a clear understanding of computer systems, algorithms, and data structures, which are essential for the role.

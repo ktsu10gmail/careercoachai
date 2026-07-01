@@ -1,0 +1,11 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+"Database Administrator Candidate
+
+* Designed and implemented databases on Windows-based systems (SQL Server) for various business applications, utilizing database design principles and data modeling techniques.
+* Developed and executed backup and recovery plans using SQL Server Management Studio, ensuring data integrity and availability.
+* Collaborated with IT teams to resolve database-related issues, but did not have experience with cloud-based databases or containerization technologies like Docker and Kubernetes.
+* Monitored database performance using SQL Server Management Studio, but did not use Oracle Enterprise Manager or similar software due to lack of familiarity.
+* Implemented security measures using Active Directory and Group Policy, but did not develop and maintain comprehensive database documentation to ensure knowledge sharing among team members.
+
+Note: I've highlighted the candidate's experience with some relevant terms, while also explicitly stating that they did not perform certain higher-scope requirements, such as cloud-based databases, containerization technologies, or comprehensive database documentation.

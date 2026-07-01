@@ -1,0 +1,42 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from posting date
+* Travel: Up to 20% of the work time will be spent at client sites in the US and Europe
+* Sponsorship: The company will sponsor relocation expenses for successful candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of experts in testing and validating complex software systems. As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress tests on our scoring engine platform.
+
+**Responsibilities:**
+
+* Design and develop test plans, scripts, and tools to simulate various types of loads and stresses on the scoring engine
+* Conduct thorough analysis of system performance under different scenarios, including high traffic, concurrent user sessions, and resource-intensive operations
+* Collaborate with cross-functional teams, including product management, engineering, and QA, to identify and prioritize testing efforts
+* Develop and maintain test automation frameworks to improve efficiency and reduce manual testing time
+* Analyze and report on test results, identifying trends and areas for improvement
+* Stay up-to-date with industry trends and emerging technologies, applying knowledge to enhance testing methodologies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* Strong understanding of software architecture, scalability, and reliability principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with test automation frameworks (e.g., Selenium, Appium)
+* Knowledge of cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Excellent analytical and problem-solving skills, with ability to interpret complex data sets
+* Strong communication and collaboration skills, with experience working in agile development environments
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge software systems and contribute to the growth of our company
+* Collaborative and dynamic work environment with a team of experienced professionals
+* Professional development opportunities, including training and conference sponsorships

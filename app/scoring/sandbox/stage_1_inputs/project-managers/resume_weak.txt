@@ -1,0 +1,19 @@
+Here's a weak or scope-mismatch resume snippet for a Project Manager position:
+
+"Project Management Experience
+
+* Managed multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines
+* Coordinated with development teams to ensure seamless project execution
+* Developed and maintained project plans using MS Excel
+* Conducted regular status updates and progress reports
+* Collaborated with stakeholders to gather requirements and define project scope
+* Managed project budgets and tracked expenses
+
+Skills:
+
+* 3+ years of experience in managing projects
+* Familiarity with Agile methodologies (Scrum)
+* Proficiency in Asana and MS Project
+* Basic knowledge of Git and collaboration platforms"
+
+This resume snippet lacks the required skills, experience, and certifications for the position. The candidate's experience is limited to 3+ years, and they lack expertise in cloud-based project management tools, DevOps practices, and IT service management frameworks. They also don't have a certification in project management or experience with version control systems.

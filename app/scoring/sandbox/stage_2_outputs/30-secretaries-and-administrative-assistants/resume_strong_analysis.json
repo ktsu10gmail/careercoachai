@@ -1,0 +1,142 @@
+{
+  "job_title": "30. Secretaries and Administrative Assistants",
+  "case_slug": "30-secretaries-and-administrative-assistants",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:48.504272",
+  "match_score": 83.03,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.5,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly organized and detail-oriented administrative professional with 3+ years of experience providing exceptional support to fast-paced teams.",
+        "Manage calendars, schedules, and appointments for 5 executives and staff members, ensuring seamless coordination and minimizing conflicts.",
+        "Coordinate travel arrangements, meetings, and events, including booking flights, hotels, and rental cars, resulting in a 25% reduction in travel costs.",
+        "Prepare and edit documents, reports, and presentations using Microsoft Office Suite (Word, Excel, PowerPoint), with a 95% accuracy rate."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Associate's Degree in Business Administration, ABC Community College (2018)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "staff"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Develop and maintain accurate and up-to-date databases and spreadsheets to track project progress and employee information, ensuring data integrity and compliance."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly organized and detail-oriented administrative professional with 3+ years of experience providing exceptional support to fast-paced teams.",
+        "Manage calendars, schedules, and appointments for 5 executives and staff members, ensuring seamless coordination and minimizing conflicts.",
+        "Coordinate travel arrangements, meetings, and events, including booking flights, hotels, and rental cars, resulting in a 25% reduction in travel costs.",
+        "Prepare and edit documents, reports, and presentations using Microsoft Office Suite (Word, Excel, PowerPoint), with a 95% accuracy rate."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage calendars, schedules, and appointments for multiple executives and staff members",
+      "evidence": [
+        "Manage calendars, schedules, and appointments for 5 executives and staff members, ensuring seamless coordination and minimizing conflicts."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate travel arrangements, meetings, and events, including booking flights, hotels, and rental cars",
+      "evidence": [
+        "Coordinate travel arrangements, meetings, and events, including booking flights, hotels, and rental cars, resulting in a 25% reduction in travel costs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare and edit documents, reports, and presentations using Microsoft Office Suite (Word, Excel, PowerPoint)",
+      "evidence": [
+        "Prepare and edit documents, reports, and presentations using Microsoft Office Suite (Word, Excel, PowerPoint), with a 95% accuracy rate."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain accurate and up-to-date databases and spreadsheets to track project progress and employee information",
+      "evidence": [
+        "Develop and maintain accurate and up-to-date databases and spreadsheets to track project progress and employee information, ensuring data integrity and compliance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, organizational, and time management skills",
+      "evidence": [
+        "Excellent communication, organizational, and time management skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Ability to work independently and as part of a team"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Order supplies, materials, and equipment as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented administrative professional with 3+ years of experience providing exceptional support to fast-paced teams.",
+      "supports": "Provide administrative support to a team of 10 employees in a fast-paced office environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Manage calendars, schedules, and appointments for 5 executives and staff members, ensuring seamless coordination and minimizing conflicts.",
+      "supports": "Manage calendars, schedules, and appointments for multiple executives and staff members"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinate travel arrangements, meetings, and events, including booking flights, hotels, and rental cars, resulting in a 25% reduction in travel costs.",
+      "supports": "Coordinate travel arrangements, meetings, and events, including booking flights, hotels, and rental cars"
+    },
+    {
+      "source": "resume",
+      "quote": "Prepare and edit documents, reports, and presentations using Microsoft Office Suite (Word, Excel, PowerPoint), with a 95% accuracy rate.",
+      "supports": "Prepare and edit documents, reports, and presentations using Microsoft Office Suite (Word, Excel, PowerPoint)"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop and maintain accurate and up-to-date databases and spreadsheets to track project progress and employee information, ensuring data integrity and compliance.",
+      "supports": "Develop and maintain accurate and up-to-date databases and spreadsheets to track project progress and employee information"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

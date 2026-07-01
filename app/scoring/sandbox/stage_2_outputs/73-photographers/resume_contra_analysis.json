@@ -1,0 +1,147 @@
+{
+  "job_title": "73. Photographers",
+  "case_slug": "73-photographers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.985077",
+  "match_score": 62.16,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.1,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Highly motivated photographer with 2+ years of experience in capturing high-quality images.",
+        "Notable experience includes leading photo shoots in outdoor settings and studio environments, working closely with clients to understand their vision and preferences.",
+        "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule.",
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop) and skilled in composition techniques."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 52.1,
+      "reason": "Found 3 direct, 8 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Highly motivated photographer with 2+ years of experience in capturing high-quality images.",
+        "Notable experience includes leading photo shoots in outdoor settings and studio environments, working closely with clients to understand their vision and preferences.",
+        "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule.",
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop) and skilled in composition techniques."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Highly motivated photographer with 2+ years of experience in capturing high-quality images.",
+        "Notable experience includes leading photo shoots in outdoor settings and studio environments, working closely with clients to understand their vision and preferences.",
+        "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule.",
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop) and skilled in composition techniques."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct photo shoots in various locations, including outdoor settings and studio environments",
+      "evidence": [
+        "Notable experience includes leading photo shoots in outdoor settings and studio environments, working closely with clients to understand their vision and preferences."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Edit and retouch photographs using Adobe Lightroom and Photoshop",
+      "evidence": [
+        "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Excellent communication skills, with ability to work independently and as part of a team."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet deadlines and manage time effectively to complete projects on schedule",
+      "evidence": [
+        "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience as a photographer or in a related field",
+      "evidence": [
+        "\"Highly motivated photographer with 2+ years of experience in capturing high-quality images."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Adobe Creative Suite (Lightroom, Photoshop)",
+      "evidence": [
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop) and skilled in composition techniques."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with portrait or commercial photography",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my experience in portrait or commercial photography is limited to a few personal projects, and I am still developing my knowledge of lighting and camera settings for specific genres (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of lighting and camera settings for specific genres (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, my experience in portrait or commercial photography is limited to a few personal projects, and I am still developing my knowledge of lighting and camera settings for specific genres (e.g.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Highly motivated photographer with 2+ years of experience in capturing high-quality images.",
+      "supports": "Capture high-quality photographs of assigned subjects, including portraits, landscapes, and still-life compositions"
+    },
+    {
+      "source": "resume",
+      "quote": "Notable experience includes leading photo shoots in outdoor settings and studio environments, working closely with clients to understand their vision and preferences.",
+      "supports": "Conduct photo shoots in various locations, including outdoor settings and studio environments"
+    },
+    {
+      "source": "resume",
+      "quote": "Notable experience includes leading photo shoots in outdoor settings and studio environments, working closely with clients to understand their vision and preferences.",
+      "supports": "Work with clients to understand their vision and preferences, and deliver images that meet their expectations"
+    },
+    {
+      "source": "resume",
+      "quote": "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule.",
+      "supports": "Edit and retouch photographs using Adobe Lightroom and Photoshop"
+    },
+    {
+      "source": "resume",
+      "quote": "I have successfully edited and retouched photographs using Adobe Lightroom and Photoshop, meeting deadlines and managing time effectively to complete projects on schedule.",
+      "supports": "Meet deadlines and manage time effectively to complete projects on schedule"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

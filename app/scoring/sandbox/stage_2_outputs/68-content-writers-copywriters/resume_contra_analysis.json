@@ -1,0 +1,147 @@
+{
+  "job_title": "68. Content Writers / Copywriters",
+  "case_slug": "68-content-writers-copywriters",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.434156",
+  "match_score": 44.05,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums.",
+        "Collaborated with cross-functional teams, including design, product, and sales, but found it challenging to ensure cohesive messaging and brand consistency across all content channels.",
+        "Proven track record of meeting tight deadlines and maintaining quality standards.",
+        "Conducted research to stay up-to-date on industry trends, but struggled to apply this knowledge in a way that resonated with target audiences."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums.",
+        "Collaborated with cross-functional teams, including design, product, and sales, but found it challenging to ensure cohesive messaging and brand consistency across all content channels.",
+        "Proven track record of meeting tight deadlines and maintaining quality standards.",
+        "Conducted research to stay up-to-date on industry trends, but struggled to apply this knowledge in a way that resonated with target audiences."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a consistent tone and voice across all content channels",
+      "evidence": [
+        "Collaborated with cross-functional teams, including design, product, and sales, but found it challenging to ensure cohesive messaging and brand consistency across all content channels."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet tight deadlines while maintaining quality standards",
+      "evidence": [
+        "Proven track record of meeting tight deadlines and maintaining quality standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of producing high-quality, engaging content that drives results",
+      "evidence": [
+        "Proven track record of meeting tight deadlines and maintaining quality standards."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct research to stay up-to-date on industry trends and develop well-informed content that resonates with target audiences",
+      "evidence": [
+        "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Optimize content for search engines to improve visibility and drive organic traffic",
+      "evidence": [
+        "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience as a copywriter or content writer",
+      "evidence": [
+        "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Bachelor's degree in English, Journalism, Communications, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent writing, editing, and proofreading skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong research and analytical skills to stay up-to-date on industry trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Conducted research to stay up-to-date on industry trends, but struggled to apply this knowledge in a way that resonated with target audiences.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with SEO tools such as Ahrefs, SEMrush, or Moz",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized SEO tools such as Ahrefs to optimize content for search engines, but did not see significant improvements in organic traffic or visibility.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums.",
+      "supports": "Write high-quality, engaging content for various mediums, including blog posts, social media, email newsletters, and product descriptions"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums.",
+      "supports": "Conduct research to stay up-to-date on industry trends and develop well-informed content that resonates with target audiences"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams, including design, product, and sales, but found it challenging to ensure cohesive messaging and brand consistency across all content channels.",
+      "supports": "Develop and maintain a consistent tone and voice across all content channels"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of meeting tight deadlines and maintaining quality standards.",
+      "supports": "Meet tight deadlines while maintaining quality standards"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven content writer with 2+ years of experience in producing high-quality, engaging copy for various mediums.",
+      "supports": "Optimize content for search engines to improve visibility and drive organic traffic"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

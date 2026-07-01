@@ -1,0 +1,129 @@
+{
+  "job_title": "48. Human Resources Specialists",
+  "case_slug": "48-human-resources-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:50.172052",
+  "match_score": 76.31,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 62.9,
+      "reason": "Found 6 direct, 8 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Human Resources professional with 2+ years of experience in HR, where I successfully conducted employee investigations (although not to the extent required by this role) and developed corrective action plans for performance ",
+        "While I'm proficient in HR software, including Workday, I didn't have experience with data analysis and reporting capabilities.",
+        "In my previous role, I managed employee records and provided guidance on leave policies, but not to the extent required by this position.",
+        "Although I didn't have direct experience with employment law litigation or dispute resolution, I've worked closely with management teams to develop and implement HR policies and procedures that ensured compliance with federal and state regu"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "While I'm proficient in HR software, including Workday, I didn't have experience with data analysis and reporting capabilities."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Human Resources professional with 2+ years of experience in HR, where I successfully conducted employee investigations (although not to the extent required by this role) and developed corrective action plans for performance ",
+        "While I'm proficient in HR software, including Workday, I didn't have experience with data analysis and reporting capabilities.",
+        "In my previous role, I managed employee records and provided guidance on leave policies, but not to the extent required by this position.",
+        "Although I didn't have direct experience with employment law litigation or dispute resolution, I've worked closely with management teams to develop and implement HR policies and procedures that ensured compliance with federal and state regu"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement corrective action plans to address performance issues, including coaching, counseling, and disciplinary actions",
+      "evidence": [
+        "\"Results-driven Human Resources professional with 2+ years of experience in HR, where I successfully conducted employee investigations (although not to the extent required by this role) and developed corrective action plans for performance "
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date employee records, including personnel files, benefits information, and performance evaluations",
+      "evidence": [
+        "In my previous role, I managed employee records and provided guidance on leave policies, but not to the extent required by this position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in HR software, including Workday, BambooHR, or similar systems",
+      "evidence": [
+        "While I'm proficient in HR software, including Workday, I didn't have experience with data analysis and reporting capabilities."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "evidence": [
+        "However, I do possess excellent communication, interpersonal, and problem-solving skills, which I believe are transferable to this role.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with employment law litigation or dispute resolution",
+      "evidence": [
+        "Although I didn't have direct experience with employment law litigation or dispute resolution, I've worked closely with management teams to develop and implement HR policies and procedures that ensured compliance with federal and state regu"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with HRIS systems, including data analysis and reporting capabilities",
+      "evidence": [
+        "While I'm proficient in HR software, including Workday, I didn't have experience with data analysis and reporting capabilities."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Human Resources professional with 2+ years of experience in HR, where I successfully conducted employee investigations (although not to the extent required by this role) and developed corrective action plans for performance ",
+      "supports": "Conduct thorough investigations of employee complaints and grievances, gathering evidence and interviewing parties involved"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Human Resources professional with 2+ years of experience in HR, where I successfully conducted employee investigations (although not to the extent required by this role) and developed corrective action plans for performance ",
+      "supports": "Develop and implement corrective action plans to address performance issues, including coaching, counseling, and disciplinary actions"
+    },
+    {
+      "source": "resume",
+      "quote": "While I'm proficient in HR software, including Workday, I didn't have experience with data analysis and reporting capabilities.",
+      "supports": "Manage the recruitment process, including job postings, candidate screening, and interview coordination"
+    },
+    {
+      "source": "resume",
+      "quote": "In my previous role, I managed employee records and provided guidance on leave policies, but not to the extent required by this position.",
+      "supports": "Maintain accurate and up-to-date employee records, including personnel files, benefits information, and performance evaluations"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Human Resources professional with 2+ years of experience in HR, where I successfully conducted employee investigations (although not to the extent required by this role) and developed corrective action plans for performance ",
+      "supports": "Provide guidance and support to employees on employment-related matters, such as leave policies, workers' compensation, and employee conduct"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

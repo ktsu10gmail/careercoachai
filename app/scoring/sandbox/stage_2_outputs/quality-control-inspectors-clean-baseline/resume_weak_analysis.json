@@ -1,0 +1,142 @@
+{
+  "job_title": "Quality Control Inspectors",
+  "case_slug": "quality-control-inspectors-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:07.464022",
+  "match_score": 51.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.5,
+      "reason": "Found 4 direct, 7 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in testing and quality control.",
+        "Test planning, execution, and reporting",
+        "Proficient in stress testing tools and software.",
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in testing and quality control."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in testing and quality control.",
+        "Test planning, execution, and reporting",
+        "Proficient in stress testing tools and software.",
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Stay up-to-date with industry developments and best practices in stress testing and quality control",
+      "evidence": [
+        "Proficient in stress testing tools and software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a relevant field (e.g.",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "mechanical engineering, electrical engineering, computer science)",
+      "evidence": [
+        "Bachelor's degree in Computer Science, XYZ University (2015-2019)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or quality control, preferably in the aerospace or defense industry",
+      "evidence": [
+        "The candidate has only basic knowledge of stress testing tools and software, and their work experience is not relevant to the aerospace or defense industry."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of testing and results, including documentation of test procedures and outcomes",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in testing and quality control."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in stress testing tools and software (e.g.",
+      "evidence": [
+        "Highly detail-oriented and analytical individual with experience in testing and quality control."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Quality Control Inspectors**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical individual with experience in testing and quality control.",
+      "supports": "Conduct thorough stress testing of scoring engines to identify potential issues and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Test planning, execution, and reporting",
+      "supports": "Develop and execute test plans to simulate various scenarios and loads"
+    },
+    {
+      "source": "resume",
+      "quote": "Test planning, execution, and reporting",
+      "supports": "Analyze test results and provide detailed reports on findings and recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and analytical individual with experience in testing and quality control.",
+      "supports": "Maintain accurate records of testing and results, including documentation of test procedures and outcomes"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in stress testing tools and software.",
+      "supports": "Stay up-to-date with industry developments and best practices in stress testing and quality control"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

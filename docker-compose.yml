@@ -1,0 +1,50 @@
+services:
+  db:
+    image: postgres:15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: recruitdb
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    ports:
+      - '5433:5432'
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: recruit-ollama
+    restart: unless-stopped
+    gpus: all
+    expose:
+      - '11434'
+    environment:
+      - OLLAMA_HOST=0.0.0.0:11434
+    volumes:
+      - /usr/share/ollama/.ollama:/root/.ollama:ro
+    # Optional: to use GPU, add:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+
+  web:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      - ./uploads:/app/uploads
+    ports:
+      - '8000:8000'
+    depends_on:
+      - db
+      - ollama
+
+volumes:
+  db_data:
+  ollama_data:

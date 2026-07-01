@@ -1,0 +1,35 @@
+**Job Title:** Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to join our team. As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performance under various loads and conditions.
+
+**Responsibilities:**
+
+* Design and develop comprehensive stress test plans to identify and prioritize areas of improvement in the scoring engine
+* Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium
+* Analyze test results and provide detailed reports on performance metrics, such as throughput, latency, and error rates
+* Collaborate with cross-functional teams, including development, operations, and quality assurance, to identify and prioritize areas for improvement
+* Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions
+* Stay up-to-date with industry trends and emerging technologies in stress testing and performance engineering
+
+**Required Skills:**
+
+Java, Python, C++, JavaScript, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile methodologies, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD) pipelines, Performance testing frameworks such as Apache Bench and Locust
+
+**Nice to Have:**
+
+* Experience with containerization using Docker
+* Knowledge of cloud-based infrastructure and scalability models
+* Familiarity with machine learning and artificial intelligence concepts
+* Experience with DevOps tools such as Jenkins, Travis CI, or CircleCI
+* Certification in stress testing or performance engineering (e.g. ISTQB, CSTE)
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on a cutting-edge technology stack
+* Collaborative and dynamic work environment
+* Professional development opportunities and training
+
+If you are a motivated and detail-oriented individual with a passion for stress testing and performance engineering, please submit your resume and cover letter to [insert contact information].

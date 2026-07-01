@@ -1,0 +1,137 @@
+{
+  "job_title": "73. Photographers",
+  "case_slug": "73-photographers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.014768",
+  "match_score": 79.14,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 75.7,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments.",
+        "Highly accomplished photographer with 3+ years of experience delivering high-quality images that exceed client expectations.",
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop), with expertise in editing and retouching photographs to achieve desired results.",
+        "Proven ability to work independently and as part of a team, meeting deadlines and managing time effectively to complete projects on schedule."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 75.7,
+      "reason": "Found 7 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments.",
+        "Highly accomplished photographer with 3+ years of experience delivering high-quality images that exceed client expectations.",
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop), with expertise in editing and retouching photographs to achieve desired results.",
+        "Proven ability to work independently and as part of a team, meeting deadlines and managing time effectively to complete projects on schedule."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments.",
+        "Highly accomplished photographer with 3+ years of experience delivering high-quality images that exceed client expectations.",
+        "Proficient in Adobe Creative Suite (Lightroom, Photoshop), with expertise in editing and retouching photographs to achieve desired results.",
+        "Proven ability to work independently and as part of a team, meeting deadlines and managing time effectively to complete projects on schedule."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Capture high-quality photographs of assigned subjects, including portraits, landscapes, and still-life compositions",
+      "evidence": [
+        "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct photo shoots in various locations, including outdoor settings and studio environments",
+      "evidence": [
+        "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of photography techniques and composition",
+      "evidence": [
+        "Strong understanding of photography techniques and composition, allowing for effective visual storytelling."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills enable seamless collaboration with clients, models, stylists, and other photographers to achieve shared creative goals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "evidence": [
+        "Proven ability to work independently and as part of a team, meeting deadlines and managing time effectively to complete projects on schedule."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with portrait or commercial photography",
+      "evidence": [
+        "Experience in portrait and commercial photography, with a keen eye for lighting and camera settings."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "2+ years of experience as a photographer or in a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments.",
+      "supports": "Capture high-quality photographs of assigned subjects, including portraits, landscapes, and still-life compositions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of successfully capturing stunning portraits, landscapes, and still-life compositions in various locations, including outdoor settings and studio environments.",
+      "supports": "Conduct photo shoots in various locations, including outdoor settings and studio environments"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly accomplished photographer with 3+ years of experience delivering high-quality images that exceed client expectations.",
+      "supports": "Work with clients to understand their vision and preferences, and deliver images that meet their expectations"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Adobe Creative Suite (Lightroom, Photoshop), with expertise in editing and retouching photographs to achieve desired results.",
+      "supports": "Edit and retouch photographs using Adobe Lightroom and Photoshop"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to work independently and as part of a team, meeting deadlines and managing time effectively to complete projects on schedule.",
+      "supports": "Meet deadlines and manage time effectively to complete projects on schedule"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

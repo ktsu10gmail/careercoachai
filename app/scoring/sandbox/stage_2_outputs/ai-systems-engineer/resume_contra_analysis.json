@@ -1,0 +1,140 @@
+{
+  "job_title": "AI Systems Engineer",
+  "case_slug": "ai-systems-engineer",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:54.857974",
+  "match_score": 68.82,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 67.3,
+      "reason": "Found 7 direct, 5 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes.",
+        "Developed and maintained documentation for AI system architecture and data pipelines (incomplete)",
+        "Note: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-fun",
+        "Bachelor's degree in Computer Science, Electrical Engineering, or related field;"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Bachelor's degree in Computer Science, Electrical Engineering, or related field;"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 52.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 75.6,
+      "reason": "Found 5 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes.",
+        "Developed and maintained documentation for AI system architecture and data pipelines (incomplete)",
+        "Note: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-fun",
+        "Highly motivated and detail-oriented professional with 3+ years of experience in AI/ML development, deployment, and maintenance."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes.",
+        "Developed and maintained documentation for AI system architecture and data pipelines (incomplete)",
+        "Note: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-fun",
+        "Bachelor's degree in Computer Science, Electrical Engineering, or related field;"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain documentation for AI system architecture, data pipelines, and model training processes",
+      "evidence": [
+        "Developed and maintained documentation for AI system architecture and data pipelines (incomplete)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in knowledge sharing and peer review of AI-related research papers and publications",
+      "evidence": [
+        "Note: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-fun"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Electrical Engineering, or related field;",
+      "evidence": [
+        "Bachelor's degree in Computer Science, Electrical Engineering, or related field;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience with AI/ML development, deployment, and maintenance",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 3+ years of experience in AI/ML development, deployment, and maintenance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong proficiency in Python, C++, and/or Java programming languages",
+      "evidence": [
+        "Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with containerization using Docker and Kubernetes",
+      "evidence": [
+        "Experience with containerization using Docker and Kubernetes"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular code reviews and ensure adherence to coding standards and best practices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes.",
+      "supports": "Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained documentation for AI system architecture and data pipelines (incomplete)",
+      "supports": "Develop and maintain documentation for AI system architecture, data pipelines, and model training processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained documentation for AI system architecture and data pipelines (incomplete)",
+      "supports": "Troubleshoot complex issues related to AI system performance, scalability, and reliability"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-fun",
+      "supports": "Participate in knowledge sharing and peer review of AI-related research papers and publications"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science, Electrical Engineering, or related field;",
+      "supports": "Bachelor's degree in Computer Science, Electrical Engineering, or related field;"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

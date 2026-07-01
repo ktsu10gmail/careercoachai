@@ -1,0 +1,8 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+* 2+ years of experience in stress testing and performance engineering
+* Familiarity with scripting languages such as Python, Java, or C#
+* Experience with load testing tools like Apache JMeter
+* Strong understanding of system performance principles
+
+Note: I omitted the domain qualifier "Software/SaaS" and scope qualifiers "Multi-site deployment", "High-volume transactions (>1000 concurrent users)", and "Low-latency requirements (<50ms response time)" as the candidate did not have experience with these specific areas.

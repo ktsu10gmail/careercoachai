@@ -1,0 +1,46 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting comprehensive stress testing for our domain scope trap feature. The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under various loads.
+
+**Responsibilities:**
+
+* Design and execute stress tests to identify system bottlenecks and areas for improvement
+* Develop and maintain test scripts and tools to simulate high-volume traffic and loads
+* Collaborate with cross-functional teams, including engineering, product management, and operations, to understand system requirements and identify testing opportunities
+* Analyze test results and provide actionable recommendations for improving system performance and reliability
+* Develop and maintain documentation of stress test procedures, results, and findings
+* Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or performance engineering
+* Strong understanding of software architecture and system design principles
+* Proficiency in scripting languages such as Python, Java, or C++
+* Experience with load testing tools such as Apache JMeter, Gatling, or Locust
+* Knowledge of cloud-based infrastructure and scalability models (e.g. AWS, Azure, Google Cloud)
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (e.g. finance, healthcare)
+
+**Scope Qualifiers:**
+
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Essential Requirements:**
+
+* Experience with stress testing tools and techniques
+* Strong understanding of system performance and reliability principles
+* Ability to work in a fast-paced environment with tight deadlines
+* Excellent analytical and problem-solving skills
+
+If you are a motivated and experienced Stress Test Engineer looking for a new challenge, please submit your resume and cover letter to [insert contact information].

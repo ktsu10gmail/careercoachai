@@ -1,0 +1,153 @@
+{
+  "job_title": "54. Computer Systems Analysts",
+  "case_slug": "54-computer-systems-analysts",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:50.907316",
+  "match_score": 53.44,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.7,
+      "reason": "Found 2 direct, 8 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Computer Systems Analysts job:",
+        "\"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies.",
+        "Developed and maintained technical documentation for multiple software applications",
+        "Note: I did not include experience with cloud-based technologies, Agile development methodologies, or DevOps tools as the candidate does not have relevant experience in these areas."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 8.8,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies.",
+        "Note: I did not include experience with cloud-based technologies, Agile development methodologies, or DevOps tools as the candidate does not have relevant experience in these areas.",
+        "Proficient in Java and Python programming languages, with a strong understanding of database management principles."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Computer Systems Analysts job:",
+        "\"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies.",
+        "Developed and maintained technical documentation for multiple software applications",
+        "Note: I did not include experience with cloud-based technologies, Agile development methodologies, or DevOps tools as the candidate does not have relevant experience in these areas."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of operating systems, database management, and software development methodologies",
+      "evidence": [
+        "Proficient in Java and Python programming languages, with a strong understanding of database management principles."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "Proficient in Java and Python programming languages, with a strong understanding of database management principles."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Information Technology, or related field",
+      "evidence": [
+        "Computer Systems Analysts job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience as a computer systems analyst or equivalent role",
+      "evidence": [
+        "Computer Systems Analysts job:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with Agile development methodologies and version control systems (e.g.",
+      "evidence": [
+        "\"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze complex computer systems and applications to identify areas for improvement and optimize system performance",
+      "evidence": [
+        "Computer Systems Analysts job:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with emerging technologies and trends in the field, applying this knowledge to inform business decisions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I did not include experience with cloud-based technologies, Agile development methodologies, or DevOps tools as the candidate does not have relevant experience in these areas.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based technologies (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: I did not include experience with cloud-based technologies, Agile development methodologies, or DevOps tools as the candidate does not have relevant experience in these areas.",
+      "severity": "high"
+    },
+    {
+      "requirement": "AWS, Azure) and containerization platforms (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Computer Systems Analysts job:",
+      "supports": "Analyze complex computer systems and applications to identify areas for improvement and optimize system performance"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies.",
+      "supports": "Develop and maintain technical documentation, including user manuals, system diagrams, and technical specifications"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained technical documentation for multiple software applications",
+      "supports": "Troubleshoot and resolve technical issues, providing timely support to end-users and stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven professional with 5+ years of experience in computer systems analysis, seeking to leverage my expertise in operating system management and software development methodologies.",
+      "supports": "Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I did not include experience with cloud-based technologies, Agile development methodologies, or DevOps tools as the candidate does not have relevant experience in these areas.",
+      "supports": "Stay up-to-date with emerging technologies and trends in the field, applying this knowledge to inform business decisions"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

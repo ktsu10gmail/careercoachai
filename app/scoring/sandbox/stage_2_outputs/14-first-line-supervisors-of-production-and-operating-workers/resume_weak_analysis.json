@@ -1,0 +1,128 @@
+{
+  "job_title": "14. First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "14-first-line-supervisors-of-production-and-operating-workers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:46.946619",
+  "match_score": 59.75,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 50.0,
+      "reason": "Found 3 direct, 10 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "First-Line Supervisors of Production and Operating Workers position:",
+        "\"High school diploma, 5 years experience as a production worker in a small startup, familiar with basic quality control procedures and safety protocols.",
+        "Experience with lean manufacturing principles through online courses."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Experience with lean manufacturing principles through online courses."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "First-Line Supervisors of Production and Operating Workers position:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "First-Line Supervisors of Production and Operating Workers position:",
+        "\"High school diploma, 5 years experience as a production worker in a small startup, familiar with basic quality control procedures and safety protocols.",
+        "Experience with lean manufacturing principles through online courses."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 5 years experience as a production worker in a small startup, familiar with basic quality control procedures and safety protocols."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a production worker or supervisor in a manufacturing environment",
+      "evidence": [
+        "\"High school diploma, 5 years experience as a production worker in a small startup, familiar with basic quality control procedures and safety protocols."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of production processes, quality control procedures, and safety protocols",
+      "evidence": [
+        "\"High school diploma, 5 years experience as a production worker in a small startup, familiar with basic quality control procedures and safety protocols."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Oversee daily production operations to ensure efficient use of resources and meet productivity targets",
+      "evidence": [
+        "First-Line Supervisors of Production and Operating Workers position:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct regular inspections of production areas to identify and address quality control issues, safety hazards, and equipment malfunctions",
+      "evidence": [
+        "First-Line Supervisors of Production and Operating Workers position:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide guidance and training to junior production workers on new processes, procedures, and equipment operation",
+      "evidence": [
+        "First-Line Supervisors of Production and Operating Workers position:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "First-Line Supervisors of Production and Operating Workers position:",
+      "supports": "Oversee daily production operations to ensure efficient use of resources and meet productivity targets"
+    },
+    {
+      "source": "resume",
+      "quote": "First-Line Supervisors of Production and Operating Workers position:",
+      "supports": "Conduct regular inspections of production areas to identify and address quality control issues, safety hazards, and equipment malfunctions"
+    },
+    {
+      "source": "resume",
+      "quote": "First-Line Supervisors of Production and Operating Workers position:",
+      "supports": "Provide guidance and training to junior production workers on new processes, procedures, and equipment operation"
+    },
+    {
+      "source": "resume",
+      "quote": "First-Line Supervisors of Production and Operating Workers position:",
+      "supports": "Manage inventory levels and order supplies as needed to minimize downtime and optimize production flow"
+    },
+    {
+      "source": "resume",
+      "quote": "First-Line Supervisors of Production and Operating Workers position:",
+      "supports": "Develop and implement plans to improve production efficiency, reduce waste, and increase quality"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

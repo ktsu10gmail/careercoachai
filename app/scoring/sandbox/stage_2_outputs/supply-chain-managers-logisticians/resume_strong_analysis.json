@@ -1,0 +1,145 @@
+{
+  "job_title": "Supply Chain Managers / Logisticians",
+  "case_slug": "supply-chain-managers-logisticians",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:10.230071",
+  "match_score": 82.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 81.1,
+      "reason": "Found 11 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven Supply Chain Manager with 5+ years of experience in optimizing inventory management, reducing lead times, and improving overall efficiency.",
+        "+ Analyzed and resolved supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+        "+ Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+        "+ Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 98.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "lead",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 83.8,
+      "reason": "Found 3 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+        "+ Analyzed and resolved supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+        "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+        "Proficient in TMS, ERP software, and other supply chain technology platforms"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven Supply Chain Manager with 5+ years of experience in optimizing inventory management, reducing lead times, and improving overall efficiency.",
+        "+ Analyzed and resolved supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+        "+ Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+        "+ Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement supply chain strategies to optimize inventory management, reduce lead times, and improve overall efficiency",
+      "evidence": [
+        "Results-driven Supply Chain Manager with 5+ years of experience in optimizing inventory management, reducing lead times, and improving overall efficiency."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "evidence": [
+        "+ Analyzed and resolved supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+      "evidence": [
+        "+ Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+      "evidence": [
+        "+ Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Supply Chain Management, Logistics, or related field;",
+      "evidence": [
+        "Master's Degree in Supply Chain Management**, [University Name] (2018)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in supply chain management or logistics",
+      "evidence": [
+        "Master's Degree in Supply Chain Management**, [University Name] (2018)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Master's degree in Supply Chain Management or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in senior supply chain leadership roles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven Supply Chain Manager with 5+ years of experience in optimizing inventory management, reducing lead times, and improving overall efficiency.",
+      "supports": "Develop and implement supply chain strategies to optimize inventory management, reduce lead times, and improve overall efficiency"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed and resolved supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "supports": "Analyze and resolve supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Managed and maintained relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services",
+      "supports": "Manage and maintain relationships with suppliers, transportation providers, and other external partners to ensure reliable delivery of goods and services"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and tracked key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions",
+      "supports": "Develop and track key performance indicators (KPIs) to measure supply chain effectiveness and make data-driven decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed and resolved supply chain disruptions, such as natural disasters or supplier insolvency, to minimize impact on business operations",
+      "supports": "Implement and enforce compliance with regulatory requirements, such as customs regulations and safety standards"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

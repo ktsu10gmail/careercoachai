@@ -1,0 +1,175 @@
+{
+  "job_title": "Retail Salespersons",
+  "case_slug": "retail-salespersons-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.314574",
+  "match_score": 51.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.8,
+      "reason": "Found 3 direct, 2 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Utilized excellent communication skills to resolve customer complaints, but did not have the opportunity to upsell or cross-sell products",
+        "Sales Experience",
+        "2+ years of retail experience, including 1 year as a sales associate at XYZ Corporation (note: I was responsible for restocking shelves and processing transactions, but did not meet or exceed sales targets)",
+        "Basic math skills and accuracy with handling cash and credit transactions were not tested during my employment"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Education"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.2,
+      "reason": "Found 3 direct, 3 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Utilized excellent communication skills to resolve customer complaints, but did not have the opportunity to upsell or cross-sell products",
+        "Sales Experience",
+        "2+ years of retail experience, including 1 year as a sales associate at XYZ Corporation (note: I was responsible for restocking shelves and processing transactions, but did not meet or exceed sales targets)",
+        "Basic math skills and accuracy with handling cash and credit transactions were not tested during my employment"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 78.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Utilized excellent communication skills to resolve customer complaints, but did not have the opportunity to upsell or cross-sell products",
+        "Sales Experience",
+        "2+ years of retail experience, including 1 year as a sales associate at XYZ Corporation (note: I was responsible for restocking shelves and processing transactions, but did not meet or exceed sales targets)",
+        "Basic math skills and accuracy with handling cash and credit transactions were not tested during my employment"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Process transactions accurately and efficiently, handling cash, credit card transactions, and returns",
+      "evidence": [
+        "Basic math skills and accuracy with handling cash and credit transactions were not tested during my employment"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High school diploma;"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic math skills and accuracy with handling cash and credit transactions",
+      "evidence": [
+        "Basic math skills and accuracy with handling cash and credit transactions were not tested during my employment"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "some college education preferred",
+      "evidence": [
+        "Education"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "sales experience an asset",
+      "evidence": [
+        "Sales Experience"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Meet or exceed sales targets through effective product knowledge, upselling, and cross-selling techniques",
+      "evidence": [
+        "Sales Experience"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Retail Salesperson",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Salesperson, you will be responsible for providing exceptional customer service, driving sales growth, and maintaining a clean and organized store environment.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide excellent customer service, respond to customer inquiries, and resolve issues in a professional manner",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized excellent communication skills to resolve customer complaints, but did not have the opportunity to upsell or cross-sell products",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized store environment, including visual merchandising and inventory management",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: 2+ years of retail experience, including 1 year as a sales associate at XYZ Corporation (note: I was responsible for restocking shelves and processing transactions, but did not meet or exceed sales targets)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in visual merchandising, window displays, and other promotional activities",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with colleagues on visual merchandising projects, but my role was limited to assembling displays rather than designing them",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of retail experience;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment and adapt to changing situations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Adapted to changing situations in the store environment, but did not have experience working in a fast-paced environment with multiple priorities",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Utilized excellent communication skills to resolve customer complaints, but did not have the opportunity to upsell or cross-sell products",
+      "supports": "Provide excellent customer service, respond to customer inquiries, and resolve issues in a professional manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Sales Experience",
+      "supports": "Meet or exceed sales targets through effective product knowledge, upselling, and cross-selling techniques"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of retail experience, including 1 year as a sales associate at XYZ Corporation (note: I was responsible for restocking shelves and processing transactions, but did not meet or exceed sales targets)",
+      "supports": "Maintain a clean and organized store environment, including visual merchandising and inventory management"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic math skills and accuracy with handling cash and credit transactions were not tested during my employment",
+      "supports": "Process transactions accurately and efficiently, handling cash, credit card transactions, and returns"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with colleagues on visual merchandising projects, but my role was limited to assembling displays rather than designing them",
+      "supports": "Participate in visual merchandising, window displays, and other promotional activities"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

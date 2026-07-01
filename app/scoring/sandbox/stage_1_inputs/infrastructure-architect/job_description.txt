@@ -1,0 +1,25 @@
+Responsibilities:
+
+* Design and implement scalable, secure, and efficient infrastructure solutions for cloud-based applications
+* Collaborate with cross-functional teams to develop and maintain technical architecture roadmaps
+* Develop and manage infrastructure as code (IaC) using tools such as Terraform or Ansible
+* Ensure compliance with industry standards and regulatory requirements
+* Conduct regular security audits and vulnerability assessments
+* Provide technical guidance and support to junior engineers and architects
+* Participate in on-call rotations for production infrastructure issues
+
+Required Skills:
+
+* 5+ years of experience designing and implementing cloud-based infrastructure solutions
+* Strong knowledge of virtualization, networking, and storage technologies
+* Experience with containerization using Docker or Kubernetes
+* Proficiency in scripting languages such as Python, Bash, or PowerShell
+* Understanding of security best practices and compliance regulations (e.g. HIPAA, PCI-DSS)
+* Experience with cloud providers such as AWS, Azure, or Google Cloud
+
+Preferred Skills:
+
+* Experience with infrastructure monitoring tools such as Prometheus, Grafana, or New Relic
+* Knowledge of DevOps practices and tools such as Jenkins, GitLab CI/CD, or CircleCI
+* Familiarity with container orchestration tools such as Helm or Kustomize
+* Certification in cloud computing (e.g. AWS Certified Cloud Practitioner)

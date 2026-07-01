@@ -1,0 +1,30 @@
+**Job Title:** Financial Analysts
+
+**Job Summary:**
+
+We are seeking highly skilled Financial Analysts to perform stress testing on our scoring engine. The successful candidate will be responsible for simulating various scenarios to evaluate the robustness and performance of our financial models under different market conditions.
+
+**Responsibilities:**
+
+* Develop and execute comprehensive stress test plans to identify potential vulnerabilities in our scoring engine
+* Simulate a wide range of economic scenarios, including interest rate changes, credit score fluctuations, and market volatility
+* Analyze results and provide actionable recommendations for improving model performance and risk management
+* Collaborate with cross-functional teams, including product development, risk management, and operations to ensure alignment and effective implementation of stress test findings
+* Develop and maintain detailed documentation of testing procedures, results, and recommendations
+* Stay up-to-date with industry trends and emerging risks to continuously improve stress testing methodologies
+
+**Required Skills:**
+
+* Bachelor's degree in Finance, Economics, or related field; advanced degree preferred
+* 3+ years of experience in financial modeling, risk management, or a related field
+* Strong knowledge of financial markets, instruments, and regulations
+* Proficiency in Excel, VBA, and statistical analysis software (e.g. R, Python)
+* Experience with stress testing frameworks and methodologies (e.g. VaR, EVA)
+* Excellent analytical, problem-solving, and communication skills
+
+**Preferred Skills:**
+
+* Master's degree in Finance or related field
+* Experience with machine learning algorithms and data science tools (e.g. TensorFlow, PyTorch)
+* Familiarity with cloud-based platforms and big data technologies (e.g. AWS, Hadoop)
+* Certification in financial modeling or risk management (e.g. CFA, FRM)

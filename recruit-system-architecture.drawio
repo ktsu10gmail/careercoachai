@@ -1,0 +1,927 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6" pages="6">
+  <diagram id="recruit-system-architecture" name="Recruit-System Architecture">
+    <mxGraphModel dx="1665" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#0f172a;align=left;verticalAlign=middle;" value="Recruit-System Architecture" vertex="1">
+          <mxGeometry height="50" width="520" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#475569;align=left;verticalAlign=middle;" value="Career Coaching AI / Auto Mediator recruiting platform" vertex="1">
+          <mxGeometry height="30" width="540" x="62" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="actors_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontStyle=1;fontSize=16;arcSize=8;verticalAlign=top;spacingTop=12;" value="Users" vertex="1">
+          <mxGeometry height="520" width="220" x="60" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_applicant" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#06b6d4;fontSize=13;align=left;spacing=10;arcSize=8;" value="Applicants&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Free analysis, account setup, applications, resume upload, applicant answers&lt;/font&gt;" vertex="1">
+          <mxGeometry height="76" width="170" x="85" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_employer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#6366f1;fontSize=13;align=left;spacing=10;arcSize=8;" value="Employer / Company Admin&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Company setup, users, roles, workspace access&lt;/font&gt;" vertex="1">
+          <mxGeometry height="76" width="170" x="85" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_hr_hm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#10b981;fontSize=13;align=left;spacing=10;arcSize=8;" value="HR / Hiring Manager&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Jobs, applicant links, interviews, recommendations&lt;/font&gt;" vertex="1">
+          <mxGeometry height="76" width="170" x="85" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_platform" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontSize=13;align=left;spacing=10;arcSize=8;" value="Platform Admin&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Performance dashboard, visitors, sitewide analytics&lt;/font&gt;" vertex="1">
+          <mxGeometry height="76" width="170" x="85" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="frontend_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontStyle=1;fontSize=16;arcSize=8;verticalAlign=top;spacingTop=12;" value="Next.js Frontend Layer" vertex="1">
+          <mxGeometry height="520" width="360" x="340" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="fe_employer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;fontSize=13;align=left;spacing=10;arcSize=8;" value="Employer Portal&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;localhost:3001&lt;br&gt;/employer/setup, /employer/workspace, /hr/dashboard, /employer/admin&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="300" x="370" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="fe_agency" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;fontSize=13;align=left;spacing=10;arcSize=8;" value="Recruiting Agency Portal&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;localhost:4001&lt;br&gt;/agency/clients, /agency/candidates, /agency/matching, /agency/performance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="300" x="370" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="fe_applicant" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;fontSize=13;align=left;spacing=10;arcSize=8;" value="Applicant Portal&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;localhost:5001&lt;br&gt;/free-analysis, /applicant/setup, /applicant/portal, /apply/[jobUrl]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="300" x="370" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="api_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#334155;fontStyle=1;fontSize=16;arcSize=8;verticalAlign=top;spacingTop=12;" value="FastAPI Backend Container" vertex="1">
+          <mxGeometry height="520" width="430" x="770" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="api_entry" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=13;align=left;spacing=10;arcSize=8;" value="API Gateway / App Router&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;localhost:8000, /docs&lt;br&gt;Next.js calls /backend/* proxy to FastAPI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="370" x="800" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="api_auth" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#7c3aed;fontSize=13;align=left;spacing=10;arcSize=8;" value="Auth and Access Control&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;/auth/token, /auth/me&lt;br&gt;JWT, password hashing, role guards, multi-role assignments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="175" x="800" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="api_employer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#059669;fontSize=13;align=left;spacing=10;arcSize=8;" value="Employer / HR APIs&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;/employer/setup, /employer/users&lt;br&gt;/hr/jobs, /hr/applications, prequalify, scheduling&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="175" x="995" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="api_applicant" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#0891b2;fontSize=13;align=left;spacing=10;arcSize=8;" value="Applicant and Public APIs&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;/companies, /jobs/{jobUrl}, /applications&lt;br&gt;public free analysis and HM preview&lt;/font&gt;" vertex="1">
+          <mxGeometry height="94" width="175" x="800" y="431" as="geometry" />
+        </mxCell>
+        <mxCell id="api_agency" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontSize=13;align=left;spacing=10;arcSize=8;" value="Agency APIs&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;/client-companies, /candidates, /match-job, /submissions, /recruiter-performance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="94" width="175" x="995" y="431" as="geometry" />
+        </mxCell>
+        <mxCell id="api_platform" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#ef4444;fontSize=13;align=left;spacing=10;arcSize=8;" value="Platform Admin APIs&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;/platform/performance&lt;br&gt;/platform/site-visitors, talent network visibility&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="175" x="800" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="api_services" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#64748b;fontSize=13;align=left;spacing=10;arcSize=8;" value="Backend Services&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;AI service, resume parser, CRUD, schemas, Alembic migrations&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="175" x="995" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="data_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontStyle=1;fontSize=16;arcSize=8;verticalAlign=top;spacingTop=12;" value="Data and AI Layer" vertex="1">
+          <mxGeometry height="520" width="260" x="1280" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="postgres" parent="1" style="shape=cylinder3d;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;align=center;spacing=10;" value="PostgreSQL 15&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;host port 5433&lt;br&gt;users, role assignments, companies, jobs, questions, applications, candidates, interviews, usage stats&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="190" x="1315" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="uploads" parent="1" style="shape=folder;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;fontSize=13;align=center;spacing=10;tabWidth=65;tabHeight=0;" value="Resume Upload Storage&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;./uploads/resumes&lt;br&gt;TXT, PDF, DOCX&lt;/font&gt;" vertex="1">
+          <mxGeometry height="88" width="190" x="1315" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ollama" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;align=center;spacing=10;arcSize=8;" value="Ollama LLM Container&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ollama:11434&lt;br&gt;qwen2.5:7b&lt;br&gt;resume/JD scoring, question generation, AI score/comments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="105" width="190" x="1315" y="547" as="geometry" />
+        </mxCell>
+        <mxCell id="workflow_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontStyle=1;fontSize=16;arcSize=8;verticalAlign=top;spacingTop=12;" value="Core Workflow" vertex="1">
+          <mxGeometry height="180" width="1280" x="160" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="wf_setup" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#6366f1;fontSize=13;align=center;spacing=8;arcSize=8;verticalAlign=top;" value="1. Company / Agency Setup&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;First admin receives multi-role access: Company Admin + HR + Hiring Manager&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="180" x="270" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="wf_job" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfdf5;strokeColor=#10b981;fontSize=13;align=center;spacing=8;arcSize=8;verticalAlign=top;" value="2. Create Job&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;JD, screening questions, public job URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="181" x="488" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="wf_apply" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#06b6d4;fontSize=13;align=center;spacing=8;arcSize=8;verticalAlign=top;" value="3. Applicant Applies&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Account, resume upload, applicant answers&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="181" x="709" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="wf_score" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;align=center;spacing=8;arcSize=8;verticalAlign=top;" value="4. AI Assessment&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Resume/JD fit, applicant answers, AI score/comments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="179" x="930" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="wf_review" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontSize=13;align=center;spacing=8;arcSize=8;verticalAlign=top;" value="5. Review and Decision&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;HR qualify, HM recommendation, agency submission, performance reporting&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="184" x="1156" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_actor_applicant" edge="1" parent="1" source="actor_applicant" style="endArrow=block;html=1;rounded=0;strokeColor=#0891b2;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="fe_applicant" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="248" />
+              <mxPoint x="320" y="459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_actor_employer" edge="1" parent="1" source="actor_employer" style="endArrow=block;html=1;rounded=0;strokeColor=#4f46e5;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="fe_employer" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="346" />
+              <mxPoint x="290" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_actor_hr" edge="1" parent="1" source="actor_hr_hm" style="endArrow=block;html=1;rounded=0;strokeColor=#059669;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="fe_employer" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="436" />
+              <mxPoint x="290" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_actor_platform" edge="1" parent="1" source="actor_platform" style="endArrow=block;html=1;rounded=0;strokeColor=#ea580c;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="fe_employer" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="526" />
+              <mxPoint x="290" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_fe_api_1" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;" value="/backend API calls">
+          <mxGeometry relative="1" x="-0.0746" y="17" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="670" y="255.70967741935488" as="sourcePoint" />
+            <mxPoint x="800" y="254.59139784946228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_fe_api_2" edge="1" parent="1" source="fe_agency" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="api_entry" value="/backend API calls">
+          <mxGeometry relative="1" x="-0.2222" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="730" y="359" />
+              <mxPoint x="730" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_fe_api_3" edge="1" parent="1" source="fe_applicant" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="api_entry" value="/backend API calls">
+          <mxGeometry relative="1" x="-0.3353" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="730" y="459" />
+              <mxPoint x="730" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_api_db" edge="1" parent="1" source="api_services" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="postgres" value="SQLAlchemy / Alembic">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="583" />
+              <mxPoint x="1240" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_api_uploads" edge="1" parent="1" source="api_applicant" style="endArrow=block;html=1;rounded=0;strokeColor=#d97706;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="uploads" value="resume files">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="888" y="538" />
+              <mxPoint x="1410" y="538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_api_ollama" edge="1" parent="1" source="api_services" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="ollama" value="AI prompts / scoring">
+          <mxGeometry relative="1" x="-0.0384" y="-27" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_api_internal_1" edge="1" parent="1" source="api_entry" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;" target="api_auth" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_api_internal_2" edge="1" parent="1" source="api_entry" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;" target="api_employer" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_api_internal_3" edge="1" parent="1" source="api_entry" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;" target="api_applicant" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_api_internal_4" edge="1" parent="1" source="api_entry" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;" target="api_agency" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_api_internal_5" edge="1" parent="1" source="api_entry" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;" target="api_platform" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_api_internal_6" edge="1" parent="1" source="api_entry" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;" target="api_services" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_wf_1" edge="1" parent="1" source="wf_setup" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;" target="wf_job" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_wf_2" edge="1" parent="1" source="wf_job" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;" target="wf_apply" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_wf_3" edge="1" parent="1" source="wf_apply" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;" target="wf_score" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_wf_4" edge="1" parent="1" source="wf_score" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;" target="wf_review" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Zp2Pbn-jrzfZcPcnFq-2" edge="1" parent="1" source="C0Zp2Pbn-jrzfZcPcnFq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#33FF33;" target="fe_agency">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="617" />
+              <mxPoint x="300" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0Zp2Pbn-jrzfZcPcnFq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF99;strokeColor=#f97316;fontSize=13;align=left;spacing=10;arcSize=8;" value="Recruiting Agency&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Company setup, users, roles, workspace access&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76" width="170" x="85" y="579" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="csqPkoBvC4ZPFurgzNAI" name="Applicant WF">
+    <mxGraphModel dx="1665" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="850" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="awf_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#0f172a;align=left;verticalAlign=middle;" value="Applicant Entry Workflow" vertex="1">
+          <mxGeometry height="44" width="420" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#475569;align=left;verticalAlign=middle;" value="Applicants arrive either from a company/agency job board or directly for the free Resume/JD analysis tool." vertex="1">
+          <mxGeometry height="30" width="830" x="62" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_start" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0f172a;strokeColor=#0f172a;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" value="How did applicant arrive?" vertex="1">
+          <mxGeometry height="88" width="210" x="475" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_guest_lane" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#22c55e;fontStyle=1;fontSize=16;fontColor=#14532d;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Direct Free Tool Path&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Applicant visits public site without a specific job opening&lt;/font&gt;" vertex="1">
+          <mxGeometry height="520" width="300" x="80" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_account_lane" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#3b82f6;fontStyle=1;fontSize=16;fontColor=#1e3a8a;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Job Application Path&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Applicant arrives from company or agency job board&lt;/font&gt;" vertex="1">
+          <mxGeometry height="520" width="300" x="430" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefits_panel" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontStyle=1;fontSize=16;fontColor=#7c2d12;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Account / Marketplace Benefits&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Optional benefits after either path&lt;/font&gt;" vertex="1">
+          <mxGeometry height="520" width="330" x="780" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_guest_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="1. Visit Public Site Directly" vertex="1">
+          <mxGeometry height="58" width="210" x="125" y="321" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_guest_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="2. Upload Resume and Paste Job Description" vertex="1">
+          <mxGeometry height="58" width="210" x="125" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_guest_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="3. Run Free Resume/JD Analysis" vertex="1">
+          <mxGeometry height="58" width="210" x="125" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_guest_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Output:&lt;br&gt;AI score/comments and practice questions.&lt;br&gt;&lt;br&gt;Account creation is optional." vertex="1">
+          <mxGeometry height="110" width="210" x="125" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="G5AJcrBYWPdRXTt7y5SU-6" edge="1" parent="1" source="awf_account_1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="awf_benefit_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_account_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="1. View Job Board / Job Link" vertex="1">
+          <mxGeometry height="58" width="210" x="475" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_account_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="2. Select Job Opening" vertex="1">
+          <mxGeometry height="58" width="210" x="475" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_account_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="3. Apply, Upload Resume, Answer Screening Questions" vertex="1">
+          <mxGeometry height="58" width="210" x="475" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_account_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="4. Auto Mediator Generates AI Score/Comments" vertex="1">
+          <mxGeometry height="58" width="210" x="475" y="571" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_account_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=13;fontStyle=1;fontColor=#075985;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="5. Application Flows to HR / Agency Review" vertex="1">
+          <mxGeometry height="58" width="210" x="475" y="662" as="geometry" />
+        </mxCell>
+        <mxCell id="G5AJcrBYWPdRXTt7y5SU-4" edge="1" parent="1" source="awf_benefit_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="awf_account_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefit_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#fdba74;fontSize=12;fontColor=#431407;align=left;verticalAlign=middle;spacing=10;arcSize=8;" value="Optional: create a free account" vertex="1">
+          <mxGeometry height="48" width="255" x="818" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefit_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#fdba74;fontSize=12;fontColor=#431407;align=left;verticalAlign=middle;spacing=10;arcSize=8;" value="Saved applicant profile and reusable resume" vertex="1">
+          <mxGeometry height="48" width="255" x="818" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefit_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#fdba74;fontSize=12;fontColor=#431407;align=left;verticalAlign=middle;spacing=10;arcSize=8;" value="Unlimited repeat use of free analysis" vertex="1">
+          <mxGeometry height="48" width="255" x="818" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefit_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#fdba74;fontSize=12;fontColor=#431407;align=left;verticalAlign=middle;spacing=10;arcSize=8;" value="Optional marketplace visibility for employers, hiring managers, and agencies" vertex="1">
+          <mxGeometry height="64" width="255" x="818" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefit_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#fdba74;fontSize=12;fontColor=#431407;align=left;verticalAlign=middle;spacing=10;arcSize=8;" value="Job-match notifications based on resume profile" vertex="1">
+          <mxGeometry height="48" width="255" x="818" y="593" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_benefit_6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#fdba74;fontSize=12;fontColor=#431407;align=left;verticalAlign=middle;spacing=10;arcSize=8;" value="Screening interview participation when invited" vertex="1">
+          <mxGeometry height="48" width="255" x="818" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_decision_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#475569;align=center;verticalAlign=middle;" value="Choose entry path" vertex="1">
+          <mxGeometry height="24" width="120" x="400" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_start_guest" edge="1" parent="1" source="awf_start" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="awf_guest_1" value="free tool">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_start_account" edge="1" parent="1" source="awf_start" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="awf_account_1" value="job board / link">
+          <mxGeometry relative="1" x="-0.6741" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awf_edge_guest_1" edge="1" parent="1" source="awf_guest_1" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="awf_guest_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_guest_2" edge="1" parent="1" source="awf_guest_2" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="awf_guest_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_guest_3" edge="1" parent="1" source="awf_guest_3" style="endArrow=block;html=1;rounded=0;strokeColor=#64748b;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="awf_guest_note" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_account_2" edge="1" parent="1" source="awf_account_2" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="awf_account_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_account_3" edge="1" parent="1" source="awf_account_3" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="awf_account_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_account_4" edge="1" parent="1" source="awf_account_4" style="endArrow=block;html=1;rounded=0;strokeColor=#0284c7;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="awf_account_5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf_edge_free_benefits" edge="1" parent="1" source="awf_guest_note" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="awf_benefit_1" value="optional account">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="770" />
+              <mxPoint x="1130" y="770" />
+              <mxPoint x="1130" y="324" />
+            </Array>
+            <mxPoint x="1080" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G5AJcrBYWPdRXTt7y5SU-1" edge="1" parent="1" source="awf_decision_label" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="awf_decision_label">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hiring-manager-workflow" name="Hiring Manager WF">
+    <mxGraphModel dx="1665" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="900" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hmwf_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#0f172a;align=left;verticalAlign=middle;" value="Hiring Manager Workflow" vertex="1">
+          <mxGeometry height="44" width="480" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#475569;align=left;verticalAlign=middle;" value="From job intake to AI-assisted screening, interview decision, recommendation, and reporting." vertex="1">
+          <mxGeometry height="30" width="820" x="62" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_actor" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0f172a;strokeColor=#0f172a;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="Hiring Manager" vertex="1">
+          <mxGeometry height="76" width="150" x="555" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_lane_setup" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#3b82f6;fontStyle=1;fontSize=16;fontColor=#1e3a8a;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Job Setup and Intake&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Define role, questions, and public application link&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="330" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_lane_review" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#22c55e;fontStyle=1;fontSize=16;fontColor=#14532d;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Applicant Review&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Use AI score/comments and applicant answers to build a shortlist&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="330" x="485" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_lane_decision" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontStyle=1;fontSize=16;fontColor=#7c2d12;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Decision and Reporting&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Interview, recommend, reject, or hand off&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="330" x="900" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_setup_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="1. Open Employer Workspace" vertex="1">
+          <mxGeometry height="58" width="230" x="120" y="328" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_setup_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="2. Create or Review Job" vertex="1">
+          <mxGeometry height="58" width="230" x="120" y="437" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_setup_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="3. Confirm JD and Screening Questions" vertex="1">
+          <mxGeometry height="58" width="230" x="120" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_setup_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=13;fontStyle=1;fontColor=#075985;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="4. Share Public Job URL" vertex="1">
+          <mxGeometry height="58" width="230" x="120" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_review_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="5. Applicants Apply, Upload Resume, Answer Screening Questions" vertex="1">
+          <mxGeometry height="58" width="230" x="535" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_review_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="6. AI Scores Resume, JD Fit, and Applicant Answers" vertex="1">
+          <mxGeometry height="72" width="230" x="535" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_review_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="7. Review Ranked Applications" vertex="1">
+          <mxGeometry height="58" width="230" x="535" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_review_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="8. Qualify or Reject" vertex="1">
+          <mxGeometry height="58" width="230" x="535" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_review_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Review inputs:&lt;br&gt;resume, applicant answers, AI score/comments, prequalification status" vertex="1">
+          <mxGeometry height="70" width="230" x="535" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_decision_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="9. Schedule Interview" vertex="1">
+          <mxGeometry height="58" width="230" x="950" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_decision_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="10. Capture Interview Notes" vertex="1">
+          <mxGeometry height="58" width="230" x="950" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_decision_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="11. Make HM Recommendation" vertex="1">
+          <mxGeometry height="58" width="230" x="950" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_decision_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="12. Send Recommendation or Final Decision" vertex="1">
+          <mxGeometry height="72" width="230" x="950" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_decision_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Decision outputs:&lt;br&gt;shortlist, rejection, interview status, recommendation / final decision when authorized, performance reporting" vertex="1">
+          <mxGeometry height="76" width="230" x="950" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_actor_setup" edge="1" parent="1" source="hmwf_actor" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hmwf_setup_1" value="login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_setup_1" edge="1" parent="1" source="hmwf_setup_1" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_setup_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_setup_2" edge="1" parent="1" source="hmwf_setup_2" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_setup_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_setup_3" edge="1" parent="1" source="hmwf_setup_3" style="endArrow=block;html=1;rounded=0;strokeColor=#0284c7;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_setup_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_intake_review" edge="1" parent="1" source="hmwf_setup_4" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hmwf_review_1" value="applications arrive">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="690" />
+              <mxPoint x="430" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmwf_edge_review_1" edge="1" parent="1" source="hmwf_review_1" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_review_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_review_2" edge="1" parent="1" source="hmwf_review_2" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_review_3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="450" />
+              <mxPoint x="650" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmwf_edge_review_3" edge="1" parent="1" source="hmwf_review_3" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_review_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_qualify_interview" edge="1" parent="1" source="hmwf_review_4" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hmwf_decision_1" value="qualified">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="619" />
+              <mxPoint x="840" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmwf_edge_decision_1" edge="1" parent="1" source="hmwf_decision_1" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_decision_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_decision_2" edge="1" parent="1" source="hmwf_decision_2" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_decision_3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="470" />
+              <mxPoint x="1060" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmwf_edge_decision_3" edge="1" parent="1" source="hmwf_decision_3" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hmwf_decision_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmwf_edge_reject" edge="1" parent="1" source="hmwf_review_4" style="endArrow=block;html=1;rounded=0;dashed=1;strokeColor=#64748b;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hmwf_decision_note" value="not a fit">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="810" />
+              <mxPoint x="1065" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hr-workflow" name="HR WF">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1450" pageHeight="900" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hrwf_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#0f172a;align=left;verticalAlign=middle;" value="HR Workflow" vertex="1">
+          <mxGeometry height="44" width="360" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#475569;align=left;verticalAlign=middle;" value="Operational recruiting flow for HR: role setup, applicant pipeline management, scheduling, status control, and reporting." vertex="1">
+          <mxGeometry height="30" width="900" x="62" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_actor" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0f172a;strokeColor=#0f172a;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="HR User" vertex="1">
+          <mxGeometry height="76" width="140" x="655" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_lane_admin" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#6366f1;fontStyle=1;fontSize=16;fontColor=#312e81;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Access and Workspace&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Company context, role access, dashboard entry&lt;/font&gt;" vertex="1">
+          <mxGeometry height="570" width="300" x="60" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_lane_jobs" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#3b82f6;fontStyle=1;fontSize=16;fontColor=#1e3a8a;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Jobs and Pipeline&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Publish roles and manage applications&lt;/font&gt;" vertex="1">
+          <mxGeometry height="570" width="300" x="400" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_lane_coordination" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#22c55e;fontStyle=1;fontSize=16;fontColor=#14532d;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Screening and Coordination&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Prequalify, route, schedule, and track&lt;/font&gt;" vertex="1">
+          <mxGeometry height="570" width="300" x="740" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_lane_reporting" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontStyle=1;fontSize=16;fontColor=#7c2d12;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Decision and Reporting&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Close loop with HM, applicant, and reporting&lt;/font&gt;" vertex="1">
+          <mxGeometry height="570" width="300" x="1080" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_admin_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6366f1;fontSize=13;fontStyle=1;fontColor=#312e81;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="1. Log In to Employer Portal" vertex="1">
+          <mxGeometry height="58" width="220" x="100" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_admin_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6366f1;fontSize=13;fontStyle=1;fontColor=#312e81;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="2. Select Company Workspace" vertex="1">
+          <mxGeometry height="58" width="220" x="100" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_admin_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0e7ff;strokeColor=#6366f1;fontSize=13;fontStyle=1;fontColor=#312e81;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="3. Open HR Dashboard" vertex="1">
+          <mxGeometry height="58" width="220" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_admin_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Access controls:&lt;br&gt;JWT auth, HR role guard, multi-role assignments, company workspace scope" vertex="1">
+          <mxGeometry height="120" width="220" x="100" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_jobs_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="4. Create or Update Job" vertex="1">
+          <mxGeometry height="58" width="220" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_jobs_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="5. Attach JD and Screening Questions" vertex="1">
+          <mxGeometry height="72" width="220" x="440" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_jobs_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=13;fontStyle=1;fontColor=#075985;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="6. Publish Applicant Link" vertex="1">
+          <mxGeometry height="58" width="220" x="440" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_jobs_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="7. Monitor Applications" vertex="1">
+          <mxGeometry height="58" width="220" x="440" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_jobs_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Core routes:&lt;br&gt;/hr/jobs&lt;br&gt;/hr/applications&lt;br&gt;/apply/[jobUrl]" vertex="1">
+          <mxGeometry height="90" width="220" x="440" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_coord_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="8. Review AI Score/Comments" vertex="1">
+          <mxGeometry height="58" width="220" x="780" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_coord_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="9. Prequalify Candidate" vertex="1">
+          <mxGeometry height="58" width="220" x="780" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_coord_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="10. Route Shortlist to Hiring Manager" vertex="1">
+          <mxGeometry height="72" width="220" x="780" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_coord_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="11. Send Interview Schedule to HM" vertex="1">
+          <mxGeometry height="72" width="220" x="780" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_coord_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Decision support:&lt;br&gt;resume/JD fit, applicant answers, AI score/comments, HM preview, scheduling status" vertex="1">
+          <mxGeometry height="90" width="220" x="780" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_report_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="12. Receive HM Interview Comments / Recommendation" vertex="1">
+          <mxGeometry height="58" width="220" x="1120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_report_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="13. Update Applicant Status" vertex="1">
+          <mxGeometry height="58" width="220" x="1120" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_report_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="14. Notify Applicant or Team" vertex="1">
+          <mxGeometry height="58" width="220" x="1120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_report_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="15. Track Funnel and Hiring Performance" vertex="1">
+          <mxGeometry height="72" width="220" x="1120" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_report_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Reporting outputs:&lt;br&gt;qualified pipeline, interview conversion, hiring-manager feedback, recruiter performance" vertex="1">
+          <mxGeometry height="90" width="220" x="1120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_actor" edge="1" parent="1" source="hrwf_actor" style="endArrow=block;html=1;rounded=0;strokeColor=#6366f1;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hrwf_admin_1" value="access">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_admin_1" edge="1" parent="1" source="hrwf_admin_1" style="endArrow=block;html=1;rounded=0;strokeColor=#6366f1;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_admin_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_admin_2" edge="1" parent="1" source="hrwf_admin_2" style="endArrow=block;html=1;rounded=0;strokeColor=#6366f1;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_admin_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_admin_jobs" edge="1" parent="1" source="hrwf_admin_3" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hrwf_jobs_1" value="manage jobs">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="509" />
+              <mxPoint x="380" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrwf_edge_jobs_1" edge="1" parent="1" source="hrwf_jobs_1" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_jobs_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_jobs_2" edge="1" parent="1" source="hrwf_jobs_2" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_jobs_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_jobs_3" edge="1" parent="1" source="hrwf_jobs_3" style="endArrow=block;html=1;rounded=0;strokeColor=#0284c7;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_jobs_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_jobs_coord" edge="1" parent="1" source="hrwf_jobs_4" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hrwf_coord_1" value="screen pipeline">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="619" />
+              <mxPoint x="720" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrwf_edge_coord_1" edge="1" parent="1" source="hrwf_coord_1" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_coord_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_coord_2" edge="1" parent="1" source="hrwf_coord_2" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_coord_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_coord_3" edge="1" parent="1" source="hrwf_coord_3" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_coord_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_coord_report" edge="1" parent="1" source="hrwf_coord_4" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hrwf_report_1" value="HM completes interview">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="626" />
+              <mxPoint x="1070" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrwf_edge_report_1" edge="1" parent="1" source="hrwf_report_1" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_report_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_report_2" edge="1" parent="1" source="hrwf_report_2" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_report_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_report_3" edge="1" parent="1" source="hrwf_report_3" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="hrwf_report_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrwf_edge_reject" edge="1" parent="1" source="hrwf_coord_2" style="endArrow=block;html=1;rounded=0;dashed=1;strokeColor=#64748b;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="hrwf_report_2" value="reject / hold">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="419" />
+              <mxPoint x="1050" y="820" />
+              <mxPoint x="1360" y="820" />
+              <mxPoint x="1360" y="419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="agency-workflow" name="Agency WF">
+    <mxGraphModel dx="1665" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1450" pageHeight="900" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="agwf_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#0f172a;align=left;verticalAlign=middle;" value="Recruiting Agency Workflow" vertex="1">
+          <mxGeometry height="44" width="520" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#475569;align=left;verticalAlign=middle;" value="Agency operating flow: manage clients, build candidate pool, match candidates to jobs, submit shortlists, and track recruiter performance." vertex="1">
+          <mxGeometry height="30" width="980" x="62" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_actor" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0f172a;strokeColor=#0f172a;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="Agency Recruiter" vertex="1">
+          <mxGeometry height="76" width="155" x="648" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_lane_clients" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontStyle=1;fontSize=16;fontColor=#7c2d12;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Client and Job Intake&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create client companies and import job demand&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="300" x="60" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_lane_candidates" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#3b82f6;fontStyle=1;fontSize=16;fontColor=#1e3a8a;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Candidate Pool&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Register, enrich, and organize candidates&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="300" x="400" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_lane_matching" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#22c55e;fontStyle=1;fontSize=16;fontColor=#14532d;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="AI Matching and Submission&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Rank fit, prepare shortlist, submit to client&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="300" x="740" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_lane_feedback" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#ef4444;fontStyle=1;fontSize=16;fontColor=#7f1d1d;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Feedback and Performance&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Track decisions, interviews, placements, and recruiter KPIs&lt;/font&gt;" vertex="1">
+          <mxGeometry height="540" width="300" x="1080" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_client_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="1. Log In to Agency Portal" vertex="1">
+          <mxGeometry height="58" width="220" x="100" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_client_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="2. Create Client Company" vertex="1">
+          <mxGeometry height="58" width="220" x="100" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_client_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="3. Add Job / Role Requirements" vertex="1">
+          <mxGeometry height="72" width="220" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_client_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Agency routes:&lt;br&gt;/agency/clients&lt;br&gt;/client-companies&lt;br&gt;/agency/matching" vertex="1">
+          <mxGeometry height="110" width="220" x="100" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_candidate_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="4. Add Candidate Profile" vertex="1">
+          <mxGeometry height="58" width="220" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_candidate_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="5. Upload Resume and Skills" vertex="1">
+          <mxGeometry height="58" width="220" x="440" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_candidate_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="6. Maintain Candidate Status" vertex="1">
+          <mxGeometry height="58" width="220" x="440" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_candidate_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=13;fontStyle=1;fontColor=#075985;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="7. Build Searchable Talent Pool" vertex="1">
+          <mxGeometry height="72" width="220" x="440" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_candidate_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Candidate data:&lt;br&gt;resume, profile, skills, availability, client submission history" vertex="1">
+          <mxGeometry height="90" width="220" x="440" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_match_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="8. Run AI Job Match" vertex="1">
+          <mxGeometry height="58" width="220" x="780" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_match_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="9. Review AI Score/Comments" vertex="1">
+          <mxGeometry height="72" width="220" x="780" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_match_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="10. Select Shortlist" vertex="1">
+          <mxGeometry height="58" width="220" x="780" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="J8meqwmo6fEJxi9EOGyu-1" edge="1" parent="1" source="agwf_match_4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="agwf_match_3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="570" />
+              <mxPoint x="840" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agwf_match_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="11. Submit Candidates to Client" vertex="1">
+          <mxGeometry height="72" width="220" x="780" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_match_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Matching APIs:&lt;br&gt;/match-job&lt;br&gt;/submissions&lt;br&gt;Ollama AI score/comments" vertex="1">
+          <mxGeometry height="90" width="220" x="780" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_feedback_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ef4444;fontSize=13;fontStyle=1;fontColor=#7f1d1d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="12. Track Client Feedback" vertex="1">
+          <mxGeometry height="58" width="220" x="1120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_feedback_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fee2e2;strokeColor=#ef4444;fontSize=13;fontStyle=1;fontColor=#7f1d1d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="13. Coordinate Interview / Next Step" vertex="1">
+          <mxGeometry height="72" width="220" x="1120" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_feedback_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ef4444;fontSize=13;fontStyle=1;fontColor=#7f1d1d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="14. Update Submission Outcome" vertex="1">
+          <mxGeometry height="58" width="220" x="1120" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_feedback_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ef4444;fontSize=13;fontStyle=1;fontColor=#7f1d1d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="15. Review Recruiter Performance" vertex="1">
+          <mxGeometry height="72" width="220" x="1120" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_feedback_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="Performance outputs:&lt;br&gt;submissions, interview conversion, placements, recruiter activity, client response" vertex="1">
+          <mxGeometry height="90" width="220" x="1120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_actor" edge="1" parent="1" source="agwf_actor" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="agwf_client_1" value="access">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_client_1" edge="1" parent="1" source="agwf_client_1" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_client_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_client_2" edge="1" parent="1" source="agwf_client_2" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_client_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_client_candidate" edge="1" parent="1" source="agwf_client_3" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="agwf_candidate_1" value="source candidates">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_candidate_1" edge="1" parent="1" source="agwf_candidate_1" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_candidate_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_candidate_2" edge="1" parent="1" source="agwf_candidate_2" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_candidate_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_candidate_3" edge="1" parent="1" source="agwf_candidate_3" style="endArrow=block;html=1;rounded=0;strokeColor=#0284c7;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_candidate_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_candidate_match" edge="1" parent="1" source="agwf_candidate_4" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="agwf_match_1" value="match to job">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="606" />
+              <mxPoint x="720" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agwf_edge_match_1" edge="1" parent="1" source="agwf_match_1" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_match_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_match_2" edge="1" parent="1" source="agwf_match_2" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_match_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_match_3" edge="1" parent="1" source="agwf_match_3" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;entryX=0.682;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="agwf_match_4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="590" />
+              <mxPoint x="930" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agwf_edge_match_feedback" edge="1" parent="1" source="agwf_match_4" style="endArrow=block;html=1;rounded=0;strokeColor=#ef4444;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="agwf_feedback_1" value="client review">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="626" />
+              <mxPoint x="1060" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agwf_edge_feedback_1" edge="1" parent="1" source="agwf_feedback_1" style="endArrow=block;html=1;rounded=0;strokeColor=#ef4444;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_feedback_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_feedback_2" edge="1" parent="1" source="agwf_feedback_2" style="endArrow=block;html=1;rounded=0;strokeColor=#ef4444;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_feedback_3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_feedback_3" edge="1" parent="1" source="agwf_feedback_3" style="endArrow=block;html=1;rounded=0;strokeColor=#ef4444;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="agwf_feedback_4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agwf_edge_rematch" edge="1" parent="1" source="agwf_feedback_3" style="endArrow=block;html=1;rounded=0;dashed=1;strokeColor=#64748b;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="agwf_match_3" value="revise shortlist">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="529" />
+              <mxPoint x="1100" y="815" />
+              <mxPoint x="760" y="815" />
+              <mxPoint x="760" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cross-functional-role-workflow" name="Cross Functional WF">
+    <mxGraphModel dx="1665" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1050" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cfwf_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#0f172a;align=left;verticalAlign=middle;" value="Cross-Functional Role Workflow" vertex="1">
+          <mxGeometry height="44" width="560" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_subtitle" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#475569;align=left;verticalAlign=middle;" value="Direct-hire employer flow across Company Admin, HR, Applicant, Auto Mediator AI, and Hiring Manager until hiring decision." vertex="1">
+          <mxGeometry height="30" width="1000" x="62" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_lane_admin" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef2ff;strokeColor=#6366f1;fontStyle=1;fontSize=16;fontColor=#312e81;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Company Admin / Employer Setup&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Creates the direct-hire company workspace and role access&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="1660" x="70" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_lane_hr" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#3b82f6;fontStyle=1;fontSize=16;fontColor=#1e3a8a;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="HR Workflow&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Creates jobs, reviews scores, routes qualified applicants, schedules interviews, and makes final decision&lt;/font&gt;" vertex="1">
+          <mxGeometry height="210" width="1660" x="70" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_lane_applicant" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#06b6d4;fontStyle=1;fontSize=16;fontColor=#155e75;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Applicant Workflow&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Finds job board/listing, applies, uploads resume, and participates in interview&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="1660" x="70" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_lane_ai" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#22c55e;fontStyle=1;fontSize=16;fontColor=#14532d;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Auto Mediator AI&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Automatically scores resume fit and applicant answers, then sends AI score/comments into HR review&lt;/font&gt;" vertex="1">
+          <mxGeometry height="125" width="1660" x="70" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_lane_hm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#f97316;fontStyle=1;fontSize=16;fontColor=#7c2d12;arcSize=8;verticalAlign=top;spacingTop=14;spacingLeft=14;align=left;" value="Hiring Manager Workflow&lt;br&gt;&lt;font style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Receives schedule, interviews applicants, and writes comments back to HR&lt;/font&gt;" vertex="1">
+          <mxGeometry height="135" width="1660" x="70" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_admin_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6366f1;fontSize=13;fontStyle=1;fontColor=#312e81;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="1. Setup Direct-Hire Company / Employer" vertex="1">
+          <mxGeometry height="62" width="235" x="130" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_admin_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0e7ff;strokeColor=#6366f1;fontSize=13;fontStyle=1;fontColor=#312e81;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="2. Setup Roles&lt;br&gt;&lt;font style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;Company Admin, HR, HM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="62" width="215" x="410" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="3. HR Creates Jobs" vertex="1">
+          <mxGeometry height="58" width="190" x="685" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="4. Generate Job Board and Job Links" vertex="1">
+          <mxGeometry height="72" width="215" x="925" y="343" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_app_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#06b6d4;fontSize=13;fontStyle=1;fontColor=#155e75;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="5. Applicants Apply Through Job Board" vertex="1">
+          <mxGeometry height="72" width="225" x="920" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_app_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cffafe;strokeColor=#06b6d4;fontSize=13;fontStyle=1;fontColor=#155e75;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="6. Upload Resume and Answer Screening Questions" vertex="1">
+          <mxGeometry height="72" width="225" x="1190" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_ai_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;fontSize=13;fontStyle=1;fontColor=#14532d;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="7. Auto Mediator Scores Resume and Applicant Answers" vertex="1">
+          <mxGeometry height="72" width="250" x="1180" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="F6JhcA-BtmdGJQrIbW8a-2" edge="1" parent="1" source="cfwf_hr_3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.558;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" target="cfwf_hr_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="8. HR Reviews Scores" vertex="1">
+          <mxGeometry height="58" width="190" x="1248" y="441" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="9. Send Qualified Applicants Forward" vertex="1">
+          <mxGeometry height="72" width="220" x="1448" y="333" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="10. Schedule Interviews" vertex="1">
+          <mxGeometry height="58" width="200" x="1468" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hm_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffedd5;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="11. HM Receives Interview Schedule" vertex="1">
+          <mxGeometry height="72" width="230" x="1160" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hm_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f97316;fontSize=13;fontStyle=1;fontColor=#7c2d12;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="12. HM Interviews Applicants and Writes Comments" vertex="1">
+          <mxGeometry height="72" width="250" x="830" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=13;fontStyle=1;fontColor=#075985;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="13. HR Reviews HM Comments" vertex="1">
+          <mxGeometry height="58" width="215" x="575" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_hr_7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#2563eb;fontSize=13;fontStyle=1;fontColor=#1e3a8a;align=center;verticalAlign=middle;spacing=8;arcSize=8;" value="14. Decision Owner Makes Hiring Decision" vertex="1">
+          <mxGeometry height="58" width="225" x="300" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_done" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0f172a;strokeColor=#0f172a;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" value="Decision Made" vertex="1">
+          <mxGeometry height="76" width="150" x="115" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_system_note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontSize=12;fontColor=#334155;align=left;verticalAlign=top;spacing=10;arcSize=8;" value="System behavior&lt;br&gt;&lt;br&gt;Each step automatically routes work, AI score/comments, schedules, HM comments, and status updates to the next responsible role until the assigned decision owner records the final hiring decision." vertex="1">
+          <mxGeometry height="80" width="520" x="90" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_1" edge="1" parent="1" source="cfwf_admin_1" style="endArrow=block;html=1;rounded=0;strokeColor=#6366f1;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_admin_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_2" edge="1" parent="1" source="cfwf_admin_2" style="endArrow=block;html=1;rounded=0;strokeColor=#334155;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="cfwf_hr_1" value="HR access enabled">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_3" edge="1" parent="1" source="cfwf_hr_1" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_hr_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_4" edge="1" parent="1" source="cfwf_hr_2" style="endArrow=block;html=1;rounded=0;strokeColor=#06b6d4;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="cfwf_app_1" value="public links">
+          <mxGeometry relative="1" x="-0.2973" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cfwf_edge_5" edge="1" parent="1" source="cfwf_app_1" style="endArrow=block;html=1;rounded=0;strokeColor=#06b6d4;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_app_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_6" edge="1" parent="1" source="cfwf_app_2" style="endArrow=block;html=1;rounded=0;strokeColor=#16a34a;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="cfwf_ai_1" value="submit resume + applicant answers">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_7" edge="1" parent="1" source="cfwf_ai_1" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="cfwf_hr_3" value="AI score/comments">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="801" />
+              <mxPoint x="1460" y="540" />
+              <mxPoint x="1343" y="540" />
+            </Array>
+            <mxPoint x="1355" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cfwf_edge_9" edge="1" parent="1" source="cfwf_hr_4" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_hr_5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1568" y="430" />
+              <mxPoint x="1568" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cfwf_edge_10" edge="1" parent="1" source="cfwf_hr_5" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cfwf_hm_1" value="schedule sent">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="498" />
+              <mxPoint x="1570" y="860" />
+              <mxPoint x="1275" y="860" />
+            </Array>
+            <mxPoint x="1600" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cfwf_edge_11" edge="1" parent="1" source="cfwf_hm_1" style="endArrow=block;html=1;rounded=0;strokeColor=#f97316;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_hm_2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_12" edge="1" parent="1" source="cfwf_hm_2" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;fontSize=11;edgeStyle=orthogonalEdgeStyle;" target="cfwf_hr_6" value="comments returned">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_13" edge="1" parent="1" source="cfwf_hr_6" style="endArrow=block;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_hr_7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfwf_edge_14" edge="1" parent="1" source="cfwf_hr_7" style="endArrow=block;html=1;rounded=0;strokeColor=#0f172a;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" target="cfwf_done" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

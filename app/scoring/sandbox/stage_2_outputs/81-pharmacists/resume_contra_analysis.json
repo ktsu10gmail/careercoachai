@@ -1,0 +1,140 @@
+{
+  "job_title": "81. Pharmacists",
+  "case_slug": "81-pharmacists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:53.789469",
+  "match_score": 23.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 1.4,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 13 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+        "Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 22.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+        "Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications."
+      ]
+    }
+  ],
+  "requirement_matches": [],
+  "missing_requirements": [
+    {
+      "requirement": "Dispense medications to patients under the supervision of a licensed physician",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: \"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct patient assessments to identify medication needs and potential interactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: \"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "severity": "high"
+    },
+    {
+      "requirement": "Review prescriptions for accuracy and completeness before filling",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor patient responses to medications and adjust treatment plans as needed",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of patient medication use, including refill requests and adverse reactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay current with new medications, treatments, and guidelines through ongoing education and training",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: \"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in pharmacy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current licensure as a pharmacist in the state of practice",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: \"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in electronic health records (EHRs) and other clinical software",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Basic life support certification",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "supports": "Dispense medications to patients under the supervision of a licensed physician"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "supports": "Conduct patient assessments to identify medication needs and potential interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications.",
+      "supports": "Monitor patient responses to medications and adjust treatment plans as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in EHRs and basic life support certification, but did not maintain accurate records of patient medication use or monitor patient responses to medications.",
+      "supports": "Maintain accurate records of patient medication use, including refill requests and adverse reactions"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented pharmacist with strong communication skills, seeking to leverage my experience in dispensing medications under physician supervision (note: I did not conduct patient assessments or collaborate with healthcare teams on a re",
+      "supports": "Stay current with new medications, treatments, and guidelines through ongoing education and training"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

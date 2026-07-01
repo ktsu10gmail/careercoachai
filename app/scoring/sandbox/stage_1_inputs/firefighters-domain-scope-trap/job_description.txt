@@ -1,0 +1,50 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to design and execute comprehensive stress testing scenarios for our software applications, with a focus on identifying potential performance bottlenecks in our domain scope trap feature.
+
+**Responsibilities:**
+
+* Design and develop realistic stress test scenarios to simulate high-traffic, high-stakes user interactions
+* Collaborate with cross-functional teams to identify key performance indicators (KPIs) and testing objectives
+* Execute stress tests using various tools and techniques, including load testing, endurance testing, and performance benchmarking
+* Analyze test results, identifying trends, patterns, and areas for improvement
+* Develop and maintain detailed test plans, scripts, and reports to document testing activities and outcomes
+* Work closely with QA teams to ensure seamless integration of stress testing into the overall quality assurance process
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or performance engineering
+* In-depth knowledge of software applications, including architecture, design patterns, and scalability considerations
+* Strong understanding of load testing tools, such as Apache JMeter, Gatling, or Locust
+* Experience with cloud-based infrastructure, including AWS or Azure
+* Familiarity with containerization technologies, such as Docker
+* Excellent analytical and problem-solving skills, with ability to interpret complex data sets
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (e.g. finance, healthcare)
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Scope Qualifiers:**
+
+* Domain scope trap feature
+* User authentication and authorization
+* Data encryption and access control
+* Scalability and performance optimization
+
+**Essential Requirements:**
+
+* Experience with stress testing tools and techniques
+* Strong analytical and problem-solving skills
+* Excellent communication and collaboration skills
+* Ability to work in a fast-paced, dynamic environment
+
+If you are a motivated and detail-oriented individual with a passion for performance engineering, we encourage you to apply for this exciting opportunity!

@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+* Designed and developed stress test scenarios for on-premise infrastructure (not cloud-based)
+* Collaborated with teams to identify KPIs, but did not work on high-volume or global projects
+* Executed load testing using Apache JMeter, but did not use Gatling or Locust
+* Analyzed test results, identifying trends and areas for improvement, but did not develop detailed test plans or scripts
+* Worked closely with QA teams to ensure integration of stress testing into the overall quality assurance process, but did not have experience with user authentication and authorization
+
+Note that this snippet highlights some relevant skills and experience, but omits or negates the essential domain qualifiers (e.g. Software/SaaS, Enterprise, Regulated industry) and scope qualifiers (e.g. Domain scope trap feature).

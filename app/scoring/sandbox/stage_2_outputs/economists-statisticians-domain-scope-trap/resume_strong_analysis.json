@@ -1,0 +1,143 @@
+{
+  "job_title": "Economists / Statisticians",
+  "case_slug": "economists-statisticians-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:58.927455",
+  "match_score": 84.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 75.7,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Designed and developed realistic stress test scenarios using Apache JMeter and Gatling to simulate high-traffic, high-volume, and low-latency conditions on SaaS applications",
+        "+ Developed and executed automated testing scripts using industry-standard tools and frameworks",
+        "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for SaaS and enterprise environments, ensuring reliability and performance under high-traffic, high-volume, an"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Designed and developed realistic stress test scenarios using Apache JMeter and Gatling to simulate high-traffic, high-volume, and low-latency conditions on SaaS applications",
+        "Strong analytical and problem-solving skills, with ability to interpret complex data sets",
+        "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for SaaS and enterprise environments, ensuring reliability and performance under high-traffic, high-volume, an"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Designed and developed realistic stress test scenarios using Apache JMeter and Gatling to simulate high-traffic, high-volume, and low-latency conditions on SaaS applications",
+        "+ Developed and executed automated testing scripts using industry-standard tools and frameworks",
+        "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for SaaS and enterprise environments, ensuring reliability and performance under high-traffic, high-volume, an"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and develop realistic stress test scenarios to simulate high-traffic, high-volume, and low-latency conditions on the domain scope trap feature",
+      "evidence": [
+        "+ Designed and developed realistic stress test scenarios using Apache JMeter and Gatling to simulate high-traffic, high-volume, and low-latency conditions on SaaS applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and execute automated testing scripts using industry-standard tools and frameworks (e.g., Apache JMeter, Gatling)",
+      "evidence": [
+        "+ Developed and executed automated testing scripts using industry-standard tools and frameworks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for SaaS and enterprise environments, ensuring reliability and performance under high-traffic, high-volume, an"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, testing methodologies, and quality assurance principles",
+      "evidence": [
+        "Software development life cycles, testing methodologies, and quality assurance principles"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "+ Conducted stress testing and performance engineering for enterprise applications using Java and Python"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with industry-standard testing tools and frameworks (e.g., Apache JMeter, Gatling)",
+      "evidence": [
+        "+ Designed and developed realistic stress test scenarios using Apache JMeter and Gatling to simulate high-traffic, high-volume, and low-latency conditions on SaaS applications"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable insights to improve the feature's performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Domain Qualifiers:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and developed realistic stress test scenarios using Apache JMeter and Gatling to simulate high-traffic, high-volume, and low-latency conditions on SaaS applications",
+      "supports": "Design and develop realistic stress test scenarios to simulate high-traffic, high-volume, and low-latency conditions on the domain scope trap feature"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and executed automated testing scripts using industry-standard tools and frameworks",
+      "supports": "Develop and execute automated testing scripts using industry-standard tools and frameworks (e.g., Apache JMeter, Gatling)"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for SaaS and enterprise environments, ensuring reliability and performance under high-traffic, high-volume, an",
+      "supports": "Develop and maintain comprehensive documentation of testing methodologies, scripts, and results"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science, XYZ University (2015-2019)",
+      "supports": "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

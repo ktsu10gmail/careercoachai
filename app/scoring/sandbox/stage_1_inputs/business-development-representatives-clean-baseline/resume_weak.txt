@@ -1,0 +1,23 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Business Development Representative**
+
+* 3+ years of experience in IT project management
+* Proven track record of successfully implementing software solutions for small businesses
+* Excellent communication and problem-solving skills
+* Strong understanding of technical concepts, including networking and cybersecurity
+* Ability to work independently and as part of a team
+
+**Technical Skills:**
+
+* Proficient in Linux operating systems and scripting languages (e.g. Bash, Python)
+* Experience with IT project management tools, such as Asana and Trello
+* Familiarity with network protocols and security best practices
+
+**Professional Experience:**
+
+* Project Manager, XYZ Corporation (2018-Present)
+	+ Managed software development projects for small businesses
+	+ Coordinated with cross-functional teams to deliver projects on time and within budget
+	+ Implemented process improvements to increase efficiency and productivity

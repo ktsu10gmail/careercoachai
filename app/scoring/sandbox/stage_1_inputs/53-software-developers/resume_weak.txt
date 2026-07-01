@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet:
+
+"Software Developer
+- Designed and developed small-scale applications using Java for personal projects
+- Collaborated with friends on team-building exercises to identify project requirements
+- Created simple automated testing frameworks using Python, but never implemented them in production
+- Participated in code reviews, but only for my own work
+- Troubleshooted issues in a few lines of code, but never had to resolve complex technical issues
+- Worked with friends on QA exercises to reproduce and fix defects
+- Stayed up-to-date with industry trends by reading articles online"
+
+This resume snippet lacks the required skills and experience, and is too focused on personal projects rather than professional development. It also doesn't demonstrate a strong understanding of software design patterns, data structures, or algorithms, which are essential for a software developer role.

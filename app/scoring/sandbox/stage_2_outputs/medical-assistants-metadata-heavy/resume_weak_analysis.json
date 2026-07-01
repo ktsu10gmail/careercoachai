@@ -1,0 +1,155 @@
+{
+  "job_title": "Medical Assistants",
+  "case_slug": "medical-assistants-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.017975",
+  "match_score": 23.84,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 8.9,
+      "reason": "Found 0 direct, 3 adjacent, 1 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Conducted basic lab tests, such as EKGs and blood pressure checks",
+        "Basic life support certification"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 42.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Conducted basic lab tests, such as EKGs and blood pressure checks",
+        "Basic life support certification"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "evidence": [
+        "+ Conducted basic lab tests, such as EKGs and blood pressure checks"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Conducted basic lab tests, such as EKGs and blood pressure checks"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "+ Conducted basic lab tests, such as EKGs and blood pressure checks"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system quality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of the scoring engine's source code",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software development life cycles, testing methodologies, and Agile principles",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Basic life support certification",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Conducted basic lab tests, such as EKGs and blood pressure checks",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted basic lab tests, such as EKGs and blood pressure checks",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Basic life support certification",
+      "supports": "In-depth knowledge of software development life cycles, testing methodologies, and Agile principles"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted basic lab tests, such as EKGs and blood pressure checks",
+      "supports": "Proficiency in programming languages such as Java, Python, or C++"
+    },
+    {
+      "source": "job_description",
+      "quote": "Travel: Occasional travel to industry conferences and training events",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

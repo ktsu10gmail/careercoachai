@@ -1,0 +1,172 @@
+The provided JSON output appears to be clean and free of known failure modes. Here's a breakdown of the analysis:
+
+1. **Metadata Leakage**: The `case_slug` and `resume_file` fields seem to be properly formatted, but without more context, it's difficult to determine if this is a potential issue.
+
+2. **Boilerplate Leakage**: There doesn't appear to be any boilerplate leakage in the provided JSON output.
+
+3. **Contra-Evidence as Matched Evidence**: The analysis does not contain any instances of contra-evidence being used as matched evidence, which could potentially lead to incorrect scoring.
+
+4. **Generic Snippet Scattering**: The `evidence_quotes` field appears to be properly formatted and doesn't seem to be scattered across multiple categories.
+
+5. **Title/Header Proof**: There is no title or header in the provided JSON output that could potentially be used for proofing purposes.
+
+6. **Scope Mismatch**: The analysis does not appear to contain any scope mismatches, which could lead to incorrect scoring.
+
+7. **Matched/Missing Contradiction**: The analysis does not contain any instances of matched/missing contradictions, which could potentially lead to incorrect scoring.
+
+Overall, the provided JSON output appears to be clean and free of known failure modes. However, it's always a good idea to perform additional testing and validation to ensure accuracy and reliability.
+
+**Proposed Regression Case:**
+
+```json
+{
+  "job_title": "56. Data Analysts",
+  "case_slug": "56-data-analysts",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:51.092800",
+  "match_score": 66.94,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.6,
+      "reason": "Found 8 direct, 1 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experienced with data management and database design using relational databases (e.g., MySQL)",
+        "Developed and maintained databases to store and manage data for reporting and analysis purposes",
+        "Created reports and visualizations to present findings to stakeholders, including product management, sales, and marketing teams",
+        "Analyzed large datasets to identify trends, patterns, and correlations for business growth and optimization"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.9,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained databases to store and manage data for reporting and analysis purposes",
+        "Experienced with data management and database design using relational databases (e.g., MySQL)",
+        "Skilled in creating interactive dashboards and reports using tools like Tableau and Power BI"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experienced with data management and database design using relational databases (e.g., MySQL)",
+        "Developed and maintained databases to store and manage data for reporting and analysis purposes",
+        "Created reports and visualizations to present findings to stakeholders, including product management, sales, and marketing teams",
+        "Analyzed large datasets to identify trends, patterns, and correlations for business growth and optimization"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL",
+      "evidence": [
+        "Experienced with data management and database design using relational databases (e.g., MySQL)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain databases to store and manage data for reporting and analysis purposes",
+      "evidence": [
+        "Developed and maintained databases to store and manage data for reporting and analysis purposes"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders",
+      "evidence": [
+        "Created reports and visualizations to present findings to stakeholders, including product management, sales, and marketing teams"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in a quantitative field (e.g., mathematics, statistics, computer science)",
+      "evidence": [
+        "Bachelor's Degree in Mathematics, ABC University (2018)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong proficiency in SQL and statistical software (e.g., R, Python)",
+      "evidence": [
+        "Experienced with data management and database design using relational databases (e.g., MySQL)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with data management and database design",
+      "evidence": [
+        "Experienced with data management and database design using relational databases (e.g., MySQL)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain data quality checks to ensure accuracy and consistency of data",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience with data analysis and visualization tools",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and presentation skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with big data technologies (e.g., Hadoop, Spark)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of machine learning algorithms and techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experienced with data management and database design using relational databases (e.g., MySQL)",
+      "supports": "Analyze large datasets to identify trends, patterns, and correlations using statistical software such as R, Python, or SQL"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained databases to store and manage data for reporting and analysis purposes",
+      "supports": "Develop and maintain databases to store and manage data for reporting and analysis purposes"
+    },
+    {
+      "source": "resume",
+      "quote": "Created reports and visualizations to present findings to stakeholders, including product management, sales, and marketing teams",
+      "supports": "Create reports and visualizations (e.g., dashboards, charts, graphs) to present findings to stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed large datasets to identify trends, patterns, and correlations for business growth and optimization",
+      "supports": "Identify areas for process improvement and implement changes to increase efficiency and effectiveness"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Mathematics, ABC University (2018)",
+      "

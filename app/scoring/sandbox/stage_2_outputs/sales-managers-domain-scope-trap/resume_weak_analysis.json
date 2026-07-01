@@ -1,0 +1,161 @@
+{
+  "job_title": "Sales Managers",
+  "case_slug": "sales-managers-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:08.759709",
+  "match_score": 36.9,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.3,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance",
+        "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+        "Bachelor's degree in Business or related field"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 72.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance",
+        "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+        "Bachelor's degree in Business or related field"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's degree in Business or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing software applications",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems.",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests to simulate various types of traffic and loads on our software applications",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Identify and analyze performance bottlenecks and provide recommendations for optimization",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on system performance and reliability",
+      "evidence": [
+        "Utilized CRM software to manage customer interactions and track sales performance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts and tools to automate stress testing processes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and document potential security vulnerabilities and recommend mitigation strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools such as Apache JMeter, Gatling, or Locust",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software to manage customer interactions and track sales performance",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems."
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software to manage customer interactions and track sales performance",
+      "supports": "Design and execute stress tests to simulate various types of traffic and loads on our software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software to manage customer interactions and track sales performance",
+      "supports": "Identify and analyze performance bottlenecks and provide recommendations for optimization"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and scope qualifiers such as \"Domain scope trap scenarios\", \"Performance testing of web applications and APIs\", etc.",
+      "supports": "Develop and maintain test scripts and tools to automate stress testing processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized CRM software to manage customer interactions and track sales performance",
+      "supports": "Analyze test results and provide detailed reports on system performance and reliability"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,161 @@
+{
+  "job_title": "43. Tax Preparers",
+  "case_slug": "43-tax-preparers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:49.731819",
+  "match_score": 55.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 55.4,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly detail-oriented and organized tax professional with 1 year of experience preparing individual and small business tax returns using industry-leading software (TurboTax, H&R Block).",
+        "Conducted interviews with clients to gather necessary information for tax preparation",
+        "Proven track record of accurately identifying deductions and credits, ensuring timely and accurate submissions.",
+        "Responded to client inquiries and resolved tax-related issues in a timely manner"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 32.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Associate's degree in Accounting (20XX-20XX)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 40.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of accurately identifying deductions and credits, ensuring timely and accurate submissions."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly detail-oriented and organized tax professional with 1 year of experience preparing individual and small business tax returns using industry-leading software (TurboTax, H&R Block).",
+        "Conducted interviews with clients to gather necessary information for tax preparation",
+        "Proven track record of accurately identifying deductions and credits, ensuring timely and accurate submissions.",
+        "Responded to client inquiries and resolved tax-related issues in a timely manner"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Prepare tax returns for individuals and small businesses using tax preparation software (e.g., TurboTax, H&R Block)",
+      "evidence": [
+        "Highly detail-oriented and organized tax professional with 1 year of experience preparing individual and small business tax returns using industry-leading software (TurboTax, H&R Block)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct interviews with clients to gather necessary information for tax preparation",
+      "evidence": [
+        "Conducted interviews with clients to gather necessary information for tax preparation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Respond to client inquiries and resolve tax-related issues in a timely manner",
+      "evidence": [
+        "Responded to client inquiries and resolved tax-related issues in a timely manner"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in tax preparation software (e.g., TurboTax, H&R Block)",
+      "evidence": [
+        "Highly detail-oriented and organized tax professional with 1 year of experience preparing individual and small business tax returns using industry-leading software (TurboTax, H&R Block)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "evidence": [
+        "Strong analytical and problem-solving skills to resolve complex tax-related issues"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "evidence": [
+        "Excellent communication and customer service skills, with a focus on delivering exceptional client experiences"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Complete and submit tax returns electronically or by mail",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of client information and tax return submissions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of experience as a tax preparer or in a related field (e.g., bookkeeping, accounting)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification as a Certified Public Accountant (CPA) or Enrolled Agent (EA) preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with tax law and regulations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and organized tax professional with 1 year of experience preparing individual and small business tax returns using industry-leading software (TurboTax, H&R Block).",
+      "supports": "Prepare tax returns for individuals and small businesses using tax preparation software (e.g., TurboTax, H&R Block)"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted interviews with clients to gather necessary information for tax preparation",
+      "supports": "Conduct interviews with clients to gather necessary information for tax preparation"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of accurately identifying deductions and credits, ensuring timely and accurate submissions.",
+      "supports": "Review and analyze client financial data to identify deductions and credits"
+    },
+    {
+      "source": "resume",
+      "quote": "Responded to client inquiries and resolved tax-related issues in a timely manner",
+      "supports": "Respond to client inquiries and resolve tax-related issues in a timely manner"
+    },
+    {
+      "source": "resume",
+      "quote": "Associate's degree in Accounting (20XX-20XX)",
+      "supports": "associate's degree in accounting or related field preferred"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

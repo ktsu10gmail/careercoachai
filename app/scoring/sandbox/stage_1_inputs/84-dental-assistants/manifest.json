@@ -1,0 +1,20 @@
+{
+  "job_title": "84. Dental Assistants",
+  "case_slug": "84-dental-assistants",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:43:10.642895",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

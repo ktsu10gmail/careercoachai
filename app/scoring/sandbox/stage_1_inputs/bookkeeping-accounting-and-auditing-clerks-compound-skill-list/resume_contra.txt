@@ -1,0 +1,11 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Bookkeeping, Accounting, and Auditing Clerks**
+
+* Proficient in Java, Python, and SQL for data analysis and reporting
+* Experienced with Apache Kafka and Docker for data processing and containerization
+* Strong analytical and problem-solving skills, with a focus on attention to detail and accuracy
+
+However, I did not have the opportunity to work with stress testing tools like JMeter or Gatling, as my previous role focused more on financial analysis and reporting. Additionally, while I am familiar with Agile methodologies, I did not have direct experience with Scrum or Kanban in a team setting.
+
+I also did not have experience with cloud-based infrastructure, containerization, or DevOps practices, but I am eager to learn and expand my skill set in these areas.

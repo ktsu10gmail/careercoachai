@@ -1,0 +1,10 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+* Designed and developed comprehensive stress test plans using LoadRunner and JMeter
+* Coordinated with stakeholders to gather requirements, but did not identify testing priorities due to limited stakeholder input
+* Executed stress tests on scoring engine solutions, but did not use Apache JMeter or Gatling as part of the project
+* Analyzed test results and identified trends, patterns, and areas for improvement using Excel and Python
+* Collaborated with engineering teams to implement fixes and enhancements based on test findings, but did not develop and maintain test scripts and frameworks
+* Communicated test results and recommendations to stakeholders, including product management and quality assurance, but did not ensure compliance with testing standards and methodologies
+
+Note that this snippet highlights some relevant skills and experience, but also includes explicit statements that the candidate did not perform certain higher-scope requirements.

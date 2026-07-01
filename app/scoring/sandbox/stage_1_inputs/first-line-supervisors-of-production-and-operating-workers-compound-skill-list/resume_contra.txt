@@ -1,0 +1,12 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+**Work Experience:**
+
+* Stress Test Engineer
+  * Designed and developed stress test plans using JMeter, Gatling, and Locust (2018-2020)
+  * Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)
+  * Collaborated with development team to identify areas for improvement in the scoring engine's architecture
+  * Did not have experience with containerization using Docker or cloud-based infrastructure and scalability models
+  * Familiarity with Agile methodologies and Test-Driven Development (TDD) was limited, and CI/CD pipelines were not implemented
+
+Note: The scorer must avoid matched/missing contradictions by only including some of the listed tools and skills.

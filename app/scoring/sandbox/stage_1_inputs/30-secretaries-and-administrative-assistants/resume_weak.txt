@@ -1,0 +1,10 @@
+Here's a weak or scope-mismatch resume snippet for the Secretaries and Administrative Assistants job:
+
+"Administrative Assistant with 5 years of experience providing general administrative support to small business owners, including managing calendars, preparing documents, and responding to phone calls. Proficient in Microsoft Office Suite (Word, Excel, PowerPoint) and have basic knowledge of Google Workspace. Experience with project management tools such as Asana and Trello. Possess excellent communication skills and ability to work independently. Seeking a role that utilizes my organizational skills and attention to detail."
+
+This resume snippet lacks the scope-mismatch because it:
+
+* Lacks experience in managing large teams or high-level executives
+* Does not mention database management, data analysis, or certification in medical terminology or secretarial procedures
+* Does not highlight specific skills related to travel coordination, event planning, or supply ordering
+* Does not demonstrate familiarity with enterprise-level software or tools

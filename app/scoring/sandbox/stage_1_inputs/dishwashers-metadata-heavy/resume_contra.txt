@@ -1,0 +1,29 @@
+Here's a contra-evidence resume snippet for a Dishwasher position:
+
+**Work Experience:**
+
+Dishwasher
+ABC Restaurant (2018-Present)
+
+* Successfully operated dishwashing equipment to meet high-volume demands, ensuring cleanliness and efficiency.
+* Demonstrated ability to work in fast-paced environments with minimal supervision.
+* Utilized hand-washing techniques to sanitize dishes and utensils.
+
+**Skills:**
+
+* Proficient in operating commercial dishwashers and washing machines.
+* Strong attention to detail and organizational skills.
+* Ability to lift up to 50 pounds and stand for long periods.
+
+**Education:**
+
+* High School Diploma, XYZ High School (2015-2018)
+
+Note: I did not include any experience or skills that would suggest the candidate performed tasks such as:
+
+* Designing and executing comprehensive stress tests on scoring engines
+* Collaborating with cross-functional teams to identify areas for improvement
+* Developing and maintaining test scripts, tools, and frameworks
+* Analyzing test results and providing actionable recommendations for improving system performance and reliability
+
+These skills are highly relevant to the Stress Test Engineer - Scoring Engine position, but the candidate does not have experience or qualifications in this area.

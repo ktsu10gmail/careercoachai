@@ -1,0 +1,161 @@
+{
+  "job_title": "Insurance Sales Agents",
+  "case_slug": "insurance-sales-agents-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.046695",
+  "match_score": 32.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 8.9,
+      "reason": "Found 0 direct, 3 adjacent, 1 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets, with a strong understanding of insurance products and industry trends.",
+        "Results-driven insurance sales professional with 5+ years of experience driving revenue growth and building strong client relationships.",
+        "+ Generated $1.2M in annual revenue through strategic account management and relationship-building"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 6.7,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Generated $1.2M in annual revenue through strategic account management and relationship-building"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 45.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets, with a strong understanding of insurance products and industry trends.",
+        "Results-driven insurance sales professional with 5+ years of experience driving revenue growth and building strong client relationships.",
+        "+ Generated $1.2M in annual revenue through strategic account management and relationship-building"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets, with a strong understanding of insurance products and industry trends."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "evidence": [
+        "Proven track record of consistently meeting or exceeding sales targets, with a strong understanding of insurance products and industry trends."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering, preferably in a metadata-heavy environment",
+      "evidence": [
+        "Results-driven insurance sales professional with 5+ years of experience driving revenue growth and building strong client relationships."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing and executing comprehensive stress testing scenarios to ensure the reliability and performance ",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios to identify potential bottlenecks and areas for improvement in the scoring engine",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, data flows, and performance characteristics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress testing scenarios using various tools and techniques, including load testing, performance testing, and endurance testing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a library of reusable test scripts and frameworks to improve efficiency and reduce testing time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, data structures, and algorithms",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: + Generated $1.2M in annual revenue through strategic account management and relationship-building",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, such as Apache JMeter or Gatling",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting or exceeding sales targets, with a strong understanding of insurance products and industry trends.",
+      "supports": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of consistently meeting or exceeding sales targets, with a strong understanding of insurance products and industry trends.",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven insurance sales professional with 5+ years of experience driving revenue growth and building strong client relationships.",
+      "supports": "5+ years of experience in stress testing or performance engineering, preferably in a metadata-heavy environment"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Generated $1.2M in annual revenue through strategic account management and relationship-building",
+      "supports": "Strong understanding of software architecture, data structures, and algorithms"
+    },
+    {
+      "source": "job_description",
+      "quote": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

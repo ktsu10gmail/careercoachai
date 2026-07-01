@@ -1,0 +1,9 @@
+Here is a contra-evidence resume snippet for a Physical Therapist position:
+
+**Physical Therapist - Stress Test**
+
+* Conducted thorough testing of the scoring engine using standardized test protocols, but did not identify any defects or issues with its performance under normal operating conditions.
+* Collaborated with cross-functional teams to reproduce and troubleshoot defects related to user interface issues, but was unable to contribute to resolving these problems due to limited experience with Agile development methodologies.
+* Developed and maintained detailed test plans and execution reports, but did not participate in code reviews or contribute to the development of new features.
+* Provided input on design improvements and feature enhancements, but only within the scope of existing scoring engine architecture and functionality, without exploring potential applications of machine learning algorithms.
+* Participated in team meetings to discuss stress testing methodologies, but did not have a strong understanding of cloud-based scoring engines or similar technologies.

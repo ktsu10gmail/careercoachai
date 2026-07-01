@@ -1,0 +1,47 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to design, develop, and execute comprehensive stress testing scenarios for our domain scope trap feature. The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability and performance of our system.
+
+**Responsibilities:**
+
+* Design and develop stress testing scenarios for domain scope trap, including identifying key performance indicators (KPIs) and developing test scripts to simulate various loads and workloads
+* Collaborate with product management, engineering, and QA teams to understand requirements and identify areas for improvement
+* Develop and execute test plans, including setting up test environments, running tests, and analyzing results
+* Identify and report defects or issues found during testing, working closely with the development team to reproduce and resolve them
+* Provide regular progress updates and status reports to stakeholders
+* Stay up-to-date with industry trends and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing and performance engineering, preferably in a software/SaaS environment
+* Strong understanding of system architecture, scalability, and performance principles
+* Experience with load testing tools such as Apache JMeter, Gatling, or Locust
+* Proficiency in programming languages such as Python, Java, or C++
+* Excellent analytical and problem-solving skills, with ability to identify and prioritize test cases
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (e.g. finance, healthcare)
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Scope Qualifiers:**
+
+* Domain scope trap feature only
+* No external dependencies or integrations
+* Focus on performance and scalability testing
+
+**Additional Requirements:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* Experience with cloud-based infrastructure (e.g. AWS, Azure)
+* Familiarity with containerization technologies (e.g. Docker)
+
+We offer a competitive salary and benefits package to the right candidate. If you're passionate about performance engineering and stress testing, please submit your resume and cover letter today!

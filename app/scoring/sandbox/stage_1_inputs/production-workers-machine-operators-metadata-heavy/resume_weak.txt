@@ -1,0 +1,27 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Contact Info**
+
+* Address: 123 Main St, Anytown USA
+* Phone: (555) 555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Work Experience**
+
+* **Machine Operator**, XYZ Inc. (2018-Present)
+ + Operated a single scoring engine for 6 months before being laid off due to "budget cuts"
+ + Maintained equipment by cleaning and lubricating it with a wire brush
+ + Collaborated with coworkers to resolve issues, but only when necessary
+* **Janitor**, ABC Company (2015-2018)
+ + Cleaned the office floor with a push broom
+
+**Education**
+
+* **High School Diploma**, Anytown High School (2015)
+
+**Skills**
+
+* Basic understanding of scoring engine operation
+* Ability to lift 20 pounds without straining my back
+* Proficient in Microsoft Office, but only for basic tasks like word processing and email

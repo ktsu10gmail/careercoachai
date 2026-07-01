@@ -1,0 +1,19 @@
+Here's a contra-evidence resume snippet for a Librarian position:
+
+**Summary:**
+Highly motivated and detail-oriented librarian with 3+ years of experience in cataloging and metadata management. Proficient in various library software systems, including [list specific systems]. Proven ability to work effectively in fast-paced environments and collaborate with cross-functional teams.
+
+**Experience:**
+
+* **Librarian**, XYZ Library (2018-Present)
+ + Managed a collection of over 50,000 books, journals, and databases
+ + Developed and maintained metadata standards for cataloging and indexing
+ + Collaborated with library staff to design and implement new digital initiatives
+ + Provided research assistance to patrons and faculty members
+
+**Skills:**
+
+* Proficient in [list specific skills relevant to the job description]
+* Experience with [list specific software or systems relevant to the job description]
+
+Note: The candidate did not have experience designing and executing comprehensive stress tests on a scoring engine, nor did they work closely with cross-functional teams to identify areas for improvement. They also did not develop and maintain automated testing tools or analyze test results to provide recommendations for improving performance.

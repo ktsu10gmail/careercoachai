@@ -1,0 +1,34 @@
+Here's a weak or scope-mismatch resume snippet for a Secondary School Teacher position:
+
+**John Doe**
+**Contact Information:**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly motivated and experienced IT professional with a passion for education. Proficient in various programming languages, including Python, Java, and C++. Skilled in data analysis and visualization using tools like Tableau and Power BI.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, C++, JavaScript
+* Data analysis and visualization: Tableau, Power BI, Excel
+* Operating Systems: Windows, Linux, macOS
+* Familiarity with educational technologies: Learning Management Systems (LMS), Online Course Platforms
+
+**Experience:**
+
+* IT Support Specialist, XYZ Corporation (2018-Present)
+	+ Resolved technical issues for employees and customers
+	+ Implemented software updates and patches
+	+ Collaborated with team members to improve IT infrastructure
+* Freelance Web Developer (2015-2018)
+	+ Built websites using HTML, CSS, and JavaScript
+	+ Designed and developed e-learning platforms
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, ABC University (2015)
+
+Note that this resume snippet lacks the required teaching certification or license, experience in teaching secondary school students, and other relevant skills for a Secondary School Teacher position. It also highlights John Doe's technical skills and experience as an IT professional, which is not directly applicable to the job description.

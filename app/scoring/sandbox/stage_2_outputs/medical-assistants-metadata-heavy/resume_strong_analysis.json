@@ -1,0 +1,143 @@
+{
+  "job_title": "Medical Assistants",
+  "case_slug": "medical-assistants-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.989022",
+  "match_score": 42.6,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 11.8,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 19.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system quality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of the scoring engine's source code",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software development life cycles, testing methodologies, and Agile principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance.",
+      "supports": "Security Clearance: Top Secret clearance required"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide information or guidance on creating a resume for a job that requires a Top Secret security clearance.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "job_description",
+      "quote": "Travel: Occasional travel to industry conferences and training events",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

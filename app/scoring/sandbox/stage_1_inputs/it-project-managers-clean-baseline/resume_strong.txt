@@ -1,0 +1,36 @@
+Here's a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Summary:**
+Highly accomplished Stress Test Engineer with 5+ years of experience designing and executing comprehensive stress testing scenarios for complex software systems. Proven track record of identifying and prioritizing test cases, developing test plans, and ensuring the reliability and performance of scoring engines under various loads.
+
+**Technical Skills:**
+
+* Programming languages: Proficient in Python (3+ years), with experience in Java and C++ (2+ years)
+* Test Automation Frameworks: Skilled in Selenium (2+ years) and Appium (1+ year), with experience in scripting languages such as Python and Ruby
+* Database Management Systems: Experienced in MySQL, PostgreSQL, and MongoDB, with knowledge of data modeling techniques
+* Cloud-Based Infrastructure: Familiarity with AWS (1+ year), including EC2, S3, and Lambda services
+* DevOps Practices: Knowledge of Jenkins (2+ years) and GitLab CI/CD (1+ year)
+
+**Professional Experience:**
+
+Stress Test Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed comprehensive stress testing scenarios for scoring engines, resulting in a 30% increase in system reliability
+* Collaborated with cross-functional teams to identify and prioritize test cases, ensuring alignment with project goals
+* Developed and executed test plans, including data generation, test execution, and results analysis
+* Identified and reported defects or issues found during testing, working closely with development teams to reproduce and resolve them
+
+Senior Test Engineer, DEF Startups (2018-2020)
+
+* Led a team of junior test engineers in designing and executing stress testing scenarios for software systems
+* Developed and maintained test automation frameworks using Selenium and Appium
+* Analyzed test results and provided recommendations for process improvements and optimization of scoring engines
+
+**Education:**
+
+Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+**Certifications:**
+
+* Certified Stress Test Engineer (CSTE), ABC Institute (2020)
+* ISTQB Foundation Level Certification, DEF Institute (2018)

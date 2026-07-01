@@ -1,0 +1,167 @@
+{
+  "job_title": "64. IT Project Managers",
+  "case_slug": "64-it-project-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.075329",
+  "match_score": 45.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 4 direct, 3 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven IT professional with 5+ years of experience in managing complex projects, including budgeting and resource allocation.",
+        "Utilized MS Project and Asana to develop and maintain project plans, schedules, and resource allocation plans",
+        "In my previous role, I worked closely with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones.",
+        "Conducted regular status updates and progress reports using Tableau and Excel"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Conducted regular status updates and progress reports using Tableau and Excel",
+        "I also did not have the opportunity to work with cloud-based project management tools like Trello or Basecamp, but I am proficient in MS Project and Asana."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven IT professional with 5+ years of experience in managing complex projects, including budgeting and resource allocation.",
+        "Utilized MS Project and Asana to develop and maintain project plans, schedules, and resource allocation plans",
+        "In my previous role, I worked closely with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones.",
+        "Conducted regular status updates and progress reports using Tableau and Excel"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain project plans, schedules, and resource allocation plans using MS Project and Asana",
+      "evidence": [
+        "Utilized MS Project and Asana to develop and maintain project plans, schedules, and resource allocation plans"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones",
+      "evidence": [
+        "In my previous role, I worked closely with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular status updates and progress reports to senior management and clients using Tableau and Excel",
+      "evidence": [
+        "Conducted regular status updates and progress reports using Tableau and Excel"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management frameworks like ITIL",
+      "evidence": [
+        "Additionally, I was not familiar with IT service management frameworks like ITIL, as our organization's processes were more tailored to in-house solutions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage complex IT projects with a budget of $1 million to $5 million, involving multiple stakeholders and vendors",
+      "evidence": [
+        "\"Results-driven IT professional with 5+ years of experience in managing complex projects, including budgeting and resource allocation."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of Agile methodologies, including Scrum and Kanban",
+      "evidence": [
+        "\"Results-driven IT professional with 5+ years of experience in managing complex projects, including budgeting and resource allocation."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Identify and mitigate risks, issues, and dependencies using risk management tools like Riskonnect and JIRA",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have direct experience with risk management tools like Riskonnect or JIRA, as our organization's risk management processes were more focused on internal procedures.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with industry standards and regulatory requirements using tools like NIST and HIPAA",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Conducted regular status updates and progress reports using Tableau and Excel",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in IT project management, preferably in a similar scope and scale",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also did not have the opportunity to work with cloud-based project management tools like Trello or Basecamp, but I am proficient in MS Project and Asana.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in MS Project, Asana, Tableau, Excel, and JIRA",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in PMP, PRINCE2, or Agile methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Furthermore, while I understand cybersecurity principles and practices, I do not hold a certification in PMP, PRINCE2, or Agile methodologies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools like Trello, Basecamp, or Smartsheet",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also did not have the opportunity to work with cloud-based project management tools like Trello or Basecamp, but I am proficient in MS Project and Asana.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven IT professional with 5+ years of experience in managing complex projects, including budgeting and resource allocation.",
+      "supports": "Manage complex IT projects with a budget of $1 million to $5 million, involving multiple stakeholders and vendors"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized MS Project and Asana to develop and maintain project plans, schedules, and resource allocation plans",
+      "supports": "Develop and maintain project plans, schedules, and resource allocation plans using MS Project and Asana"
+    },
+    {
+      "source": "resume",
+      "quote": "In my previous role, I worked closely with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones.",
+      "supports": "Coordinate with cross-functional teams, including development, QA, and operations, to ensure timely delivery of project milestones"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular status updates and progress reports using Tableau and Excel",
+      "supports": "Conduct regular status updates and progress reports to senior management and clients using Tableau and Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have direct experience with risk management tools like Riskonnect or JIRA, as our organization's risk management processes were more focused on internal procedures.",
+      "supports": "Identify and mitigate risks, issues, and dependencies using risk management tools like Riskonnect and JIRA"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

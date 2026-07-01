@@ -1,0 +1,169 @@
+{
+  "job_title": "Bartenders",
+  "case_slug": "bartenders-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:55.653042",
+  "match_score": 54.58,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.6,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven bartender with 2+ years of experience in fast-paced environments, delivering exceptional customer service and crafting innovative cocktails.",
+        "Bartending Certification Program, The Bartender's Guild (2016)",
+        "Ability to work effectively in a team environment",
+        "Managed cash handling, operating a point-of-sale system with 99.9% accuracy"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.6,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven bartender with 2+ years of experience in fast-paced environments, delivering exceptional customer service and crafting innovative cocktails.",
+        "Bartending Certification Program, The Bartender's Guild (2016)",
+        "Ability to work effectively in a team environment",
+        "Managed cash handling, operating a point-of-sale system with 99.9% accuracy"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven bartender with 2+ years of experience in fast-paced environments, delivering exceptional customer service and crafting innovative cocktails.",
+        "Bartending Certification Program, The Bartender's Guild (2016)",
+        "Ability to work effectively in a team environment",
+        "Managed cash handling, operating a point-of-sale system with 99.9% accuracy"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "You'll be responsible for crafting innovative cocktails, managing cash handling, and providing exceptional customer service to our diverse community.",
+      "evidence": [
+        "Results-driven bartender with 2+ years of experience in fast-paced environments, delivering exceptional customer service and crafting innovative cocktails."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to health and safety standards",
+      "evidence": [
+        "Maintained a clean and organized workspace, adhering to health and safety standards"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service, responding to customer inquiries and resolving issues promptly",
+      "evidence": [
+        "Provided top-notch customer service, responding to customer inquiries and resolving issues promptly"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage cash handling, including operating a point-of-sale system and processing transactions",
+      "evidence": [
+        "Managed cash handling, operating a point-of-sale system with 99.9% accuracy"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive training program",
+      "evidence": [
+        "Bartending Certification Program, The Bartender's Guild (2016)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "A fun and dynamic work environment",
+      "evidence": [
+        "Ability to work effectively in a team environment"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a Bartender at [Company Name], you'll be the heartbeat of our bars, cafes, and restaurants.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive hourly rate",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for career growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Discounts on food and drinks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from all qualified candidates, regardless of age, sex, race, color, national origin, disability, or any other protected characteristic.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven bartender with 2+ years of experience in fast-paced environments, delivering exceptional customer service and crafting innovative cocktails.",
+      "supports": "You'll be responsible for crafting innovative cocktails, managing cash handling, and providing exceptional customer service to our diverse community."
+    },
+    {
+      "source": "resume",
+      "quote": "Bartending Certification Program, The Bartender's Guild (2016)",
+      "supports": "Comprehensive training program"
+    },
+    {
+      "source": "resume",
+      "quote": "Ability to work effectively in a team environment",
+      "supports": "A fun and dynamic work environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven bartender with 2+ years of experience in fast-paced environments, delivering exceptional customer service and crafting innovative cocktails.",
+      "supports": "Prepare and serve food and beverages in a fast-paced environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed cash handling, operating a point-of-sale system with 99.9% accuracy",
+      "supports": "Manage cash handling, including operating a point-of-sale system and processing transactions"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,41 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting comprehensive stress testing for our domain scope trap feature. The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under various loads.
+
+**Responsibilities:**
+
+* Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking
+* Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload
+* Collaborate with cross-functional teams, including engineering, product management, and quality assurance, to identify and prioritize testing needs
+* Analyze test results, identify trends and patterns, and provide actionable recommendations for system improvements
+* Develop and maintain relationships with stakeholders, including customers, partners, and internal teams, to ensure effective communication and collaboration
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles, system architecture, and scalability principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools, including Apache JMeter, Gatling, or Locust
+* Knowledge of cloud-based infrastructure, including AWS or Azure
+* Essential domain qualifiers:
+ + Software/SaaS
+ + Enterprise
+ + Regulated industry (e.g. finance, healthcare)
+ + Global
+ + Multi-site
+ + High-volume
+ + Low-latency
+* Essential scope qualifiers:
+ + Domain scope trap feature
+ + Web application performance testing
+ + Load testing and endurance testing
+
+**Nice to Have:**
+
+* Experience with containerization technologies such as Docker or Kubernetes
+* Knowledge of DevOps practices, including continuous integration and delivery
+* Certification in stress testing or performance engineering (e.g. ISTQB, CSTE)
+* Experience working with Agile development methodologies

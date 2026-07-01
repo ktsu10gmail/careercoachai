@@ -1,0 +1,25 @@
+Responsibilities:
+
+* Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn
+* Collaborate with cross-functional teams to integrate AI solutions into existing software applications and infrastructure
+* Develop and maintain documentation for AI system architecture, data pipelines, and model training processes
+* Troubleshoot complex issues related to AI system performance, scalability, and reliability
+* Conduct regular code reviews and ensure adherence to coding standards and best practices
+* Participate in knowledge sharing and peer review of AI-related research papers and publications
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Electrical Engineering, or related field; Master's degree preferred
+* 5+ years of experience with AI/ML development, deployment, and maintenance
+* Strong proficiency in Python, C++, and/or Java programming languages
+* Experience with containerization using Docker and Kubernetes
+* Familiarity with cloud-based infrastructure such as AWS, Azure, or Google Cloud Platform
+* Knowledge of data structures, algorithms, and software design patterns
+
+Preferred Skills:
+
+* Experience with deep learning frameworks such as TensorFlow, PyTorch, or Keras
+* Familiarity with natural language processing (NLP) and computer vision techniques
+* Knowledge of reinforcement learning and robotics applications
+* Experience with model interpretability and explainability techniques
+* Certification in AI/ML development, such as Certified Data Scientist or Certified Machine Learning Engineer

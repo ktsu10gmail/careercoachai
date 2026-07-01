@@ -1,0 +1,37 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Information:**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+Highly organized and detail-oriented administrative professional with experience in calendar management, travel coordination, and data entry.
+
+**Technical Skills:**
+
+* Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+* Google Calendar
+* Notepad++ (text editor)
+
+**Experience:**
+
+* **Administrative Assistant**, XYZ Corporation (2018-Present)
+	+ Managed calendars for 2 executives using Google Calendar
+	+ Coordinated travel arrangements for employees using Expedia
+	+ Created and edited documents in Microsoft Word
+	+ Entered data into spreadsheets using Microsoft Excel
+* **Data Entry Clerk**, ABC Inc. (2015-2018)
+	+ Entered data into databases using Notepad++ to create CSV files
+
+**Education:**
+
+* **Certificate in Administrative Assistance**, Local Community College (2015)
+
+**Certifications:**
+
+* **Microsoft Office Specialist**, Microsoft Corporation (2016)
+
+Note that this resume snippet lacks enterprise scope and does not demonstrate the skills required for the Executive Assistant role at Acme Inc. The candidate's experience is limited to small-scale administrative tasks, and they do not have the necessary technical skills or certifications to perform the duties of an Executive Assistant.

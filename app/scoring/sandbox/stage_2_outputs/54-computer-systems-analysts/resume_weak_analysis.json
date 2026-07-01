@@ -1,0 +1,150 @@
+{
+  "job_title": "54. Computer Systems Analysts",
+  "case_slug": "54-computer-systems-analysts",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:51.004039",
+  "match_score": 65.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.7,
+      "reason": "Found 4 direct, 6 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Skilled in troubleshooting and resolving technical issues.",
+        "Limited focus on system analysis, optimization, and documentation, which are key responsibilities for the position",
+        "No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications",
+        "Lack of experience as a computer systems analyst or equivalent role"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 58.8,
+      "reason": "Found 2 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Limited focus on system analysis, optimization, and documentation, which are key responsibilities for the position",
+        "No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Skilled in troubleshooting and resolving technical issues.",
+        "Limited focus on system analysis, optimization, and documentation, which are key responsibilities for the position",
+        "No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications",
+        "Lack of experience as a computer systems analyst or equivalent role"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of operating systems, database management, and software development methodologies",
+      "evidence": [
+        "Strong understanding of operating systems and database management."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "\"Experienced software developer with 5+ years of experience building scalable web applications using Java, Python, and C++."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based technologies (e.g.",
+      "evidence": [
+        "No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "AWS, Azure) and containerization platforms (e.g.",
+      "evidence": [
+        "No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with Agile development methodologies and version control systems (e.g.",
+      "evidence": [
+        "Proficient in Agile development methodologies and version control systems (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain technical documentation, including user manuals, system diagrams, and technical specifications",
+      "evidence": [
+        "Skilled in troubleshooting and resolving technical issues."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze complex computer systems and applications to identify areas for improvement and optimize system performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Limited focus on system analysis, optimization, and documentation, which are key responsibilities for the position",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Information Technology, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a computer systems analyst or equivalent role",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lack of experience as a computer systems analyst or equivalent role",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Skilled in troubleshooting and resolving technical issues.",
+      "supports": "Develop and maintain technical documentation, including user manuals, system diagrams, and technical specifications"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in troubleshooting and resolving technical issues.",
+      "supports": "Troubleshoot and resolve technical issues, providing timely support to end-users and stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "Limited focus on system analysis, optimization, and documentation, which are key responsibilities for the position",
+      "supports": "Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "No mention of cloud-based technologies, containerization platforms, cybersecurity principles, DevOps tools, ITIL certification, or large-scale enterprise systems and applications",
+      "supports": "Stay up-to-date with emerging technologies and trends in the field, applying this knowledge to inform business decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Lack of experience as a computer systems analyst or equivalent role",
+      "supports": "3+ years of experience as a computer systems analyst or equivalent role"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

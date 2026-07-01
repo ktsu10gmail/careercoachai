@@ -1,0 +1,40 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Jose, CA (with occasional travel to New York City)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from posting date
+* Travel: Up to 2 weeks every 3 months for industry conferences and training
+* Sponsorship: Company will provide sponsorship for security clearance
+* Security Clearance: Top Secret required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of software engineers. As a key member of our engineering team, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+**Responsibilities:**
+
+* Design and develop comprehensive stress test plans to simulate real-world usage patterns
+* Execute stress tests using various tools and techniques (e.g., load testing, performance benchmarking)
+* Analyze test results and identify areas for improvement
+* Collaborate with cross-functional teams (e.g., product management, engineering) to prioritize test efforts
+* Develop and maintain test automation frameworks to streamline testing processes
+* Stay up-to-date with industry trends and emerging technologies to inform testing strategies
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* Strong understanding of software architecture and design principles
+* Proficiency in programming languages (e.g., Java, Python) and testing frameworks (e.g., JMeter, Gatling)
+* Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**Nice to Have:**
+
+* Experience with machine learning or AI-related technologies
+* Knowledge of metadata management systems (e.g., Apache Atlas, AWS Glue)
+* Familiarity with Agile development methodologies

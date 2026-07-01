@@ -1,0 +1,20 @@
+{
+  "job_title": "Project Managers",
+  "case_slug": "project-managers",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T15:07:24.566973",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+"Results-driven administrative professional with 2+ years of experience in office settings, proficient in Microsoft Office Suite and possessing strong organizational skills. Proven ability to maintain accurate records and files, both physical and electronic. 
+
+* Successfully answered phone calls and responded to emails for a small business (note: this was a solo operation with limited staff, not a team-based environment)
+* Maintained accurate records and files, but did not have experience with database management software or electronic record-keeping systems
+* Processed and distributed mail, packages, and other correspondence, but did not coordinate meetings, appointments, or events
+* Provided general office support, including photocopying, scanning, and faxing documents, but did not have certification in medical terminology or a related field
+* Assisted with data entry, updating databases, and performing other clerical tasks as needed, but did not have experience with Office 365 or Google Workspace"

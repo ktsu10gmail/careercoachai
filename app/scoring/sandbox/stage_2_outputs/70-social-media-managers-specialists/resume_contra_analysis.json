@@ -1,0 +1,168 @@
+{
+  "job_title": "70. Social Media Managers / Specialists",
+  "case_slug": "70-social-media-managers-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.723816",
+  "match_score": 38.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.6,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed comprehensive social media strategies for clients, but did not implement them due to lack of resources.",
+        "Proven track record of creating engaging content that drives audience growth and interaction.",
+        "Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+        "Created engaging content (text, images, videos) that resonated with target audiences, but did not analyze metrics to inform content decisions."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Collaborated with cross-functional teams (creative, marketing, sales) to ensure cohesive brand messaging, but did not stay up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and t"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 62.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed comprehensive social media strategies for clients, but did not implement them due to lack of resources.",
+        "Proven track record of creating engaging content that drives audience growth and interaction.",
+        "Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+        "Created engaging content (text, images, videos) that resonated with target audiences, but did not analyze metrics to inform content decisions."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Proven track record of creating engaging content that drives audience growth and interaction",
+      "evidence": [
+        "Proven track record of creating engaging content that drives audience growth and interaction."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create engaging content (text, images, videos) that resonates with target audiences and aligns with brand guidelines",
+      "evidence": [
+        "Proven track record of creating engaging content that drives audience growth and interaction."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in social media management or a related field",
+      "evidence": [
+        "Social Media Managers / Specialists job title:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with social media advertising (Facebook Ads, Twitter Ads, LinkedIn Ads) and campaign optimization",
+      "evidence": [
+        "Social Media Managers / Specialists job title:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills, with the ability to craft compelling content for diverse audiences",
+      "evidence": [
+        "Proven track record of creating engaging content that drives audience growth and interaction."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement comprehensive social media strategies for multiple clients across various industries",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Developed comprehensive social media strategies for clients, but did not implement them due to lack of resources.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage and schedule posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor and respond to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze social media metrics (engagement rates, follower growth, reach) to inform content decisions and optimize campaigns",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Created engaging content (text, images, videos) that resonated with target audiences, but did not analyze metrics to inform content decisions.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and training",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams (creative, marketing, sales) to ensure cohesive brand messaging, but did not stay up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and t",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of social media platforms, including their features, algorithms, and best practices",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams (creative, marketing, sales) to ensure cohesive brand messaging, but did not stay up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and t",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in social media management tools such as Hootsuite, Sprout Social, or Buffer",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of graphic design principles and video editing software (Adobe Creative Cloud)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams (creative, marketing, sales) to ensure cohesive brand messaging, but did not stay up-to-date with the latest social media trends, algorithm changes, and best practices through ongoing education and t",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed comprehensive social media strategies for clients, but did not implement them due to lack of resources.",
+      "supports": "Develop and implement comprehensive social media strategies for multiple clients across various industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of creating engaging content that drives audience growth and interaction.",
+      "supports": "Create engaging content (text, images, videos) that resonates with target audiences and aligns with brand guidelines"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+      "supports": "Manage and schedule posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and scheduled posts on platforms such as Facebook, Twitter, Instagram, LinkedIn, and YouTube using Hootsuite or Sprout Social, but did not monitor comments, messages, and reviews in a timely manner.",
+      "supports": "Monitor and respond to comments, messages, and reviews in a timely manner, ensuring customer satisfaction and resolving issues promptly"
+    },
+    {
+      "source": "resume",
+      "quote": "Created engaging content (text, images, videos) that resonated with target audiences, but did not analyze metrics to inform content decisions.",
+      "supports": "Analyze social media metrics (engagement rates, follower growth, reach) to inform content decisions and optimize campaigns"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

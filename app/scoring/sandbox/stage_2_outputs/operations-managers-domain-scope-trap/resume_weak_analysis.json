@@ -1,0 +1,151 @@
+{
+  "job_title": "Operations Managers",
+  "case_slug": "operations-managers-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.677341",
+  "match_score": 56.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.6,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Strong understanding of system architecture and scalability principles",
+        "Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t",
+        "Experience with load testing tools, including Apache JMeter, Gatling, or Locust",
+        "3+ years of experience in operations management and process improvement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Knowledge of cloud-based infrastructure, including AWS or Azure",
+        "Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Strong understanding of system architecture and scalability principles",
+        "Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t",
+        "Experience with load testing tools, including Apache JMeter, Gatling, or Locust",
+        "3+ years of experience in operations management and process improvement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of software development life cycles, system architecture, and scalability principles",
+      "evidence": [
+        "Strong understanding of system architecture and scalability principles"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficiency in programming languages such as Python, Java, or C++"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, including Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Experience with load testing tools, including Apache JMeter, Gatling, or Locust"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure, including AWS or Azure",
+      "evidence": [
+        "Knowledge of cloud-based infrastructure, including AWS or Azure"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou",
+      "evidence": [
+        "Strong understanding of system architecture and scalability principles"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload",
+      "evidence": [
+        "Experience with load testing tools, including Apache JMeter, Gatling, or Locust"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t",
+      "severity": "high"
+    },
+    {
+      "requirement": "Essential domain qualifiers",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Enterprise",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Strong understanding of system architecture and scalability principles",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet lacks the essential domain qualifiers (Software/SaaS, Enterprise, Regulated industry, Global, Multi-site, High-volume, Low-latency) and scope qualifiers (Domain scope trap feature, Web application performance t",
+      "supports": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with load testing tools, including Apache JMeter, Gatling, or Locust",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong understanding of system architecture and scalability principles",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for system improvements"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with load testing tools, including Apache JMeter, Gatling, or Locust",
+      "supports": "Develop and maintain relationships with stakeholders, including customers, partners, and internal teams, to ensure effective communication and collaboration"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

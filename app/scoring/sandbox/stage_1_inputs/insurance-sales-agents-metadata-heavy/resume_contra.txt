@@ -1,0 +1,24 @@
+Here is a contra-evidence resume snippet for an Insurance Sales Agent position:
+
+**Summary:**
+Results-driven insurance sales professional with 3+ years of experience driving revenue growth and building strong client relationships.
+
+**Professional Experience:**
+
+* **Insurance Sales Representative**, XYZ Insurance Agency (2018-Present)
+	+ Generated $1.2M in annual premium revenue, exceeding company targets by 25%
+	+ Developed and executed comprehensive sales strategies to penetrate new markets and expand existing customer bases
+	+ Collaborated with cross-functional teams, including underwriting and claims, to provide exceptional client service and drive business growth
+
+**Skills:**
+
+* Strong understanding of insurance products and services, including life, health, and property/casualty
+* Excellent communication and interpersonal skills, with the ability to build strong relationships with clients and colleagues
+* Proficient in CRM software, including Salesforce.com
+* Experience with sales analytics tools, such as Excel and Google Analytics
+
+**Education:**
+
+* **Bachelor's Degree**, Business Administration, [University Name] (2015-2019)
+
+Note: This resume snippet does not mention the candidate's experience with stress testing or performance engineering, which is a requirement for the Stress Test Engineer - Scoring Engine position.

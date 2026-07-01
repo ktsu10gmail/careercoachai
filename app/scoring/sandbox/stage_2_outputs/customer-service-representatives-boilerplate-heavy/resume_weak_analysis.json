@@ -1,0 +1,159 @@
+{
+  "job_title": "Customer Service Representatives",
+  "case_slug": "customer-service-representatives-boilerplate-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:58.158368",
+  "match_score": 29.69,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 12.1,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled IT professional with experience in network administration and cybersecurity.",
+        "+ Managed and maintained company network infrastructure",
+        "+ Resolved customer technical issues via phone and email"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 12.1,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 11 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled IT professional with experience in network administration and cybersecurity.",
+        "+ Managed and maintained company network infrastructure",
+        "+ Resolved customer technical issues via phone and email"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 49.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled IT professional with experience in network administration and cybersecurity.",
+        "+ Managed and maintained company network infrastructure",
+        "+ Resolved customer technical issues via phone and email"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Respond to customer inquiries via phone, email, and chat in a timely and professional manner",
+      "evidence": [
+        "+ Resolved customer technical issues via phone and email"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for career advancement and professional development",
+      "evidence": [
+        "Highly skilled IT professional with experience in network administration and cybersecurity."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "evidence": [
+        "+ Managed and maintained company network infrastructure"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Our team of dedicated professionals is committed to providing top-notch support to our customers, ensuring their needs are met with a smile.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "With a rich history of excellence, we've built a reputation for trust, reliability, and outstanding customer service.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "To be the go-to partner for customers seeking exceptional support, delivering personalized experiences that foster loyalty and drive growth.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and benefits package",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Collaborative and dynamic work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Recognition and rewards for outstanding performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Customer Service Representatives**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our support team, you'll play a vital role in delivering exceptional customer experiences that drive loyalty and growth.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Resolve customer complaints and concerns in a fair and courteous manner",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled IT professional with experience in network administration and cybersecurity.",
+      "supports": "Opportunities for career advancement and professional development"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Managed and maintained company network infrastructure",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Resolved customer technical issues via phone and email",
+      "supports": "Respond to customer inquiries via phone, email, and chat in a timely and professional manner"
+    },
+    {
+      "source": "job_description",
+      "quote": "Our team of dedicated professionals is committed to providing top-notch support to our customers, ensuring their needs are met with a smile.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

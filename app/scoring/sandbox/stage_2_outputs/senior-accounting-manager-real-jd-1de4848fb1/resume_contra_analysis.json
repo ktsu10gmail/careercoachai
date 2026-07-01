@@ -1,0 +1,163 @@
+{
+  "job_title": "Senior Accounting Manager",
+  "case_slug": "senior-accounting-manager-real-jd-1de4848fb1",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T20:56:45.711250",
+  "match_score": 35.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 18.8,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth",
+        "Coordinated with internal teams to ensure timely and accurate financial reporting"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 70.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth",
+        "Coordinated with internal teams to ensure timely and accurate financial reporting"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Become the person our clients call when they need to think something through, not just get a status update.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Day-to-day, you'll get deep into ASO and other Growth deliverables, lead quarterly contract conversations, navigate complex corporate structures, and bring a consultative lens to c",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Build the kind of trust with clients and internal teams that makes you the go-to person when something needs thinking through, not just reporting out.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Manage a portfolio of 3\u20134 enterprise-level US clients end-to-end, from strategy to delivery to renewals.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Run status meetings, manage scopes, chase down the details, and make sure nothing falls through the cracks across internal teams and client stakeholders.",
+      "evidence": [
+        "Coordinated with internal teams to ensure timely and accurate financial reporting"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Facilitate roadmap development, push back when needed, and help clients think beyond the immediate brief.",
+      "evidence": [
+        "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "East Coast location preferred for time zone alignment with our European teams.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Be the first call.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Own the accounts.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Get into the weeds.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Act as a strategic consultant.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Navigate complexity.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Scope and price new work.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth",
+      "supports": "Become the person our clients call when they need to think something through, not just get a status update."
+    },
+    {
+      "source": "resume",
+      "quote": "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth",
+      "supports": "Day-to-day, you'll get deep into ASO and other Growth deliverables, lead quarterly contract conversations, navigate complex corporate structures, and bring a consultative lens to c"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth",
+      "supports": "Build the kind of trust with clients and internal teams that makes you the go-to person when something needs thinking through, not just reporting out."
+    },
+    {
+      "source": "resume",
+      "quote": "Managed a portfolio of 3-4 clients, providing financial guidance and support to drive business growth",
+      "supports": "Manage a portfolio of 3\u20134 enterprise-level US clients end-to-end, from strategy to delivery to renewals."
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with internal teams to ensure timely and accurate financial reporting",
+      "supports": "Run status meetings, manage scopes, chase down the details, and make sure nothing falls through the cracks across internal teams and client stakeholders."
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

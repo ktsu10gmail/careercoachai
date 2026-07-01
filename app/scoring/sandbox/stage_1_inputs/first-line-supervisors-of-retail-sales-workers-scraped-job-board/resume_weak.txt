@@ -1,0 +1,16 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Retail Sales Floor Supervisor**
+
+* 1 year, 9 months
+* **Team Lead**, Sales Floor Team, ABC Retail (Jan 2022 - Present)
+	+ Managed daily sales floor operations, including visual merchandising and inventory management.
+	+ Utilized **Microsoft Excel** to track sales data and analyze customer trends.
+	+ Collaborated with **Store Manager** to develop and implement sales strategies.
+* 1 year
+* **Sales Floor Associate**, DEF Retail (Jan 2020 - Dec 2021)
+	+ Assisted customers with purchases and provided product information.
+	+ Maintained store appearance through visual merchandising and cleaning.
+
+Note: This resume snippet lacks enterprise scope, as the job titles and descriptions are focused on individual sales floor operations rather than leading a team or managing multiple locations. The skills listed are also more low-level, such as tracking sales data with Microsoft Excel, rather than developing sales strategies or analyzing customer trends at an enterprise level.

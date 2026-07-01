@@ -1,0 +1,154 @@
+{
+  "job_title": "UX/UI Designers",
+  "case_slug": "ux-ui-designers-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.365665",
+  "match_score": 49.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop wireframes and high-fidelity designs for web applications (While I worked closely with product management and engineering teams, my focus was on UX/UI design rather than performance engine",
+        "Designed and developed multiple prototypes for e-commerce websites, resulting in 25% increase in conversion rates (Note: While I was able to improve conversion rates, my experience was limited to small-scale projects and I didn't have the o",
+        "Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key req",
+        "UX/UI Design Experience:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Sketch, Figma, Adobe XD, and InVision (Note: While I have experience with these tools, I don't have experience with cloud-based infrastructure, containerization, or programming languages like Python or Java.)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 94.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop wireframes and high-fidelity designs for web applications (While I worked closely with product management and engineering teams, my focus was on UX/UI design rather than performance engine",
+        "Designed and developed multiple prototypes for e-commerce websites, resulting in 25% increase in conversion rates (Note: While I was able to improve conversion rates, my experience was limited to small-scale projects and I didn't have the o",
+        "Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key req",
+        "UX/UI Design Experience:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g., Docker)",
+      "evidence": [
+        "Proficient in Sketch, Figma, Adobe XD, and InVision (Note: While I have experience with these tools, I don't have experience with cloud-based infrastructure, containerization, or programming languages like Python or Java.)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Sketch, Figma, Adobe XD, and InVision (Note: While I have experience with these tools, I don't have experience with cloud-based infrastructure, containerization, or programming languages like Python or Java.)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Designed and developed multiple prototypes for e-commerce websites, resulting in 25% increase in conversion rates (Note: While I was able to improve conversion rates, my experience was limited to small-scale projects and I didn't have the o"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key req"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Sponsorship: Company will sponsor visa applications for international candidates",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop wireframes and high-fidelity designs for web applications (While I worked closely with product management and engineering teams, my focus was on UX/UI design rather than performance engine"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca",
+      "evidence": [
+        "Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key req"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the time for industry conferences and meetings",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for process improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to continuously improve our testing methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Designed and developed multiple prototypes for e-commerce websites, resulting in 25% increase in conversion rates (Note: While I was able to improve conversion rates, my experience was limited to small-scale projects and I didn't have the o",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Strong understanding of human-centered design principles and user research methods (However, my experience is limited to UX/UI design and I'm not familiar with software architecture, scalability, or reliability principles.)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop wireframes and high-fidelity designs for web applications (While I worked closely with product management and engineering teams, my focus was on UX/UI design rather than performance engine",
+      "supports": "Sponsorship: Company will sponsor visa applications for international candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed multiple prototypes for e-commerce websites, resulting in 25% increase in conversion rates (Note: While I was able to improve conversion rates, my experience was limited to small-scale projects and I didn't have the o",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key req",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca"
+    },
+    {
+      "source": "resume",
+      "quote": "UX/UI Design Experience:",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted user research and testing for a mobile app, identifying areas for improvement through usability studies (However, my research was focused on user experience rather than performance engineering or stress testing, which is a key req",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

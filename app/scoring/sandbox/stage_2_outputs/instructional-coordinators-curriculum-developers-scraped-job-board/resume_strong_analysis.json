@@ -1,0 +1,132 @@
+{
+  "job_title": "Instructional Coordinators / Curriculum Developers",
+  "case_slug": "instructional-coordinators-curriculum-developers-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.854980",
+  "match_score": 82.1,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 81.1,
+      "reason": "Found 9 direct, 5 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Instructional Coordinators / Curriculum Developers** **Job ID:** 123456 **Company:** [Simulated Company Name] **Location:** Remote **Type:** Full-time **Summary:** Results-driven Instructional Coordinat",
+        "Job ID:** 123456",
+        "Company:** [Simulated Company Name]",
+        "Results-driven Instructional Coordinator/Curriculum Developer with 5+ years of experience in designing and developing high-quality educational materials for various subjects and grade levels."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 81.1,
+      "reason": "Found 9 direct, 5 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Instructional Coordinators / Curriculum Developers** **Job ID:** 123456 **Company:** [Simulated Company Name] **Location:** Remote **Type:** Full-time **Summary:** Results-driven Instructional Coordinat",
+        "Job ID:** 123456",
+        "Company:** [Simulated Company Name]",
+        "Results-driven Instructional Coordinator/Curriculum Developer with 5+ years of experience in designing and developing high-quality educational materials for various subjects and grade levels."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Instructional Coordinators / Curriculum Developers** **Job ID:** 123456 **Company:** [Simulated Company Name] **Location:** Remote **Type:** Full-time **Summary:** Results-driven Instructional Coordinat",
+        "Job ID:** 123456",
+        "Company:** [Simulated Company Name]",
+        "Results-driven Instructional Coordinator/Curriculum Developer with 5+ years of experience in designing and developing high-quality educational materials for various subjects and grade levels."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Instructional Coordinators / Curriculum Developers**",
+      "evidence": [
+        "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Instructional Coordinators / Curriculum Developers** **Job ID:** 123456 **Company:** [Simulated Company Name] **Location:** Remote **Type:** Full-time **Summary:** Results-driven Instructional Coordinat"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job ID:** 123456",
+      "evidence": [
+        "Job ID:** 123456"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Company:** [Simulated Company Name]",
+      "evidence": [
+        "Company:** [Simulated Company Name]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "[Simulated Company Name] is a leading provider of educational resources and solutions, dedicated to helping students succeed.",
+      "evidence": [
+        "Company:** [Simulated Company Name]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As an Instructional Coordinator / Curriculum Developer, you will work closely with subject matter experts, educators, and stakeholders to create engaging and effective learning exp",
+      "evidence": [
+        "Results-driven Instructional Coordinator/Curriculum Developer with 5+ years of experience in designing and developing high-quality educational materials for various subjects and grade levels."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design, develop, and review curriculum content for various subjects and grade levels",
+      "evidence": [
+        "Results-driven Instructional Coordinator/Curriculum Developer with 5+ years of experience in designing and developing high-quality educational materials for various subjects and grade levels."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ong-match resume snippet with explicit affirmative evidence for most core requirements: **Instructional Coordinators / Curriculum Developers** **Job ID:** 123456 **Company:** [Simulated Company Name] **Location:** Remote **Type:** Full-time",
+      "supports": "Instructional Coordinators / Curriculum Developers**"
+    },
+    {
+      "source": "resume",
+      "quote": "Job ID:** 123456",
+      "supports": "Job ID:** 123456"
+    },
+    {
+      "source": "resume",
+      "quote": "Company:** [Simulated Company Name]",
+      "supports": "Company:** [Simulated Company Name]"
+    },
+    {
+      "source": "resume",
+      "quote": "Company:** [Simulated Company Name]",
+      "supports": "[Simulated Company Name] is a leading provider of educational resources and solutions, dedicated to helping students succeed."
+    },
+    {
+      "source": "resume",
+      "quote": "Job ID:** 123456",
+      "supports": "Job Summary:**"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,166 @@
+{
+  "job_title": "78. Medical Assistants",
+  "case_slug": "78-medical-assistants",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.459135",
+  "match_score": 51.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 48.8,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Prepared patients for exams, took vital signs, and collected medical history",
+        "Highly skilled and detail-oriented Medical Assistant with 2+ years of experience in preparing patients for exams, conducting basic lab tests, and maintaining accurate patient records.",
+        "Assisted healthcare professionals with scheduling appointments and preparing medical records",
+        "Conducted basic lab tests, including ECGs and blood pressure checks"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 55.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Assisted healthcare professionals with scheduling appointments and preparing medical records",
+        "Conducted basic lab tests, including ECGs and blood pressure checks"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Prepared patients for exams, took vital signs, and collected medical history",
+        "Highly skilled and detail-oriented Medical Assistant with 2+ years of experience in preparing patients for exams, conducting basic lab tests, and maintaining accurate patient records.",
+        "Assisted healthcare professionals with scheduling appointments and preparing medical records",
+        "Conducted basic lab tests, including ECGs and blood pressure checks"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Prepare patients for exams and procedures by collecting medical history, vital signs, and other necessary information",
+      "evidence": [
+        "Prepared patients for exams, took vital signs, and collected medical history"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Assist healthcare professionals with administrative tasks, such as scheduling appointments and preparing medical records",
+      "evidence": [
+        "Assisted healthcare professionals with scheduling appointments and preparing medical records"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Perform various clinical tasks, including ECGs, blood pressure checks, and vital sign monitoring",
+      "evidence": [
+        "Conducted basic lab tests, including ECGs and blood pressure checks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Completion of a state-approved medical assistant program",
+      "evidence": [
+        "Completed a state-approved medical assistant program with a strong focus on clinical skills and patient care"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification",
+      "evidence": [
+        "Basic Life Support (BLS) certification, [Certification Date]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "evidence": [
+        "Ability to lift up to 50 pounds and stand for long periods, with occasional bending and stretching."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Maintain accurate and up-to-date patient records and medical histories",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Clean and maintain exam rooms, equipment, and other facilities to ensure a safe and hygienic environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in medical assisting preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Current certification as a medical assistant (CMA) or registered medical assistant (RMA)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working in a healthcare setting, preferably as a medical assistant",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records (EMRs) systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Prepared patients for exams, took vital signs, and collected medical history",
+      "supports": "Prepare patients for exams and procedures by collecting medical history, vital signs, and other necessary information"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled and detail-oriented Medical Assistant with 2+ years of experience in preparing patients for exams, conducting basic lab tests, and maintaining accurate patient records.",
+      "supports": "Conduct basic lab tests such as taking blood samples and processing specimens"
+    },
+    {
+      "source": "resume",
+      "quote": "Assisted healthcare professionals with scheduling appointments and preparing medical records",
+      "supports": "Assist healthcare professionals with administrative tasks, such as scheduling appointments and preparing medical records"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted basic lab tests, including ECGs and blood pressure checks",
+      "supports": "Perform various clinical tasks, including ECGs, blood pressure checks, and vital sign monitoring"
+    },
+    {
+      "source": "resume",
+      "quote": "Completed a state-approved medical assistant program with a strong focus on clinical skills and patient care",
+      "supports": "Completion of a state-approved medical assistant program"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

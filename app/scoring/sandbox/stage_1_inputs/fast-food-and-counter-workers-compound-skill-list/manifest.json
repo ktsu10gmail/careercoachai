@@ -1,0 +1,21 @@
+{
+  "job_title": "Fast Food and Counter Workers",
+  "case_slug": "fast-food-and-counter-workers-compound-skill-list",
+  "scenario": "compound_skill_list",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T17:48:33.027576",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

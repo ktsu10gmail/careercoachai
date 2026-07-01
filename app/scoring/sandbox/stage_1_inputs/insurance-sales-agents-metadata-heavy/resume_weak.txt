@@ -1,0 +1,31 @@
+Here is a weak or scope-mismatch resume snippet for an Insurance Sales Agent position:
+
+**John Doe**
+**Contact Information:**
+
+* Phone: 555-555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary:**
+Results-driven sales professional with experience in software testing and quality assurance. Proven track record of identifying and resolving complex issues.
+
+**Work Experience:**
+
+* **Quality Assurance Engineer**, ABC Corporation (2018-Present)
+ + Designed and executed stress testing scenarios for software applications
+ + Collaborated with cross-functional teams to develop test plans and identify system requirements
+ + Developed and maintained a comprehensive understanding of software architecture, data structures, and algorithms
+* **Sales Representative**, DEF Insurance Agency (2015-2018)
+ + Generated new business leads and built relationships with clients
+ + Conducted needs assessments and provided customized insurance solutions
+ + Met or exceeded sales targets consistently
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (2015)
+
+**Skills:**
+
+* Strong analytical and problem-solving skills
+* Proficient in Microsoft Office Suite and Google Workspace
+* Experience with load testing tools, such as Apache JMeter

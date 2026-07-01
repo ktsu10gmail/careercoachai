@@ -1,0 +1,170 @@
+{
+  "job_title": "First-Line Supervisors of Office and Administrative Support Workers",
+  "case_slug": "first-line-supervisors-of-office-and-administrative-support-workers-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.140502",
+  "match_score": 49.61,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 26.1,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed a team of QA engineers to ensure timely delivery of software products",
+        "Note: This resume snippet does not mention stress testing or software engineering, which are key requirements for the job.",
+        "Coordinated with cross-functional teams, including product management and engineering, to understand requirements and develop test plans",
+        "Developed and maintained technical documentation for testing frameworks, including data models and results analysis"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "lead",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained technical documentation for testing frameworks, including data models and results analysis"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 65.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed a team of QA engineers to ensure timely delivery of software products",
+        "Note: This resume snippet does not mention stress testing or software engineering, which are key requirements for the job.",
+        "Coordinated with cross-functional teams, including product management and engineering, to understand requirements and develop test plans",
+        "Developed and maintained technical documentation for testing frameworks, including data models and results analysis"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain technical documentation for stress tests, including test scripts, data models, and results analysis",
+      "evidence": [
+        "Developed and maintained technical documentation for testing frameworks, including data models and results analysis"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance",
+      "evidence": [
+        "Coordinated with cross-functional teams, including product management and engineering, to understand requirements and develop test plans"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of stress testing principles and methodologies",
+      "evidence": [
+        "Developed and maintained technical documentation for testing frameworks, including data models and results analysis"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "Experience with project management tools such as Asana and Trello"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca",
+      "evidence": [
+        "Managed a team of QA engineers to ensure timely delivery of software products"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "Managed a team of QA engineers to ensure timely delivery of software products"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention stress testing or software engineering, which are key requirements for the job.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system quality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in software engineering or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet does not mention stress testing or software engineering, which are key requirements for the job.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed a team of QA engineers to ensure timely delivery of software products",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet does not mention stress testing or software engineering, which are key requirements for the job.",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed a team of QA engineers to ensure timely delivery of software products",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated with cross-functional teams, including product management and engineering, to understand requirements and develop test plans",
+      "supports": "Analyze test results, identify issues, and work with the development team to resolve defects and improve performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained technical documentation for testing frameworks, including data models and results analysis",
+      "supports": "Develop and maintain technical documentation for stress tests, including test scripts, data models, and results analysis"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,150 @@
+{
+  "job_title": "Licensed Practical/Vocational Nurses",
+  "case_slug": "licensed-practical-vocational-nurses-scraped-job-board",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:03.832600",
+  "match_score": 57.86,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.2,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly motivated and compassionate LPVN with 2+ years of experience in healthcare settings, seeking to leverage my skills in patient assessment, care planning, and collaboration.",
+        "Summary:",
+        "+ Educated patients and families on health promotion and disease prevention strategies",
+        "+ Developed and implemented individualized care plans, prioritizing patient-centered care"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 26.2,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly motivated and compassionate LPVN with 2+ years of experience in healthcare settings, seeking to leverage my skills in patient assessment, care planning, and collaboration."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly motivated and compassionate LPVN with 2+ years of experience in healthcare settings, seeking to leverage my skills in patient assessment, care planning, and collaboration.",
+        "Summary:",
+        "+ Educated patients and families on health promotion and disease prevention strategies",
+        "+ Developed and implemented individualized care plans, prioritizing patient-centered care"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement individualized care plans",
+      "evidence": [
+        "+ Developed and implemented individualized care plans, prioritizing patient-centered care"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Educate patients and families on health promotion and disease prevention",
+      "evidence": [
+        "+ Educated patients and families on health promotion and disease prevention strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Current licensure as a Licensed Practical/Vocational Nurse in [State]",
+      "evidence": [
+        "Basic life support certification (BLS) and current licensure as a Licensed Practical/Vocational Nurse in [State]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Administer medications and treatments as ordered by physicians",
+      "evidence": [
+        "+ Administered medications and treatments as ordered by physicians, with a focus on evidence-based practice"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Company:** [Healthcare Solutions Inc.]",
+      "evidence": [
+        "Highly motivated and compassionate LPVN with 2+ years of experience in healthcare settings, seeking to leverage my skills in patient assessment, care planning, and collaboration."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Licensed Practical/Vocational Nurses**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** LPVN-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Join our team of dedicated healthcare professionals as a Licensed Practical/Vocational Nurse!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly motivated and compassionate LPVN with 2+ years of experience in healthcare settings, seeking to leverage my skills in patient assessment, care planning, and collaboration.",
+      "supports": "Company:** [Healthcare Solutions Inc.]"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and compassionate LPVN with 2+ years of experience in healthcare settings, seeking to leverage my skills in patient assessment, care planning, and collaboration.",
+      "supports": "As an LPVN, you will work closely with our interdisciplinary team to assess, plan, implement, and evaluate patient care plans."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Educated patients and families on health promotion and disease prevention strategies",
+      "supports": "Assess patients' physical and emotional needs"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and implemented individualized care plans, prioritizing patient-centered care",
+      "supports": "Develop and implement individualized care plans"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

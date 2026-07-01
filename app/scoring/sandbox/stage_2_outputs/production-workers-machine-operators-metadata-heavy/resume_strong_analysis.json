@@ -1,0 +1,144 @@
+{
+  "job_title": "Production Workers / Machine Operators",
+  "case_slug": "production-workers-machine-operators-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:06.818652",
+  "match_score": 69.13,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.8,
+      "reason": "Found 6 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Production Worker/Machine Operator",
+        "Highly motivated and detail-oriented production professional with 1.5 years of experience operating complex machinery and equipment in a fast-paced manufacturing environment.",
+        "+ Operated scoring engines, conveyor systems, and other machinery to meet production targets, resulting in 15% increase in efficiency",
+        "+ Conducted routine maintenance tasks, including cleaning and lubricating equipment, to prevent downtime and optimize productivity"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Maintained accurate records of production data, including metrics on machine performance and product quality"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Production Worker/Machine Operator",
+        "Highly motivated and detail-oriented production professional with 1.5 years of experience operating complex machinery and equipment in a fast-paced manufacturing environment.",
+        "+ Operated scoring engines, conveyor systems, and other machinery to meet production targets, resulting in 15% increase in efficiency",
+        "+ Conducted routine maintenance tasks, including cleaning and lubricating equipment, to prevent downtime and optimize productivity"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our production team, you will be responsible for operating complex machinery and equipment to produce high-quality products.",
+      "evidence": [
+        "Highly motivated and detail-oriented production professional with 1.5 years of experience operating complex machinery and equipment in a fast-paced manufacturing environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate and maintain various types of machinery and equipment, including scoring engines, to meet production targets",
+      "evidence": [
+        "+ Operated scoring engines, conveyor systems, and other machinery to meet production targets, resulting in 15% increase in efficiency"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Perform routine maintenance tasks, such as cleaning and lubricating equipment, to prevent downtime and optimize productivity",
+      "evidence": [
+        "+ Conducted routine maintenance tasks, including cleaning and lubricating equipment, to prevent downtime and optimize productivity"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of production data, including metrics on machine performance and product quality",
+      "evidence": [
+        "+ Maintained accurate records of production data, including metrics on machine performance and product quality"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1-2 years of experience operating complex machinery and equipment in a manufacturing environment",
+      "evidence": [
+        "Highly motivated and detail-oriented production professional with 1.5 years of experience operating complex machinery and equipment in a fast-paced manufacturing environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine operation and maintenance",
+      "evidence": [
+        "+ Developed strong understanding of scoring engine operation and maintenance through hands-on training and online courses"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: We offer sponsorship for eligible candidates who meet the necessary requirements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Production Worker/Machine Operator",
+      "supports": "Production Workers / Machine Operators**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented production professional with 1.5 years of experience operating complex machinery and equipment in a fast-paced manufacturing environment.",
+      "supports": "Travel: Occasional travel to other facilities for training or equipment maintenance"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented production professional with 1.5 years of experience operating complex machinery and equipment in a fast-paced manufacturing environment.",
+      "supports": "As a key member of our production team, you will be responsible for operating complex machinery and equipment to produce high-quality products."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated scoring engines, conveyor systems, and other machinery to meet production targets, resulting in 15% increase in efficiency",
+      "supports": "Operate and maintain various types of machinery and equipment, including scoring engines, to meet production targets"
+    },
+    {
+      "source": "resume",
+      "quote": "Production Worker/Machine Operator",
+      "supports": "Monitor and control machine performance in real-time to ensure optimal output and quality"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

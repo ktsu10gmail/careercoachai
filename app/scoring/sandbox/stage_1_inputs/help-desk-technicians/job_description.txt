@@ -1,0 +1,23 @@
+Responsibilities:
+
+* Respond to and resolve technical issues via phone, email, and chat for internal and external customers
+* Troubleshoot hardware and software problems using diagnostic tools such as HP ProCurve network analyzers, ITIL-compliant ticketing systems, and troubleshooting guides
+* Collaborate with internal teams (IT, Operations) to resolve complex technical issues and implement process improvements
+* Document and track customer interactions in a help desk management system (e.g. ServiceNow, JIRA)
+* Provide training and support for new employees on company technology and software applications
+* Participate in regular team meetings and contribute to the development of knowledge base articles and troubleshooting guides
+
+Required Skills:
+
+* 1-2 years of experience as a Help Desk Technician or similar role
+* Strong technical skills in Windows, macOS, and Linux operating systems; familiarity with cloud-based services (e.g. Office 365, Google Workspace)
+* Excellent communication and problem-solving skills
+* Ability to work in a fast-paced environment and prioritize multiple tasks simultaneously
+
+Preferred Skills:
+
+* Experience with IT service management frameworks (e.g. ITIL)
+* Knowledge of network protocols (TCP/IP, DNS, DHCP) and device management tools (e.g. HP ProCurve, Cisco)
+* Familiarity with scripting languages (e.g. PowerShell, Bash)
+* Certification in CompTIA A+ or equivalent
+* Experience with agile project management methodologies

@@ -1,0 +1,555 @@
+[
+  {
+    "id": "FM-001-metadata-isolation",
+    "description": "Job metadata must not become scored requirements.",
+    "job_description": "Job Attributes\nEmployment type: Full-time\nWork mode: Remote\nSalary range: Not provided\nTarget start date: 2026-09-15\n\nRequirements\nProficiency in Python and Kubernetes.",
+    "resume": "Built Python services and managed Kubernetes deployments.",
+    "must_not_match_text": [
+      "salary range",
+      "target start date",
+      "work mode",
+      "2026-09-15"
+    ],
+    "must_match_text": [
+      "Python",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "FM-002-boilerplate-filter",
+    "description": "Company marketing and culture text must not become missing requirements.",
+    "job_description": "About The Company\nRain makes the next generation of payments possible across the globe.\nOur Ethos\nWe believe in an open and flat structure.\n\nWhat you'll do\nBuild scalable reconciliation frameworks supporting month-end close.",
+    "resume": "Maintained bank reconciliation workflows for small business bookkeeping.",
+    "must_not_match_text": [
+      "Rain makes",
+      "open and flat structure"
+    ],
+    "must_match_text": [
+      "reconciliation"
+    ]
+  },
+  {
+    "id": "FM-003-contra-evidence",
+    "description": "Explicit non-performance must be missing/unclear, not matched evidence.",
+    "job_description": "Requirements\nPrepare GAAP financial statements for year-end audit.",
+    "resume": "Supported month-end bookkeeping handoffs to external accountants but did not prepare GAAP financial statements.",
+    "must_not_match_text": [
+      "did not prepare GAAP financial statements"
+    ],
+    "must_missing_text": [
+      "did not prepare GAAP financial statements"
+    ]
+  },
+  {
+    "id": "FM-004-anti-scattering",
+    "description": "Generic bookkeeping snippets must not satisfy advanced enterprise accounting requirements.",
+    "job_description": "Requirements\nPrepare GAAP financial statements and analyze revenue contracts for ASC 606.\nBuild scalable reconciliation frameworks for month-end close and external audit.\nSupport consolidated financial statements and statutory reporting for international subsidiaries.",
+    "resume": "Skills: Tax preparation, small business accounting, QuickBooks, basic GAAP, AP/AR, bank reconciliation, financial statements.",
+    "must_not_match_text": [
+      "QuickBooks",
+      "AP/AR",
+      "Tax preparation"
+    ],
+    "must_missing_text": [
+      "Generic or lower-scope"
+    ]
+  },
+  {
+    "id": "FM-005-header-is-not-proof",
+    "description": "Resume title/header lines must not prove execution scope.",
+    "job_description": "Requirements\nResearch, document, and present technical accounting positions.\nLead, mentor, and develop a high-performing team of accountants.",
+    "resume": "Senior / Lead Role | Freelance Bookkeeping | Los Angeles, CA | 2023 - Present\nHandled AP, AR, invoices, and bank reconciliations.",
+    "must_not_match_text": [
+      "Senior / Lead Role"
+    ],
+    "must_missing_text": [
+      "Research, document",
+      "Lead, mentor"
+    ]
+  },
+  {
+    "id": "FM-006-sandbox-preface-is-not-evidence",
+    "description": "Generator or pasted preface lines must not be used as resume evidence.",
+    "job_description": "Requirements\n3+ years of experience in front-end or full-stack web development.\nDesign, develop, test, and maintain web applications using HTML5, CSS3, JavaScript, and responsive design principles.",
+    "resume": "Here's a weak or scope-mismatch resume snippet for a Web Developer position:\nFront-end developer with 2 years of experience building responsive websites using HTML5 and CSS3. Proficient in JavaScript on small freelance projects.",
+    "must_not_match_text": [
+      "Here's a weak or scope-mismatch resume snippet"
+    ],
+    "must_missing_text": [
+      "3+ years of experience"
+    ],
+    "must_match_text": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "FM-007-targeted-limited-experience",
+    "description": "A sentence with valid evidence and a targeted limitation must only match the valid part.",
+    "job_description": "Requirements\nExperience with Linux operating systems including Ubuntu and Red Hat.\nTroubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals.",
+    "resume": "* Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals.\n* Limited experience with Linux operating systems.",
+    "must_not_match_text": [
+      "limited experience with Linux operating systems"
+    ],
+    "must_missing_text": [
+      "limited experience with Linux operating systems"
+    ],
+    "must_match_text": [
+      "Troubleshooted hardware and software issues"
+    ]
+  },
+  {
+    "id": "FM-008-relied-on-colleagues-is-contra",
+    "description": "Work performed only by relying on others must not count as full affirmative proof of ownership.",
+    "job_description": "Requirements\nDevelop and implement treatment plans for patients with dental caries and gum disease.",
+    "resume": "* Developed and implemented treatment plans for patients with dental caries, but often relied on colleagues for guidance.",
+    "must_not_match_text": [
+      "relied on colleagues"
+    ],
+    "must_missing_text": [
+      "relied on colleagues"
+    ]
+  },
+  {
+    "id": "FM-009-small-scale-cloud-scope",
+    "description": "Small-scale or one-off cloud exposure must not satisfy production cloud infrastructure ownership.",
+    "job_description": "Requirements\nProduction experience deploying and monitoring applications on AWS cloud infrastructure.\nExperience with back-end programming languages and database management systems.",
+    "resume": "Familiarity with AWS cloud platform, but only used it for a single small-scale project. No experience with back-end programming languages, database management systems, or testing frameworks.",
+    "must_not_match_text": [
+      "single small-scale project",
+      "No experience with back-end"
+    ],
+    "must_missing_text": [
+      "single small-scale project",
+      "No experience with back-end"
+    ]
+  },
+  {
+    "id": "FM-010-role-title-is-not-license-proof",
+    "description": "A bare role title must not prove current professional licensure.",
+    "job_description": "Requirements\nCurrent licensure as a Licensed Practical/Vocational Nurse (LPN) or Licensed Vocational Nurse (LVN).",
+    "resume": "**Licensed Practical/Vocational Nurse**\nAssisted nurses with patient intake in a clinic.",
+    "must_not_match_text": [
+      "Licensed Practical/Vocational Nurse"
+    ],
+    "must_missing_text": [
+      "Current licensure"
+    ]
+  },
+  {
+    "id": "FM-011-domain-software-sales",
+    "description": "Generic sales experience must not fully satisfy software or SaaS sales experience.",
+    "job_description": "Requirements\nExperience selling B2B software or SaaS products.",
+    "resume": "Account manager with 5 years of sales experience exceeding quota and managing enterprise accounts.",
+    "must_not_match_text": [
+      "5 years of sales experience"
+    ],
+    "must_missing_text": [
+      "required domain qualifier is not proven"
+    ]
+  },
+  {
+    "id": "FM-012-domain-saas-revenue-accounting",
+    "description": "Generic accounting experience must not fully satisfy SaaS revenue recognition requirements.",
+    "job_description": "Requirements\nExperience with SaaS revenue recognition, ASC 606, deferred revenue, and revenue contracts.",
+    "resume": "Accounting professional with 6 years of financial reporting, month-end close, reconciliations, and revenue analysis experience.",
+    "must_not_match_text": [
+      "6 years of financial reporting"
+    ],
+    "must_missing_text": [
+      "required domain qualifier is not proven"
+    ]
+  },
+  {
+    "id": "FM-013-domain-software-project-management",
+    "description": "Generic project management must not fully satisfy software delivery project management.",
+    "job_description": "Requirements\nProject management experience leading software development teams using Agile and Scrum.",
+    "resume": "Project manager with 7 years of experience managing timelines, budgets, vendors, and stakeholder communications.",
+    "must_not_match_text": [
+      "7 years of experience managing timelines"
+    ],
+    "must_missing_text": [
+      "required domain qualifier is not proven"
+    ]
+  },
+  {
+    "id": "FM-014-domain-technical-support",
+    "description": "Generic customer service must not fully satisfy technical support requirements.",
+    "job_description": "Requirements\nTechnical support experience troubleshooting hardware, software, and help desk tickets.",
+    "resume": "Customer service representative with 4 years of support experience resolving customer issues and improving satisfaction scores.",
+    "must_not_match_text": [
+      "4 years of support experience"
+    ],
+    "must_missing_text": [
+      "required domain qualifier is not proven"
+    ]
+  },
+  {
+    "id": "FM-015-domain-low-latency-trading-infrastructure",
+    "description": "Generic infrastructure experience must not fully satisfy low-latency trading infrastructure requirements.",
+    "job_description": "Requirements\nLinux infrastructure experience in low-latency trading environments with deterministic performance tuning.",
+    "resume": "Infrastructure engineer with 8 years of Linux server administration, patching, monitoring, and virtualization experience.",
+    "must_not_match_text": [
+      "8 years of Linux server administration"
+    ],
+    "must_missing_text": [
+      "required domain qualifier is not proven"
+    ]
+  },
+  {
+    "id": "FM-016-compound-skill-list-contradiction",
+    "description": "Large skill lists should not report the same technology as both matched and missing.",
+    "status": "planned",
+    "job_description": "Required skills: Windows Server, RHEL, Ubuntu, VMware, Hyper-V, Azure, GCP, Entra ID, DNS, DHCP.",
+    "resume": "Managed Windows Server, RHEL, Ubuntu, VMware, Hyper-V, Azure, and GCP infrastructure.",
+    "must_match_text": [
+      "Windows Server",
+      "RHEL",
+      "Ubuntu",
+      "VMware",
+      "Hyper-V",
+      "Azure",
+      "GCP"
+    ],
+    "must_missing_text": [
+      "Entra ID",
+      "DNS",
+      "DHCP"
+    ],
+    "must_not_contradict_terms": [
+      "Windows Server",
+      "RHEL",
+      "Ubuntu",
+      "VMware",
+      "Hyper-V",
+      "Azure",
+      "GCP"
+    ]
+  },
+  {
+    "id": "FM-AUTO-ce530b088d",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 13-first-line-supervisors-of-retail-sales-workers/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Supervise a team of retail sales workers to achieve sales goals and maintain store appearance\n* Conduct daily meetings with employees to discuss sales performance, customer service, and visual merchandising\n* Train new employees on company policies, procedures, and product knowledge\n* Manage inventory levels and monitor stockroom organization\n* Investigate employee complaints and resolve issues in a fair and timely manner\n* Collaborate with district managers to develop and implement sales strategies\n* Monitor employee attendance and tardiness, taking disciplinary action as necessary\n* Maintain accurate records of employee performance, including sales data and customer feedback\n\nRequired Skills:\n\n* High school diploma or equivalent required; 2+ years of retail management experience preferred\n* Strong communication and interpersonal skills\n* Ability to work in a fast-paced environment with multiple priorities\n* Basic math skills and accuracy with cash handling\n* Familiarity with point-of-sale systems and inventory management software\n\nPreferred Skills:\n\n* Experience with visual merchandising and store displays\n* Knowledge of retail operations, including inventory management and loss prevention\n* Certification in first aid or CPR preferred\n* Proficiency in Microsoft Office Suite, particularly Excel and Word",
+    "resume": "Here's a contra-evidence resume snippet for the 13. First-Line Supervisors of Retail Sales Workers position:\n\n\"Results-driven retail professional with experience in team supervision and daily operations management. Proven track record of achieving sales goals through effective communication and customer service skills.\n\n* Supervised teams to achieve sales targets, but often found myself struggling to manage inventory levels due to inadequate training from district managers.\n* Conducted daily meetings with employees, but frequently had to rely on pre-made scripts rather than developing my own discussion topics.\n* Trained new employees on company policies, but unfortunately did not have the opportunity to develop and implement sales strategies as I was too focused on day-to-day operations.\n* Managed inventory levels, but often found myself at odds with district managers over stockroom organization and visual merchandising standards.\n* Investigated employee complaints, but sometimes struggled to resolve issues in a fair and timely manner due to limited resources and support from higher management.\n* Collaborated with district managers on sales strategies, but was not given the autonomy to develop and implement my own plans.\n* Monitored employee attendance and tardiness, but did not have the authority to take disciplinary action as I was still learning about company policies and procedures.\n* Maintained accurate records of employee performance, but often relied on pre-made templates rather than developing my own reporting tools.\"",
+    "must_not_match_text": [
+      "struggled to resolve issues in a fair and timely manner due to limited resources and support from higher management"
+    ],
+    "must_missing_text": [
+      "struggled to resolve issues in a fair and timely manner due to limited resources and support from higher management"
+    ]
+  },
+  {
+    "id": "FM-AUTO-850a2ec7e2",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 2-chief-executive-officers-top-executives/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n- Develop and implement strategic plans to drive business growth and profitability\n- Lead cross-functional teams to achieve organizational goals and objectives\n- Foster a culture of innovation, collaboration, and accountability within the organization\n- Build and maintain strong relationships with key stakeholders, including investors, customers, and partners\n- Oversee financial planning, budgeting, and forecasting to ensure alignment with business objectives\n- Make informed decisions on major investments, acquisitions, and divestitures\n- Ensure compliance with regulatory requirements and industry standards\n\nRequired Skills:\n\n- Bachelor's degree in Business Administration, Finance, or related field; MBA preferred\n- Minimum 10 years of experience as a CEO, Top Executive, or equivalent senior leadership role\n- Proven track record of driving business growth and profitability through strategic planning and execution\n- Strong understanding of financial management, including budgeting, forecasting, and financial analysis\n- Excellent communication, negotiation, and interpersonal skills\n- Ability to build and maintain strong relationships with key stakeholders\n\nPreferred Skills:\n\n- Experience in a regulated industry (e.g. finance, healthcare)\n- Familiarity with enterprise resource planning (ERP) systems, such as SAP or Oracle\n- Knowledge of cloud-based technologies and their applications in business operations\n- Certification in leadership development, strategic planning, or executive coaching\n- Experience with data analytics and business intelligence tools, such as Tableau or Power BI",
+    "resume": "Here's a contra-evidence resume snippet for the Chief Executive Officers / Top Executives position:\n\n\"Results-driven executive with 15 years of experience in driving business growth and profitability through strategic planning and execution. Proven track record of leading cross-functional teams to achieve organizational goals and objectives, fostering a culture of innovation, collaboration, and accountability within the organization.\n\nKey accomplishments include:\n\n* Successfully developed and implemented strategic plans that drove revenue growth by 25% YoY\n* Built and maintained strong relationships with key stakeholders, including investors, customers, and partners\n* Demonstrated expertise in financial management, including budgeting, forecasting, and financial analysis\n\nEducation:\n\n* Bachelor's degree in Business Administration from XYZ University (2005-2009)\n* Completed coursework in finance, accounting, and marketing\n\nSkills:\n\n* Strong understanding of financial management, including budgeting, forecasting, and financial analysis\n* Excellent communication, negotiation, and interpersonal skills\n* Ability to build and maintain strong relationships with key stakeholders\n\nNote: While I have highlighted the candidate's experience and skills, I must correct some misconceptions. The candidate did not develop and implement strategic plans that drove business growth by 25% YoY (the actual figure is unknown). Additionally, they did not oversee financial planning, budgeting, and forecasting to ensure alignment with business objectives (they were part of a team that worked on this aspect). Furthermore, the candidate did not make informed decisions on major investments, acquisitions, and divestitures (this was handled by other executives in the organization).\"",
+    "must_not_match_text": [
+      "did not oversee financial planning"
+    ],
+    "must_missing_text": [
+      "did not oversee financial planning"
+    ]
+  },
+  {
+    "id": "FM-AUTO-28965b2d4d",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 2-chief-executive-officers-top-executives/resume_weak.txt.",
+    "job_description": "Responsibilities:\n\n- Develop and implement strategic plans to drive business growth and profitability\n- Lead cross-functional teams to achieve organizational goals and objectives\n- Foster a culture of innovation, collaboration, and accountability within the organization\n- Build and maintain strong relationships with key stakeholders, including investors, customers, and partners\n- Oversee financial planning, budgeting, and forecasting to ensure alignment with business objectives\n- Make informed decisions on major investments, acquisitions, and divestitures\n- Ensure compliance with regulatory requirements and industry standards\n\nRequired Skills:\n\n- Bachelor's degree in Business Administration, Finance, or related field; MBA preferred\n- Minimum 10 years of experience as a CEO, Top Executive, or equivalent senior leadership role\n- Proven track record of driving business growth and profitability through strategic planning and execution\n- Strong understanding of financial management, including budgeting, forecasting, and financial analysis\n- Excellent communication, negotiation, and interpersonal skills\n- Ability to build and maintain strong relationships with key stakeholders\n\nPreferred Skills:\n\n- Experience in a regulated industry (e.g. finance, healthcare)\n- Familiarity with enterprise resource planning (ERP) systems, such as SAP or Oracle\n- Knowledge of cloud-based technologies and their applications in business operations\n- Certification in leadership development, strategic planning, or executive coaching\n- Experience with data analytics and business intelligence tools, such as Tableau or Power BI",
+    "resume": "Here's a weak or scope-mismatch resume snippet for a Chief Executive Officer / Top Executive position:\n\n\"Results-driven leader with 5 years of experience in IT project management. Proven track record of delivering high-quality software solutions on time and within budget. Skilled in Agile methodologies, version control systems (Git), and low-level programming languages such as C++ and Java.\n\nEducation: Bachelor's degree in Computer Science from XYZ University.\n\nExperience:\n\n* Senior Software Engineer, ABC Company (2018-Present)\n + Managed a team of 5 developers to deliver multiple software projects\n + Implemented automated testing frameworks using Python and Selenium\n + Collaborated with cross-functional teams to integrate third-party APIs\n\nSkills:\n\n* Programming languages: C++, Java, Python\n* Agile methodologies: Scrum, Kanban\n* Version control systems: Git\n* Operating Systems: Windows, Linux\"\n\nThis resume snippet lacks the required 10+ years of experience as a CEO or Top Executive, and instead highlights the candidate's experience in IT project management. The skills listed are also more focused on software development rather than leadership and business acumen, which is not suitable for the position of Chief Executive Officer / Top Executive.",
+    "must_not_match_text": [
+      "not suitable for the position"
+    ],
+    "must_missing_text": [
+      "not suitable for the position"
+    ]
+  },
+  {
+    "id": "FM-AUTO-ee91e949e2",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 22-business-development-representatives/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Identify and pursue new business opportunities through research, networking, and outreach to key decision-makers in target industries\n* Develop and maintain relationships with existing clients to increase revenue and expand services\n* Conduct product demonstrations and trials to showcase company offerings and build credibility\n* Create and present sales pitches, proposals, and presentations to potential clients\n* Meet or exceed monthly sales targets through effective lead generation and conversion strategies\n* Collaborate with cross-functional teams, including sales, marketing, and customer success, to ensure seamless integration of services\n\nRequired Skills:\n\n* 1-2 years of experience in business development, sales, or a related field\n* Proven track record of meeting or exceeding sales targets\n* Excellent communication, negotiation, and interpersonal skills\n* Strong product knowledge and understanding of industry trends\n* Proficiency in CRM software (e.g. Salesforce) and Microsoft Office Suite\n* Ability to work independently and as part of a team\n\nPreferred Skills:\n\n* Experience with business development tools such as HubSpot or LinkedIn Sales Navigator\n* Familiarity with data analysis and reporting software (e.g. Excel, Tableau)\n* Bachelor's degree in Business, Marketing, or a related field\n* Fluency in multiple languages (optional)",
+    "resume": "Here is a contra-evidence resume snippet:\n\n\"Results-driven business development professional with 1 year of experience in sales and marketing. Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency. Demonstrated strong communication skills through effective proposal writing and presentation delivery, but had difficulty working independently without close supervision. Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\"",
+    "must_not_match_text": [
+      "struggled to meet monthly sales targets due to limite"
+    ],
+    "must_missing_text": [
+      "struggled to meet monthly sales targets due to limite"
+    ]
+  },
+  {
+    "id": "FM-AUTO-69782d9ab7",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 3-sales-managers/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Manage a team of sales representatives to achieve quarterly sales targets\n* Develop and implement sales strategies to expand customer base and increase revenue\n* Conduct regular sales performance reviews with individual team members, providing coaching and feedback to improve results\n* Analyze sales data and market trends to identify opportunities for growth and adjust sales tactics accordingly\n* Collaborate with cross-functional teams, including marketing and product development, to ensure alignment and effective execution of sales plans\n* Identify and pursue new business opportunities through networking and relationship-building\n* Manage a budget of $500,000 for sales-related expenses, including travel and training\n\nRequired Skills:\n\n* 5+ years of experience in sales management or a related field\n* Proven track record of success in driving revenue growth and team performance\n* Strong understanding of the software industry and its current market trends\n* Excellent communication, leadership, and problem-solving skills\n* Ability to work effectively in a fast-paced environment with multiple priorities and deadlines\n\nPreferred Skills:\n\n* Experience with CRM software (Salesforce.com) and sales analytics tools (e.g. HubSpot)\n* Knowledge of cloud-based software solutions and their sales strategies\n* Certification in sales or business management (e.g. Certified Sales Professional, MBA)\n* Fluency in Spanish or another language relevant to the industry",
+    "resume": "Here's a contra-evidence resume snippet for a 3. Sales Managers position:\n\n\"Results-driven sales professional with 5+ years of experience in sales management and leadership. Proven track record of driving revenue growth, but struggled to scale team performance beyond quarterly targets. Demonstrated strong understanding of the software industry, but lacked expertise in CRM software (utilized manual processes instead). Excellent communication skills, but had difficulty articulating a clear vision for the sales team. Effective problem-solver, but often relied on others to provide guidance and support. Managed a budget of $500,000 with some success, but frequently overspent on travel and training due to lack of planning and prioritization.\"",
+    "must_not_match_text": [
+      "struggled to scale team performance beyond quarterly targets"
+    ],
+    "must_missing_text": [
+      "struggled to scale team performance beyond quarterly targets"
+    ]
+  },
+  {
+    "id": "FM-AUTO-c6a9997069",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 36-data-entry-keyers/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n- Enter data from various sources into a database using a keyboard\n- Verify accuracy of entered data against original documents or other sources as required\n- Meet productivity standards by completing assigned tasks within set timeframes (e.g., 95% of all entries must be completed on time)\n- Maintain confidentiality and handle sensitive information with discretion\n- Collaborate with colleagues to resolve data discrepancies or errors\n\nRequired Skills:\n\n- Basic computer skills, including proficiency in Microsoft Office applications\n- Strong typing skills, with a minimum speed of 60 words per minute\n- Ability to accurately enter data into a database system\n- Basic math skills for handling monetary transactions and calculations\n- Excellent attention to detail and organizational skills\n\nPreferred Skills:\n\n- Experience with database management systems (e.g., Access, SQL)\n- Familiarity with electronic health records (EHR) or other healthcare-related software\n- Knowledge of HIPAA regulations and data security protocols\n- Ability to work in a fast-paced environment with multiple priorities",
+    "resume": "Here's a contra-evidence resume snippet for the Data Entry Keyer position:\n\n\"Results-oriented professional with strong typing skills, achieving an average speed of 55 words per minute (meets basic requirement). Proficient in Microsoft Office applications and basic computer skills. Demonstrated attention to detail in data entry tasks, but occasionally struggled with accuracy verification against original documents due to limited experience with database management systems. Maintained confidentiality and handled sensitive information with discretion, but did not have formal training on HIPAA regulations and data security protocols.\"",
+    "must_not_match_text": [
+      "limited experience with database management systems"
+    ],
+    "must_missing_text": [
+      "limited experience with database management systems"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-8166edb4eb",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 40-financial-analysts/resume_weak.txt.",
+    "job_description": "Responsibilities:\n\n* Analyze financial data to identify trends, opportunities, and risks for a portfolio of 20+ clients across various industries\n* Develop and maintain complex financial models using Excel, Python, and SQL to forecast revenue, expenses, and cash flow\n* Collaborate with cross-functional teams, including sales, marketing, and operations, to provide actionable insights and recommendations\n* Conduct regular financial reviews and reporting for clients, ensuring timely and accurate delivery of key performance indicators (KPIs)\n* Develop and maintain relationships with clients, providing exceptional customer service and support\n\nRequired Skills:\n\n* Bachelor's degree in Finance, Accounting, or related field; 2+ years of experience as a Financial Analyst\n* Strong proficiency in Excel, Python, SQL, and financial modeling software (e.g. Bloomberg, FactSet)\n* Excellent analytical, problem-solving, and communication skills\n* Ability to work independently and collaboratively as part of a team\n\nPreferred Skills:\n\n* Master's degree in Finance or related field; experience with data visualization tools (e.g. Tableau, Power BI) and programming languages (e.g. R, Python)\n* Experience working with large datasets and performing advanced statistical analysis\n* Certification in financial modeling or accounting (e.g. CFA, CPA)\n* Familiarity with cloud-based financial software (e.g. Salesforce, Workday)",
+    "resume": "Here's a weak or scope-mismatch resume snippet for a Financial Analyst position:\n\n\"Financial Analyst\n- 1 year of experience in data analysis and modeling using Excel and Python\n- Familiarity with SQL and basic financial modeling concepts\n- Strong analytical skills, but limited experience with large datasets or advanced statistical analysis\n- Proficient in Tableau for data visualization\n- Currently learning Python and R programming languages\n\nSkills:\n\n* Excel, Python, SQL\n* Financial modeling basics\n* Data visualization (Tableau)\n* Basic understanding of cloud-based financial software (Salesforce)\n\nExperience:\n\n* Junior Financial Analyst at XYZ Corporation (2022-Present)\n + Analyzed financial data using Excel and Python to identify trends and opportunities\n + Developed simple financial models for client presentations\n + Collaborated with sales team on quarterly reviews\n\nEducation:\n\n* Bachelor's degree in Business Administration (2018-2022)\n\nCertifications:\n\n* None\"",
+    "must_not_match_text": [
+      "Strong analytical skills, but limited experience with large datasets or advanced statistical analysis"
+    ],
+    "must_missing_text": [
+      "Strong analytical skills, but limited experience with large datasets or advanced statistical analysis"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-c6b3324ee2",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 49-human-resources-assistants/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n- Process employee onboarding documents, ensuring compliance with company policies and procedures\n- Maintain accurate and up-to-date employee records in HRIS systems, including personnel files and benefits information\n- Coordinate new hire orientations, training sessions, and other HR-related events\n- Assist in the development and implementation of employee recognition programs\n- Provide support for employee relations issues, including mediating conflicts and facilitating resolutions\n- Conduct routine background checks on new hires and ensure compliance with company policies\n- Prepare and distribute employee communications, such as company-wide announcements and policy updates\n\nRequired Skills:\n\n- High school diploma or equivalent required; associate's degree in human resources or related field preferred\n- 1-2 years of experience in HR or a related field\n- Proficiency in HRIS systems, including ADP Workforce Now or similar software\n- Strong organizational and communication skills\n- Ability to maintain confidentiality and handle sensitive information\n\nPreferred Skills:\n\n- Experience with employee engagement platforms, such as Culture Amp or 15Five\n- Knowledge of employment laws and regulations, including Title VII and FLSA\n- Certification in HR or a related field, such as SHRM-CP or HRCI certification\n- Proficiency in Microsoft Office Suite, including Word, Excel, and PowerPoint",
+    "resume": "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:\n\n\"Human Resources Assistant Candidate\n\n* Processed employee onboarding documents, ensuring compliance with company policies and procedures (Note: I did not coordinate new hire orientations, training sessions, or other HR-related events as required)\n* Maintained accurate and up-to-date employee records in HRIS systems, including personnel files and benefits information\n* Conducted routine background checks on new hires, but did not ensure compliance with company policies (I relied on existing procedures for this task)\n* Prepared and distributed employee communications, such as company-wide announcements and policy updates (I did not have the opportunity to prepare and distribute employee recognition programs or provide support for employee relations issues)\n\nSkills:\n\n* Proficient in HRIS systems, including ADP Workforce Now\n* Strong organizational and communication skills\n* Ability to maintain confidentiality and handle sensitive information\n\nNote: I do not have experience with employee engagement platforms, nor do I hold any certifications in HR or a related field. However, I am eager to learn and grow in this role.\"",
+    "must_not_match_text": [
+      "did not coordinate new hire orientations, training sessions, or other HR-related events as required)"
+    ],
+    "must_missing_text": [
+      "did not coordinate new hire orientations, training sessions, or other HR-related events as required)"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-6a8bd3a392",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 74-videographers-broadcast-technicians/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Capture high-quality video footage for broadcast television, including live events, news segments, and studio productions\n* Operate a variety of camera systems, including HD cameras, Steadicams, and drone-mounted cameras\n* Set up and maintain camera equipment, lighting, and sound systems for live broadcasts and pre-recorded content\n* Collaborate with producers, directors, and other crew members to ensure smooth execution of broadcast productions\n* Troubleshoot technical issues during live broadcasts and resolve problems quickly\n* Maintain accurate records of shot lists, camera settings, and other production data\n* Participate in post-production review and editing of footage as needed\n\nRequired Skills:\n\n* 2+ years of experience as a videographer or broadcast technician\n* Proficiency in operating HD cameras, Steadicams, and drone-mounted cameras\n* Strong understanding of lighting and sound principles for live broadcasts\n* Experience with multi-camera setups and switcher operation\n* Familiarity with video editing software (e.g. Avid, Adobe Premiere)\n* Ability to work well under pressure and meet deadlines\n\nPreferred Skills:\n\n* Experience with 4K or high-frame-rate camera systems\n* Knowledge of audio engineering principles and sound design techniques\n* Certification in broadcast technology or a related field (e.g. FCC certification)\n* Proficiency in operating robotic camera systems (e.g. Jib, Crane)\n* Experience with live streaming and social media production",
+    "resume": "Here's a contra-evidence resume snippet:\n\n\"Highly motivated videographer/broadcast technician seeking to leverage my expertise in capturing high-quality video footage for broadcast television. Proficient in operating HD cameras, Steadicams, and drone-mounted cameras, with strong understanding of lighting and sound principles for live broadcasts.\n\nWhile I have experience working on multi-camera setups and switcher operation, I did not have the opportunity to work extensively with 4K or high-frame-rate camera systems during my previous role. Additionally, I do not hold any certification in broadcast technology or audio engineering principles, but I am eager to learn and expand my skillset.\n\nIn terms of post-production review and editing, I have assisted with basic footage organization and shot list management, but I did not participate in the actual editing process due to limited experience with video editing software such as Avid or Adobe Premiere. I am excited to develop these skills further in this role.\"",
+    "must_not_match_text": [
+      "did not participate in the actual editing process due to limited experience with video editing software such as"
+    ],
+    "must_missing_text": [
+      "did not participate in the actual editing process due to limited experience with video editing software such as"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-ec823b3830",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: 82-physical-therapists/resume_weak.txt.",
+    "job_description": "Responsibilities:\n\n* Conduct patient assessments to identify and prioritize treatment goals\n* Develop and implement individualized physical therapy plans to improve mobility, strength, and function\n* Provide hands-on interventions, including exercises, stretches, and manual therapies, to patients with various orthopedic and neurological conditions\n* Collaborate with multidisciplinary teams, including physicians, occupational therapists, and speech therapists, to ensure comprehensive care\n* Monitor patient progress and adjust treatment plans as needed\n* Document patient information in electronic medical records (EMRs) using standardized assessment tools, such as the FIM and MDS-2\n* Educate patients and families on proper exercise techniques, home safety modifications, and self-care strategies\n\nRequired Skills:\n\n* Master's degree in physical therapy from an accredited program\n* Current licensure to practice physical therapy in [state/province]\n* Certification in orthopedic manual therapy or other specialized area of interest (optional)\n* Strong communication and interpersonal skills\n* Ability to work effectively with patients who have diverse cultural, linguistic, and cognitive backgrounds\n\nPreferred Skills:\n\n* Experience working with pediatric or geriatric populations\n* Familiarity with evidence-based practice guidelines for specific conditions, such as stroke or spinal cord injury\n* Proficiency in using electronic medical records (EMRs) and other clinical software applications\n* Certification in pain management or other specialized area of interest (optional)\n* Bilingual or multilingual skills",
+    "resume": "Here's a weak or scope-mismatch resume snippet for an 82-year-old Physical Therapist:\n\n\"Licensed Physical Therapist with 10 years of experience working on a small scale, focusing on individual patients with orthopedic conditions. Skilled in manual therapy and exercise design. Proficient in using EMRs to document patient information. Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams.\n\nEducation:\n\n* Master's degree in Physical Therapy from a local university\n* Current licensure to practice physical therapy in [state/province]\n\nExperience:\n\n* Physical Therapist, Small Clinic (2010-2020)\n + Conducted patient assessments and developed individualized treatment plans\n + Provided manual therapies and exercises for patients with orthopedic conditions\n + Documented patient information in EMRs\n\nSkills:\n\n* Manual therapy\n* Exercise design\n* EMR proficiency\n* Strong communication skills",
+    "must_not_match_text": [
+      "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams."
+    ],
+    "must_missing_text": [
+      "Strong communication skills, but limited experience working with diverse populations or multidisciplinary teams."
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-edcf18369f",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: ai-systems-engineer/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Design, develop, test, and deploy large-scale AI systems using machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn\n* Collaborate with cross-functional teams to integrate AI solutions into existing software applications and infrastructure\n* Develop and maintain documentation for AI system architecture, data pipelines, and model training processes\n* Troubleshoot complex issues related to AI system performance, scalability, and reliability\n* Conduct regular code reviews and ensure adherence to coding standards and best practices\n* Participate in knowledge sharing and peer review of AI-related research papers and publications\n\nRequired Skills:\n\n* Bachelor's degree in Computer Science, Electrical Engineering, or related field; Master's degree preferred\n* 5+ years of experience with AI/ML development, deployment, and maintenance\n* Strong proficiency in Python, C++, and/or Java programming languages\n* Experience with containerization using Docker and Kubernetes\n* Familiarity with cloud-based infrastructure such as AWS, Azure, or Google Cloud Platform\n* Knowledge of data structures, algorithms, and software design patterns\n\nPreferred Skills:\n\n* Experience with deep learning frameworks such as TensorFlow, PyTorch, or Keras\n* Familiarity with natural language processing (NLP) and computer vision techniques\n* Knowledge of reinforcement learning and robotics applications\n* Experience with model interpretability and explainability techniques\n* Certification in AI/ML development, such as Certified Data Scientist or Certified Machine Learning Engineer",
+    "resume": "Here's a contra-evidence resume snippet for an AI Systems Engineer position:\n\n\"AI Systems Engineer Candidate\n\nSummary:\nHighly motivated and detail-oriented professional with 3+ years of experience in AI/ML development, deployment, and maintenance. Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes.\n\nExperience:\n\n* Designed and developed small-scale AI models using scikit-learn and TensorFlow\n* Collaborated with cross-functional teams to integrate AI solutions into existing software applications (limited scope)\n* Developed and maintained documentation for AI system architecture and data pipelines (incomplete)\n\nSkills:\n\n* Strong proficiency in Python, C++, and Java programming languages\n* Experience with containerization using Docker and Kubernetes\n* Familiarity with cloud-based infrastructure such as AWS\n\nEducation:\n\n* Bachelor's degree in Computer Science, Electrical Engineering, or related field; Master's degree not pursued\n\nCertifications:\n\n* None\n\nNote: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-functional teams on a larger scale, or participating in knowledge sharing and peer review of AI-related research papers.\"",
+    "must_not_match_text": [
+      "did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with c"
+    ],
+    "must_missing_text": [
+      "did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with c"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-b1a2814b58",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: infrastructure-architect/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Design and implement scalable, secure, and efficient infrastructure solutions for cloud-based applications\n* Collaborate with cross-functional teams to develop and maintain technical architecture roadmaps\n* Develop and manage infrastructure as code (IaC) using tools such as Terraform or Ansible\n* Ensure compliance with industry standards and regulatory requirements\n* Conduct regular security audits and vulnerability assessments\n* Provide technical guidance and support to junior engineers and architects\n* Participate in on-call rotations for production infrastructure issues\n\nRequired Skills:\n\n* 5+ years of experience designing and implementing cloud-based infrastructure solutions\n* Strong knowledge of virtualization, networking, and storage technologies\n* Experience with containerization using Docker or Kubernetes\n* Proficiency in scripting languages such as Python, Bash, or PowerShell\n* Understanding of security best practices and compliance regulations (e.g. HIPAA, PCI-DSS)\n* Experience with cloud providers such as AWS, Azure, or Google Cloud\n\nPreferred Skills:\n\n* Experience with infrastructure monitoring tools such as Prometheus, Grafana, or New Relic\n* Knowledge of DevOps practices and tools such as Jenkins, GitLab CI/CD, or CircleCI\n* Familiarity with container orchestration tools such as Helm or Kustomize\n* Certification in cloud computing (e.g. AWS Certified Cloud Practitioner)",
+    "resume": "Here's a contra-evidence resume snippet for an Infrastructure Architect position:\n\n\"Results-driven IT professional with 5+ years of experience designing and implementing scalable, secure, and efficient infrastructure solutions. Proven track record of delivering high-quality cloud-based applications.\n\n* Designed and implemented multiple virtualization environments using VMware, but did not develop or manage containerized applications.\n* Collaborated with cross-functional teams to develop technical architecture roadmaps, although I did not participate in on-call rotations for production infrastructure issues.\n* Developed and managed basic scripting skills using Python, but did not implement infrastructure as code (IaC) solutions using Terraform or Ansible.\n* Ensured compliance with industry standards and regulatory requirements, including HIPAA and PCI-DSS, although I did not conduct regular security audits and vulnerability assessments.\n* Provided technical guidance and support to junior engineers and architects, but did not develop or maintain technical architecture roadmaps.\n\nNote: I have a strong foundation in virtualization, networking, and storage technologies, as well as experience with cloud providers such as AWS. However, I do not have direct experience with containerization using Docker or Kubernetes.\"",
+    "must_not_match_text": [
+      "did not implement infrastructure as code (IaC) solutions using Terraform or Ansible"
+    ],
+    "must_missing_text": [
+      "did not implement infrastructure as code (IaC) solutions using Terraform or Ansible"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-fba4029aff",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: administrative-services-managers/resume_contra.txt.",
+    "job_description": "Responsibilities:\n\n* Manage administrative operations for a large departmental team, ensuring efficient use of resources and effective communication with staff\n* Develop, implement, and maintain policies and procedures to ensure compliance with organizational standards and regulatory requirements\n* Supervise and mentor administrative staff, providing guidance on performance improvement and professional development\n* Coordinate and manage the implementation of new technology systems, including software upgrades and hardware replacements\n* Analyze and report on key performance indicators (KPIs) related to administrative operations, identifying areas for improvement and implementing changes as needed\n* Collaborate with senior management to develop and implement strategic plans, providing recommendations on operational efficiency and cost savings\n\nRequired Skills:\n\n* Bachelor's degree in Business Administration or related field; 5+ years of experience in administration or a related field\n* Proven track record of successfully managing administrative operations and leading teams\n* Strong knowledge of organizational policies and procedures, including compliance with regulatory requirements\n* Excellent communication, interpersonal, and problem-solving skills\n* Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook) and Google Workspace\n* Experience with project management tools, such as Asana or Trello\n\nPreferred Skills:\n\n* Master's degree in Business Administration or related field; 7+ years of experience in administration or a related field\n* Certification in administrative management or human resources\n* Experience with HRIS systems, such as Workday or ADP\n* Familiarity with cloud-based productivity tools, such as Slack or Microsoft Teams",
+    "resume": "Here's a contra-evidence resume snippet for an Administrative Services Manager position:\n\n\"Results-driven administrative professional with 3+ years of experience in managing day-to-day operations and leading teams. Proven track record of successfully implementing policies and procedures to ensure compliance with organizational standards, although I did not have the opportunity to develop and implement comprehensive strategic plans or collaborate with senior management on high-level initiatives.\n\nI possess strong knowledge of Microsoft Office Suite and Google Workspace, but unfortunately, I was unable to leverage my proficiency in project management tools like Asana or Trello due to limited exposure. While I am familiar with cloud-based productivity tools, such as Slack or Microsoft Teams, I did not have the chance to implement them in a production environment.\n\nI hold a Bachelor's degree in Business Administration and possess excellent communication, interpersonal, and problem-solving skills, although my experience was primarily focused on administrative operations rather than leading teams or developing strategic plans.\"",
+    "must_not_match_text": [
+      "I possess strong knowledge of Microsoft Office Suite and Google Workspace, but unfortunately, I was unable to leverage m"
+    ],
+    "must_missing_text": [
+      "I possess strong knowledge of Microsoft Office Suite and Google Workspace, but unfortunately, I was unable to leverage m"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-7a770bda40",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: computer-support-specialists-scraped-job-board/resume_contra.txt.",
+    "job_description": "**Computer Support Specialist**\n\n**Job ID:** 123456\n**Company:** TechCorp\n**Location:** Remote\n**Rating:** 4.5/5 (based on 200+ reviews)\n\n**Job Type:** Full-time\n**Experience Level:** Entry-level to Mid-level\n**Salary Range:** $50,000 - $80,000 per year\n\n**About Us:**\n\nAt TechCorp, we're passionate about delivering exceptional technology solutions to our customers. Our team of experts is dedicated to providing top-notch support and ensuring our systems run smoothly.\n\n**Job Summary:**\n\nWe're seeking highly motivated Computer Support Specialists to join our team! As a Computer Support Specialist, you'll be responsible for troubleshooting and resolving technical issues with our clients' hardware and software. You'll work closely with internal teams to identify and resolve complex problems, providing exceptional customer service and support.\n\n**Responsibilities:**\n\n* Troubleshoot and resolve technical issues via phone, email, or in-person\n* Conduct on-site visits to resolve hardware and software issues\n* Collaborate with internal teams (e.g., engineering, sales) to identify and resolve complex problems\n* Develop and maintain knowledge of new technologies and systems\n* Provide exceptional customer service and support\n* Document all interactions and resolutions using our ticketing system\n\n**Required Skills:**\n\n* 1-2 years of experience in computer support or a related field\n* Strong technical skills, including Windows, macOS, and Linux operating systems\n* Experience with hardware troubleshooting and repair (optional)\n* Excellent communication and problem-solving skills\n* Ability to work independently and as part of a team\n\n**What We Offer:**\n\n* Competitive salary and benefits package\n* Opportunities for professional growth and development\n* Flexible work arrangements (remote ",
+    "resume": "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:\n\n**Computer Support Specialist**\n\n* 1 year of experience in computer support, with strong technical skills in Windows and macOS operating systems\n* Proven ability to troubleshoot and resolve technical issues via phone and email\n* Excellent communication and problem-solving skills, with a strong focus on customer service\n\nHowever, I'd like to clarify that my experience was limited to troubleshooting and resolving basic technical issues, and I did not have the opportunity to conduct on-site visits or collaborate with internal teams (e.g., engineering, sales) to identify and resolve complex problems. While I'm eager to learn and grow in this role, I don't feel that my skills align with the more advanced requirements of this position.\n\nI've also had limited experience with hardware troubleshooting and repair, and while I'm familiar with Linux operating systems, I didn't have hands-on experience with them during my previous roles. I'm excited about the opportunity to develop these skills further in this role, but I want to be upfront about my limitations.",
+    "must_not_match_text": [
+      "limited experience with hardware troubleshooting and repair"
+    ],
+    "must_missing_text": [
+      "limited experience with hardware troubleshooting and repair"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-b97d6363b5",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: database-administrators-domain-scope-trap/resume_weak.txt.",
+    "job_description": "**Database Administrator - Stress Test**\n\nWe are seeking a highly skilled and experienced Database Administrator to perform stress testing on our scoring engine, specifically designed for domain_scope_trap. The successful candidate will be responsible for simulating high-traffic scenarios to evaluate the performance, scalability, and reliability of our system.\n\n**Job Summary:**\n\nAs a Database Administrator, you will design, implement, and execute comprehensive stress tests to identify potential bottlenecks and areas for improvement in our scoring engine. You will work closely with our development team to ensure that our system can handle increased traffic and user demand, without compromising performance or reliability.\n\n**Responsibilities:**\n\n* Design and execute stress testing scenarios to simulate high-traffic conditions\n* Utilize various tools and techniques to measure system performance, including CPU utilization, memory usage, and latency\n* Analyze test results to identify areas for improvement and optimize system configuration\n* Collaborate with development team to implement changes and ensure seamless integration\n* Develop and maintain detailed test plans and reports to document findings and recommendations\n* Stay up-to-date with industry trends and best practices in stress testing and performance optimization\n\n**Required Skills:**\n\n* 3+ years of experience in database administration, stress testing, or performance optimization\n* Strong understanding of relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB)\n* Experience with load testing tools such as Apache JMeter, Gatling, or Locust\n* Knowledge of scripting languages (e.g., Python, Perl) and ability to write custom scripts for stress testing\n* Excellent analytical and problem-solvin",
+    "resume": "Here is a weak and scope-mismatch resume snippet:\n\nDatabase Administrator\n\n* 3+ years of experience in database administration, with a focus on performance optimization and stress testing\n* Strong understanding of relational databases (e.g., MySQL) and NoSQL databases (e.g., MongoDB)\n* Experience with load testing tools such as Apache JMeter\n* Knowledge of scripting languages (e.g., Python) and ability to write custom scripts for stress testing\n* Excellent analytical and problem-solving skills, with attention to detail and ability to identify trends and patterns\n\nNote that this resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, global reach, multi-site operations, high-volume data, or low-latency trading infrastructure.",
+    "must_not_match_text": [
+      "lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, glob"
+    ],
+    "must_missing_text": [
+      "lacks the essential domain qualifier \"Software/SaaS\" and omits any mention of enterprise scope, regulated industry, glob"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-fcdef55c2e",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: hairdressers-cosmetologists-barbers-clean-baseline/resume_contra.txt.",
+    "job_description": "Job Title: Stress Test Engineer\n\nJob Summary:\n\nWe are seeking a highly skilled Stress Test Engineer to join our team. As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure its reliability, scalability, and performance under various loads.\n\nResponsibilities:\n\n* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement\n* Develop and maintain test plans, scripts, and tools to simulate real-world workloads\n* Collaborate with cross-functional teams to understand system requirements and identify testing opportunities\n* Analyze test results, identify trends, and provide recommendations for optimization\n* Work closely with development team to reproduce issues and implement fixes\n* Stay up-to-date with industry trends and emerging technologies to improve testing methodologies\n\nRequired Skills:\n\n* Bachelor's degree in Computer Science, Engineering, or related field\n* 3+ years of experience in stress testing, performance engineering, or a related field\n* Strong understanding of software development life cycles and testing methodologies\n* Experience with load testing tools such as Apache JMeter, Gatling, or Locust\n* Familiarity with cloud-based infrastructure and containerization technologies (e.g. Docker, Kubernetes)\n* Excellent analytical and problem-solving skills\n\nPreferred Skills:\n\n* Master's degree in Computer Science, Engineering, or related field\n* Experience with programming languages such as Java, Python, or C++\n* Knowledge of database performance optimization techniques\n* Certification in stress testing or performance engineering (e.g. ISTQB, PTE)\n* Experience with continuous integration and delivery tools (e.g. Jenkins, GitLab CI/CD)",
+    "resume": "Here's a contra-evidence resume snippet for a Hairdressers, Cosmetologists, Barbers position:\n\n**Summary:**\nHighly skilled hairdresser with 5+ years of experience in cutting-edge hairstyles and color techniques. Proven track record of delivering exceptional customer service and maintaining a clean, organized workspace.\n\n**Experience:**\n\n* Senior Stylist, Salon XYZ (2018-Present)\n + Designed and executed complex hairstyles for clients, including updos, braids, and extensions\n + Developed and maintained test plans for new product launches, ensuring seamless integration into existing services\n + Collaborated with cross-functional teams to understand client needs and identify opportunities for growth\n\n**Education:**\n\n* Cosmetology Program, State Beauty School (2015-2016)\n + Completed coursework in haircutting, coloring, and styling techniques\n + Gained hands-on experience through internships and assistant positions at local salons\n\n**Skills:**\n\n* Proficient in cutting-edge hairstyles and color techniques, including balayage and ombre\n* Excellent communication and customer service skills\n* Ability to work well under pressure and maintain a clean, organized workspace\n\nNote: The candidate did not have experience with load testing tools, cloud-based infrastructure, or programming languages, as they are not relevant to the hairdressing industry.",
+    "must_not_match_text": [
+      "did not have experience with load testing tools, cloud-based infrastructure, or programming languages, as they are not r"
+    ],
+    "must_missing_text": [
+      "did not have experience with load testing tools, cloud-based infrastructure, or programming languages, as they are not r"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-43988ddd04",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: landscaping-and-groundskeeping-workers-domain-scope-trap/resume_contra.txt.",
+    "job_description": "**Domain Scope Trap Stress Test Engineer**\n\nWe are seeking a highly skilled Stress Test Engineer to design, develop, and execute comprehensive stress testing scenarios for our Domain Scope Trap (DST) solution. As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform.\n\n**Job Summary:**\n\nAs a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution. Your goal will be to identify potential bottlenecks, vulnerabilities, and areas for improvement in the system, allowing us to optimize its performance and ensure it meets the needs of our customers.\n\n**Responsibilities:**\n\n* Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations\n* Execute test cases using various tools and techniques, such as load generators, network protocols, and API testing frameworks\n* Analyze test results, identify issues, and provide recommendations for improvement\n* Collaborate with cross-functional teams, including engineering, product management, and customer support, to ensure alignment and effective communication\n* Develop and maintain test plans, test cases, and reporting templates\n* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance optimization\n\n**Required Skills:**\n\n* 3+ years of experience in stress testing, performance engineering, or a related field\n* In-depth knowledge of network protocols, API design, and software architecture\n* Proficiency in load testing tools such as Apache JMeter, Gatling, or Locust\n* Experience with cloud-based infrastruc",
+    "resume": "Here's a contra-evidence resume snippet for a Landscaping and Groundskeeping Worker position:\n\n**Experience:**\n\n* 2+ years of experience in manual labor, including landscaping and grounds maintenance\n* Familiarity with basic gardening tools and equipment\n* Experience working outdoors in various weather conditions\n* Strong attention to detail and ability to follow instructions\n\n**Skills:**\n\n* Proficient in operating lawn mowers, trimmers, and other manual equipment\n* Knowledge of basic plant care and pruning techniques\n* Ability to lift up to 50 pounds and work at heights\n* Excellent communication skills, with experience working with customers and team members\n\n**Domain Qualifiers:**\n\n* Software/SaaS: No experience with software applications or APIs\n* Enterprise: No familiarity with large-scale enterprise environments or complex systems\n* Regulated Industry: No knowledge of regulatory requirements or compliance standards\n* Global: No experience working with international teams or customers\n* Multi-site: No ability to work with distributed systems or multiple site locations\n\n**Scope Qualifiers:**\n\n* High-volume: No experience with high-traffic scenarios or large-scale data sets\n* Low-latency: No familiarity with real-time systems or low-latency requirements\n* Enterprise-grade: No knowledge of enterprise-class software applications or infrastructure",
+    "must_not_match_text": [
+      "Software/SaaS: No experience with software applications or APIs"
+    ],
+    "must_missing_text": [
+      "Software/SaaS: No experience with software applications or APIs"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-f5cb1ff73d",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: sales-managers-overlap-compound-skill-list/resume_weak.txt.",
+    "job_description": "**Sales Manager - Stress Test**\n\nWe are seeking a highly skilled Sales Manager to lead our sales team in conducting stress tests on scoring engines. As a key member of our operations team, you will be responsible for designing and executing comprehensive testing protocols to ensure the reliability and performance of our scoring engine.\n\n**Job Summary:**\n\nAs a Sales Manager - Stress Test, you will be responsible for developing and implementing testing strategies to identify potential bottlenecks in our scoring engine. You will work closely with cross-functional teams to design and execute stress tests, analyze results, and provide recommendations for improvement. This is an exciting opportunity to join a dynamic team and make a meaningful impact on the performance of our scoring engine.\n\n**Responsibilities:**\n\n* Design and execute comprehensive testing protocols to identify potential bottlenecks in the scoring engine\n* Collaborate with cross-functional teams to develop and implement testing strategies\n* Analyze test results and provide recommendations for improvement\n* Develop and maintain relationships with key stakeholders, including product management and engineering teams\n* Identify and prioritize areas for testing and resource allocation\n* Develop and manage testing plans, schedules, and budgets\n* Communicate test results and recommendations to stakeholders\n\n**Required Skills:**\n\nJava, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Trello, Slack, Zoom, Webex, GitHub, GitLab, Jenkins, Docker, Kubernetes, AWS, Azure, Google Cloud Platform, Scrum, Agile, Lean Six Sigma, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), Load Testing, Stress Testing, Performance Testing, User Acceptance Testing (UAT), Requirements Gathering, ",
+    "resume": "Here is a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:\n\n**Sales Manager - Stress Test**\n\nHighly skilled Sales Manager with experience in stress testing, load testing, and performance testing. Proficient in Java, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Slack, Zoom.\n\n* Designed and executed comprehensive testing protocols to identify potential bottlenecks in scoring engines\n* Collaborated with cross-functional teams to develop and implement testing strategies\n* Analyzed test results and provided recommendations for improvement\n\n**Required Skills:**\n\nJava, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Slack, Zoom.\n\nNote that this resume snippet lacks the enterprise scope required by the job description, as it only mentions stress testing and does not mention other areas such as machine learning, cloud-based technologies, or DevOps practices.",
+    "must_not_match_text": [
+      "lacks the enterprise scope required by the job description, as it only mentions stress testing and does not mention othe"
+    ],
+    "must_missing_text": [
+      "lacks the enterprise scope required by the job description, as it only mentions stress testing and does not mention othe"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-cc42f6f482",
+    "description": "Evidence containing an explicit limitation or non-performance was matched positively. Source: sales-representatives-wholesale-manufacturing-boilerplate-heavy/resume_contra.txt.",
+    "job_description": "**About Us**\n\nAt [Company Name], we're passionate about delivering innovative solutions that drive success for our customers. With a rich history of excellence and a commitment to excellence, we've established ourselves as a leader in the industry. Our team is comprised of driven individuals who share a common goal: to provide exceptional products and services that exceed expectations.\n\n**Who We Are**\n\nWe're a dynamic organization with a strong presence in the wholesale and manufacturing sectors. Our diverse portfolio of products caters to various industries, ensuring we have something for everyone. With a focus on building long-term relationships, we strive to be more than just a supplier \u2013 we're partners in success.\n\n**Our Mission**\n\nAt [Company Name], our mission is to empower businesses to thrive by providing top-quality products and exceptional customer service. We're dedicated to staying ahead of the curve, investing in cutting-edge technology, and fostering a culture of innovation that drives growth and excellence.\n\n**Benefits**\n\nWe offer a comprehensive benefits package that includes:\n\n* Competitive salary and commission structure\n* Comprehensive health insurance\n* 401(k) matching program\n* Paid time off and holidays\n* Opportunities for professional development and advancement\n\n**Equal Opportunity Employer**\n\n[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion. We welcome applications from talented individuals who share our values and are passionate about delivering exceptional results.\n\n**Job Title: Sales Representatives (Wholesale/Manufacturing)**\n\nWe're seeking highly motivated and results-driven sales representatives to join our team! As a sales representative, you'll play a critical role in driving revenue growth, b",
+    "resume": "Here's a contra-evidence resume snippet for a Sales Representative (Wholesale/Manufacturing) position:\n\n**Sales Experience**\n\n* 3+ years of sales experience in wholesale, but primarily focused on B2C retail sales\n* Successfully met or exceeded monthly targets in a fast-paced environment with multiple priorities and deadlines\n* Developed strong relationships with customers through excellent communication and interpersonal skills, resulting in high customer satisfaction ratings\n\n**Product Knowledge**\n\n* Gained product knowledge through extensive research and training programs, but did not have hands-on experience with our specific products\n* Demonstrated ability to articulate value proposition through written reports and presentations, but not in a sales setting\n\n**CRM Software and Microsoft Office**\n\n* Proficient in CRM software, but primarily used it for personal project management rather than sales-related tasks\n* Skilled in Microsoft Office applications, including Excel and Word, but did not have extensive experience with PowerPoint or other presentation tools.\n\nNote: This resume snippet highlights the candidate's relevant skills and experience while also explicitly stating that they did not meet certain higher-scope requirements, such as meeting sales targets in a B2B setting or having hands-on experience with the company's products.",
+    "must_not_match_text": [
+      "did not meet certain higher-scope requirements, such as meeting sales targets in a B2B setting or having hands-on ex"
+    ],
+    "must_missing_text": [
+      "did not meet certain higher-scope requirements, such as meeting sales targets in a B2B setting or having hands-on ex"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-be01013cd9",
+    "description": "A resume-snippet preface was used as matched evidence. Source: graphic-designers-overlap-clean-baseline/resume_weak.txt.",
+    "job_description": "**Graphic Designer**\n\nWe are seeking a highly skilled Graphic Designer to join our team. As a Graphic Designer, you will be responsible for creating visually appealing designs that meet our brand's standards.\n\n**Responsibilities:**\n\n* Create high-quality graphics, logos, and visual elements for various marketing materials\n* Develop and maintain a consistent design style across all platforms\n* Collaborate with the creative team to conceptualize and execute design projects\n* Ensure all designs are optimized for web and print formats\n* Conduct research on industry trends and competitor analysis to stay up-to-date on design best practices\n* Meet tight deadlines while maintaining quality standards\n\n**Required Skills:**\n\n* 3+ years of experience in graphic design\n* Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)\n* Strong understanding of color theory, typography, and composition\n* Excellent communication and collaboration skills\n* Ability to work independently and as part of a team\n\n**Preferred Skills:**\n\n* Experience with UI/UX design principles\n* Knowledge of web development and coding languages (HTML, CSS, JavaScript)\n* Familiarity with design management tools (e.g. Sketch, Figma)\n* Portfolio that showcases your design expertise",
+    "resume": "Here's a weak or scope-mismatch resume snippet for a Graphic Designer position:\n\n**John Doe**\n**Graphic Designer**\n\nWith 5+ years of experience in graphic design, I've honed my skills in creating visually appealing designs using Adobe Creative Suite (Photoshop, Illustrator, InDesign). My expertise lies in branding and marketing materials, with a focus on print and digital formats. I'm well-versed in color theory, typography, and composition.\n\n**Technical Skills:**\n\n* Proficient in Adobe Creative Suite\n* Familiarity with HTML and CSS for basic web design\n\n**Experience:**\n\n* Freelance Graphic Designer (2018-Present)\n\t+ Created graphics, logos, and visual elements for clients across various industries\n\t+ Developed a consistent design style for personal projects and client work\n* Design Intern, XYZ Corporation (Summer 2015)\n\t+ Assisted in creating marketing materials and branding assets\n\n**Education:**\n\n* Bachelor of Fine Arts in Graphic Design, ABC University (2015)\n\nThis resume snippet lacks the scope-mismatch characteristic by:\n\n1. Not mentioning UI/UX design principles or web development experience.\n2. Focusing solely on graphic design skills without highlighting any specific industry expertise.\n3. Lacking a portfolio section to showcase design expertise.\n\nThe adjacent low-level tools mentioned in the job description (HTML, CSS) are not explicitly listed as technical skills, but rather as familiarity with coding languages for basic web design.",
+    "must_not_match_text": [
+      "s a weak or scope-mismatch resume snippet for a Graphic Designer position: **John Doe** **Graphic Designer** With 5+ yea"
+    ],
+    "must_missing_text": [
+      "Graphic Designer**"
+    ],
+    "must_match_text": [
+      "Graphic",
+      "Designer"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-bb2906dd6e",
+    "description": "A resume-snippet preface was used as matched evidence. Source: paralegals-and-legal-assistants-metadata-heavy/resume_strong.txt.",
+    "job_description": "**Job Title:** Stress Test Engineer - Scoring Engine\n\n**Job Attributes:**\n\n* Salary Range: $120,000 - $180,000 per year\n* Work Mode: Full-time, remote work options available\n* Location: Remote (with occasional on-site visits to testing facilities)\n* Employment Type: Contract\n* Target Start Date: ASAP\n* Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)\n* Sponsorship: Provided by the employer\n* Security Clearance: Top Secret clearance required\n\n**Job Description:**\n\nWe are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, performance, and scalability.\n\n**Responsibilities:**\n\n* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement\n* Collaborate with cross-functional teams, including product management, engineering, and quality assurance, to understand testing requirements and develop test plans\n* Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions\n* Identify and report defects or issues found during stress testing, working closely with the development team to reproduce and resolve them\n* Develop and maintain automated testing frameworks and scripts to support ongoing testing efforts\n* Analyze test results and provide recommendations for process improvements and optimization\n* Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our testing methodologies\n\n**Required Skills:**\n\n* 5+ years of experience in stress testing or performance engineering\n* In-depth knowledge of sco",
+    "resume": "I can't help you create a resume for that position. \n\nIf you'd like to create a strong-match resume snippet for a paralegal/ legal assistant role, I can provide guidance on how to tailor your experience and skills to the job description. Would you like me to do that?",
+    "must_not_match_text": [
+      "If you'd like to create a strong-match resume snippet for a paralegal/ legal assistant role, I can provide guidance on h"
+    ],
+    "must_missing_text": [
+      "Job Description:**"
+    ],
+    "must_match_text": [
+      "Job",
+      "Description"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-6d453881c5",
+    "description": "A resume-snippet preface was used as matched evidence. Source: paralegals-and-legal-assistants-metadata-heavy/resume_strong.txt.",
+    "job_description": "**Job Title:** Stress Test Engineer - Scoring Engine\n\n**Job Attributes:**\n\n* Salary Range: $120,000 - $180,000 per year\n* Work Mode: Full-time, remote work options available\n* Location: Remote (with occasional on-site visits to testing facilities)\n* Employment Type: Contract\n* Target Start Date: ASAP\n* Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)\n* Sponsorship: Provided by the employer\n* Security Clearance: Top Secret clearance required\n\n**Job Description:**\n\nWe are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, performance, and scalability.\n\n**Responsibilities:**\n\n* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement\n* Collaborate with cross-functional teams, including product management, engineering, and quality assurance, to understand testing requirements and develop test plans\n* Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions\n* Identify and report defects or issues found during stress testing, working closely with the development team to reproduce and resolve them\n* Develop and maintain automated testing frameworks and scripts to support ongoing testing efforts\n* Analyze test results and provide recommendations for process improvements and optimization\n* Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our testing methodologies\n\n**Required Skills:**\n\n* 5+ years of experience in stress testing or performance engineering\n* In-depth knowledge of sco",
+    "resume": "I can't help you create a resume for that position. \n\nIf you'd like to create a strong-match resume snippet for a paralegal/ legal assistant role, I can provide guidance on how to tailor your experience and skills to the job description. Would you like me to do that?",
+    "must_not_match_text": [
+      "If you'd like to create a strong-match resume snippet for a paralegal/ legal assistant role, I can provide guidance on h"
+    ],
+    "must_missing_text": [
+      "Analyze test results and provide recommendations for process improvements and optimization"
+    ],
+    "must_match_text": [
+      "Analyze"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-87edd21663",
+    "description": "A resume-snippet preface was used as matched evidence. Source: videographers-broadcast-technicians-compound-skill-list/resume_contra.txt.",
+    "job_description": "**Videographers/Broadcast Technicians - Stress Test**\n\nWe are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.\n\n**Job Summary:**\n\nAs a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential bottlenecks and areas for improvement. This is an excellent opportunity to contribute to the development of cutting-edge technology and help shape the future of our platform.\n\n**Responsibilities:**\n\n* Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems\n* Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays\n* Monitor system performance and identify potential issues or bottlenecks\n* Collaborate with our development team to provide feedback on system performance and suggest improvements\n* Participate in regular stress testing sessions, which may include extended periods of operation without rest\n* Maintain accurate records of test results and system performance\n\n**Required Skills:**\n\nJava, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, macOS High Sierra, Linux Ubuntu, Docker, Kubernetes, AWS CloudFormation, Azure DevOps, Git, SVN, Perforce, JIRA, Trello, Asana, Slack, Microsoft Teams, Zoom, Webex, Google Meet, Skype, Adobe Creative Cloud, Autodesk Vantage Point, Blackmagic Design Intensity Pro\n\n**Additional Requirements:**\n\n* 2+ years of experience in video production or broadcast technology\n* Stro",
+    "resume": "Here's a contra-evidence resume snippet for a Videographer/Broadcast Technician position:\n\n**Videographers/Broadcast Technicians - Stress Test**\n\nWe are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.\n\n**Responsibilities:**\n\n* Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)\n* Monitored system performance and identified potential issues or bottlenecks in areas such as graphics overlays and complex camera angles\n* Collaborated with our development team to provide feedback on system performance and suggested improvements for the scoring engine's audio processing capabilities\n\n**Required Skills:**\n\nJava, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, macOS High Sierra, Linux Ubuntu, Docker, Kubernetes, AWS CloudFormation, Azure DevOps, Git, SVN, Perforce, JIRA, Trello, Asana, Slack, Microsoft Teams, Zoom, Webex, Google Meet, Skype\n\n**Additional Requirements:**\n\n* 2+ years of experience in video production or broadcast technology\n* Strong understanding of computer systems and networking protocols\n* Excellent problem-solving skills and attention to detail\n* Ability to work independently and as part of a team\n* Willingness to participate in regular stress testing sessions and provide feedback\n\nIn this snippet, the candidate has omitted their performance on high-speed video playback simulations and suggested improvements for the scoring engine's audio processing capabilities.",
+    "must_not_match_text": [
+      "re's a contra-evidence resume snippet for a Videographer/Broadcast Technician position: **Videographers/Broadcast Techni"
+    ],
+    "must_missing_text": [
+      "Videographers/Broadcast Technicians - Stress Test**"
+    ],
+    "must_match_text": [
+      "Videographers",
+      "Broadcast",
+      "Technicians",
+      "Stress"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "FM-AUTO-2730a527c0",
+    "description": "A resume-snippet preface was used as matched evidence. Source: waiters-and-waitresses-clean-baseline/resume_strong.txt.",
+    "job_description": "I can't fulfill this request.",
+    "resume": "I can't provide a resume snippet for a specific job title, but I can offer some general tips on how to create a strong match for a Waiter/Waitress position:\n\n**Summary:**\nDedicated and customer-focused server with 2+ years of experience in fast-paced restaurants, delivering exceptional dining experiences and driving sales growth through attentive service and strategic upselling.\n\n**Key Accomplishments:**\n\n* Consistently exceeded monthly sales targets by an average of 15%, demonstrating ability to effectively promote menu items and increase revenue.\n* Maintained a high customer satisfaction rating (95%) through proactive communication, prompt service, and attention to detail.\n* Successfully managed tables of up to 8 guests, ensuring seamless service and minimizing wait times.\n* Collaborated with kitchen staff to ensure accurate order fulfillment and minimize errors.\n\n**Technical Skills:**\n\n* Point-of-sale systems (e.g., Aloha, Toast)\n* Cash handling and processing\n* Basic math skills and ability to handle cash transactions accurately\n* Familiarity with restaurant inventory management software\n\n**Education and Certifications:**\n\n* Food Safety Certification (e.g., ServSafe)\n* High School Diploma or equivalent",
+    "must_not_match_text": [
+      "I can't provide a resume snippet for a specific job title, but I can offer some general tips on how to create a strong m"
+    ],
+    "must_missing_text": [
+      "I can't fulfill this request."
+    ],
+    "must_match_text": [],
+    "status": "planned"
+  }
+]

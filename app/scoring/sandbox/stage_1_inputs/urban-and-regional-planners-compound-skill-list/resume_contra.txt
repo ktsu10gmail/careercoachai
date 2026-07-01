@@ -1,0 +1,22 @@
+Here's a contra-evidence resume snippet for an Urban and Regional Planner position:
+
+Urban and Regional Planners
+
+Job Title: Stress Test Engineer
+
+Summary:
+Highly skilled Stress Test Engineer with expertise in designing and executing stress tests on complex systems. Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps.
+
+Experience:
+
+* Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines
+* Executed stress tests using a variety of tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps
+* Analyzed test results and identified areas for improvement in performance and reliability
+
+Skills:
+
+* Java, Python, C++, JavaScript, SQL, HTML/CSS, Docker, Kubernetes, AWS CloudFormation, Azure DevOps
+* Agile methodologies (Scrum), Continuous Integration/Continuous Deployment (CI/CD) tools
+* Performance testing frameworks, Stress testing frameworks
+
+Note: While I have experience with JMeter and Docker, I did not develop comprehensive stress test plans that included Locust or NeoLoad. My experience with LoadRunner is limited to basic usage, and I do not have expertise in SilkTest or TestComplete.

@@ -1,0 +1,32 @@
+[
+  {
+    "step": "Direct Free Tool Path: public site opened",
+    "url": "http://localhost:5001/free-analysis"
+  },
+  {
+    "step": "Direct Free Tool Path: resume uploaded and JD pasted",
+    "url": "http://localhost:5001/free-analysis"
+  },
+  {
+    "step": "Direct Free Tool Path: analysis submitted/output area captured",
+    "url": "http://localhost:5001/free-analysis"
+  },
+  {
+    "step": "Job Application Path: opened job link",
+    "url": "http://localhost:5001/apply/sim-senior-backend-engineer-2"
+  },
+  {
+    "step": "Job Application Path: account created and application form opened",
+    "url": "http://localhost:5001/applicant/portal?job=sim-senior-backend-engineer-2",
+    "applicantEmail": "applicant.playwright.1782239589772@example.com"
+  },
+  {
+    "step": "Job Application Path: screening answers and resume filled",
+    "url": "http://localhost:5001/applicant/portal?job=sim-senior-backend-engineer-2",
+    "answerFields": 21
+  },
+  {
+    "step": "Job Application Path: submitted, AI scoring/review handoff captured",
+    "url": "http://localhost:5001/applicant/portal?job=sim-senior-backend-engineer-2"
+  }
+]

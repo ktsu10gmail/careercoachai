@@ -1,0 +1,150 @@
+{
+  "job_title": "72. Editors / Proofreaders",
+  "case_slug": "72-editors-proofreaders",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.951368",
+  "match_score": 47.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Edited content for grammar, punctuation, and syntax errors (2018-Present)",
+        "Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)",
+        "Conducted thorough fact-checking on client projects",
+        "Applied company-specific style guides to ensure consistency in content\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 40.4,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Edited content for grammar, punctuation, and syntax errors (2018-Present)",
+        "Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)",
+        "Conducted thorough fact-checking on client projects",
+        "Applied company-specific style guides to ensure consistency in content\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 89.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Edited content for grammar, punctuation, and syntax errors (2018-Present)",
+        "Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)",
+        "Conducted thorough fact-checking on client projects",
+        "Applied company-specific style guides to ensure consistency in content\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Review written content for grammar, punctuation, spelling, and syntax errors",
+      "evidence": [
+        "Edited content for grammar, punctuation, and syntax errors (2018-Present)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ensure consistency in style, tone, and formatting throughout publications",
+      "evidence": [
+        "Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Apply company-specific style guides (e.g.",
+      "evidence": [
+        "Applied company-specific style guides to ensure consistency in content\""
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite and Adobe Acrobat",
+      "evidence": [
+        "Utilized Adobe Acrobat to review and annotate documents (2019-Present)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of grammar, punctuation, and syntax rules",
+      "evidence": [
+        "Edited content for grammar, punctuation, and syntax errors (2018-Present)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with HTML and CSS for basic formatting adjustments",
+      "evidence": [
+        "Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Meet tight deadlines for publication schedules",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in editing or proofreading",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bilingualism or multilingual writing experience",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Edited content for grammar, punctuation, and syntax errors (2018-Present)",
+      "supports": "Review written content for grammar, punctuation, spelling, and syntax errors"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with designers on layout and formatting projects using Microsoft Office Suite (2020-Present)",
+      "supports": "Ensure consistency in style, tone, and formatting throughout publications"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough fact-checking on client projects",
+      "supports": "Conduct thorough fact-checking to verify accuracy of information"
+    },
+    {
+      "source": "resume",
+      "quote": "Applied company-specific style guides to ensure consistency in content\"",
+      "supports": "Apply company-specific style guides (e.g."
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Computer Science, XYZ University (2015-2019)",
+      "supports": "Bachelor's degree in English, Communications, or related field"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

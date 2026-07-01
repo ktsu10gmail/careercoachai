@@ -1,0 +1,155 @@
+{
+  "job_title": "6. Human Resources Managers",
+  "case_slug": "6-human-resources-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:51.637257",
+  "match_score": 71.58,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.8,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed end-to-end recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations.",
+        "Employee relations, conflict resolution, and performance management",
+        "Results-driven HR professional with 7+ years of experience driving business growth through strategic human resources initiatives, employee engagement, and process improvements.",
+        "Developed and implemented comprehensive HR strategies to support organizational growth, resulting in a 25% increase in employee retention and a 15% reduction in turnover costs."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "SHRM-CP Certification, Society for Human Resource Management (2020)"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 82.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed end-to-end recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations.",
+        "Results-driven HR professional with 7+ years of experience driving business growth through strategic human resources initiatives, employee engagement, and process improvements."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed end-to-end recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations.",
+        "Employee relations, conflict resolution, and performance management",
+        "Results-driven HR professional with 7+ years of experience driving business growth through strategic human resources initiatives, employee engagement, and process improvements.",
+        "Developed and implemented comprehensive HR strategies to support organizational growth, resulting in a 25% increase in employee retention and a 15% reduction in turnover costs."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Oversee recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations",
+      "evidence": [
+        "Managed end-to-end recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage employee relations, including conflict resolution, performance management, and disciplinary actions",
+      "evidence": [
+        "Employee relations, conflict resolution, and performance management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field;",
+      "evidence": [
+        "Bachelor's Degree in Business Administration, [University Name] (2015)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze HR metrics and data to inform business decisions and drive process improvements",
+      "evidence": [
+        "Results-driven HR professional with 7+ years of experience driving business growth through strategic human resources initiatives, employee engagement, and process improvements."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "SHRM-CP/PHR certification preferred",
+      "evidence": [
+        "SHRM-CP Certification, Society for Human Resource Management (2020)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with HRIS systems (e.g.",
+      "evidence": [
+        "HRIS systems (Workday)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive human resources strategies to support organizational growth and employee engagement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in human resources management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to maintain confidentiality and handle sensitive information with discretion",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed end-to-end recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations.",
+      "supports": "Oversee recruitment, hiring, and onboarding processes for all new hires, ensuring compliance with labor laws and regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Employee relations, conflict resolution, and performance management",
+      "supports": "Manage employee relations, including conflict resolution, performance management, and disciplinary actions"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven HR professional with 7+ years of experience driving business growth through strategic human resources initiatives, employee engagement, and process improvements.",
+      "supports": "Analyze HR metrics and data to inform business decisions and drive process improvements"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive HR strategies to support organizational growth, resulting in a 25% increase in employee retention and a 15% reduction in turnover costs.",
+      "supports": "Provide guidance and support to employees on company policies, procedures, and benefits"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven HR professional with 7+ years of experience driving business growth through strategic human resources initiatives, employee engagement, and process improvements.",
+      "supports": "Develop and maintain employee handbooks, training programs, and other HR-related materials"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

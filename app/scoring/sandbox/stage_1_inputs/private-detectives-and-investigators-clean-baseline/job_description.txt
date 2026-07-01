@@ -1,0 +1,31 @@
+**Job Title:** Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to join our team of experts in evaluating the performance and reliability of complex systems. As a Stress Test Engineer, you will design, implement, and execute stress tests to identify potential weaknesses and vulnerabilities in our scoring engine.
+
+**Responsibilities:**
+
+* Design and develop comprehensive stress test plans to simulate various types of loads and scenarios
+* Execute stress tests on the scoring engine, monitoring performance metrics and identifying areas for improvement
+* Analyze test results, providing detailed reports and recommendations for optimization and enhancement
+* Collaborate with cross-functional teams, including engineering, product management, and operations, to ensure alignment and effective communication
+* Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance evaluation
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 3+ years of experience in stress testing, performance evaluation, or a related field
+* Strong understanding of software architecture, design patterns, and system behavior
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools and frameworks (e.g., Apache JMeter, Gatling)
+* Excellent analytical and problem-solving skills, with attention to detail and ability to identify complex issues
+
+**Preferred Skills:**
+
+* Master's degree in Computer Science, Engineering, or related field
+* 5+ years of experience in stress testing, performance evaluation, or a related field
+* Experience with cloud-based systems, containerization (e.g., Docker), and microservices architecture
+* Knowledge of DevOps practices, continuous integration, and continuous deployment
+* Certification in stress testing or performance evaluation (e.g., ISTQB, CSTE)

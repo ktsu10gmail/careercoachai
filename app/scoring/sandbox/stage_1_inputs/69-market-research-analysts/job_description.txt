@@ -1,0 +1,24 @@
+Responsibilities:
+
+* Conduct primary and secondary research to gather data on consumer behavior, market trends, and competitor activity
+* Analyze data using statistical software such as R or SPSS, and present findings in reports and presentations to senior management
+* Develop and maintain databases of customer demographics, purchase history, and other relevant data points
+* Collaborate with cross-functional teams, including marketing, sales, and product development, to inform business decisions
+* Identify opportunities for market growth and develop strategies to capitalize on them
+* Stay up-to-date with industry trends and developments through ongoing education and training
+
+Required Skills:
+
+* Bachelor's degree in Marketing, Statistics, or related field; Master's degree preferred
+* 2+ years of experience in market research or a related field
+* Strong analytical and problem-solving skills, with ability to interpret complex data sets
+* Proficiency in statistical software such as R or SPSS, and Microsoft Office Suite (Excel, Word, PowerPoint)
+* Excellent written and verbal communication skills, with ability to present findings to non-technical audiences
+
+Preferred Skills:
+
+* Experience with market research tools such as Nielsen or comScore
+* Knowledge of data visualization techniques using Tableau or Power BI
+* Familiarity with programming languages such as Python or SQL
+* Certification in Google Analytics or other web analytics tool
+* Experience working in a fast-paced, dynamic environment

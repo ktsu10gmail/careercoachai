@@ -1,0 +1,158 @@
+{
+  "job_title": "Childcare Workers",
+  "case_slug": "childcare-workers-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.016636",
+  "match_score": 29.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 5.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 12 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+        "Child Development Associate (CDA) Credential**, XYZ College (2018)",
+        "+ Maintained accurate records of child progress, including behavioral observations and developmental milestones"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 36.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+        "Child Development Associate (CDA) Credential**, XYZ College (2018)",
+        "+ Maintained accurate records of child progress, including behavioral observations and developmental milestones"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong understanding of software development life cycles and testing methodologies",
+      "evidence": [
+        "Child Development Associate (CDA) Credential**, XYZ College (2018)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with load testing tools, including Apache JMeter or similar",
+      "evidence": [
+        "+ Maintained accurate records of child progress, including behavioral observations and developmental milestones"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company will sponsor relocation expenses for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing, executing, and analyzing stress tests to ensure the stability and scalability of our system.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on our scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the system's architecture, components, and interactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our testing methodologies",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture and components",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in scripting languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "supports": "As a key member of our Quality Assurance team, you will be responsible for designing, executing, and analyzing stress tests to ensure the stability and scalability of our system."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "supports": "Design and execute comprehensive stress tests on our scoring engine, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "supports": "Develop and maintain a thorough understanding of the system's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our testing methodologies"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: The candidate did not have 5+ years of experience in stress testing or performance engineering, nor did they have in-depth knowledge of scoring engine architecture and components.",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

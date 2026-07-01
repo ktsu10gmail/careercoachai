@@ -1,0 +1,37 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Jose, CA (with occasional travel to other facilities)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from posting date
+* Travel: Up to 20% of the work schedule
+* Sponsorship: Company-sponsored relocation assistance available for external candidates
+* Security Clearance: Top Secret required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team at [Company Name]. As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing protocols to ensure the reliability and performance of our scoring engine.
+
+**Responsibilities:**
+
+* Design and execute stress testing protocols to identify potential bottlenecks and areas for improvement in the scoring engine
+* Collaborate with cross-functional teams, including software development, quality assurance, and operations, to develop and implement test plans
+* Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics
+* Analyze test results, identify trends and patterns, and provide recommendations for optimization and improvement
+* Work closely with QA teams to develop and execute automated testing scripts and tools
+* Participate in code reviews and contribute to the development of new features and enhancements
+* Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve scoring engine performance
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Electrical Engineering, or related field
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* In-depth knowledge of scoring engine architecture, components, and performance characteristics
+* Strong understanding of software development life cycles, including design, development, testing, and deployment
+* Proficiency in programming languages such as Python, C++, or Java
+* Experience with automated testing tools and frameworks (e.g., JMeter, Gatling)
+* Excellent analytical and problem-solving skills, with ability to interpret complex data and identify trends
+* Strong communication and collaboration skills, with ability to work effectively with cross-functional teams

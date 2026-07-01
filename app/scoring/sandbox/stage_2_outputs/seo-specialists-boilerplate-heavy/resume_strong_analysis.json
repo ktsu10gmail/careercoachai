@@ -1,0 +1,160 @@
+{
+  "job_title": "SEO Specialists",
+  "case_slug": "seo-specialists-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:09.663133",
+  "match_score": 49.06,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.5,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Collaborated with cross-functional teams to ensure seamless integration of SEO efforts, resulting in a 30% increase in client satisfaction",
+        "Conducted thorough keyword research and analysis to inform content strategy, resulting in a 25% increase in organic traffic",
+        "Results-driven SEO expert with 3+ years of experience driving organic traffic growth and improving website rankings through data-driven strategies and collaborative team efforts.",
+        "Bachelor's Degree in Marketing, [University Name] (2018)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven SEO expert with 3+ years of experience driving organic traffic growth and improving website rankings through data-driven strategies and collaborative team efforts."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 92.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Collaborated with cross-functional teams to ensure seamless integration of SEO efforts, resulting in a 30% increase in client satisfaction",
+        "Conducted thorough keyword research and analysis to inform content strategy, resulting in a 25% increase in organic traffic",
+        "Results-driven SEO expert with 3+ years of experience driving organic traffic growth and improving website rankings through data-driven strategies and collaborative team efforts.",
+        "Bachelor's Degree in Marketing, [University Name] (2018)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough keyword research and analysis to inform content strategy",
+      "evidence": [
+        "Conducted thorough keyword research and analysis to inform content strategy, resulting in a 25% increase in organic traffic"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive SEO plans, including on-page optimization and link building",
+      "evidence": [
+        "Developed and implemented comprehensive SEO plans, including on-page optimization and link building, leading to a 50% boost in website rankings"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor and analyze website performance using tools like Google Analytics and SEMrush",
+      "evidence": [
+        "Monitored and analyzed website performance using tools like Google Analytics and SEMrush, identifying areas for improvement and implementing data-driven solutions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "With a focus on collaboration, creativity, and customer satisfaction, we've built a reputation as a trusted partner for organizations seeking to elevate their online presence.",
+      "evidence": [
+        "Collaborated with cross-functional teams to ensure seamless integration of SEO efforts, resulting in a 30% increase in client satisfaction"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Our team is comprised of seasoned professionals with extensive experience in crafting compelling content, identifying key performance indicators (KPIs), and staying ahead of the cu",
+      "evidence": [
+        "Conducted thorough keyword research and analysis to inform content strategy, resulting in a 25% increase in organic traffic"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Through our expert guidance, cutting-edge tools, and collaborative approach, we'll work tirelessly to ensure your website or platform is optimized for maximum visibility, engagemen",
+      "evidence": [
+        "Results-driven SEO expert with 3+ years of experience driving organic traffic growth and improving website rankings through data-driven strategies and collaborative team efforts."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Whether you're a seasoned pro or just starting out on your SEO journey, we invite you to join our community of like-minded individuals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As an SEO Specialist with [Company Name], you'll enjoy a competitive salary, comprehensive benefits package, and opportunities for professional growth and development.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Plus, our flexible work arrangements and generous PTO policy mean you can balance your career and personal life with ease.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from talented individuals of all backgrounds, experiences, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with the latest algorithm updates and best practices in SEO",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to ensure seamless integration of SEO efforts, resulting in a 30% increase in client satisfaction",
+      "supports": "With a focus on collaboration, creativity, and customer satisfaction, we've built a reputation as a trusted partner for organizations seeking to elevate their online presence."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough keyword research and analysis to inform content strategy, resulting in a 25% increase in organic traffic",
+      "supports": "Our team is comprised of seasoned professionals with extensive experience in crafting compelling content, identifying key performance indicators (KPIs), and staying ahead of the cu"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven SEO expert with 3+ years of experience driving organic traffic growth and improving website rankings through data-driven strategies and collaborative team efforts.",
+      "supports": "Through our expert guidance, cutting-edge tools, and collaborative approach, we'll work tirelessly to ensure your website or platform is optimized for maximum visibility, engagemen"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Marketing, [University Name] (2018)",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough keyword research and analysis to inform content strategy, resulting in a 25% increase in organic traffic",
+      "supports": "Conduct thorough keyword research and analysis to inform content strategy"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

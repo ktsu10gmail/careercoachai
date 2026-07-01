@@ -1,0 +1,141 @@
+{
+  "job_title": "63. Quality Assurance Testers",
+  "case_slug": "63-quality-assurance-testers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.014352",
+  "match_score": 70.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.9,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained comprehensive test plans, test cases, and test scripts for assigned projects, resulting in a 25% increase in test coverage",
+        "Proven track record of identifying and reporting defects accurately, with a strong understanding of software development life cycles and testing methodologies.",
+        "Highly motivated and detail-oriented QA professional with 3+ years of experience in software testing, focusing on quality assurance.",
+        "Successfully implemented automated testing frameworks using Selenium and Appium, resulting in 30% reduction in manual testing time"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 53.0,
+      "reason": "Found 2 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Successfully implemented automated testing frameworks using Selenium and Appium, resulting in 30% reduction in manual testing time",
+        "AWS Device Farm, Google Cloud Test Lab)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained comprehensive test plans, test cases, and test scripts for assigned projects, resulting in a 25% increase in test coverage",
+        "Proven track record of identifying and reporting defects accurately, with a strong understanding of software development life cycles and testing methodologies.",
+        "Highly motivated and detail-oriented QA professional with 3+ years of experience in software testing, focusing on quality assurance.",
+        "Successfully implemented automated testing frameworks using Selenium and Appium, resulting in 30% reduction in manual testing time"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain test plans, test cases, and test scripts for assigned projects",
+      "evidence": [
+        "Developed and maintained comprehensive test plans, test cases, and test scripts for assigned projects, resulting in a 25% increase in test coverage"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in software testing, with a focus on quality assurance",
+      "evidence": [
+        "Highly motivated and detail-oriented QA professional with 3+ years of experience in software testing, focusing on quality assurance."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles and testing methodologies",
+      "evidence": [
+        "Proven track record of identifying and reporting defects accurately, with a strong understanding of software development life cycles and testing methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based testing frameworks and tools (e.g.",
+      "evidence": [
+        "AWS Device Farm, Google Cloud Test Lab)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "AWS Device Farm, Google Cloud Test Lab)",
+      "evidence": [
+        "AWS Device Farm, Google Cloud Test Lab)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and provide feedback on testing methodologies and processes",
+      "evidence": [
+        "Highly motivated and detail-oriented QA professional with 3+ years of experience in software testing, focusing on quality assurance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct thorough testing of software applications to identify defects and ensure compliance with quality standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of machine learning or artificial intelligence technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained comprehensive test plans, test cases, and test scripts for assigned projects, resulting in a 25% increase in test coverage",
+      "supports": "Develop and maintain test plans, test cases, and test scripts for assigned projects"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of identifying and reporting defects accurately, with a strong understanding of software development life cycles and testing methodologies.",
+      "supports": "Create and manage defect reports, track defect status, and provide regular progress updates to stakeholders"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented QA professional with 3+ years of experience in software testing, focusing on quality assurance.",
+      "supports": "Participate in code reviews and provide feedback on testing methodologies and processes"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully implemented automated testing frameworks using Selenium and Appium, resulting in 30% reduction in manual testing time",
+      "supports": "Develop and maintain test automation frameworks using tools such as Selenium, Appium, or TestComplete"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented QA professional with 3+ years of experience in software testing, focusing on quality assurance.",
+      "supports": "Conduct exploratory testing to identify defects that may not be caught by automated tests"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

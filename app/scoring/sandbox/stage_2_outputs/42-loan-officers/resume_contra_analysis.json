@@ -1,0 +1,149 @@
+{
+  "job_title": "42. Loan Officers",
+  "case_slug": "42-loan-officers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:49.618556",
+  "match_score": 62.17,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.0,
+      "reason": "Found 2 direct, 8 adjacent, 1 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions.",
+        "Conducted thorough credit analyses for borrowers, ensuring accurate loan approvals",
+        "Maintained accurate records of loan activity, including borrower contact information and loan status updates",
+        "I am excited to bring my skills and experience to a new role and contribute to the growth of the loan portfolio.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions.",
+        "Conducted thorough credit analyses for borrowers, ensuring accurate loan approvals",
+        "Maintained accurate records of loan activity, including borrower contact information and loan status updates",
+        "I am excited to bring my skills and experience to a new role and contribute to the growth of the loan portfolio.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Maintain accurate records of loan activity, including borrower contact information and loan status updates",
+      "evidence": [
+        "Maintained accurate records of loan activity, including borrower contact information and loan status updates"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets and contribute to the growth of the loan portfolio",
+      "evidence": [
+        "I am excited to bring my skills and experience to a new role and contribute to the growth of the loan portfolio.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough credit analyses to determine borrowers' ability to repay loans",
+      "evidence": [
+        "Conducted thorough credit analyses for borrowers, ensuring accurate loan approvals"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience in a banking or financial institution environment",
+      "evidence": [
+        "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of loan products, including residential and commercial loans",
+      "evidence": [
+        "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office, particularly Excel and Word",
+      "evidence": [
+        "Skilled in Excel and Word, with proficiency in Microsoft Office."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Valid mortgage license (or ability to obtain within 6 months)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with regulatory requirements, including TRID and RESPA",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Maintained accurate records of loan activity, including borrower contact information and loan status updates",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions.",
+      "supports": "Originate new loan business by identifying potential customers and presenting loan products that meet their needs"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough credit analyses for borrowers, ensuring accurate loan approvals",
+      "supports": "Conduct thorough credit analyses to determine borrowers' ability to repay loans"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions.",
+      "supports": "Prepare and submit loan applications for review and approval"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Loan Officer with 2+ years of experience in banking and financial institutions.",
+      "supports": "Work with internal stakeholders, including underwriters and closing departments, to ensure timely and accurate processing of loan applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of loan activity, including borrower contact information and loan status updates",
+      "supports": "Maintain accurate records of loan activity, including borrower contact information and loan status updates"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

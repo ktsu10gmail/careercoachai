@@ -1,0 +1,138 @@
+{
+  "job_title": "Executive Assistants",
+  "case_slug": "executive-assistants-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:59.562969",
+  "match_score": 80.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 78.6,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly organized and detail-oriented Executive Assistant with 5+ years of experience providing exceptional administrative support to senior leadership teams.",
+        "Coordinate travel arrangements for senior leadership team, resulting in an average savings of $5,000 per year on company expenses",
+        "Summary:",
+        "Proven track record of managing complex calendars, coordinating travel arrangements, and developing sophisticated spreadsheets to drive business results."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 78.6,
+      "reason": "Found 9 direct, 4 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly organized and detail-oriented Executive Assistant with 5+ years of experience providing exceptional administrative support to senior leadership teams.",
+        "Coordinate travel arrangements for senior leadership team, resulting in an average savings of $5,000 per year on company expenses",
+        "Summary:",
+        "Proven track record of managing complex calendars, coordinating travel arrangements, and developing sophisticated spreadsheets to drive business results."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly organized and detail-oriented Executive Assistant with 5+ years of experience providing exceptional administrative support to senior leadership teams.",
+        "Coordinate travel arrangements for senior leadership team, resulting in an average savings of $5,000 per year on company expenses",
+        "Summary:",
+        "Proven track record of managing complex calendars, coordinating travel arrangements, and developing sophisticated spreadsheets to drive business results."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Executive Assistant**",
+      "evidence": [
+        "Highly organized and detail-oriented Executive Assistant with 5+ years of experience providing exceptional administrative support to senior leadership teams."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As the first point of contact, you'll be responsible for managing calendars, coordinating travel arrangements, preparing correspondence, and ensuring seamless day-to-day operations",
+      "evidence": [
+        "Proven track record of managing complex calendars, coordinating travel arrangements, and developing sophisticated spreadsheets to drive business results."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage the schedules of multiple executives, including scheduling appointments, meetings, and events",
+      "evidence": [
+        "Manage the schedules of multiple executives, including scheduling appointments, meetings, and events, with a 99% accuracy rate"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate travel arrangements, including booking flights, hotels, and rental cars",
+      "evidence": [
+        "Coordinate travel arrangements for senior leadership team, resulting in an average savings of $5,000 per year on company expenses"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Prepare and edit correspondence, reports, and presentations for senior leadership",
+      "evidence": [
+        "Prepare and edit correspondence, reports, and presentations for senior leadership, utilizing expertise in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook) to ensure seamless delivery"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service to internal stakeholders and external clients",
+      "evidence": [
+        "Strong customer service skills, with experience providing exceptional support to internal stakeholders and external clients"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** EA1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly organized and detail-oriented Executive Assistant with 5+ years of experience providing exceptional administrative support to senior leadership teams.",
+      "supports": "Executive Assistant**"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinate travel arrangements for senior leadership team, resulting in an average savings of $5,000 per year on company expenses",
+      "supports": "Company:** [Acme Inc.] (4.5/5 stars)"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of managing complex calendars, coordinating travel arrangements, and developing sophisticated spreadsheets to drive business results.",
+      "supports": "As the first point of contact, you'll be responsible for managing calendars, coordinating travel arrangements, preparing correspondence, and ensuring seamless day-to-day operations"
+    },
+    {
+      "source": "resume",
+      "quote": "Manage the schedules of multiple executives, including scheduling appointments, meetings, and events, with a 99% accuracy rate",
+      "supports": "Manage the schedules of multiple executives, including scheduling appointments, meetings, and events"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

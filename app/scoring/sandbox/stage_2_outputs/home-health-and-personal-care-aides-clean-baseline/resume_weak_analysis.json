@@ -1,0 +1,164 @@
+{
+  "job_title": "Home Health and Personal Care Aides",
+  "case_slug": "home-health-and-personal-care-aides-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:01.762409",
+  "match_score": 33.85,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 21.4,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+        "Lacks relevant experience for the job title \"Stress Test Engineer\".",
+        "Fails to mention any education or training related to computer science, engineering, or a related field.",
+        "Proficient in basic computer skills and familiar with low-level tools."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+        "Proficient in basic computer skills and familiar with low-level tools."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 63.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+        "Lacks relevant experience for the job title \"Stress Test Engineer\".",
+        "Fails to mention any education or training related to computer science, engineering, or a related field.",
+        "Proficient in basic computer skills and familiar with low-level tools."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Fails to mention any education or training related to computer science, engineering, or a related field."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, quality assurance, or a related field",
+      "evidence": [
+        "Fails to mention any education or training related to computer science, engineering, or a related field."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "evidence": [
+        "+ Assisted with daily living activities such as bathing, dressing, and grooming"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, algorithms, and data structures",
+      "evidence": [
+        "Proficient in basic computer skills and familiar with low-level tools."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Home Health and Personal Care Aides",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on findings and recommendations for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and infrastructure to support stress testing efforts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to identify potential vulnerabilities and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with stress testing tools and frameworks, such as Apache JMeter or Gatling",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet for a Home Health and Personal Care Aide with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Home Health and Personal Care Aides"
+    },
+    {
+      "source": "resume",
+      "quote": "Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "supports": "Job Title: Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "supports": "Job Type: Full-time"
+    },
+    {
+      "source": "resume",
+      "quote": "Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan"
+    },
+    {
+      "source": "resume",
+      "quote": "Lacks relevant experience for the job title \"Stress Test Engineer\".",
+      "supports": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

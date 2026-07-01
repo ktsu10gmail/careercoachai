@@ -1,0 +1,155 @@
+{
+  "job_title": "68. Content Writers / Copywriters",
+  "case_slug": "68-content-writers-copywriters",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.464044",
+  "match_score": 75.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 52.5,
+      "reason": "Found 6 direct, 3 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Created high-quality blog posts, social media content, email newsletters, and product descriptions that drove results and exceeded client expectations",
+        "Developed and implemented a consistent tone and voice across all content channels, resulting in a 25% increase in brand recognition",
+        "Proven track record of producing well-informed, SEO-optimized content that resonates with target audiences and meets tight deadlines.",
+        "Bachelor's Degree in English, [University Name] (2015-2019)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Adobe Creative Cloud (Design, Photoshop)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Created high-quality blog posts, social media content, email newsletters, and product descriptions that drove results and exceeded client expectations",
+        "Developed and implemented a consistent tone and voice across all content channels, resulting in a 25% increase in brand recognition",
+        "Proven track record of producing well-informed, SEO-optimized content that resonates with target audiences and meets tight deadlines.",
+        "Bachelor's Degree in English, [University Name] (2015-2019)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Write high-quality, engaging content for various mediums, including blog posts, social media, email newsletters, and product descriptions",
+      "evidence": [
+        "Created high-quality blog posts, social media content, email newsletters, and product descriptions that drove results and exceeded client expectations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a consistent tone and voice across all content channels",
+      "evidence": [
+        "Developed and implemented a consistent tone and voice across all content channels, resulting in a 25% increase in brand recognition"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of producing high-quality, engaging content that drives results",
+      "evidence": [
+        "Proven track record of producing well-informed, SEO-optimized content that resonates with target audiences and meets tight deadlines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent writing, editing, and proofreading skills",
+      "evidence": [
+        "Excellent writing, editing, and proofreading skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong research and analytical skills to stay up-to-date on industry trends",
+      "evidence": [
+        "Strong research and analytical skills to stay up-to-date on industry trends"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work independently and collaboratively as part of a team",
+      "evidence": [
+        "Ability to work independently and collaboratively as part of a team"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct research to stay up-to-date on industry trends and develop well-informed content that resonates with target audiences",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Optimize content for search engines to improve visibility and drive organic traffic",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a copywriter or content writer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with content management systems (CMS) such as WordPress or Drupal",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of social media platforms and their respective content strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Created high-quality blog posts, social media content, email newsletters, and product descriptions that drove results and exceeded client expectations",
+      "supports": "Write high-quality, engaging content for various mediums, including blog posts, social media, email newsletters, and product descriptions"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented a consistent tone and voice across all content channels, resulting in a 25% increase in brand recognition",
+      "supports": "Develop and maintain a consistent tone and voice across all content channels"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of producing well-informed, SEO-optimized content that resonates with target audiences and meets tight deadlines.",
+      "supports": "Meet tight deadlines while maintaining quality standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in English, [University Name] (2015-2019)",
+      "supports": "Bachelor's degree in English, Journalism, Communications, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of producing well-informed, SEO-optimized content that resonates with target audiences and meets tight deadlines.",
+      "supports": "Proven track record of producing high-quality, engaging content that drives results"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

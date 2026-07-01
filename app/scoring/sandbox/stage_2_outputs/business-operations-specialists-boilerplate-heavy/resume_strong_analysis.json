@@ -1,0 +1,172 @@
+{
+  "job_title": "Business Operations Specialists",
+  "case_slug": "business-operations-specialists-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.363718",
+  "match_score": 39.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.5,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained relationships with technical leads and product managers to ensure seamless collaboration and effective communication.",
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage.",
+        "Results-driven operations professional with 5+ years of experience in stress testing and performance engineering, driving business growth and efficiency through data-driven insights and strategic process improvements."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 21.8,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained relationships with technical leads and product managers to ensure seamless collaboration and effective communication.",
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage.",
+        "Results-driven operations professional with 5+ years of experience in stress testing and performance engineering, driving business growth and efficiency through data-driven insights and strategic process improvements."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained relationships with technical leads and product managers to ensure seamless collaboration and effective communication.",
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage.",
+        "Results-driven operations professional with 5+ years of experience in stress testing and performance engineering, driving business growth and efficiency through data-driven insights and strategic process improvements."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement comprehensive stress testing protocols for scoring engines",
+      "evidence": [
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "evidence": [
+        "Results-driven operations professional with 5+ years of experience in stress testing and performance engineering, driving business growth and efficiency through data-driven insights and strategic process improvements."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We're committed to building long-term relationships with our clients, understanding their unique needs, and delivering tailored solutions that drive real results.",
+      "evidence": [
+        "Developed and maintained relationships with technical leads and product managers to ensure seamless collaboration and effective communication."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "evidence": [
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Generous paid time off policy",
+      "evidence": [
+        "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With over [number] years of experience, we've established ourselves as a trusted partner for businesses seeking to optimize their operations and achieve their goals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Business Operations Specialists**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our operations team, you'll play a critical role in driving business growth, improving efficiency, and delivering exceptional results for our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained relationships with technical leads and product managers to ensure seamless collaboration and effective communication.",
+      "supports": "We're committed to building long-term relationships with our clients, understanding their unique needs, and delivering tailored solutions that drive real results."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage.",
+      "supports": "We offer a comprehensive benefits package that includes"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage.",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented comprehensive stress testing protocols for scoring engines, resulting in a 30% reduction in test cycle time and a 25% increase in test coverage.",
+      "supports": "Generous paid time off policy"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven operations professional with 5+ years of experience in stress testing and performance engineering, driving business growth and efficiency through data-driven insights and strategic process improvements.",
+      "supports": "Opportunities for professional growth and development"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

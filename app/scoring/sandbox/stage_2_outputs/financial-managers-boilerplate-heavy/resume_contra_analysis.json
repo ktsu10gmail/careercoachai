@@ -1,0 +1,163 @@
+{
+  "job_title": "Financial Managers",
+  "case_slug": "financial-managers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:59.851958",
+  "match_score": 48.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 10.4,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developing and implementing comprehensive financial strategies that aligned with client goals",
+        "Results-driven finance professional with 7+ years of experience in financial management, seeking to leverage my analytical skills and industry expertise to drive business growth and deliver exceptional results.",
+        "Unfortunately, I did not have the opportunity to work on projects that involved managing and mitigating financial risk through effective hedging and diversification techniques."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in financial management, seeking to leverage my analytical skills and industry expertise to drive business growth and deliver exceptional results.",
+        "Analyzing financial data to identify trends, opportunities, and risks"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 44.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developing and implementing comprehensive financial strategies that aligned with client goals",
+        "Results-driven finance professional with 7+ years of experience in financial management, seeking to leverage my analytical skills and industry expertise to drive business growth and deliver exceptional results.",
+        "Unfortunately, I did not have the opportunity to work on projects that involved managing and mitigating financial risk through effective hedging and diversification techniques."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Opportunities for professional development and advancement",
+      "evidence": [
+        "Results-driven finance professional with 7+ years of experience in financial management, seeking to leverage my analytical skills and industry expertise to drive business growth and deliver exceptional results."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "evidence": [
+        "Developing and implementing comprehensive financial strategies that aligned with client goals"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "evidence": [
+        "Developing and implementing comprehensive financial strategies that aligned with client goals"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a strong commitment to customer satisfaction, integrity, and teamwork, we strive to be the go-to partner for companies seeking trusted financial guidance.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Our experienced professionals have a deep understanding of the financial landscape, allowing us to provide tailored solutions that meet the unique needs of our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "With a global presence and a reputation for excellence, we're well-positioned to help businesses achieve their goals.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonus structure",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Generous paid time off policy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Unfortunately, I did not have the opportunity to work on projects that involved managing and mitigating financial risk through effective hedging and diversification techniques.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Unfortunately, I did not have the opportunity to work on projects that involved managing and mitigating financial risk through effective hedging and diversification techniques.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Financial Managers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our financial leadership, you'll play a critical role in driving business growth, managing risk, and delivering exceptional results for our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developing and implementing comprehensive financial strategies that aligned with client goals",
+      "supports": "We offer a comprehensive benefits package that includes"
+    },
+    {
+      "source": "resume",
+      "quote": "Developing and implementing comprehensive financial strategies that aligned with client goals",
+      "supports": "Comprehensive health insurance"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven finance professional with 7+ years of experience in financial management, seeking to leverage my analytical skills and industry expertise to drive business growth and deliver exceptional results.",
+      "supports": "Opportunities for professional development and advancement"
+    },
+    {
+      "source": "resume",
+      "quote": "Unfortunately, I did not have the opportunity to work on projects that involved managing and mitigating financial risk through effective hedging and diversification techniques.",
+      "supports": "Equal Opportunity Employer**"
+    },
+    {
+      "source": "resume",
+      "quote": "Unfortunately, I did not have the opportunity to work on projects that involved managing and mitigating financial risk through effective hedging and diversification techniques.",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

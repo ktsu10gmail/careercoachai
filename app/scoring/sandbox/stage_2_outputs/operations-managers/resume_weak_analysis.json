@@ -1,0 +1,143 @@
+{
+  "job_title": "Operations Managers",
+  "case_slug": "operations-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:05.568727",
+  "match_score": 80.56,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 73.9,
+      "reason": "Found 9 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Managed daily operations of a 5-person team at a single manufacturing facility, ensuring efficient production and quality control",
+        "Developed and implemented process improvements to increase productivity by 2% within the next month",
+        "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 1% decrease in material costs within the next quarter"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 1% decrease in material costs within the next quarter",
+        "Strong analytical and problem-solving skills, with the ability to interpret production data and make informed decisions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Managed daily operations of a 5-person team at a single manufacturing facility, ensuring efficient production and quality control",
+        "Developed and implemented process improvements to increase productivity by 2% within the next month",
+        "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 1% decrease in material costs within the next quarter"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage daily operations of a 50-person team across two manufacturing facilities, ensuring efficient production and quality control",
+      "evidence": [
+        "Managed daily operations of a 5-person team at a single manufacturing facility, ensuring efficient production and quality control"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+      "evidence": [
+        "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year",
+      "evidence": [
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 1% decrease in material costs within the next quarter"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Operations Management, Business Administration, or related field",
+      "evidence": [
+        "Bachelor's degree in Operations Management, Business Administration, or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in operations management or a related field",
+      "evidence": [
+        "Bachelor's degree in Operations Management, Business Administration, or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of implementing process improvements and increasing productivity",
+      "evidence": [
+        "Proven track record of implementing process improvements and increasing productivity"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain relationships with key suppliers and vendors to negotiate better pricing and terms",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with ERP systems (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Managed daily operations of a 5-person team at a single manufacturing facility, ensuring efficient production and quality control",
+      "supports": "Manage daily operations of a 50-person team across two manufacturing facilities, ensuring efficient production and quality control"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and implemented process improvements to increase productivity by 2% within the next month",
+      "supports": "Develop and implement process improvements to increase productivity by 15% within the next 6 months"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular site visits to monitor production, identify areas for improvement, and provide coaching to team members",
+      "supports": "Conduct regular site visits to monitor production, identify areas for improvement, and provide coaching to team members"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 1% decrease in material costs within the next quarter",
+      "supports": "Analyze production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Operations Management, Business Administration, or related field",
+      "supports": "Bachelor's degree in Operations Management, Business Administration, or related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

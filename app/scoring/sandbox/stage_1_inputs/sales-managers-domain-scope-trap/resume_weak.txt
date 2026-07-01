@@ -1,0 +1,24 @@
+Here is a weak or scope-mismatch resume snippet for a Sales Manager position:
+
+**Job Title:** Sales Manager - Generic
+
+**Summary:**
+
+Results-driven sales professional with experience in generating leads and closing deals. Proven track record of success in fast-paced environments.
+
+**Responsibilities:**
+
+* Generated new business leads through cold calling and networking
+* Built relationships with existing clients to increase revenue
+* Collaborated with cross-functional teams to achieve sales goals
+* Utilized CRM software to manage customer interactions and track sales performance
+
+**Required Skills:**
+
+* Bachelor's degree in Business or related field
+* 2+ years of experience in sales
+* Strong communication and interpersonal skills
+* Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint)
+* Experience with CRM software (e.g. Salesforce)
+
+Note that this resume snippet lacks the essential domain qualifier "Software/SaaS" and scope qualifiers such as "Domain scope trap scenarios", "Performance testing of web applications and APIs", etc. It also omits specific technical skills required for a Stress Test Engineer position, such as experience with load testing tools or programming languages.

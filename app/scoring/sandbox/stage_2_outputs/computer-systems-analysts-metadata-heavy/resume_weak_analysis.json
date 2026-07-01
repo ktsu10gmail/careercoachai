@@ -1,0 +1,167 @@
+{
+  "job_title": "Computer Systems Analysts",
+  "case_slug": "computer-systems-analysts-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:57.655315",
+  "match_score": 37.45,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.1,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+        "Familiarity with stress testing tools like Apache JMeter and Locust",
+        "3 years of experience in software development, focusing on building scalable web applications with Node.js and Express"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Familiarity with stress testing tools like Apache JMeter and Locust"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 56.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+        "Familiarity with stress testing tools like Apache JMeter and Locust",
+        "3 years of experience in software development, focusing on building scalable web applications with Node.js and Express"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Experience with stress testing tools such as Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Familiarity with stress testing tools like Apache JMeter and Locust"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage pattern",
+      "evidence": [
+        "Familiarity with stress testing tools like Apache JMeter and Locust"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing",
+      "evidence": [
+        "3 years of experience in software development, focusing on building scalable web applications with Node.js and Express"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and frameworks to automate testing processes",
+      "evidence": [
+        "Familiarity with stress testing tools like Apache JMeter and Locust"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of our testing infrastructure",
+      "evidence": [
+        "Familiarity with stress testing tools like Apache JMeter and Locust"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies",
+      "evidence": [
+        "Familiarity with stress testing tools like Apache JMeter and Locust"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Computer Systems Analysts",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of work time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: We offer sponsorship for international candidates who meet the necessary requirements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid US government security clearance may be required for certain projects",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for process improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in software testing or a related field (e.g., QA engineering, DevOps)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+      "supports": "Job Title:** Computer Systems Analysts"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with stress testing tools like Apache JMeter and Locust",
+      "supports": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage pattern"
+    },
+    {
+      "source": "resume",
+      "quote": "3 years of experience in software development, focusing on building scalable web applications with Node.js and Express",
+      "supports": "Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with stress testing tools like Apache JMeter and Locust",
+      "supports": "Develop and maintain test scripts, tools, and frameworks to automate testing processes"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

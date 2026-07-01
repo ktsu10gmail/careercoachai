@@ -1,0 +1,142 @@
+{
+  "job_title": "Client Success Managers",
+  "case_slug": "client-success-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:57.246099",
+  "match_score": 80.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.3,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Fostered long-term relationships with key clients, resulting in a 30% increase in client retention rates",
+        "Conducted regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations that drove a 25% increase in revenue",
+        "Analyzed client feedback and performance data to inform process improvements, optimizing client success strategies by 40%",
+        "Results-driven Client Success Manager with 5+ years of experience driving business growth through strategic relationship-building, process optimization, and data-driven insights."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed client feedback and performance data to inform process improvements, optimizing client success strategies by 40%",
+        "Implemented a data-driven approach to client success, using CRM systems (Salesforce) and data analysis tools (Excel, Tableau) to inform process improvements"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Fostered long-term relationships with key clients, resulting in a 30% increase in client retention rates",
+        "Conducted regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations that drove a 25% increase in revenue",
+        "Analyzed client feedback and performance data to inform process improvements, optimizing client success strategies by 40%",
+        "Results-driven Client Success Manager with 5+ years of experience driving business growth through strategic relationship-building, process optimization, and data-driven insights."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations",
+      "evidence": [
+        "Conducted regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations that drove a 25% increase in revenue"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze client feedback and performance data to inform process improvements and optimize client success strategies",
+      "evidence": [
+        "Analyzed client feedback and performance data to inform process improvements, optimizing client success strategies by 40%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of building and maintaining strong relationships with key decision-makers",
+      "evidence": [
+        "Proven track record of building and maintaining strong relationships with key decision-makers"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, active listening, and problem-solving skills",
+      "evidence": [
+        "Excellent communication, active listening, and problem-solving skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and strategic thinking abilities",
+      "evidence": [
+        "Strong analytical and strategic thinking abilities"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Salesforce) and data analysis tools (e.g.",
+      "evidence": [
+        "Implemented a data-driven approach to client success, using CRM systems (Salesforce) and data analysis tools (Excel, Tableau) to inform process improvements"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Experience with customer success platforms (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with sales operations and account management processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Fostered long-term relationships with key clients, resulting in a 30% increase in client retention rates",
+      "supports": "Develop and maintain strong relationships with key clients to ensure satisfaction and retention"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations that drove a 25% increase in revenue",
+      "supports": "Conduct regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed client feedback and performance data to inform process improvements, optimizing client success strategies by 40%",
+      "supports": "Analyze client feedback and performance data to inform process improvements and optimize client success strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular client meetings to understand business needs, identify opportunities for growth, and provide strategic recommendations that drove a 25% increase in revenue",
+      "supports": "Identify and address potential issues or concerns before they escalate into major problems"
+    },
+    {
+      "source": "resume",
+      "quote": "Fostered long-term relationships with key clients, resulting in a 30% increase in client retention rates",
+      "supports": "Develop and maintain a thorough understanding of clients' industries, competitors, and market trends"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

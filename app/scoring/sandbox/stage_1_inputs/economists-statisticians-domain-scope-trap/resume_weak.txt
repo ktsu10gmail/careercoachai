@@ -1,0 +1,27 @@
+Here is a weak/scoped-mismatch resume snippet for an Economist/Statistician:
+
+**Name:** Jane Doe
+**Contact Info:**
+
+* Email: [jane.doe@email.com](mailto:jane.doe@email.com)
+* Phone: 555-555-5555
+
+**Summary:**
+Highly analytical and detail-oriented professional with experience in data analysis, statistical modeling, and research.
+
+**Experience:**
+
+* **Data Analyst**, XYZ Corporation (2018-Present)
+	+ Analyzed sales trends using Excel and SQL
+	+ Developed and maintained databases for inventory management
+	+ Collaborated with cross-functional teams to identify areas for process improvement
+* **Research Assistant**, ABC University (2015-2018)
+	+ Conducted statistical analysis on demographic data
+	+ Assisted in the development of research papers and presentations
+	+ Participated in academic conferences and workshops
+
+**Skills:**
+
+* Strong analytical and problem-solving skills
+* Proficient in Excel, SQL, and statistical software (e.g., R, Python)
+* Excellent communication and collaboration skills

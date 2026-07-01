@@ -1,0 +1,28 @@
+**Quality Control Inspectors**
+
+We are seeking highly skilled and detail-oriented Quality Control Inspectors to join our team. As a Quality Control Inspector, you will be responsible for conducting stress tests on scoring engines to ensure they meet our high standards.
+
+**Responsibilities:**
+
+* Conduct thorough stress testing of scoring engines to identify potential issues and areas for improvement
+* Develop and execute test plans to simulate various scenarios and loads
+* Analyze test results and provide detailed reports on findings and recommendations for improvement
+* Collaborate with cross-functional teams, including engineering and product development, to implement changes and improvements
+* Maintain accurate records of testing and results, including documentation of test procedures and outcomes
+* Stay up-to-date with industry developments and best practices in stress testing and quality control
+
+**Required Skills:**
+
+* Bachelor's degree in a relevant field (e.g. mechanical engineering, electrical engineering, computer science)
+* 3+ years of experience in stress testing or quality control, preferably in the aerospace or defense industry
+* Strong analytical and problem-solving skills, with ability to interpret complex data and identify trends
+* Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams
+* Proficiency in stress testing tools and software (e.g. MATLAB, Simulink, ANSYS)
+* Experience with test planning, execution, and reporting
+
+**Preferred Skills:**
+
+* Master's degree or Ph.D. in a relevant field
+* Experience with scoring engine design and development
+* Familiarity with industry standards and regulations (e.g. DO-178C, MIL-STD-810G)
+* Certification in stress testing or quality control (e.g. AS9100, ISO 9001)

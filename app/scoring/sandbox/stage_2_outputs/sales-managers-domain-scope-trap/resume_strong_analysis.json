@@ -1,0 +1,143 @@
+{
+  "job_title": "Sales Managers",
+  "case_slug": "sales-managers-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:08.726311",
+  "match_score": 56.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 34.3,
+      "reason": "Found 0 direct, 12 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Led a team of sales professionals, providing coaching, training, and guidance to drive individual and team performance",
+        "Results-driven sales leader with 5+ years of experience driving revenue growth, building high-performing teams, and delivering exceptional customer experiences in fast-paced software sales environments.",
+        "+ Collaborated with cross-functional teams to develop and implement innovative sales solutions, resulting in significant market share gains"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "led",
+        "designed",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Designed and executed complex sales strategies to drive revenue growth and expand customer base"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Led a team of sales professionals, providing coaching, training, and guidance to drive individual and team performance",
+        "Results-driven sales leader with 5+ years of experience driving revenue growth, building high-performing teams, and delivering exceptional customer experiences in fast-paced software sales environments.",
+        "+ Collaborated with cross-functional teams to develop and implement innovative sales solutions, resulting in significant market share gains"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "evidence": [
+        "Excellent communication, negotiation, and problem-solving skills"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems.",
+      "evidence": [
+        "+ Led a team of sales professionals, providing coaching, training, and guidance to drive individual and team performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests to simulate various types of traffic and loads on our software applications",
+      "evidence": [
+        "Results-driven sales leader with 5+ years of experience driving revenue growth, building high-performing teams, and delivering exceptional customer experiences in fast-paced software sales environments."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Identify and analyze performance bottlenecks and provide recommendations for optimization",
+      "evidence": [
+        "+ Led a team of sales professionals, providing coaching, training, and guidance to drive individual and team performance"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts and tools to automate stress testing processes",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and implement innovative sales solutions, resulting in significant market share gains"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Experience with load testing tools such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Led a team of sales professionals, providing coaching, training, and guidance to drive individual and team performance",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven sales leader with 5+ years of experience driving revenue growth, building high-performing teams, and delivering exceptional customer experiences in fast-paced software sales environments.",
+      "supports": "Design and execute stress tests to simulate various types of traffic and loads on our software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Led a team of sales professionals, providing coaching, training, and guidance to drive individual and team performance",
+      "supports": "Identify and analyze performance bottlenecks and provide recommendations for optimization"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop and implement innovative sales solutions, resulting in significant market share gains",
+      "supports": "Develop and maintain test scripts and tools to automate stress testing processes"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

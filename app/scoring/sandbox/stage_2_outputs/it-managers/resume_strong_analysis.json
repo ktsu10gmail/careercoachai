@@ -1,0 +1,140 @@
+{
+  "job_title": "IT Managers",
+  "case_slug": "it-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.151980",
+  "match_score": 73.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.8,
+      "reason": "Found 4 direct, 9 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Successfully managed teams of 5-7 IT professionals, overseeing the maintenance and upgrade of computer systems, networks, and software applications",
+        "Results-driven IT Manager with 7+ years of experience leading high-performing teams and driving strategic IT initiatives that drive business growth and efficiency.",
+        "Skilled in database management systems (DBMS) such as Oracle, SQL Server, and MySQL",
+        "Technical Expertise:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 73.0,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in database management systems (DBMS) such as Oracle, SQL Server, and MySQL",
+        "Collaborated with senior management to identify and prioritize IT projects, allocating resources and budget accordingly",
+        "Conducted regular security audits and vulnerability assessments, identifying potential threats and implementing mitigation strategies",
+        "Proven expertise in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with a strong understanding of virtualization technologies (VMware, Hyper-V)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Successfully managed teams of 5-7 IT professionals, overseeing the maintenance and upgrade of computer systems, networks, and software applications",
+        "Results-driven IT Manager with 7+ years of experience leading high-performing teams and driving strategic IT initiatives that drive business growth and efficiency.",
+        "Skilled in database management systems (DBMS) such as Oracle, SQL Server, and MySQL",
+        "Technical Expertise:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications",
+      "evidence": [
+        "Successfully managed teams of 5-7 IT professionals, overseeing the maintenance and upgrade of computer systems, networks, and software applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular security audits and vulnerability assessments to identify potential threats",
+      "evidence": [
+        "Conducted regular security audits and vulnerability assessments, identifying potential threats and implementing mitigation strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Windows Server, Linux, and cloud-based platforms (AWS, Azure)",
+      "evidence": [
+        "Proven expertise in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with a strong understanding of virtualization technologies (VMware, Hyper-V)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management frameworks (ITIL) and agile methodologies",
+      "evidence": [
+        "Experienced in IT service management frameworks (ITIL) and agile methodologies, with a certification in ITIL Foundation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals",
+      "evidence": [
+        "Results-driven IT Manager with 7+ years of experience leading high-performing teams and driving strategic IT initiatives that drive business growth and efficiency."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently",
+      "evidence": [
+        "Technical Expertise:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "5+ years of experience as an IT professional or manager",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Successfully managed teams of 5-7 IT professionals, overseeing the maintenance and upgrade of computer systems, networks, and software applications",
+      "supports": "Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven IT Manager with 7+ years of experience leading high-performing teams and driving strategic IT initiatives that drive business growth and efficiency.",
+      "supports": "Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully managed teams of 5-7 IT professionals, overseeing the maintenance and upgrade of computer systems, networks, and software applications",
+      "supports": "Oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devices"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in database management systems (DBMS) such as Oracle, SQL Server, and MySQL",
+      "supports": "Ensure compliance with industry regulations and standards, such as HIPAA, PCI-DSS, and GDPR"
+    },
+    {
+      "source": "resume",
+      "quote": "Technical Expertise:",
+      "supports": "Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

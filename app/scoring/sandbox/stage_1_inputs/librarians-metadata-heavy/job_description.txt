@@ -1,0 +1,43 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $180,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional travel to New York and London)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from hire date
+* Travel: Up to 20% of the work time will be spent at client sites in the US and Europe
+* Sponsorship: The company will sponsor relocation expenses for candidates who are not currently based in San Francisco
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of software engineers. As a Stress Test Engineer, you will be responsible for designing and executing stress tests on our scoring engine to ensure it can handle high volumes of metadata-heavy workloads.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks
+* Collaborate with cross-functional teams, including engineering, product management, and operations, to understand requirements and develop test plans
+* Develop and maintain a suite of automated testing tools to support stress testing efforts
+* Analyze test results and provide recommendations for improving the performance and scalability of the scoring engine
+* Work closely with the development team to identify and prioritize areas for improvement
+* Stay up-to-date with industry trends and emerging technologies that may impact our scoring engine's performance
+
+**Required Skills:**
+
+* 5+ years of experience in stress testing or performance engineering
+* In-depth knowledge of software architecture, scalability, and performance optimization
+* Experience with cloud-based infrastructure and containerization (e.g. Docker)
+* Strong understanding of metadata storage and retrieval technologies (e.g. relational databases, NoSQL databases)
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with testing frameworks and tools (e.g. JMeter, Gatling)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on a cutting-edge technology stack
+* Collaborative and dynamic work environment
+* Professional development opportunities and training programs

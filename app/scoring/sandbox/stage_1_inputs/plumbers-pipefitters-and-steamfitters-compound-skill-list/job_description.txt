@@ -1,0 +1,34 @@
+**Job Title:** Scoring Engine Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Scoring Engine Stress Test Engineer to join our team of experts in evaluating the performance and reliability of scoring engines used in various industries. As a key member of our quality assurance team, you will be responsible for designing, developing, and executing comprehensive stress testing protocols to identify potential weaknesses and areas for improvement in our scoring engines.
+
+**Responsibilities:**
+
+* Design and develop stress testing protocols to simulate real-world operating conditions and identify potential performance issues
+* Conduct thorough analysis of test results to determine the root cause of any failures or anomalies
+* Collaborate with cross-functional teams, including engineering, product management, and sales, to gather requirements and provide input on testing strategies
+* Develop and maintain detailed documentation of testing procedures, results, and recommendations for improvement
+* Participate in continuous learning and professional development to stay up-to-date with industry trends and advancements in scoring engine technology
+* Conduct regular reviews of test data to identify trends and areas for process improvements
+
+**Required Skills:**
+
+Java, Python, C++, MATLAB, Simulink, Scilab, ANSYS, COMSOL, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g. Apache JMeter, Gatling), cloud-based platforms (AWS, Azure), containerization tools (Docker, Kubernetes), version control systems (Git, SVN), data analysis and visualization tools (Tableau, Power BI), programming languages (C#, JavaScript), operating system expertise (Windows, Linux, macOS)
+
+Optional:
+
+* Experience with machine learning or artificial intelligence frameworks
+* Knowledge of scoring engine-specific technologies (e.g. IBM Watson, Microsoft Azure Machine Learning)
+* Familiarity with cloud-based testing platforms and tools
+* Certification in stress testing or quality assurance methodologies
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunities for professional growth and development
+* Collaborative and dynamic work environment
+* Flexible work arrangements (remote work options available)
+
+If you are a motivated and detail-oriented individual with a passion for scoring engine performance, we encourage you to apply for this exciting opportunity!

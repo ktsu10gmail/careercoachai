@@ -1,0 +1,44 @@
+**Compensation and Benefits Specialist**
+
+We are seeking a highly skilled Compensation and Benefits Specialist to join our team in conducting stress tests for scoring engines in our domain scope of Trap.
+
+**Job Summary:**
+
+As a key member of our testing team, you will be responsible for designing and executing comprehensive stress tests to evaluate the performance and reliability of our scoring engine under various scenarios. You will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure our scoring engine can handle high volumes of data and user interactions.
+
+**Responsibilities:**
+
+* Design and execute stress tests for scoring engines in our domain scope of Trap
+* Develop and maintain a comprehensive testing framework to cover various scenarios, including but not limited to:
+ + High-volume data ingestion
+ + Low-latency requirements
+ + Multi-site and global deployment
+ + Regulated industry compliance
+* Collaborate with product management, engineering, and QA teams to identify and prioritize test cases
+* Develop and execute test scripts using our testing framework
+* Analyze results and provide actionable insights to improve scoring engine performance and reliability
+* Identify and report defects or issues found during testing
+* Work closely with the development team to implement fixes and ensure successful deployment
+
+**Required Skills:**
+
+* 3+ years of experience in software testing, preferably in a SaaS or enterprise environment
+* Strong understanding of stress testing principles and techniques
+* Experience with test automation frameworks (e.g. Selenium, Appium)
+* Proficiency in programming languages such as Python, Java, or C#
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+* Ability to work in a fast-paced environment and prioritize multiple tasks
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (essential)
+* Global deployment (optional)
+
+**Scope Qualifiers:**
+
+* Multi-site deployment (optional)
+* High-volume data ingestion (essential)
+* Low-latency requirements (essential)

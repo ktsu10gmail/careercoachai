@@ -1,0 +1,129 @@
+{
+  "job_title": "44. Credit Analysts / Counselors",
+  "case_slug": "44-credit-analysts-counselors",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:49.787645",
+  "match_score": 65.57,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.8,
+      "reason": "Found 7 direct, 7 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Credit Analysts / Counselors job title:",
+        "Conducted credit analysis on commercial loans, evaluating financial statements and industry trends",
+        "Maintained accurate records of client interactions and loan applications",
+        "Bachelor's degree in finance, XYZ University (20XX-20XX)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 48.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's degree in finance, XYZ University (20XX-20XX)",
+        "Proven ability to interpret complex financial data and provide actionable insights to clients."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Credit Analysts / Counselors job title:",
+        "Conducted credit analysis on commercial loans, evaluating financial statements and industry trends",
+        "Maintained accurate records of client interactions and loan applications",
+        "Bachelor's degree in finance, XYZ University (20XX-20XX)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Evaluate loan applications based on financial statements, industry trends, and other relevant factors",
+      "evidence": [
+        "Conducted credit analysis on commercial loans, evaluating financial statements and industry trends"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of client interactions, loan applications, and credit reports",
+      "evidence": [
+        "Maintained accurate records of client interactions and loan applications"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in credit analysis or a related field",
+      "evidence": [
+        "Conducted credit analysis on commercial loans, evaluating financial statements and industry trends"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex financial data",
+      "evidence": [
+        "Proven ability to interpret complex financial data and provide actionable insights to clients."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with clients and internal stakeholders",
+      "evidence": [
+        "Collaborated with internal stakeholders to ensure consistency in credit decisions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel, Word, and PowerPoint",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel, Word, and PowerPoint"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Credit Analysts / Counselors job title:",
+      "supports": "Conduct in-depth credit analysis on commercial and industrial loans to assess creditworthiness of potential borrowers"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted credit analysis on commercial loans, evaluating financial statements and industry trends",
+      "supports": "Evaluate loan applications based on financial statements, industry trends, and other relevant factors"
+    },
+    {
+      "source": "resume",
+      "quote": "Credit Analysts / Counselors job title:",
+      "supports": "Provide credit counseling and recommendations to clients, including suggestions for loan modifications or refinancing options"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records of client interactions and loan applications",
+      "supports": "Maintain accurate records of client interactions, loan applications, and credit reports"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted credit analysis on commercial loans, evaluating financial statements and industry trends",
+      "supports": "Stay up-to-date with changes in lending regulations and industry standards"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

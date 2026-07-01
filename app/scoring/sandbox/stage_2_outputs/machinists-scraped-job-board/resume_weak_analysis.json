@@ -1,0 +1,170 @@
+{
+  "job_title": "Machinists",
+  "case_slug": "machinists-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.205527",
+  "match_score": 32.74,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 30.8,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "+ Read blueprints and technical drawings to understand production requirements",
+        "+ Operated lathes and mills to manufacture precision parts",
+        "+ Performed routine maintenance tasks on machinery and equipment"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 28.6,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "+ Read blueprints and technical drawings to understand production requirements",
+        "+ Operated lathes and mills to manufacture precision parts",
+        "+ Performed routine maintenance tasks on machinery and equipment"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 72.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "+ Read blueprints and technical drawings to understand production requirements",
+        "+ Operated lathes and mills to manufacture precision parts",
+        "+ Performed routine maintenance tasks on machinery and equipment"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Read blueprints and technical drawings to understand production requirements",
+      "evidence": [
+        "+ Read blueprints and technical drawings to understand production requirements"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, Springfield High School (2015-2018)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Measure and inspect parts for accuracy and quality",
+      "evidence": [
+        "+ Operated lathes and mills to manufacture precision parts"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Perform routine maintenance tasks on machinery and equipment",
+      "evidence": [
+        "+ Performed routine maintenance tasks on machinery and equipment"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in quality control processes to ensure product consistency",
+      "evidence": [
+        "+ Measured and inspected parts for accuracy and quality"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "2+ years of experience as a Machinist or in a related field",
+      "evidence": [
+        "Machinist"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** 123456",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** XYZ Manufacturing Co.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Machinist, you'll be responsible for operating machine tools and equipment to manufacture precision parts and components.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Operate various machine tools and equipment, including lathes, mills, grinders, and drill presses",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "As a Machinist, you'll be responsible for operating machine tools and equipment to manufacture precision parts and components."
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Operate various machine tools and equipment, including lathes, mills, grinders, and drill presses"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Read blueprints and technical drawings to understand production requirements",
+      "supports": "Read blueprints and technical drawings to understand production requirements"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Operated lathes and mills to manufacture precision parts",
+      "supports": "Measure and inspect parts for accuracy and quality"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Performed routine maintenance tasks on machinery and equipment",
+      "supports": "Perform routine maintenance tasks on machinery and equipment"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

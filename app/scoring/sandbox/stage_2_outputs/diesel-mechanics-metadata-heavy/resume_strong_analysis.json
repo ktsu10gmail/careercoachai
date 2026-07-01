@@ -1,0 +1,158 @@
+{
+  "job_title": "Diesel Mechanics",
+  "case_slug": "diesel-mechanics-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:58.722162",
+  "match_score": 44.19,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.6,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Familiarity with emissions testing and compliance regulations",
+        "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues.",
+        "Developed and maintained a thorough understanding of diesel engine fundamentals, including combustion, fuel injection, and exhaust systems",
+        "Experienced with engine repair and overhaul, including cylinder head work and crankshaft replacement"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 80.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Familiarity with emissions testing and compliance regulations",
+        "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues.",
+        "Developed and maintained a thorough understanding of diesel engine fundamentals, including combustion, fuel injection, and exhaust systems",
+        "Experienced with engine repair and overhaul, including cylinder head work and crankshaft replacement"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics",
+      "evidence": [
+        "Developed and maintained a thorough understanding of diesel engine fundamentals, including combustion, fuel injection, and exhaust systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing protocols to ensure the reliability and performance of our",
+      "evidence": [
+        "Familiarity with emissions testing and compliance regulations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress testing protocols to identify potential bottlenecks and areas for improvement in the scoring engine",
+      "evidence": [
+        "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve scoring engine performance",
+      "evidence": [
+        "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture, components, and performance characteristics",
+      "evidence": [
+        "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide recommendations for optimization and improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features and enhancements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Electrical Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Familiarity with emissions testing and compliance regulations",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing protocols to ensure the reliability and performance of our"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues.",
+      "supports": "Design and execute stress testing protocols to identify potential bottlenecks and areas for improvement in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained a thorough understanding of diesel engine fundamentals, including combustion, fuel injection, and exhaust systems",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve scoring engine performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled diesel mechanic with 8+ years of experience in diagnosing and repairing complex engine issues.",
+      "supports": "5+ years of experience in stress testing, performance engineering, or a related field"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

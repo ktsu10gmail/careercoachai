@@ -1,0 +1,156 @@
+{
+  "job_title": "36. Data Entry Keyers",
+  "case_slug": "36-data-entry-keyers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.037739",
+  "match_score": 49.89,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 53.1,
+      "reason": "Found 6 direct, 2 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Basic experience with Access database management system",
+        "Completed coursework in healthcare administration and data analysis",
+        "Gained experience working with confidential patient information",
+        "Proficient in Microsoft Office applications, including Word, Excel, and PowerPoint"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 24.0,
+      "reason": "Found 1 direct, 0 adjacent, 1 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Basic experience with Access database management system",
+        "This resume snippet lacks the required skills, such as strong typing speed (60 wpm), ability to accurately enter data into a database system, and knowledge of HIPAA regulations.",
+        "It also doesn't mention experience with SQL or other healthcare-related software, which are preferred skills."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Basic experience with Access database management system",
+        "Completed coursework in healthcare administration and data analysis",
+        "Gained experience working with confidential patient information",
+        "Proficient in Microsoft Office applications, including Word, Excel, and PowerPoint"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Enter data from various sources into a database using a keyboard",
+      "evidence": [
+        "Basic experience with Access database management system"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic computer skills, including proficiency in Microsoft Office applications",
+      "evidence": [
+        "Proficient in Microsoft Office applications, including Word, Excel, and PowerPoint"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong typing skills, with a minimum speed of 60 words per minute",
+      "evidence": [
+        "Strong typing skills, averaging 40 words per minute"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic math skills for handling monetary transactions and calculations",
+      "evidence": [
+        "Basic math skills for handling transactions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent attention to detail and organizational skills",
+      "evidence": [
+        "Excellent organizational skills\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with database management systems (e.g., Access, SQL)",
+      "evidence": [
+        "Basic experience with Access database management system"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Verify accuracy of entered data against original documents or other sources as required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to accurately enter data into a database system",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills, such as strong typing speed (60 wpm), ability to accurately enter data into a database system, and knowledge of HIPAA regulations.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with electronic health records (EHR) or other healthcare-related software",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: It also doesn't mention experience with SQL or other healthcare-related software, which are preferred skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of HIPAA regulations and data security protocols",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work in a fast-paced environment with multiple priorities",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Basic experience with Access database management system",
+      "supports": "Enter data from various sources into a database using a keyboard"
+    },
+    {
+      "source": "resume",
+      "quote": "Completed coursework in healthcare administration and data analysis",
+      "supports": "Meet productivity standards by completing assigned tasks within set timeframes (e.g., 95% of all entries must be completed on time)"
+    },
+    {
+      "source": "resume",
+      "quote": "Gained experience working with confidential patient information",
+      "supports": "Maintain confidentiality and handle sensitive information with discretion"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office applications, including Word, Excel, and PowerPoint",
+      "supports": "Basic computer skills, including proficiency in Microsoft Office applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong typing skills, averaging 40 words per minute",
+      "supports": "Strong typing skills, with a minimum speed of 60 words per minute"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,32 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**John Doe**
+**Contact Info**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary**
+Highly skilled and detail-oriented individual with experience in testing and debugging software applications.
+
+**Technical Skills**
+
+* Proficient in C, C++, and Assembly languages
+* Experienced with low-level memory management using malloc() and free()
+* Familiarity with Linux operating system and command-line tools (e.g., gcc, gdb)
+* Knowledge of basic networking protocols (TCP/IP, UDP)
+
+**Work Experience**
+
+* **Junior Software Tester**, ABC Company (2018-2020)
+	+ Tested and debugged software applications using C and C++ programming languages
+	+ Utilized malloc() and free() to manage memory allocation and deallocation
+	+ Collaborated with cross-functional teams to identify and report defects
+* **Self-Taught Developer** (2015-2018)
+	+ Developed personal projects using Assembly language and Linux operating system
+
+**Education**
+
+* **Bachelor of Science in Computer Science**, XYZ University (2015)
+
+Note: This resume snippet lacks enterprise scope, as it focuses on low-level programming skills and does not mention any experience with scoring engine technology or software testing for a specific industry.

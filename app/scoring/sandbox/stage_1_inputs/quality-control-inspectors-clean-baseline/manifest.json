@@ -1,0 +1,21 @@
+{
+  "job_title": "Quality Control Inspectors",
+  "case_slug": "quality-control-inspectors-clean-baseline",
+  "scenario": "clean_baseline",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T18:01:07.076469",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

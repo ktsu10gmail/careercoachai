@@ -1,0 +1,25 @@
+Responsibilities:
+
+* Install, configure, and maintain local area networks (LANs), wide area networks (WANs), and the Internet; ensure network security and integrity
+* Design, implement, and manage computer systems, including servers, workstations, and mobile devices; troubleshoot hardware and software issues
+* Develop and implement backup and disaster recovery plans to minimize downtime and data loss
+* Collaborate with IT teams to resolve technical issues and improve system performance
+* Monitor network traffic and system logs to identify potential security threats and optimize system resources
+* Implement and enforce organizational policies for computer systems, including access controls and data encryption
+
+Required Skills:
+
+* 3+ years of experience in network administration and/or computer systems management
+* CompTIA Network+ or equivalent certification; CCNA or equivalent certification preferred
+* Strong knowledge of Windows Server operating systems (Windows Server 2012 or later) and Linux operating systems (Red Hat Enterprise Linux or Ubuntu)
+* Experience with network protocols, including TCP/IP, DNS, DHCP, and HTTP/HTTPS
+* Familiarity with virtualization technologies, such as VMware or Hyper-V
+* Basic understanding of cloud computing platforms, including AWS or Azure
+
+Preferred Skills:
+
+* Experience with network security tools, including firewalls, intrusion detection systems, and antivirus software
+* Knowledge of scripting languages, such as PowerShell or Bash
+* Certification in IT service management frameworks, such as ITIL
+* Experience with containerization technologies, such as Docker
+* Familiarity with cybersecurity frameworks, such as NIST Cybersecurity Framework

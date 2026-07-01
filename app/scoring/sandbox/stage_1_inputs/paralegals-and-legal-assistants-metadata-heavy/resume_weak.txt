@@ -1,0 +1,34 @@
+Here is a weak or scope-mismatch resume snippet for a Paralegals and Legal Assistants position:
+
+**John Doe**
+**Contact Information:**
+
+* Phone: 555-555-5555
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary:**
+Highly motivated and detail-oriented individual with experience in data analysis and project management.
+
+**Work Experience:**
+
+* **Data Analyst**, XYZ Corporation (2018-Present)
+	+ Analyzed large datasets to identify trends and patterns
+	+ Developed and maintained databases using MySQL and Python
+	+ Collaborated with cross-functional teams to implement process improvements
+* **Project Manager**, ABC Startups (2015-2018)
+	+ Managed multiple projects simultaneously, ensuring timely completion and quality results
+	+ Coordinated with team members to develop project plans and timelines
+	+ Utilized Agile methodologies to facilitate iterative development and testing
+
+**Education:**
+
+* **Bachelor's Degree in Business Administration**, University of State (2015)
+
+**Skills:**
+
+* Data analysis and visualization
+* Project management and coordination
+* Database management (MySQL, Python)
+* Agile methodologies
+
+This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position. The candidate's experience is more relevant to data analysis and project management, rather than stress testing or performance engineering.

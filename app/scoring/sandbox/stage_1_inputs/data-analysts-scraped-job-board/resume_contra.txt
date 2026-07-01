@@ -1,0 +1,31 @@
+Here's a contra-evidence resume snippet for a Data Analyst position:
+
+**Data Analyst**
+
+**Summary:**
+Highly motivated and detail-oriented data professional with 3+ years of experience in data analysis and visualization. Proficient in SQL, Python, and R, with experience working with large datasets.
+
+**Experience:**
+
+* **Data Analyst**, XYZ Corporation (2018-Present)
+ + Designed and developed databases to store and manage large datasets
+ + Analyzed complex data sets to identify trends and insights
+ + Developed and implemented data visualizations using Tableau
+ + Collaborated with cross-functional teams to identify business needs and develop solutions
+
+**Skills:**
+
+* Proficient in SQL, Python, R, and Excel
+* Experience with data visualization tools such as Tableau and Power BI
+* Strong analytical and problem-solving skills
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015-2019)
+
+However, I must note that the candidate did not meet some of the higher-scope requirements:
+
+* The job posting requires 2+ years of experience in data analysis or a related field, but the candidate only has 3+ years.
+* The job posting mentions experience with industry trends and emerging technologies, but the candidate's resume does not mention any specific experience in this area.
+
+This contra-evidence resume snippet highlights the candidate's relevant skills and experience while also explicitly mentioning areas where they did not meet the higher-scope requirements.

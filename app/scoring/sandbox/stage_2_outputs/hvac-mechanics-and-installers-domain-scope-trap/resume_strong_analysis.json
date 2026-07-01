@@ -1,0 +1,136 @@
+{
+  "job_title": "HVAC Mechanics and Installers",
+  "case_slug": "hvac-mechanics-and-installers-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:02.322475",
+  "match_score": 71.75,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 59.3,
+      "reason": "Found 3 direct, 10 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled HVAC technician with 5+ years of experience in designing, installing, and maintaining complex heating, ventilation, and air conditioning systems.",
+        "Successfully installed and commissioned multiple low-latency trading infrastructure projects, resulting in significant performance improvements (2018-2020)",
+        "Collaborated with cross-functional teams to develop and implement comprehensive stress test scenarios for software applications, utilizing industry-standard tools like Apache JMeter and Gatling (2019-2022)",
+        "Proven track record of delivering high-volume projects on time, ensuring seamless integration with existing infrastructure."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Successfully installed and commissioned multiple low-latency trading infrastructure projects, resulting in significant performance improvements (2018-2020)",
+        "Utilized cloud-based infrastructure and containerization technologies (e.g., AWS, Docker) to optimize project delivery and reduce latency (2018-Present)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled HVAC technician with 5+ years of experience in designing, installing, and maintaining complex heating, ventilation, and air conditioning systems.",
+        "Successfully installed and commissioned multiple low-latency trading infrastructure projects, resulting in significant performance improvements (2018-2020)",
+        "Collaborated with cross-functional teams to develop and implement comprehensive stress test scenarios for software applications, utilizing industry-standard tools like Apache JMeter and Gatling (2019-2022)",
+        "Proven track record of delivering high-volume projects on time, ensuring seamless integration with existing infrastructure."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)",
+      "evidence": [
+        "Utilized cloud-based infrastructure and containerization technologies (e.g., AWS, Docker) to optimize project delivery and reduce latency (2018-Present)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent problem-solving skills and attention to detail",
+      "evidence": [
+        "Excellent problem-solving skills and attention to detail"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "evidence": [
+        "Strong communication and collaboration skills, with ability to work effectively with cross-functional teams"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress tests for our software applications",
+      "evidence": [
+        "Highly skilled HVAC technician with 5+ years of experience in designing, installing, and maintaining complex heating, ventilation, and air conditioning systems."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and reports to document test results and provide actionable insights for improvement",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop and implement comprehensive stress test scenarios for software applications, utilizing industry-standard tools like Apache JMeter and Gatling (2019-2022)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Highly skilled HVAC technician with 5+ years of experience in designing, installing, and maintaining complex heating, ventilation, and air conditioning systems."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled HVAC technician with 5+ years of experience in designing, installing, and maintaining complex heating, ventilation, and air conditioning systems.",
+      "supports": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress tests for our software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled HVAC technician with 5+ years of experience in designing, installing, and maintaining complex heating, ventilation, and air conditioning systems.",
+      "supports": "The successful candidate will have expertise in identifying and exploiting vulnerabilities in complex systems, ensuring the reliability and performance of our products."
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully installed and commissioned multiple low-latency trading infrastructure projects, resulting in significant performance improvements (2018-2020)",
+      "supports": "Design and develop stress test scenarios that simulate real-world usage patterns, including high-traffic, high-load, and low-latency conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop and implement comprehensive stress test scenarios for software applications, utilizing industry-standard tools like Apache JMeter and Gatling (2019-2022)",
+      "supports": "Utilize industry-standard tools and techniques to identify and exploit vulnerabilities in software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop and implement comprehensive stress test scenarios for software applications, utilizing industry-standard tools like Apache JMeter and Gatling (2019-2022)",
+      "supports": "Develop and maintain test plans, scripts, and reports to document test results and provide actionable insights for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

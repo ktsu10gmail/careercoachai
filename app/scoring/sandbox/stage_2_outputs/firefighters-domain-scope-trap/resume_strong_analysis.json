@@ -1,0 +1,142 @@
+{
+  "job_title": "Firefighters",
+  "case_slug": "firefighters-domain-scope-trap",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:59.985057",
+  "match_score": 76.6,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 73.6,
+      "reason": "Found 8 direct, 4 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for software applications, focusing on identifying performance bottlenecks in high-traffic environments.",
+        "Load testing and endurance testing",
+        "+ Analyzed test results, identifying trends, patterns, and areas for improvement, and developed actionable recommendations to optimize application scalability"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "architect",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 66.7,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Cloud-based infrastructure: AWS, Azure",
+        "Excellent analytical and problem-solving skills, with ability to interpret complex data sets"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for software applications, focusing on identifying performance bottlenecks in high-traffic environments.",
+        "Load testing and endurance testing",
+        "+ Analyzed test results, identifying trends, patterns, and areas for improvement, and developed actionable recommendations to optimize application scalability"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Execute stress tests using various tools and techniques, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "Load testing and endurance testing"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identifying trends, patterns, and areas for improvement",
+      "evidence": [
+        "+ Analyzed test results, identifying trends, patterns, and areas for improvement, and developed actionable recommendations to optimize application scalability"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test plans, scripts, and reports to document testing activities and outcomes",
+      "evidence": [
+        "Proven track record of collaborating with cross-functional teams to develop and execute realistic stress test plans, scripts, and reports."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "evidence": [
+        "Stress testing tools: Apache JMeter, Gatling, Locust"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure, including AWS or Azure",
+      "evidence": [
+        "Cloud-based infrastructure: AWS, Azure"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with containerization technologies, such as Docker",
+      "evidence": [
+        "Containerization technologies: Docker"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Domain Qualifiers:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Enterprise",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled stress test engineer with 5+ years of experience in designing and executing comprehensive stress testing scenarios for software applications, focusing on identifying performance bottlenecks in high-traffic environments.",
+      "supports": "Design and develop realistic stress test scenarios to simulate high-traffic, high-stakes user interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Load testing and endurance testing",
+      "supports": "Execute stress tests using various tools and techniques, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed test results, identifying trends, patterns, and areas for improvement, and developed actionable recommendations to optimize application scalability",
+      "supports": "Analyze test results, identifying trends, patterns, and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of collaborating with cross-functional teams to develop and execute realistic stress test plans, scripts, and reports.",
+      "supports": "Develop and maintain detailed test plans, scripts, and reports to document testing activities and outcomes"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

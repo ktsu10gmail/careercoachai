@@ -1,0 +1,9 @@
+Here is a weak or scope-mismatch resume snippet for an SEO Specialist position:
+
+"Experienced digital marketer with 2 years of experience in creating and implementing social media campaigns for small businesses. Proficient in Google Analytics, Google Search Console, and SEMrush. Strong understanding of HTML, CSS, and JavaScript. Utilized Ahrefs for keyword research and created engaging content using WordPress.
+
+Attended a few online training sessions on SEO best practices and stayed up-to-date with the latest trends by reading industry blogs. Collaborated with designers to ensure seamless integration of design principles into marketing campaigns.
+
+Certified in Google Analytics and HubSpot Inbound Marketing. Strong written and verbal communication skills."
+
+This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing. It also focuses more on social media marketing than SEO, which is a significant scope mismatch for the job description.

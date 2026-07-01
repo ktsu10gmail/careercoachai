@@ -1,0 +1,35 @@
+Here's a weak or scope-mismatch resume snippet for a Senior Accounting Manager position:
+
+**Senior Accountant**
+**Company:** XYZ Financial Services (a small accounting firm)
+**Location:** New York, NY
+**Contact Info:**
+
+* Phone: 555-1234
+* Email: [john.doe@email.com](mailto:john.doe@email.com)
+
+**Summary:**
+Highly organized and detail-oriented Senior Accountant with 5+ years of experience in financial analysis and reporting. Proven track record of accurately preparing financial statements, managing accounts payable and receivable, and providing timely support to management.
+
+**Experience:**
+
+* **Senior Accountant**, XYZ Financial Services (2018-Present)
+	+ Prepare and review financial statements, including balance sheets, income statements, and cash flow statements
+	+ Manage accounts payable and receivable, ensuring timely payment of invoices and collection of outstanding balances
+	+ Provide financial analysis and support to management, including budgeting and forecasting
+* **Staff Accountant**, ABC Accounting Firm (2015-2018)
+	+ Assisted in the preparation of financial statements, including balance sheets, income statements, and cash flow statements
+	+ Managed accounts payable and receivable, ensuring timely payment of invoices and collection of outstanding balances
+
+**Education:**
+
+* Bachelor's Degree in Accounting, New York University (2015)
+
+This resume snippet is weak or scope-mismatch because:
+
+1. The job title "Senior Accountant" does not match the target job title "Senior Accounting Manager".
+2. The experience section only mentions accounting and financial analysis roles, but lacks any relevant experience in account management or sales.
+3. There is no mention of Sephora or the beauty industry, which is a critical aspect of the target job description.
+4. The skills section does not include any relevant tools or software mentioned in the job description, such as Riversand/Bowser, Ecomundo, K-Link, Snapstrat, or CRM platforms.
+
+This resume snippet would likely not pass through applicant tracking systems (ATS) and may not be considered by hiring managers for the Senior Accounting Manager position.

@@ -1,0 +1,134 @@
+{
+  "job_title": "80. Physicians and Surgeons",
+  "case_slug": "80-physicians-and-surgeons",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.760476",
+  "match_score": 62.23,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.5,
+      "reason": "Found 4 direct, 9 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care.",
+        "Skilled in ordering lab work and interpreting imaging studies.",
+        "Education:",
+        "Bachelor's degree in biology from XYZ University (1975)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "40 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care.",
+        "Skilled in ordering lab work and interpreting imaging studies.",
+        "Education:",
+        "Bachelor's degree in biology from XYZ University (1975)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Diagnose and treat patients with various medical conditions",
+      "evidence": [
+        "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Order and interpret diagnostic tests such as lab work, imaging studies, and other procedures",
+      "evidence": [
+        "Skilled in ordering lab work and interpreting imaging studies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "evidence": [
+        "Strong communication and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment",
+      "evidence": [
+        "Ability to work effectively in a fast-paced environment"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "A Doctor of Medicine (M.D.) or Doctor of Osteopathic Medicine (D.O.) degree from an accredited institution",
+      "evidence": [
+        "Bachelor's degree in biology from XYZ University (1975)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Licensure to practice medicine in their state",
+      "evidence": [
+        "Doctor of Medicine (M.D.) degree from ABC Medical School (1980)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Completion of a residency program in their chosen specialty",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care.",
+      "supports": "Diagnose and treat patients with various medical conditions"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in ordering lab work and interpreting imaging studies.",
+      "supports": "Order and interpret diagnostic tests such as lab work, imaging studies, and other procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care.",
+      "supports": "Develop and implement treatment plans, including prescribing medications and performing surgeries"
+    },
+    {
+      "source": "resume",
+      "quote": "Education:",
+      "supports": "Provide patient education and counseling to promote health and wellness"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Highly experienced physician with over 40 years of experience in treating patients with various medical conditions, including chronic pain management and wound care.",
+      "supports": "Stay current with the latest medical research and advancements through ongoing education and training"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

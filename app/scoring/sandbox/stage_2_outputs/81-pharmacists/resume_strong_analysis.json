@@ -1,0 +1,154 @@
+{
+  "job_title": "81. Pharmacists",
+  "case_slug": "81-pharmacists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:53.829245",
+  "match_score": 58.73,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 56.1,
+      "reason": "Found 6 direct, 3 adjacent, 1 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Dispensed medications to patients under physician supervision, ensuring accurate and timely delivery.",
+        "+ Conducted comprehensive patient assessments to identify medication needs and potential interactions, resulting in improved treatment outcomes.",
+        "Dedicated and experienced pharmacist with over 40 years of clinical practice, seeking to leverage my expertise in patient care and medication management to contribute to a dynamic healthcare team.",
+        "+ Maintained meticulous records of patient medication use, including refill requests and adverse reactions, to ensure seamless transitions between providers."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "40 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 0 direct, 0 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Basic Life Support Certification"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Dispensed medications to patients under physician supervision, ensuring accurate and timely delivery.",
+        "+ Conducted comprehensive patient assessments to identify medication needs and potential interactions, resulting in improved treatment outcomes.",
+        "Dedicated and experienced pharmacist with over 40 years of clinical practice, seeking to leverage my expertise in patient care and medication management to contribute to a dynamic healthcare team.",
+        "+ Maintained meticulous records of patient medication use, including refill requests and adverse reactions, to ensure seamless transitions between providers."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct patient assessments to identify medication needs and potential interactions",
+      "evidence": [
+        "+ Conducted comprehensive patient assessments to identify medication needs and potential interactions, resulting in improved treatment outcomes."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of patient medication use, including refill requests and adverse reactions",
+      "evidence": [
+        "+ Maintained meticulous records of patient medication use, including refill requests and adverse reactions, to ensure seamless transitions between providers."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay current with new medications, treatments, and guidelines through ongoing education and training",
+      "evidence": [
+        "+ Stayed current with new medications, treatments, and guidelines through ongoing education and training, ensuring patients receive evidence-based care."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "evidence": [
+        "Strong communication and interpersonal skills, with experience working effectively in fast-paced environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in electronic health records (EHRs) and other clinical software",
+      "evidence": [
+        "Proficient in electronic health records (EHRs) and other clinical software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Basic life support certification",
+      "evidence": [
+        "Basic Life Support Certification"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Review prescriptions for accuracy and completeness before filling",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in pharmacy or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Current licensure as a pharmacist in the state of practice",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with automated dispensing systems (ADS)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with pharmacy automation software, such as Meditech or Epic Systems",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Basic Life Support Certification",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Dispensed medications to patients under physician supervision, ensuring accurate and timely delivery.",
+      "supports": "Dispense medications to patients under the supervision of a licensed physician"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted comprehensive patient assessments to identify medication needs and potential interactions, resulting in improved treatment outcomes.",
+      "supports": "Conduct patient assessments to identify medication needs and potential interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Dedicated and experienced pharmacist with over 40 years of clinical practice, seeking to leverage my expertise in patient care and medication management to contribute to a dynamic healthcare team.",
+      "supports": "Monitor patient responses to medications and adjust treatment plans as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Maintained meticulous records of patient medication use, including refill requests and adverse reactions, to ensure seamless transitions between providers.",
+      "supports": "Maintain accurate records of patient medication use, including refill requests and adverse reactions"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Stayed current with new medications, treatments, and guidelines through ongoing education and training, ensuring patients receive evidence-based care.",
+      "supports": "Stay current with new medications, treatments, and guidelines through ongoing education and training"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

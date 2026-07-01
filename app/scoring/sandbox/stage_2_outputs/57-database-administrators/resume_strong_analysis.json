@@ -1,0 +1,133 @@
+{
+  "job_title": "57. Database Administrators",
+  "case_slug": "57-database-administrators",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:51.320030",
+  "match_score": 84.71,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 88.2,
+      "reason": "Found 12 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+        "Familiarity with cloud-based databases (AWS RDS, Azure SQL Database) and containerization technologies like Docker and Kubernetes"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 81.7,
+      "reason": "Found 7 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+        "Familiarity with cloud-based databases (AWS RDS, Azure SQL Database) and containerization technologies like Docker and Kubernetes"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+        "Familiarity with cloud-based databases (AWS RDS, Azure SQL Database) and containerization technologies like Docker and Kubernetes"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and execute database backup and recovery plans to ensure data integrity and availability",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborate with IT teams to resolve database-related issues and optimize system performance",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Monitor database performance and identify areas for improvement through the use of tools such as SQL Server Management Studio, Oracle Enterprise Manager, or similar software",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Implement security measures to protect sensitive data from unauthorized access, using tools like Active Directory, Group Policy, or similar software",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain database documentation to ensure knowledge sharing and collaboration among team members",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in database administration on Windows-based systems (SQL Server, Oracle, MySQL)",
+      "evidence": [
+        "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL)."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Knowledge of database security best practices, including encryption, access control, and auditing",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+      "supports": "Design, implement, and maintain databases to store and manage large amounts of data for various business applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+      "supports": "Develop and execute database backup and recovery plans to ensure data integrity and availability"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+      "supports": "Collaborate with IT teams to resolve database-related issues and optimize system performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+      "supports": "Monitor database performance and identify areas for improvement through the use of tools such as SQL Server Management Studio, Oracle Enterprise Manager, or similar software"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced database administrator with 7+ years of expertise in designing, implementing, and maintaining large-scale databases on Windows-based systems (SQL Server, Oracle, MySQL).",
+      "supports": "Implement security measures to protect sensitive data from unauthorized access, using tools like Active Directory, Group Policy, or similar software"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,154 @@
+{
+  "job_title": "71. SEO Specialists",
+  "case_slug": "71-seo-specialists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.875403",
+  "match_score": 49.49,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.7,
+      "reason": "Found 5 direct, 4 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in Google Analytics, Google Search Console, and SEMrush.",
+        "This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+        "Attended a few online training sessions on SEO best practices and stayed up-to-date with the latest trends by reading industry blogs.",
+        "Strong understanding of HTML, CSS, and JavaScript."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in Google Analytics, Google Search Console, and SEMrush.",
+        "This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+        "Attended a few online training sessions on SEO best practices and stayed up-to-date with the latest trends by reading industry blogs.",
+        "Strong understanding of HTML, CSS, and JavaScript."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Stay up-to-date with the latest SEO trends and algorithm updates by attending conferences, workshops, and online training sessions",
+      "evidence": [
+        "Attended a few online training sessions on SEO best practices and stayed up-to-date with the latest trends by reading industry blogs."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Google Analytics, Google Search Console, and SEMrush",
+      "evidence": [
+        "Proficient in Google Analytics, Google Search Console, and SEMrush."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of HTML, CSS, and JavaScript",
+      "evidence": [
+        "Strong understanding of HTML, CSS, and JavaScript."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills",
+      "evidence": [
+        "Strong written and verbal communication skills.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in Google Analytics or HubSpot Inbound Marketing",
+      "evidence": [
+        "Certified in Google Analytics and HubSpot Inbound Marketing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct in-depth keyword research to identify relevant search terms for clients' websites",
+      "evidence": [
+        "Proficient in Google Analytics, Google Search Console, and SEMrush."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze competitors' websites to determine gaps in their SEO strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement customized SEO plans, including on-page optimization, link building, and content creation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Monitor website analytics to track progress and adjust SEO strategies accordingly",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in SEO or a related field (digital marketing, content creation, etc.)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of schema markup and structured data",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in Google Analytics, Google Search Console, and SEMrush.",
+      "supports": "Conduct in-depth keyword research to identify relevant search terms for clients' websites"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+      "supports": "Develop and implement customized SEO plans, including on-page optimization, link building, and content creation"
+    },
+    {
+      "source": "resume",
+      "quote": "Attended a few online training sessions on SEO best practices and stayed up-to-date with the latest trends by reading industry blogs.",
+      "supports": "Stay up-to-date with the latest SEO trends and algorithm updates by attending conferences, workshops, and online training sessions"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 3+ years of experience, specific knowledge of link building, content creation, and schema markup, as well as certifications in Google Analytics or HubSpot Inbound Marketing.",
+      "supports": "3+ years of experience in SEO or a related field (digital marketing, content creation, etc.)"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Google Analytics, Google Search Console, and SEMrush.",
+      "supports": "Proficiency in Google Analytics, Google Search Console, and SEMrush"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

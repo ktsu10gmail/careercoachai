@@ -1,0 +1,150 @@
+{
+  "job_title": "41. Budget Analysts",
+  "case_slug": "41-budget-analysts",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:49.556389",
+  "match_score": 63.21,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 54.6,
+      "reason": "Found 5 direct, 5 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained multi-million dollar budgets using Excel, SAP, and Oracle, ensuring accuracy and timeliness.",
+        "Proven analytical and problem-solving skills, with ability to identify areas of inefficiency and recommend process improvements.",
+        "Bachelor's Degree in Finance",
+        "Strong knowledge of government budgeting processes and procedures"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Bachelor's Degree in Finance",
+        "Results-driven budget analyst with 5+ years of experience in analyzing and interpreting financial data to inform budget decisions, driving process improvements, and optimizing budget utilization."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained multi-million dollar budgets using Excel, SAP, and Oracle, ensuring accuracy and timeliness.",
+        "Proven analytical and problem-solving skills, with ability to identify areas of inefficiency and recommend process improvements.",
+        "Bachelor's Degree in Finance",
+        "Strong knowledge of government budgeting processes and procedures"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain complex budgets using specialized software such as Excel, SAP, or Oracle",
+      "evidence": [
+        "Developed and maintained multi-million dollar budgets using Excel, SAP, and Oracle, ensuring accuracy and timeliness."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identify areas of inefficiency and recommend process improvements to optimize budget utilization",
+      "evidence": [
+        "Proven analytical and problem-solving skills, with ability to identify areas of inefficiency and recommend process improvements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of government budgeting processes and procedures",
+      "evidence": [
+        "Strong knowledge of government budgeting processes and procedures"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel",
+      "evidence": [
+        "Proficient in Microsoft Office, particularly Excel, with advanced skills in data analysis and visualization."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with budgeting software such as SAP, Oracle, or similar systems",
+      "evidence": [
+        "Developed and maintained multi-million dollar budgets using Excel, SAP, and Oracle, ensuring accuracy and timeliness."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in finance, accounting, or a related field",
+      "evidence": [
+        "Bachelor's Degree in Finance"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze and interpret financial data to inform budget decisions for government agencies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct cost-benefit analyses and provide recommendations for budget reallocations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Prepare and present budget reports to senior management and legislative committees",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience as a budget analyst or in a related role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained multi-million dollar budgets using Excel, SAP, and Oracle, ensuring accuracy and timeliness.",
+      "supports": "Develop and maintain complex budgets using specialized software such as Excel, SAP, or Oracle"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven analytical and problem-solving skills, with ability to identify areas of inefficiency and recommend process improvements.",
+      "supports": "Identify areas of inefficiency and recommend process improvements to optimize budget utilization"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Finance",
+      "supports": "Bachelor's degree in finance, accounting, or a related field"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong knowledge of government budgeting processes and procedures",
+      "supports": "Strong knowledge of government budgeting processes and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office, particularly Excel, with advanced skills in data analysis and visualization.",
+      "supports": "Proficiency in Microsoft Office, particularly Excel"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

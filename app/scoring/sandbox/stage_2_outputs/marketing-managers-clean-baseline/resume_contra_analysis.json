@@ -1,0 +1,168 @@
+{
+  "job_title": "Marketing Managers",
+  "case_slug": "marketing-managers-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:04.687513",
+  "match_score": 44.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 25.7,
+      "reason": "Found 1 direct, 6 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth.",
+        "Collaborated with cross-functional teams to develop a unified brand voice, but struggled to effectively communicate this vision to stakeholders, leading to some misaligned messaging efforts.",
+        "Developed and maintained a comprehensive understanding of our target audience's needs, but failed to adequately incorporate their feedback into marketing initiatives.",
+        "Bachelor's degree in Marketing, XYZ University (2015)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Collaborated with cross-functional teams to develop a unified brand voice, but struggled to effectively communicate this vision to stakeholders, leading to some misaligned messaging efforts.",
+        "Proficient in marketing automation tools like Marketo and Pardot"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 78.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth.",
+        "Collaborated with cross-functional teams to develop a unified brand voice, but struggled to effectively communicate this vision to stakeholders, leading to some misaligned messaging efforts.",
+        "Developed and maintained a comprehensive understanding of our target audience's needs, but failed to adequately incorporate their feedback into marketing initiatives.",
+        "Bachelor's degree in Marketing, XYZ University (2015)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture and functionality",
+      "evidence": [
+        "Developed and maintained a comprehensive understanding of our target audience's needs, but failed to adequately incorporate their feedback into marketing initiatives."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for improvement",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing and executing comprehensive stress testing scenarios to identify performance bottle",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's degree in Marketing, XYZ University (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will work closely with cross-functional teams to ensure the reliability, scalability, and security of our platform.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Collaborated with cross-functional teams to develop a unified brand voice, but struggled to effectively communicate this vision to stakeholders, leading to some misaligned messaging efforts.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios to simulate real-world usage patterns and identify performance bottlenecks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Designed and executed multi-channel campaigns that resulted in [X]% increase in sales, but unfortunately, the campaign was ultimately canceled due to unforeseen market conditions.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet highlights the candidate's experience and skills, but also includes some contra-evidence that they did not perform certain higher-scope requirements, such as designing and executing successful marketing campaigns, ",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based infrastructure and deployment models",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth.",
+      "supports": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing and executing comprehensive stress testing scenarios to identify performance bottle"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with cross-functional teams to develop a unified brand voice, but struggled to effectively communicate this vision to stakeholders, leading to some misaligned messaging efforts.",
+      "supports": "As a key member of our engineering team, you will work closely with cross-functional teams to ensure the reliability, scalability, and security of our platform."
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained a comprehensive understanding of our target audience's needs, but failed to adequately incorporate their feedback into marketing initiatives.",
+      "supports": "Develop and maintain a comprehensive understanding of our scoring engine's architecture and functionality"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth.",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven marketing professional with 5+ years of experience in developing and executing comprehensive marketing strategies to drive business growth.",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

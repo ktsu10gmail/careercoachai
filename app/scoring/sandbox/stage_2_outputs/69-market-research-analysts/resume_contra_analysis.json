@@ -1,0 +1,150 @@
+{
+  "job_title": "69. Market Research Analysts",
+  "case_slug": "69-market-research-analysts",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:52.522265",
+  "match_score": 79.77,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.2,
+      "reason": "Found 5 direct, 5 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends.",
+        "Excellent written and verbal communication skills, with ability to present findings to senior management.",
+        "Developed and maintained databases of customer demographics and purchase history",
+        "Note: I have a Bachelor's degree in Marketing and 2+ years of experience in market research, but I am eager to learn and take on new challenges.\""
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Note: I have a Bachelor's degree in Marketing and 2+ years of experience in market research, but I am eager to learn and take on new challenges.\""
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 93.0,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends.",
+        "Excellent written and verbal communication skills, with ability to present findings to senior management.",
+        "Developed and maintained databases of customer demographics and purchase history",
+        "Proficient in R and SPSS statistical software, with strong analytical and problem-solving skills."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends.",
+        "Excellent written and verbal communication skills, with ability to present findings to senior management.",
+        "Developed and maintained databases of customer demographics and purchase history",
+        "Note: I have a Bachelor's degree in Marketing and 2+ years of experience in market research, but I am eager to learn and take on new challenges.\""
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct primary and secondary research to gather data on consumer behavior, market trends, and competitor activity",
+      "evidence": [
+        "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze data using statistical software such as R or SPSS, and present findings in reports and presentations to senior management",
+      "evidence": [
+        "Excellent written and verbal communication skills, with ability to present findings to senior management."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain databases of customer demographics, purchase history, and other relevant data points",
+      "evidence": [
+        "Developed and maintained databases of customer demographics and purchase history"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills, with ability to present findings to non-technical audiences",
+      "evidence": [
+        "Excellent written and verbal communication skills, with ability to present findings to senior management."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of data visualization techniques using Tableau or Power BI",
+      "evidence": [
+        "Proficiency in data visualization tools such as Tableau or Power BI (I have basic knowledge of Excel's pivot table function)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and developments through ongoing education and training",
+      "evidence": [
+        "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Identify opportunities for market growth and develop strategies to capitalize on them",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in market research or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with market research tools such as Nielsen or comScore",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends.",
+      "supports": "Conduct primary and secondary research to gather data on consumer behavior, market trends, and competitor activity"
+    },
+    {
+      "source": "resume",
+      "quote": "Excellent written and verbal communication skills, with ability to present findings to senior management.",
+      "supports": "Analyze data using statistical software such as R or SPSS, and present findings in reports and presentations to senior management"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained databases of customer demographics and purchase history",
+      "supports": "Develop and maintain databases of customer demographics, purchase history, and other relevant data points"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven market research professional with 3+ years of experience in analyzing consumer behavior and market trends.",
+      "supports": "Stay up-to-date with industry trends and developments through ongoing education and training"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I have a Bachelor's degree in Marketing and 2+ years of experience in market research, but I am eager to learn and take on new challenges.\"",
+      "supports": "Bachelor's degree in Marketing, Statistics, or related field;"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

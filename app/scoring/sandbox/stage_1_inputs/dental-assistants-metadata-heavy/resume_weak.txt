@@ -1,0 +1,17 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**Dental Assistant**
+
+* 2 years of experience in dental assisting
+* Proficient in basic medical terminology and patient care procedures
+* Familiarity with dental software and equipment, including radiology systems and digital X-ray machines
+* Strong communication skills and ability to work well under pressure
+* Basic knowledge of HIPAA regulations and patient confidentiality
+
+**Skills:**
+
+* Dental assisting techniques and procedures
+* Patient care and medical terminology
+* Basic computer skills, including Microsoft Office and dental software
+
+Note that this resume snippet lacks the required experience, skills, and education for the Stress Test Engineer - Scoring Engine position. It also fails to mention relevant tools or technologies, such as stress testing frameworks, performance engineering methodologies, or cloud-based technologies.

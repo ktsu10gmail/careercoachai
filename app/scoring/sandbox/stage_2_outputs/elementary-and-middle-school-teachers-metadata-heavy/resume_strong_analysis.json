@@ -1,0 +1,144 @@
+{
+  "job_title": "Elementary and Middle School Teachers",
+  "case_slug": "elementary-and-middle-school-teachers-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:59.246638",
+  "match_score": 32.26,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 27.1,
+      "reason": "Found 1 direct, 8 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 62.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will provide sponsorship for relocation expenses",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring engine.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop realistic stress test scenarios that simulate real-world usage patterns",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress tests using various tools and techniques, including load testing, performance benchmarking, and vulnerability scanning",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations to improve the scoring engine's reliability and performance",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture, components, and performance characteristics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position.",
+      "supports": "Sponsorship: The company will provide sponsorship for relocation expenses"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring engine."
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position.",
+      "supports": "Design and develop realistic stress test scenarios that simulate real-world usage patterns"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job description you've provided, as it is a stress test engineer position and not an elementary/middle school teacher position.",
+      "supports": "Execute stress tests using various tools and techniques, including load testing, performance benchmarking, and vulnerability scanning"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

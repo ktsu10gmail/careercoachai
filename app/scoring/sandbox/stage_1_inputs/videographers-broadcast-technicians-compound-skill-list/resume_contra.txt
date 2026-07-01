@@ -1,0 +1,25 @@
+Here's a contra-evidence resume snippet for a Videographer/Broadcast Technician position:
+
+**Videographers/Broadcast Technicians - Stress Test**
+
+We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.
+
+**Responsibilities:**
+
+* Operated and maintained the scoring engine equipment, including cameras, lighting, and audio systems (note: did not perform high-speed video playback simulations as required)
+* Monitored system performance and identified potential issues or bottlenecks in areas such as graphics overlays and complex camera angles
+* Collaborated with our development team to provide feedback on system performance and suggested improvements for the scoring engine's audio processing capabilities
+
+**Required Skills:**
+
+Java, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, macOS High Sierra, Linux Ubuntu, Docker, Kubernetes, AWS CloudFormation, Azure DevOps, Git, SVN, Perforce, JIRA, Trello, Asana, Slack, Microsoft Teams, Zoom, Webex, Google Meet, Skype
+
+**Additional Requirements:**
+
+* 2+ years of experience in video production or broadcast technology
+* Strong understanding of computer systems and networking protocols
+* Excellent problem-solving skills and attention to detail
+* Ability to work independently and as part of a team
+* Willingness to participate in regular stress testing sessions and provide feedback
+
+In this snippet, the candidate has omitted their performance on high-speed video playback simulations and suggested improvements for the scoring engine's audio processing capabilities.

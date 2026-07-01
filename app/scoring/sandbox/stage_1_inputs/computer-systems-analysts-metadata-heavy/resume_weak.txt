@@ -1,0 +1,11 @@
+Here is a weak or scope-mismatch resume snippet:
+
+**John Doe**
+**Software Engineer**
+
+* 3 years of experience in software development, focusing on building scalable web applications with Node.js and Express
+* Familiarity with stress testing tools like Apache JMeter and Locust
+* Proficient in Python and JavaScript programming languages
+* Experience with Agile development methodologies and version control systems like Git
+
+Note: This resume snippet lacks the required 5+ years of experience, strong understanding of computer systems, networking protocols, and database architectures, as well as specific skills mentioned in the job description.

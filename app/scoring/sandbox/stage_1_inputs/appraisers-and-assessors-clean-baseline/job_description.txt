@@ -1,0 +1,38 @@
+**Job Title:** Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Stress Test Engineer to join our team of experts in evaluating the performance and reliability of complex systems. As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on our scoring engine to ensure its stability, scalability, and security.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement
+* Develop and maintain test plans, scripts, and tools to simulate various types of loads and workloads
+* Collaborate with cross-functional teams, including development, operations, and quality assurance, to ensure alignment and effective testing
+* Analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement
+* Develop and maintain documentation of test procedures, results, and findings
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance evaluation
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 3+ years of experience in stress testing, performance evaluation, or a related field
+* Strong understanding of software development life cycles, testing methodologies, and quality assurance principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with test automation frameworks and tools (e.g., Selenium, JUnit)
+* Knowledge of cloud-based infrastructure and scalability concepts
+
+**Preferred Skills:**
+
+* Master's degree in Computer Science, Engineering, or related field
+* 5+ years of experience in stress testing, performance evaluation, or a related field
+* Experience with containerization technologies (e.g., Docker) and orchestration tools (e.g., Kubernetes)
+* Familiarity with machine learning and artificial intelligence concepts
+* Certification in stress testing or performance evaluation methodologies (e.g., ISTQB, CSTE)
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge projects and technologies
+* Collaborative and dynamic work environment
+* Professional development and growth opportunities

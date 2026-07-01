@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:
+
+"Results-driven Scoring Engine Stress Tester with 7+ years of experience in software testing and a proven track record of designing and executing effective stress tests. Proven analytical and problem-solving skills, with ability to interpret complex data sets.
+
+* Designed and executed comprehensive stress tests on the scoring engine for 3+ years, but did not have direct involvement in cross-functional team collaboration or implementation of changes.
+* Developed and maintained a thorough understanding of the scoring engine's architecture, components, and interactions through self-study and industry research.
+* Utilized Agile development methodologies and version control systems (e.g. Git) to manage testing projects, but did not work on any cloud-based testing environments.
+
+Note: I've highlighted areas where the candidate may have been over-qualified or had more experience than required, while still showcasing their relevant skills and experience."

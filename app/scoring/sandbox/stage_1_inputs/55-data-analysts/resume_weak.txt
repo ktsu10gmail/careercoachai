@@ -1,0 +1,19 @@
+Here's a weak or scope-mismatch resume snippet for a Data Analyst position:
+
+"Data Analyst with 2 years of experience working on small-scale projects using Python and SQL to analyze customer purchase data. Developed a few dashboards using Excel and created reports using Google Sheets. Collaborated with a small team to identify trends in sales data, but did not have any formal training or certification in data analysis tools.
+
+Skills:
+
+* Proficient in Python and SQL
+* Basic knowledge of database design and management
+* Experience with Excel and Google Sheets for reporting and visualization
+
+Experience:
+
+* Data Analyst, Small Business (2018-2020)
+ + Analyzed customer purchase data to identify trends and patterns
+ + Developed a few dashboards using Excel
+ + Created reports using Google Sheets
+ + Collaborated with the sales team to provide insights on customer behavior"
+
+This resume snippet lacks enterprise scope and does not demonstrate proficiency in big data technologies, machine learning algorithms, or certification in data analysis tools. The experience is also limited to small-scale projects, which may not be sufficient for a Data Analyst position that requires working with large datasets and collaborating with cross-functional teams.

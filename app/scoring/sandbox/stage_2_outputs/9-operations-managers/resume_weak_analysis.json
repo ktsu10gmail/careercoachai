@@ -1,0 +1,172 @@
+{
+  "job_title": "9. Operations Managers",
+  "case_slug": "9-operations-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:54.296948",
+  "match_score": 48.01,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.6,
+      "reason": "Found 2 direct, 4 adjacent, 1 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Implemented process improvements to increase productivity by 10% within the first quarter, but did not meet target cost reduction goal.",
+        "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing.",
+        "Conducted regular safety inspections and implemented corrective actions to maintain a safe working environment.",
+        "Managed inventory levels and ordering processes for office supplies."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 64.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 77.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Implemented process improvements to increase productivity by 10% within the first quarter, but did not meet target cost reduction goal.",
+        "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing.",
+        "Conducted regular safety inspections and implemented corrective actions to maintain a safe working environment.",
+        "Managed inventory levels and ordering processes for office supplies."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Lead a team of 10 production supervisors, providing guidance and support to ensure successful execution of production schedules",
+      "evidence": [
+        "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct regular safety inspections and implement corrective actions to maintain a safe working environment",
+      "evidence": [
+        "Conducted regular safety inspections and implemented corrective actions to maintain a safe working environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage inventory levels and ordering processes to minimize stockouts and overstocking",
+      "evidence": [
+        "Managed inventory levels and ordering processes for office supplies."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret data and make informed decisions",
+      "evidence": [
+        "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze production data and develop reports to present to senior management on key performance indicators (KPIs)",
+      "evidence": [
+        "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficient in Microsoft Office and ERP systems (e.g.",
+      "evidence": [
+        "Managed daily operations of a small startup's office space, ensuring efficient use of resources and minimal waste."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage daily operations of a manufacturing facility, ensuring efficient production and quality control",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase productivity and reduce costs by 15% within the first six months",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Implemented process improvements to increase productivity by 10% within the first quarter, but did not meet target cost reduction goal.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Industrial Engineering, Operations Management, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in operations management or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proven track record of implementing process improvements and reducing costs",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Implemented process improvements to increase productivity by 10% within the first quarter, but did not meet target cost reduction goal.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and leadership skills, with ability to motivate and direct teams",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Excellent communication skills, with ability to motivate and direct small teams",
+      "severity": "high"
+    },
+    {
+      "requirement": "SAP, Oracle)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with lean manufacturing principles and Six Sigma methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Implemented process improvements to increase productivity by 10% within the first quarter, but did not meet target cost reduction goal.",
+      "supports": "Develop and implement process improvements to increase productivity and reduce costs by 15% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing.",
+      "supports": "Lead a team of 10 production supervisors, providing guidance and support to ensure successful execution of production schedules"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted regular safety inspections and implemented corrective actions to maintain a safe working environment.",
+      "supports": "Conduct regular safety inspections and implement corrective actions to maintain a safe working environment"
+    },
+    {
+      "source": "resume",
+      "quote": "Supervised a team of 2 production supervisors, providing guidance on tasks such as data entry and filing.",
+      "supports": "Analyze production data and develop reports to present to senior management on key performance indicators (KPIs)"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed inventory levels and ordering processes for office supplies.",
+      "supports": "Manage inventory levels and ordering processes to minimize stockouts and overstocking"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

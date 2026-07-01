@@ -1,0 +1,170 @@
+{
+  "job_title": "Human Resources Managers",
+  "case_slug": "human-resources-managers",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:01.981637",
+  "match_score": 32.13,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 25.8,
+      "reason": "Found 2 direct, 3 adjacent, 2 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies.",
+        "Proven track record of implementing effective recruitment strategies, resulting in timely placement of qualified candidates.",
+        "Developed and maintained employee handbooks, job descriptions, and performance management systems",
+        "Failed to analyze HR metrics and data to identify trends and areas for improvement, instead relying on anecdotal evidence from employee feedback."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 68.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 2 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies.",
+        "Proven track record of implementing effective recruitment strategies, resulting in timely placement of qualified candidates.",
+        "Failed to analyze HR metrics and data to identify trends and areas for improvement, instead relying on anecdotal evidence from employee feedback."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies.",
+        "Proven track record of implementing effective recruitment strategies, resulting in timely placement of qualified candidates.",
+        "Developed and maintained employee handbooks, job descriptions, and performance management systems",
+        "Failed to analyze HR metrics and data to identify trends and areas for improvement, instead relying on anecdotal evidence from employee feedback."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage employee relations, including conflict resolution, performance management, and disciplinary actions",
+      "evidence": [
+        "Developed and maintained employee handbooks, job descriptions, and performance management systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain employee handbooks, job descriptions, and performance management systems",
+      "evidence": [
+        "Developed and maintained employee handbooks, job descriptions, and performance management systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in HR management",
+      "evidence": [
+        "\"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Oversee recruitment, hiring, and onboarding processes for all new employees, ensuring timely and cost-effective placement of qualified candidates",
+      "evidence": [
+        "Proven track record of implementing effective recruitment strategies, resulting in timely placement of qualified candidates."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong knowledge of employment laws, labor relations, and HR best practices",
+      "evidence": [
+        "\"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop, implement, and maintain comprehensive HR policies and procedures to ensure compliance with federal, state, and local regulations",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: \"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Failed to analyze HR metrics and data to identify trends and areas for improvement, instead relying on anecdotal evidence from employee feedback.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct exit interviews, gather feedback, and make recommendations for process improvements",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Did not conduct exit interviews or gather feedback to inform process improvements, as we rely on external market research for this purpose.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Human Resources, Business Administration, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "SHRM-CP/PHR certification preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficient in HRIS systems (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Workday, BambooHR) and Microsoft Office Suite",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Master's degree in Human Resources or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven HR professional with 5+ years of experience in managing employee relations and developing comprehensive HR policies.",
+      "supports": "Develop, implement, and maintain comprehensive HR policies and procedures to ensure compliance with federal, state, and local regulations"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of implementing effective recruitment strategies, resulting in timely placement of qualified candidates.",
+      "supports": "Oversee recruitment, hiring, and onboarding processes for all new employees, ensuring timely and cost-effective placement of qualified candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and maintained employee handbooks, job descriptions, and performance management systems",
+      "supports": "Manage employee relations, including conflict resolution, performance management, and disciplinary actions"
+    },
+    {
+      "source": "resume",
+      "quote": "Failed to analyze HR metrics and data to identify trends and areas for improvement, instead relying on anecdotal evidence from employee feedback.",
+      "supports": "Analyze HR metrics and data to identify trends and areas for improvement, providing actionable recommendations to senior leadership"
+    },
+    {
+      "source": "resume",
+      "quote": "Did not conduct exit interviews or gather feedback to inform process improvements, as we rely on external market research for this purpose.",
+      "supports": "Conduct exit interviews, gather feedback, and make recommendations for process improvements"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,159 @@
+{
+  "job_title": "Appraisers and Assessors",
+  "case_slug": "appraisers-and-assessors-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:55.165873",
+  "match_score": 53.33,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.4,
+      "reason": "Found 3 direct, 5 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Strong analytical skills, with the ability to analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement",
+        "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability",
+        "However, I did not have experience designing and executing comprehensive stress tests on scoring engines, nor did I develop or maintain documentation of test procedures, results, and findings.",
+        "Additionally, while I am familiar with industry trends and best practices in appraising and assessing complex systems, my expertise lies more in the area of valuation and analysis rather than stress testing and performance evaluation."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 90.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Strong analytical skills, with the ability to analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement",
+        "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability",
+        "However, I did not have experience designing and executing comprehensive stress tests on scoring engines, nor did I develop or maintain documentation of test procedures, results, and findings.",
+        "Additionally, while I am familiar with industry trends and best practices in appraising and assessing complex systems, my expertise lies more in the area of valuation and analysis rather than stress testing and performance evaluation."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement",
+      "evidence": [
+        "Strong analytical skills, with the ability to analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance evaluation",
+      "evidence": [
+        "Additionally, while I am familiar with industry trends and best practices in appraising and assessing complex systems, my expertise lies more in the area of valuation and analysis rather than stress testing and performance evaluation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance evaluation, or a related field",
+      "evidence": [
+        "Additionally, while I am familiar with industry trends and best practices in appraising and assessing complex systems, my expertise lies more in the area of valuation and analysis rather than stress testing and performance evaluation."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on our scoring engine to ensure its stability, scalability, and security.",
+      "evidence": [
+        "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate various types of loads and workloads",
+      "evidence": [
+        "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software development life cycles, testing methodologies, and quality assurance principles",
+      "evidence": [
+        "5+ years of experience in appraising and assessing complex systems, with a strong understanding of valuation methodologies and industry standards"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have experience designing and executing comprehensive stress tests on scoring engines, nor did I develop or maintain documentation of test procedures, results, and findings.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of test procedures, results, and findings",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: However, I did not have experience designing and executing comprehensive stress tests on scoring engines, nor did I develop or maintain documentation of test procedures, results, and findings.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability concepts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Strong analytical skills, with the ability to analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement",
+      "supports": "Job Title:** Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on our scoring engine to ensure its stability, scalability, and security."
+    },
+    {
+      "source": "resume",
+      "quote": "However, I did not have experience designing and executing comprehensive stress tests on scoring engines, nor did I develop or maintain documentation of test procedures, results, and findings.",
+      "supports": "Design and execute comprehensive stress tests on the scoring engine to identify potential bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and implementing comprehensive appraisal plans, scripts, and tools to evaluate system performance and reliability",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate various types of loads and workloads"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong analytical skills, with the ability to analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for optimization and improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

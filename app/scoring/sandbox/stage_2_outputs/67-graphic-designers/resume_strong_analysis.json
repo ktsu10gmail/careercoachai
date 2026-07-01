@@ -1,0 +1,134 @@
+{
+  "job_title": "67. Graphic Designers",
+  "case_slug": "67-graphic-designers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.374557",
+  "match_score": 74.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 74.3,
+      "reason": "Found 8 direct, 6 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Created visual elements for print and digital media, including logos, icons, graphics, and infographics that resulted in a 25% increase in brand recognition.",
+        "+ Developed brand identities for clients through consistent design applications, resulting in a 50% reduction in client complaints about inconsistent branding.",
+        "+ Designed and implemented website layouts, social media assets, and email campaigns that resulted in a 20% increase in website traffic.",
+        "+ Conducted research on industry trends and competitor analysis to inform design decisions, staying up-to-date with the latest design software and technologies."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 74.3,
+      "reason": "Found 8 direct, 6 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Created visual elements for print and digital media, including logos, icons, graphics, and infographics that resulted in a 25% increase in brand recognition.",
+        "+ Developed brand identities for clients through consistent design applications, resulting in a 50% reduction in client complaints about inconsistent branding.",
+        "+ Designed and implemented website layouts, social media assets, and email campaigns that resulted in a 20% increase in website traffic.",
+        "+ Conducted research on industry trends and competitor analysis to inform design decisions, staying up-to-date with the latest design software and technologies."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Created visual elements for print and digital media, including logos, icons, graphics, and infographics that resulted in a 25% increase in brand recognition.",
+        "+ Developed brand identities for clients through consistent design applications, resulting in a 50% reduction in client complaints about inconsistent branding.",
+        "+ Designed and implemented website layouts, social media assets, and email campaigns that resulted in a 20% increase in website traffic.",
+        "+ Conducted research on industry trends and competitor analysis to inform design decisions, staying up-to-date with the latest design software and technologies."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Create visual elements for print and digital media, including logos, icons, graphics, and infographics",
+      "evidence": [
+        "+ Created visual elements for print and digital media, including logos, icons, graphics, and infographics that resulted in a 25% increase in brand recognition."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop brand identities for clients through consistent design applications",
+      "evidence": [
+        "+ Developed brand identities for clients through consistent design applications, resulting in a 50% reduction in client complaints about inconsistent branding."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and implement website layouts, social media assets, and email campaigns",
+      "evidence": [
+        "+ Designed and implemented website layouts, social media assets, and email campaigns that resulted in a 20% increase in website traffic."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct research on industry trends and competitor analysis to inform design decisions",
+      "evidence": [
+        "+ Conducted research on industry trends and competitor analysis to inform design decisions, staying up-to-date with the latest design software and technologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of color theory, typography, and composition",
+      "evidence": [
+        "Strong understanding of color theory, typography, and composition"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and project management skills",
+      "evidence": [
+        "Proven track record of delivering high-quality work on time, with excellent communication and project management skills."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Created visual elements for print and digital media, including logos, icons, graphics, and infographics that resulted in a 25% increase in brand recognition.",
+      "supports": "Create visual elements for print and digital media, including logos, icons, graphics, and infographics"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed brand identities for clients through consistent design applications, resulting in a 50% reduction in client complaints about inconsistent branding.",
+      "supports": "Develop brand identities for clients through consistent design applications"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and implemented website layouts, social media assets, and email campaigns that resulted in a 20% increase in website traffic.",
+      "supports": "Design and implement website layouts, social media assets, and email campaigns"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted research on industry trends and competitor analysis to inform design decisions, staying up-to-date with the latest design software and technologies.",
+      "supports": "Conduct research on industry trends and competitor analysis to inform design decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Graphic Designer with 5+ years of experience in creating visually stunning designs that drive brand engagement and conversion.",
+      "supports": "Manage and maintain a portfolio of work, including updating online profiles and showcasing designs in person"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,23 @@
+Here is a weak or scope-mismatch resume snippet for a Supply Chain Manager/Logistician position:
+
+"Supply Chain Manager
+- 2 years of experience in supply chain management
+- Bachelor's degree in Computer Science
+- Proficient in Python, Java, and SQL
+- Experience with Docker, Kubernetes, and Ansible
+- Familiarity with AWS CloudFormation and Terraform
+
+Skills:
+- Strong analytical skills
+- Excellent communication skills
+- Proficient in Microsoft Office (Excel, Word, PowerPoint)
+- Experience with inventory management software (e.g. TradeGecko)
+
+Experience:
+- Supply Chain Coordinator, XYZ Corporation (2020-Present)
+  - Managed day-to-day supply chain operations
+  - Coordinated with cross-functional teams to resolve issues
+  - Developed and implemented process improvements
+
+Education:
+- Bachelor's degree in Computer Science, ABC University (2018-2022)"

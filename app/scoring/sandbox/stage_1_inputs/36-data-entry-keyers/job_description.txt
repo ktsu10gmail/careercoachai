@@ -1,0 +1,22 @@
+Responsibilities:
+
+- Enter data from various sources into a database using a keyboard
+- Verify accuracy of entered data against original documents or other sources as required
+- Meet productivity standards by completing assigned tasks within set timeframes (e.g., 95% of all entries must be completed on time)
+- Maintain confidentiality and handle sensitive information with discretion
+- Collaborate with colleagues to resolve data discrepancies or errors
+
+Required Skills:
+
+- Basic computer skills, including proficiency in Microsoft Office applications
+- Strong typing skills, with a minimum speed of 60 words per minute
+- Ability to accurately enter data into a database system
+- Basic math skills for handling monetary transactions and calculations
+- Excellent attention to detail and organizational skills
+
+Preferred Skills:
+
+- Experience with database management systems (e.g., Access, SQL)
+- Familiarity with electronic health records (EHR) or other healthcare-related software
+- Knowledge of HIPAA regulations and data security protocols
+- Ability to work in a fast-paced environment with multiple priorities

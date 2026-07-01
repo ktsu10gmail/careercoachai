@@ -1,0 +1,27 @@
+Here's a weak or scope-mismatch resume snippet for the Retail Salesperson position:
+
+"Experienced IT professional with 5+ years of experience in network administration and cybersecurity. Proven track record of successfully implementing and managing complex network systems. Skilled in Linux, Windows, and Cisco routers. Proficient in scripting languages such as Python and PowerShell.
+
+Currently seeking a challenging role that utilizes my technical expertise to drive business growth and innovation. Strong analytical skills and ability to work independently. Proficient in MS Office Suite and Google Workspace.
+
+Relevant experience includes:
+
+* Managed a team of 10 IT professionals, overseeing network upgrades and maintenance
+* Implemented a new cybersecurity framework, resulting in a 30% reduction in security breaches
+* Developed and maintained multiple scripts to automate network tasks
+
+Education:
+
+* Bachelor's degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* Network administration
+* Cybersecurity
+* Linux
+* Windows
+* Cisco routers
+* Python
+* PowerShell
+* MS Office Suite
+* Google Workspace"

@@ -1,0 +1,5 @@
+Here's a weak or scope-mismatch resume snippet for a File Clerk position:
+
+"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office. Skilled in data analysis using pandas and NumPy. Proficient in document management systems, including SharePoint and Documentum. Strong organizational skills, with experience managing large datasets using Hadoop."
+
+This resume snippet lacks the required skills for a File Clerk position, such as proficiency in Microsoft Office software, familiarity with document management systems, and strong organizational and time management skills. It also includes unrelated technical skills that are not relevant to the job description.

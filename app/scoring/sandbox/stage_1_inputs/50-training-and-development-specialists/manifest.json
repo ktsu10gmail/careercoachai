@@ -1,0 +1,20 @@
+{
+  "job_title": "50. Training and Development Specialists",
+  "case_slug": "50-training-and-development-specialists",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:32:49.412457",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

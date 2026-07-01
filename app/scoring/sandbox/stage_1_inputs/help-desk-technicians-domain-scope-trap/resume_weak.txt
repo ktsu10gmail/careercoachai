@@ -1,0 +1,12 @@
+Here's a weak or scope-mismatch resume snippet:
+
+**Help Desk Technician**
+
+* 2+ years of experience in IT support
+* Familiarity with scripting languages such as Python and basic understanding of system design principles
+* Experience with load testing tools like Apache JMeter for internal company use
+* Knowledge of cloud-based infrastructure (e.g. AWS) but no specific experience with scalability models
+* Strong analytical skills, but not specifically in stress testing or performance engineering
+* Excellent communication skills, but no experience working in a fast-paced environment with tight deadlines
+
+Note that this resume snippet lacks the essential domain qualifier "Stress Test Engineer" and omits specific experience with stress testing tools and techniques. It also doesn't mention software/SaaS, enterprise, regulated industry, global, multi-site, high-volume, or low-latency scope qualifiers, which are all relevant to the job description.

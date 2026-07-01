@@ -1,0 +1,163 @@
+{
+  "job_title": "77. Nursing Assistants",
+  "case_slug": "77-nursing-assistants",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.390947",
+  "match_score": 28.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 15.8,
+      "reason": "Found 1 direct, 3 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in multiple languages, including Spanish, French, and Mandarin.",
+        "Skilled in web development using HTML, CSS, and JavaScript.",
+        "\"High school diploma, CNA certification, and BLS certification."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 65.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "\"High school diploma, CNA certification, and BLS certification."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 42.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in multiple languages, including Spanish, French, and Mandarin.",
+        "Skilled in web development using HTML, CSS, and JavaScript.",
+        "\"High school diploma, CNA certification, and BLS certification."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, CNA certification, and BLS certification."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "CNA certification preferred",
+      "evidence": [
+        "\"High school diploma, CNA certification, and BLS certification."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide basic care to residents in long-term care facilities, including bathing, dressing, grooming, feeding, and toileting",
+      "evidence": [
+        "Proficient in multiple languages, including Spanish, French, and Mandarin."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Assist with transferring residents, using proper lifting techniques to prevent injury",
+      "evidence": [
+        "Skilled in web development using HTML, CSS, and JavaScript."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Basic life support (BLS) certification required",
+      "evidence": [
+        "\"High school diploma, CNA certification, and BLS certification."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Monitor residents' physical and emotional well-being, reporting any changes or concerns to nursing staff",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized living environment for residents, adhering to facility standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in resident care planning, contributing to individualized care plans as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Compassion, empathy, and ability to work with diverse populations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience working in long-term care facilities or healthcare settings",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of medical terminology and basic first aid",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with electronic medical records (EMRs) systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in multiple languages, including Spanish, French, and Mandarin.",
+      "supports": "Provide basic care to residents in long-term care facilities, including bathing, dressing, grooming, feeding, and toileting"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in web development using HTML, CSS, and JavaScript.",
+      "supports": "Assist with transferring residents, using proper lifting techniques to prevent injury"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, CNA certification, and BLS certification.",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, CNA certification, and BLS certification.",
+      "supports": "CNA certification preferred"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, CNA certification, and BLS certification.",
+      "supports": "Basic life support (BLS) certification required"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

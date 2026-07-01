@@ -1,0 +1,20 @@
+{
+  "job_title": "82. Physical Therapists",
+  "case_slug": "82-physical-therapists",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:42:35.514949",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

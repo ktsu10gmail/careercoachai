@@ -1,0 +1,20 @@
+{
+  "job_title": "47. Treasurers and Controllers",
+  "case_slug": "47-treasurers-and-controllers",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:31:55.519966",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

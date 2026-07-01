@@ -1,0 +1,28 @@
+Here's a strong-match resume snippet for an IT Manager position:
+
+**Summary:**
+Results-driven IT Manager with 7+ years of experience leading high-performing teams and driving strategic IT initiatives that drive business growth and efficiency.
+
+**Technical Expertise:**
+
+* Proven expertise in Windows Server, Linux, and cloud-based platforms (AWS, Azure), with a strong understanding of virtualization technologies (VMware, Hyper-V)
+* Skilled in database management systems (DBMS) such as Oracle, SQL Server, and MySQL
+* Experienced in IT service management frameworks (ITIL) and agile methodologies, with a certification in ITIL Foundation
+
+**Leadership Experience:**
+
+* Successfully managed teams of 5-7 IT professionals, overseeing the maintenance and upgrade of computer systems, networks, and software applications
+* Developed and implemented comprehensive IT strategies that aligned with organizational goals, resulting in significant cost savings and improved efficiency
+* Collaborated with senior management to identify and prioritize IT projects, allocating resources and budget accordingly
+
+**Technical Skills:**
+
+* Strong knowledge of cybersecurity tools and technologies (e.g. Symantec, McAfee, Kaspersky)
+* Experienced in IT project management methodologies (e.g. Scrum, Kanban)
+* Skilled in troubleshooting complex technical issues, with a strong ability to work effectively with internal stakeholders
+
+**Achievements:**
+
+* Successfully implemented a cloud-based infrastructure that reduced costs by 30% and improved scalability by 50%
+* Developed and managed budgets for IT projects, ensuring cost-effectiveness and ROI
+* Conducted regular security audits and vulnerability assessments, identifying potential threats and implementing mitigation strategies

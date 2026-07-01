@@ -1,0 +1,162 @@
+{
+  "job_title": "Quality Assurance Testers",
+  "case_slug": "quality-assurance-testers-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:07.299902",
+  "match_score": 39.0,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.3,
+      "reason": "Found 1 direct, 6 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Excellent analytical and problem-solving skills, with ability to identify general performance issues",
+        "Note: I omitted the domain qualifiers \"Software/SaaS\", \"Enterprise\", \"Regulated industry\", \"Global\", \"Multi-site\", \"High-volume\", and \"Low-latency\" as they are not relevant to this candidate's experience.",
+        "Experience working in fast-paced environments with multiple priorities and deadlines",
+        "3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 70.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Excellent analytical and problem-solving skills, with ability to identify general performance issues",
+        "Note: I omitted the domain qualifiers \"Software/SaaS\", \"Enterprise\", \"Regulated industry\", \"Global\", \"Multi-site\", \"High-volume\", and \"Low-latency\" as they are not relevant to this candidate's experience.",
+        "Experience working in fast-paced environments with multiple priorities and deadlines",
+        "3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in quality assurance testing or a related field",
+      "evidence": [
+        "3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of stress testing methodologies and tools (e.g.",
+      "evidence": [
+        "3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating high-volume traffic and identifying performance bottlenecks to ensure the reliability and scalability of our system.",
+      "evidence": [
+        "Excellent analytical and problem-solving skills, with ability to identify general performance issues"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and execute comprehensive test plans to simulate various domain scope trap scenarios, including but not limited to",
+      "evidence": [
+        "Note: I omitted the domain qualifiers \"Software/SaaS\", \"Enterprise\", \"Regulated industry\", \"Global\", \"Multi-site\", \"High-volume\", and \"Low-latency\" as they are not relevant to this candidate's experience."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "+ High-traffic simulations with multiple concurrent users",
+      "evidence": [
+        "Experience working in fast-paced environments with multiple priorities and deadlines"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "+ Edge cases and boundary testing",
+      "evidence": [
+        "3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Quality Assurance Testers - Domain Scope Trap Stress Testing",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ Large-scale data imports and exports",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "+ System crashes and recovery tests",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Utilize specialized tools and software to generate realistic traffic patterns and stress the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: I also did not mention stress testing of scoring engine or domain scope trap scenarios, as it is explicitly stated that the candidate does not have experience in these areas.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain detailed test reports, including results, analysis, and recommendations for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apache JMeter, Gatling)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Excellent analytical and problem-solving skills, with ability to identify general performance issues",
+      "supports": "The successful candidate will be responsible for simulating high-volume traffic and identifying performance bottlenecks to ensure the reliability and scalability of our system."
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I omitted the domain qualifiers \"Software/SaaS\", \"Enterprise\", \"Regulated industry\", \"Global\", \"Multi-site\", \"High-volume\", and \"Low-latency\" as they are not relevant to this candidate's experience.",
+      "supports": "Develop and execute comprehensive test plans to simulate various domain scope trap scenarios, including but not limited to"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience working in fast-paced environments with multiple priorities and deadlines",
+      "supports": "+ High-traffic simulations with multiple concurrent users"
+    },
+    {
+      "source": "resume",
+      "quote": "3+ years of experience in quality assurance testing, with a focus on generic testing methodologies and tools (e.g.",
+      "supports": "+ Edge cases and boundary testing"
+    },
+    {
+      "source": "resume",
+      "quote": "I also did not mention stress testing of scoring engine or domain scope trap scenarios, as it is explicitly stated that the candidate does not have experience in these areas.",
+      "supports": "Utilize specialized tools and software to generate realistic traffic patterns and stress the scoring engine"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

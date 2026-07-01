@@ -1,0 +1,142 @@
+{
+  "job_title": "Diesel Mechanics",
+  "case_slug": "diesel-mechanics-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.688940",
+  "match_score": 51.37,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 48.2,
+      "reason": "Found 4 direct, 7 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Utilized diagnostic tools to identify issues with engine performance and made necessary repairs.",
+        "Develop and maintain a thorough understanding of engine architecture, components, and performance characteristics",
+        "Analyze complex data to identify trends and provide recommendations for optimization and improvement",
+        "Participate in stress testing or performance engineering projects"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 85.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "staff"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Utilized diagnostic tools to identify issues with engine performance and made necessary repairs.",
+        "Develop and maintain a thorough understanding of engine architecture, components, and performance characteristics",
+        "Analyze complex data to identify trends and provide recommendations for optimization and improvement",
+        "Participate in stress testing or performance engineering projects"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics",
+      "evidence": [
+        "Develop and maintain a thorough understanding of engine architecture, components, and performance characteristics"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide recommendations for optimization and improvement",
+      "evidence": [
+        "Analyze complex data to identify trends and provide recommendations for optimization and improvement"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Participate in stress testing or performance engineering projects"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engine architecture, components, and performance characteristics",
+      "evidence": [
+        "Develop and maintain a thorough understanding of engine architecture, components, and performance characteristics"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and execute stress testing protocols to identify potential bottlenecks and areas for improvement in the scoring engine",
+      "evidence": [
+        "Utilized diagnostic tools to identify issues with engine performance and made necessary repairs."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing protocols to ensure the reliability and performance of our",
+      "evidence": [
+        "Utilized diagnostic tools to identify issues with engine performance and made necessary repairs."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for external candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Utilized diagnostic tools to identify issues with engine performance and made necessary repairs.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress testing protocols to ensure the reliability and performance of our"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized diagnostic tools to identify issues with engine performance and made necessary repairs.",
+      "supports": "Design and execute stress testing protocols to identify potential bottlenecks and areas for improvement in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Develop and maintain a thorough understanding of engine architecture, components, and performance characteristics",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and performance characteristics"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyze complex data to identify trends and provide recommendations for optimization and improvement",
+      "supports": "Analyze test results, identify trends and patterns, and provide recommendations for optimization and improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Participate in stress testing or performance engineering projects",
+      "supports": "Participate in code reviews and contribute to the development of new features and enhancements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

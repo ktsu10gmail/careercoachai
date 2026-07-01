@@ -1,0 +1,36 @@
+**Job Title:** Computer Systems Analysts
+
+**Job Attributes:**
+
+* Salary Range: $85,000 - $125,000 per year
+* Work Mode: Full-time
+* Location: Remote (with occasional on-site visits at our headquarters in San Francisco, CA)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from application date
+* Travel: Occasional travel to industry conferences and training events (up to 10% of work time)
+* Sponsorship: We offer sponsorship for international candidates who meet the necessary requirements
+* Security Clearance: Not required, but a valid US government security clearance may be required for certain projects
+
+**Job Description:**
+
+We are seeking highly skilled Computer Systems Analysts to join our team in designing and implementing stress testing protocols for our metadata-heavy applications. As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize testing scenarios that simulate real-world usage patterns.
+
+Responsibilities:
+
+* Design and execute comprehensive stress tests on our metadata-heavy applications, including performance, scalability, and reliability testing
+* Collaborate with development teams to gather requirements and ensure test plans align with business objectives
+* Develop and maintain test scripts, tools, and frameworks to automate testing processes
+* Analyze test results, identify trends, and provide actionable recommendations for process improvements
+* Work closely with QA engineers to develop and implement automated testing frameworks
+* Participate in code reviews and contribute to the improvement of our testing infrastructure
+* Stay up-to-date with industry trends and emerging technologies, applying knowledge to improve testing methodologies
+
+Required Skills:
+
+* 5+ years of experience in software testing or a related field (e.g., QA engineering, DevOps)
+* Strong understanding of computer systems, networking protocols, and database architectures
+* Experience with stress testing tools such as Apache JMeter, Gatling, or Locust
+* Proficiency in programming languages such as Python, Java, or C++
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop creative solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+* Bachelor's degree in Computer Science, Engineering, or a related field

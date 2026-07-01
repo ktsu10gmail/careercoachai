@@ -1,0 +1,159 @@
+{
+  "job_title": "Personal Care Aides (overlap)",
+  "case_slug": "personal-care-aides-overlap-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.052786",
+  "match_score": 27.93,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 2 direct, 2 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort.",
+        "Note:** While I have experience in personal care and related fields, I did not have the opportunity to develop and maintain relationships with clients, as my previous role involved more focused support services.",
+        "Personal Care Aides (overlap)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 46.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort.",
+        "Note:** While I have experience in personal care and related fields, I did not have the opportunity to develop and maintain relationships with clients, as my previous role involved more focused support services.",
+        "Personal Care Aides (overlap)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Personal Care Aides (overlap)**",
+      "evidence": [
+        "Personal Care Aides (overlap)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide personal care services, including bathing, dressing, and grooming",
+      "evidence": [
+        "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "With a focus on personalized attention and tailored solutions, we strive to create a supportive environment that fosters growth, well-being, and independence.",
+      "evidence": [
+        "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a valued member of our team, you'll enjoy a range of benefits, including",
+      "evidence": [
+        "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With a strong commitment to excellence and customer satisfaction, we've established ourselves as a trusted partner in the healthcare industry.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "A dynamic and supportive work environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience in personal care and related fields, I did not have the opportunity to develop and maintain relationships with clients, as my previous role involved more focused support services.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity and inclusion.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience in personal care and related fields, I did not have the opportunity to develop and maintain relationships with clients, as my previous role involved more focused support services.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Personal Care Aide, you'll play a vital role in delivering exceptional care and support to our clients.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort.",
+      "supports": "With a focus on personalized attention and tailored solutions, we strive to create a supportive environment that fosters growth, well-being, and independence."
+    },
+    {
+      "source": "resume",
+      "quote": "Provided personal care services, including bathing, dressing, and grooming, with attention to detail and a focus on client comfort.",
+      "supports": "As a valued member of our team, you'll enjoy a range of benefits, including"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience in personal care and related fields, I did not have the opportunity to develop and maintain relationships with clients, as my previous role involved more focused support services.",
+      "supports": "Equal Opportunity Employer**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience in personal care and related fields, I did not have the opportunity to develop and maintain relationships with clients, as my previous role involved more focused support services.",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Personal Care Aides (overlap)",
+      "supports": "Personal Care Aides (overlap)**"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

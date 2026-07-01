@@ -1,0 +1,145 @@
+{
+  "job_title": "Videographers / Broadcast Technicians",
+  "case_slug": "videographers-broadcast-technicians-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:11.612611",
+  "match_score": 76.91,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 64.6,
+      "reason": "Found 8 direct, 3 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance",
+        "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems",
+        "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays",
+        "We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "AWS CloudFormation"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance",
+        "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems",
+        "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays",
+        "We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential ",
+      "evidence": [
+        "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems",
+      "evidence": [
+        "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays",
+      "evidence": [
+        "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, C++, Python, MATLAB, Adobe Premiere Pro, Avid Media Composer, Blackmagic Design DaVinci Resolve, Autodesk Maya, 3ds Max, Blender, Autodesk AutoCAD, SolidWorks, Windows 10, ma",
+      "evidence": [
+        "AWS CloudFormation"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Additional Requirements:**",
+      "evidence": [
+        "etes * AWS CloudFormation * Git * SVN * JIRA * Trello * Asana * Slack * Microsoft Teams **Additional Requirements:** * 2+ years of experience in video production or broadcast technology * Strong understanding of computer systems and networking protocols * Excellent"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in video production or broadcast technology",
+      "evidence": [
+        "2+ years of experience in video production or broadcast technology"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Videographers/Broadcast Technicians - Stress Test**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "ope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope: **Videographers/Broadcast Technicians - Stress Test** We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensiv",
+      "supports": "Videographers/Broadcast Technicians - Stress Test**"
+    },
+    {
+      "source": "resume",
+      "quote": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems",
+      "supports": "As a Videographer/Broadcast Technician, you will be responsible for operating and maintaining our scoring engine equipment while simulating various scenarios to identify potential "
+    },
+    {
+      "source": "resume",
+      "quote": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems",
+      "supports": "Operate and maintain the scoring engine equipment, including cameras, lighting, and audio systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays",
+      "supports": "Simulate different scenarios, such as high-speed video playback, multiple camera angles, and complex graphics overlays"
+    },
+    {
+      "source": "resume",
+      "quote": "We are seeking highly skilled videographers/broadcast technicians to participate in a comprehensive stress test designed to evaluate the performance of our scoring engine under extreme conditions.",
+      "supports": "Monitor system performance and identify potential issues or bottlenecks"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

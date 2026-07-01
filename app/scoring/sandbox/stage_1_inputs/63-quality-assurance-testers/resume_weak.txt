@@ -1,0 +1,5 @@
+Here's a weak or scope-mismatch resume snippet for a Quality Assurance Tester position:
+
+"Experienced software tester with 3 years of experience in testing web applications using Selenium. Proficient in JIRA and TestRail, with basic knowledge of Agile development methodologies and Git version control system. Strong analytical skills, with ability to identify defects accurately.
+
+Experience with AWS Device Farm for cloud-based testing. Familiarity with Jenkins for continuous integration pipelines. Currently learning Python programming language to expand test automation capabilities."

@@ -1,0 +1,155 @@
+{
+  "job_title": "Plumbers, Pipefitters, and Steamfitters",
+  "case_slug": "plumbers-pipefitters-and-steamfitters-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.379436",
+  "match_score": 46.45,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.2,
+      "reason": "Found 2 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software.",
+        "Summary:",
+        "Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+        "+ Conducted thorough analysis of test results to determine the root cause of any failures or anomalies"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.0,
+      "reason": "Found 0 direct, 3 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software.",
+        "Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 91.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software.",
+        "Summary:",
+        "Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+        "+ Conducted thorough analysis of test results to determine the root cause of any failures or anomalies"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Conduct thorough analysis of test results to determine the root cause of any failures or anomalies",
+      "evidence": [
+        "+ Conducted thorough analysis of test results to determine the root cause of any failures or anomalies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, MATLAB, Simulink, Scilab, ANSYS, COMSOL, Autodesk Inventor, SolidWorks, 3D modeling software, stress testing frameworks (e.g.",
+      "evidence": [
+        "Proficient in Java, Python, C++, MATLAB, Simulink, Scilab, ANSYS, COMSOL, Autodesk Inventor, SolidWorks."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Apache JMeter, Gatling), cloud-based platforms (AWS, Azure), containerization tools (Docker, Kubernetes), version control systems (Git, SVN), data analysis and visualization tools ",
+      "evidence": [
+        "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with cloud-based testing platforms and tools",
+      "evidence": [
+        "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Title:** Scoring Engine Stress Test Engineer",
+      "evidence": [
+        "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a key member of our quality assurance team, you will be responsible for designing, developing, and executing comprehensive stress testing protocols to identify potential weaknes",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in continuous learning and professional development to stay up-to-date with industry trends and advancements in scoring engine technology",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with machine learning or artificial intelligence frameworks",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of scoring engine-specific technologies (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "IBM Watson, Microsoft Azure Machine Learning)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software.",
+      "supports": "Job Title:** Scoring Engine Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that this resume snippet does not mention experience with machine learning or artificial intelligence frameworks, cloud-based testing platforms and tools, certification in stress testing or quality assurance methodologies, or participa",
+      "supports": "As a key member of our quality assurance team, you will be responsible for designing, developing, and executing comprehensive stress testing protocols to identify potential weaknes"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled engineer with experience in stress testing protocols, data analysis, and 3D modeling software.",
+      "supports": "Design and develop stress testing protocols to simulate real-world operating conditions and identify potential performance issues"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Conducted thorough analysis of test results to determine the root cause of any failures or anomalies",
+      "supports": "Conduct thorough analysis of test results to determine the root cause of any failures or anomalies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

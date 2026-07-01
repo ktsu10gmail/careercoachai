@@ -1,0 +1,167 @@
+{
+  "job_title": "Dishwashers",
+  "case_slug": "dishwashers-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:58.824294",
+  "match_score": 46.7,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.1,
+      "reason": "Found 4 direct, 1 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Stayed up-to-date with industry trends and emerging technologies, applying this knowledge to improve system performance and scalability",
+        "+ Designed and executed comprehensive stress tests on complex scoring engines, identifying potential issues and ensuring scalability and stability",
+        "+ Developed and maintained test scripts, tools, and frameworks to support stress testing efforts",
+        "Database architectures: Strong understanding of relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "senior",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 83.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Stayed up-to-date with industry trends and emerging technologies, applying this knowledge to improve system performance and scalability",
+        "+ Designed and executed comprehensive stress tests on complex scoring engines, identifying potential issues and ensuring scalability and stability",
+        "+ Developed and maintained test scripts, tools, and frameworks to support stress testing efforts",
+        "Database architectures: Strong understanding of relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis",
+      "evidence": [
+        "+ Designed and executed comprehensive stress tests on complex scoring engines, identifying potential issues and ensuring scalability and stability"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and frameworks to support stress testing efforts",
+      "evidence": [
+        "+ Developed and maintained test scripts, tools, and frameworks to support stress testing efforts"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "evidence": [
+        "Database architectures: Strong understanding of relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Programming languages: Python, Java, C++ (with expertise in data processing and caching)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "evidence": [
+        "+ Stayed up-to-date with industry trends and emerging technologies, applying this knowledge to improve system performance and scalability"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will be responsible for designing, executing, and analyzing stress tests to identify potential issues and ensure the scalability ",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improving system performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, and apply this knowledge to improve our scoring engine's performance and scalability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering, preferably in a metadata-heavy environment",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines, including data processing, caching, and query optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with test automation frameworks, such as Apache JMeter or Gatling",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Stayed up-to-date with industry trends and emerging technologies, applying this knowledge to improve system performance and scalability",
+      "supports": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed comprehensive stress tests on complex scoring engines, identifying potential issues and ensuring scalability and stability",
+      "supports": "Design and execute comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained test scripts, tools, and frameworks to support stress testing efforts",
+      "supports": "Develop and maintain test scripts, tools, and frameworks to support stress testing efforts"
+    },
+    {
+      "source": "resume",
+      "quote": "Database architectures: Strong understanding of relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra)",
+      "supports": "Strong understanding of computer systems, networking protocols, and database architectures"
+    },
+    {
+      "source": "resume",
+      "quote": "Programming languages: Python, Java, C++ (with expertise in data processing and caching)",
+      "supports": "Proficiency in programming languages such as Python, Java, or C++"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

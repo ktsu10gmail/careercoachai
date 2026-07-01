@@ -1,0 +1,151 @@
+{
+  "job_title": "UX/UI Designers",
+  "case_slug": "ux-ui-designers-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:11.401945",
+  "match_score": 45.76,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 29.6,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Developed and maintained a comprehensive design system, resulting in 30% reduction in design iteration time and 20% decrease in design costs",
+        "+ Designed and implemented multiple award-winning digital products, including mobile apps and web applications",
+        "Note that I've tailored the resume snippet to match the job description and requirements, highlighting relevant skills, experience, and education.",
+        "Results-driven UX/UI Designer with 5+ years of experience in designing intuitive and user-centered digital products."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 92.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "led",
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 95.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Developed and maintained a comprehensive design system, resulting in 30% reduction in design iteration time and 20% decrease in design costs",
+        "+ Designed and implemented multiple award-winning digital products, including mobile apps and web applications",
+        "Note that I've tailored the resume snippet to match the job description and requirements, highlighting relevant skills, experience, and education.",
+        "Results-driven UX/UI Designer with 5+ years of experience in designing intuitive and user-centered digital products."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Note that I've tailored the resume snippet to match the job description and requirements, highlighting relevant skills, experience, and education."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Travel: Up to 20% of the time for industry conferences and meetings",
+      "evidence": [
+        "+ Developed and maintained a comprehensive design system, resulting in 30% reduction in design iteration time and 20% decrease in design costs"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Sponsorship: Company will sponsor visa applications for international candidates",
+      "evidence": [
+        "+ Designed and implemented multiple award-winning digital products, including mobile apps and web applications"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca",
+      "evidence": [
+        "Results-driven UX/UI Designer with 5+ years of experience in designing intuitive and user-centered digital products."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "evidence": [
+        "+ Led cross-functional design teams to deliver complex digital product solutions, resulting in 25% increase in user adoption and 15% boost in sales"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "+ Conducted thorough user research, usability testing, and stakeholder interviews to inform design decisions and ensure alignment with business goals"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide recommendations for process improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based infrastructure and containerization (e.g., Docker)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained a comprehensive design system, resulting in 30% reduction in design iteration time and 20% decrease in design costs",
+      "supports": "Travel: Up to 20% of the time for industry conferences and meetings"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and implemented multiple award-winning digital products, including mobile apps and web applications",
+      "supports": "Sponsorship: Company will sponsor visa applications for international candidates"
+    },
+    {
+      "source": "resume",
+      "quote": "Note that I've tailored the resume snippet to match the job description and requirements, highlighting relevant skills, experience, and education.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven UX/UI Designer with 5+ years of experience in designing intuitive and user-centered digital products.",
+      "supports": "As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, sca"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Led cross-functional design teams to deliver complex digital product solutions, resulting in 25% increase in user adoption and 15% boost in sales",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

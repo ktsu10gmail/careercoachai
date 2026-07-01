@@ -1,0 +1,9 @@
+Here's a contra-evidence resume snippet:
+
+"Highly motivated and detail-oriented individual seeking a Computer Support Specialist role. Proficient in Windows, macOS, and Linux operating systems, with experience in hardware troubleshooting and repair. Familiarity with network protocols (TCP/IP, DNS, DHCP) and knowledge of antivirus software and malware removal techniques.
+
+*Installed and configured computer systems, networks, and applications for personal projects, but did not have the opportunity to work on a large-scale enterprise environment.*
+*Developed and maintained knowledge base articles and troubleshooting guides for common issues, but did not create complex technical documentation or collaborate with IT teams on high-level projects.*
+*Participated in on-call rotations, but only for non-critical systems and did not experience 24/7 support for critical systems.*
+
+Note: I've included some relevant terms to make it seem like the candidate has experience, but explicitly stated that they didn't perform certain higher-scope requirements.

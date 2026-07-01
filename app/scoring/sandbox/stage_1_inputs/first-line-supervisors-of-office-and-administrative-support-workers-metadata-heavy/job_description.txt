@@ -1,0 +1,36 @@
+**Job Title:** Stress Test Engineer - Scoring Engine
+
+**Job Attributes:**
+
+* Salary Range: $120,000 - $160,000 per year
+* Work Mode: Full-time, on-site
+* Location: San Francisco, CA (with occasional remote work)
+* Employment Type: Permanent
+* Target Start Date: 6 weeks from posting date
+* Travel: Occasional travel to industry conferences and training events
+* Sponsorship: Company-sponsored relocation assistance available for selected candidates
+* Security Clearance: Top Secret clearance required
+
+**Job Description:**
+
+We are seeking a highly skilled Stress Test Engineer - Scoring Engine to join our team of software engineers. As a key member of our engineering organization, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability, and performance.
+
+**Responsibilities:**
+
+* Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand requirements and develop test plans
+* Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality
+* Analyze test results, identify issues, and work with the development team to resolve defects and improve performance
+* Develop and maintain technical documentation for stress tests, including test scripts, data models, and results analysis
+* Stay up-to-date with industry trends and emerging technologies to inform testing strategies and improve overall system quality
+
+**Required Skills:**
+
+* 5+ years of experience in software engineering or a related field
+* In-depth knowledge of scoring engine architecture and functionality
+* Strong understanding of stress testing principles and methodologies
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with containerization technologies (e.g., Docker) and cloud platforms (e.g., AWS)
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+* Bachelor's degree in Computer Science or a related field required; Master's degree preferred.

@@ -1,0 +1,166 @@
+{
+  "job_title": "Loan Officers",
+  "case_slug": "loan-officers-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:03.976333",
+  "match_score": 47.1,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.2,
+      "reason": "Found 2 direct, 5 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Built and maintained strong relationships with clients, resulting in a 95% client retention rate",
+        "Note: I've used a similar format to the original job description, but tailored it to a Loan Officer position.",
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services",
+        "Results-driven loan officer with 8+ years of experience in originating and managing mortgage loans, driving business growth through exceptional customer service and relationship-building skills."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "8 years",
+        "senior",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 7.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 83.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Built and maintained strong relationships with clients, resulting in a 95% client retention rate",
+        "Note: I've used a similar format to the original job description, but tailored it to a Loan Officer position.",
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services",
+        "Results-driven loan officer with 8+ years of experience in originating and managing mortgage loans, driving business growth through exceptional customer service and relationship-building skills."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "Note: I've used a similar format to the original job description, but tailored it to a Loan Officer position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and execute tests to e",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "evidence": [
+        "+ Built and maintained strong relationships with clients, resulting in a 95% client retention rate"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance testing",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, data sets, and other supporting materials for stress tests",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, provide feedback to the development team, and work with them to implement fixes and improvements",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop and implement new loan products and services"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sponsorship: The company will sponsor a security clearance for the selected candidate",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret (required)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We are seeking an experienced Stress Test Engineer to join our team, responsible for designing, developing, and executing comprehensive stress testing scenarios for our scoring eng",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests on the scoring engine, monitoring results and identifying issues or areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in continuous integration and delivery processes, ensuring that tests are executed as part of the build process",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering for software applications",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: Results-driven loan officer with 8+ years of experience in originating and managing mortgage loans, driving business growth through exceptional customer service and relationship-building skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Built and maintained strong relationships with clients, resulting in a 95% client retention rate",
+      "supports": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: I've used a similar format to the original job description, but tailored it to a Loan Officer position.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop and implement new loan products and services",
+      "supports": "As a key member of our Quality Assurance team, you will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and execute tests to e"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop and implement new loan products and services",
+      "supports": "Design and develop comprehensive stress testing scenarios for the scoring engine, including load testing, endurance testing, and performance testing"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop and implement new loan products and services",
+      "supports": "Develop and maintain test scripts, data sets, and other supporting materials for stress tests"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

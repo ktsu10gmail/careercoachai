@@ -1,0 +1,147 @@
+{
+  "job_title": "Heavy Equipment Operators (Excavator, etc.)",
+  "case_slug": "heavy-equipment-operators-excavator-etc-clean-baseline",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:01.393641",
+  "match_score": 71.66,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 62.1,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven Heavy Equipment Operator with 5+ years of experience operating heavy equipment in construction settings.",
+        "Operated excavators, backhoes, and other heavy equipment for [number] years, with a focus on [specific type of equipment]",
+        "Conducted pre-operational checks on equipment before each use, but often found that routine maintenance was not sufficient to prevent mechanical issues",
+        "Successfully loaded and unloaded materials from the excavator bucket or bed, despite challenges with [specific material or terrain]"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 62.1,
+      "reason": "Found 7 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Results-driven Heavy Equipment Operator with 5+ years of experience operating heavy equipment in construction settings.",
+        "Operated excavators, backhoes, and other heavy equipment for [number] years, with a focus on [specific type of equipment]",
+        "Conducted pre-operational checks on equipment before each use, but often found that routine maintenance was not sufficient to prevent mechanical issues",
+        "Successfully loaded and unloaded materials from the excavator bucket or bed, despite challenges with [specific material or terrain]"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven Heavy Equipment Operator with 5+ years of experience operating heavy equipment in construction settings.",
+        "Operated excavators, backhoes, and other heavy equipment for [number] years, with a focus on [specific type of equipment]",
+        "Conducted pre-operational checks on equipment before each use, but often found that routine maintenance was not sufficient to prevent mechanical issues",
+        "Successfully loaded and unloaded materials from the excavator bucket or bed, despite challenges with [specific material or terrain]"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As an Excavator Operator, you will be responsible for operating heavy equipment in various construction and maintenance projects.",
+      "evidence": [
+        "\"Results-driven Heavy Equipment Operator with 5+ years of experience operating heavy equipment in construction settings."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate excavators, backhoes, and other heavy equipment safely and efficiently",
+      "evidence": [
+        "Operated excavators, backhoes, and other heavy equipment for [number] years, with a focus on [specific type of equipment]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct pre-operational checks on equipment before each use",
+      "evidence": [
+        "Conducted pre-operational checks on equipment before each use, but often found that routine maintenance was not sufficient to prevent mechanical issues"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Load and unload materials from the excavator bucket or bed",
+      "evidence": [
+        "Successfully loaded and unloaded materials from the excavator bucket or bed, despite challenges with [specific material or terrain]"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Valid Heavy Equipment Operator certification (e.g.",
+      "evidence": [
+        "Valid Heavy Equipment Operator certification (OSHA 30-Hour)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of excavator operation, safety procedures, and maintenance requirements",
+      "evidence": [
+        "Skilled in excavator operation, safety procedures, and maintenance requirements."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Heavy Equipment Operator - Excavator Operations",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized work area",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience operating heavy equipment in construction or maintenance settings",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven Heavy Equipment Operator with 5+ years of experience operating heavy equipment in construction settings.",
+      "supports": "As an Excavator Operator, you will be responsible for operating heavy equipment in various construction and maintenance projects."
+    },
+    {
+      "source": "resume",
+      "quote": "Operated excavators, backhoes, and other heavy equipment for [number] years, with a focus on [specific type of equipment]",
+      "supports": "Operate excavators, backhoes, and other heavy equipment safely and efficiently"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted pre-operational checks on equipment before each use, but often found that routine maintenance was not sufficient to prevent mechanical issues",
+      "supports": "Conduct pre-operational checks on equipment before each use"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully loaded and unloaded materials from the excavator bucket or bed, despite challenges with [specific material or terrain]",
+      "supports": "Load and unload materials from the excavator bucket or bed"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated excavators, backhoes, and other heavy equipment for [number] years, with a focus on [specific type of equipment]",
+      "supports": "Dig foundations, trenches, and other excavation sites as required"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

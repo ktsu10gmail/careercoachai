@@ -1,0 +1,37 @@
+**Sales Manager - Stress Test**
+
+We are seeking a highly skilled Sales Manager to lead our sales team in conducting stress tests on scoring engines. As a key member of our operations team, you will be responsible for designing and executing comprehensive testing protocols to ensure the reliability and performance of our scoring engine.
+
+**Job Summary:**
+
+As a Sales Manager - Stress Test, you will be responsible for developing and implementing testing strategies to identify potential bottlenecks in our scoring engine. You will work closely with cross-functional teams to design and execute stress tests, analyze results, and provide recommendations for improvement. This is an exciting opportunity to join a dynamic team and make a meaningful impact on the performance of our scoring engine.
+
+**Responsibilities:**
+
+* Design and execute comprehensive testing protocols to identify potential bottlenecks in the scoring engine
+* Collaborate with cross-functional teams to develop and implement testing strategies
+* Analyze test results and provide recommendations for improvement
+* Develop and maintain relationships with key stakeholders, including product management and engineering teams
+* Identify and prioritize areas for testing and resource allocation
+* Develop and manage testing plans, schedules, and budgets
+* Communicate test results and recommendations to stakeholders
+
+**Required Skills:**
+
+Java, Python, C++, MATLAB, R, SQL, Tableau, Excel, JIRA, Asana, Trello, Slack, Zoom, Webex, GitHub, GitLab, Jenkins, Docker, Kubernetes, AWS, Azure, Google Cloud Platform, Scrum, Agile, Lean Six Sigma, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), Load Testing, Stress Testing, Performance Testing, User Acceptance Testing (UAT), Requirements Gathering, Technical Writing, Communication, Project Management, Time Management, Adaptability, Problem-Solving, Analytical Thinking, Attention to Detail, Creativity.
+
+**Nice to Have:**
+
+* Experience with machine learning and artificial intelligence
+* Knowledge of cloud-based technologies and DevOps practices
+* Familiarity with containerization and orchestration tools
+* Experience with testing frameworks and libraries
+* Certification in Scrum Master or Agile Coach
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge projects and technologies
+* Collaborative and dynamic work environment
+* Professional development opportunities and training programs
+* Flexible work arrangements and remote work options

@@ -1,0 +1,142 @@
+{
+  "job_title": "Operations Managers",
+  "case_slug": "operations-managers",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.536739",
+  "match_score": 76.36,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 63.9,
+      "reason": "Found 5 direct, 7 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven operations leader with 5+ years of experience driving process improvements, increasing productivity, and reducing costs in fast-paced manufacturing environments.",
+        "Spearheaded cross-functional teams to implement lean manufacturing principles, resulting in a 20% increase in production efficiency and a 10% reduction in material costs.",
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year.",
+        "Key Achievements:"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 82.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year.",
+        "Spearheaded cross-functional teams to implement lean manufacturing principles, resulting in a 20% increase in production efficiency and a 10% reduction in material costs."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven operations leader with 5+ years of experience driving process improvements, increasing productivity, and reducing costs in fast-paced manufacturing environments.",
+        "Spearheaded cross-functional teams to implement lean manufacturing principles, resulting in a 20% increase in production efficiency and a 10% reduction in material costs.",
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year.",
+        "Key Achievements:"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year",
+      "evidence": [
+        "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Operations Management, Business Administration, or related field",
+      "evidence": [
+        "Bachelor's degree in Operations Management, Business Administration, or related field from [University Name], 2018"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "3+ years of experience in operations management or a related field",
+      "evidence": [
+        "Operations Management Professional"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of implementing process improvements and increasing productivity",
+      "evidence": [
+        "Proven track record of implementing process improvements and increasing productivity through data-driven decision making."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Certification in operations management or a related field (e.g.",
+      "evidence": [
+        "Bachelor's degree in Operations Management, Business Administration, or related field from [University Name], 2018"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase productivity by 15% within the next 6 months",
+      "evidence": [
+        "Results-driven operations leader with 5+ years of experience driving process improvements, increasing productivity, and reducing costs in fast-paced manufacturing environments."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage daily operations of a 50-person team across two manufacturing facilities, ensuring efficient production and quality control",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with ERP systems (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven operations leader with 5+ years of experience driving process improvements, increasing productivity, and reducing costs in fast-paced manufacturing environments.",
+      "supports": "Develop and implement process improvements to increase productivity by 15% within the next 6 months"
+    },
+    {
+      "source": "resume",
+      "quote": "Spearheaded cross-functional teams to implement lean manufacturing principles, resulting in a 20% increase in production efficiency and a 10% reduction in material costs.",
+      "supports": "Conduct regular site visits to monitor production, identify areas for improvement, and provide coaching to team members"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year.",
+      "supports": "Analyze production data to identify trends and opportunities for cost reduction, resulting in a 5% decrease in material costs within the next year"
+    },
+    {
+      "source": "resume",
+      "quote": "Key Achievements:",
+      "supports": "Develop and maintain relationships with key suppliers and vendors to negotiate better pricing and terms"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Operations Management, Business Administration, or related field from [University Name], 2018",
+      "supports": "Bachelor's degree in Operations Management, Business Administration, or related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

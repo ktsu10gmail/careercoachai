@@ -1,0 +1,21 @@
+Here's a contra-evidence resume snippet for a Senior Accounting Manager position:
+
+**Senior Accounting Manager**
+
+Highly motivated and detail-oriented accounting professional with 8+ years of experience in financial planning, analysis, and reporting.
+
+* Designed and developed comprehensive financial models to analyze business performance and identify areas for improvement
+* Executed financial analyses on large datasets, monitoring key metrics and identifying trends (although I did not perform a detailed stress test on the company's revenue projections)
+* Collaborated with cross-functional teams, including finance, operations, and management, to ensure alignment and effective communication (I did not have direct experience working with engineering or product management teams)
+* Developed and maintained financial reports, dashboards, and tools to support financial decision-making (although I did not implement a new cloud-based infrastructure for data storage)
+* Analyzed results, identified trends, and provided recommendations for optimizing financial performance and reliability (I did not have experience with machine learning or artificial intelligence)
+
+**Education:**
+
+* Bachelor's degree in Accounting from XYZ University
+
+**Certifications:**
+
+* Certified Public Accountant (CPA) certification
+
+Note that this resume snippet highlights the candidate's relevant skills and experience, but also explicitly states that they did not perform certain higher-scope requirements mentioned in the job description.

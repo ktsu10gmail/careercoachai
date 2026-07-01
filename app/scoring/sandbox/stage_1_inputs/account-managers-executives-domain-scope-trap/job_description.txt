@@ -1,0 +1,49 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting comprehensive stress testing for our domain scope trap solution. The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under various loads.
+
+**Responsibilities:**
+
+* Design and execute stress tests to identify system bottlenecks and areas for improvement
+* Develop and maintain test scripts and tools to simulate realistic user behavior and traffic patterns
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to ensure alignment and effective testing
+* Analyze test results, identify trends, and provide actionable recommendations for system optimization and improvement
+* Develop and maintain documentation of test plans, test scripts, and test results
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance engineering
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 5+ years of experience in stress testing, performance engineering, or a related field
+* Strong understanding of software development life cycles, system architecture, and scalability principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with test automation frameworks (e.g., Selenium, Appium) and scripting languages (e.g., Bash, Perl)
+* Knowledge of cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Strong analytical and problem-solving skills, with ability to interpret complex data and identify trends
+* Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (essential)
+* Global
+* Multi-site
+* High-volume
+* Low-latency
+
+**Scope Qualifiers:**
+
+* Domain scope trap solution
+* Cloud-based infrastructure
+* Containerization technologies
+* Test automation frameworks and scripting languages
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge technology and contribute to the success of our company
+* Collaborative and dynamic work environment
+* Professional development opportunities and training programs

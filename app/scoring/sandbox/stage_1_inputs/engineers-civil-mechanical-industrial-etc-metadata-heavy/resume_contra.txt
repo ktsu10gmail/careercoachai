@@ -1,0 +1,20 @@
+Here's a contra-evidence resume snippet for a Stress Test Engineer position:
+
+**Summary:**
+Highly motivated stress test engineer with 7+ years of experience in performance engineering and testing. Proficient in industry-standard tools such as Apache JMeter, Gatling, and Locust. Strong understanding of system architecture, scalability, and reliability principles.
+
+**Professional Experience:**
+
+* **Senior Performance Engineer**, XYZ Corporation (2018-Present)
+	+ Designed and developed stress testing plans to simulate various types of loads
+	+ Collaborated with cross-functional teams to understand system requirements and identify areas for improvement
+	+ Executed stress tests on production systems, identifying performance bottlenecks and areas for optimization
+* **Performance Engineer**, ABC Startups (2015-2018)
+	+ Developed and maintained test scripts using industry-standard tools such as Apache JMeter and Gatling
+	+ Analyzed test results, providing actionable insights and recommendations for system improvements
+
+**Education:**
+
+* Bachelor's degree in Computer Science, Stanford University (2010-2014)
+
+Note that this resume snippet does not mention the candidate's experience with cloud-based systems and containerization technologies, nor does it explicitly state their ability to work effectively with cross-functional teams.

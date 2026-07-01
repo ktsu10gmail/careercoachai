@@ -1,0 +1,159 @@
+{
+  "job_title": "38. File Clerks",
+  "case_slug": "38-file-clerks",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.205908",
+  "match_score": 45.15,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 33.5,
+      "reason": "Found 1 direct, 7 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proficient in document management systems, including SharePoint and Documentum.",
+        "Skilled in data analysis using pandas and NumPy.",
+        "\"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office.",
+        "This resume snippet lacks the required skills for a File Clerk position, such as proficiency in Microsoft Office software, familiarity with document management systems, and strong organizational and time management skills."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 0 direct, 2 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Skilled in data analysis using pandas and NumPy."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 74.2,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proficient in document management systems, including SharePoint and Documentum.",
+        "Skilled in data analysis using pandas and NumPy.",
+        "\"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office.",
+        "This resume snippet lacks the required skills for a File Clerk position, such as proficiency in Microsoft Office software, familiarity with document management systems, and strong organizational and time management skills."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Perform data entry tasks using computer software, such as document management systems and spreadsheets",
+      "evidence": [
+        "Skilled in data analysis using pandas and NumPy."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office software, including Word, Excel, and Outlook",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with document management systems and database software",
+      "evidence": [
+        "Proficient in document management systems, including SharePoint and Documentum."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date records in a filing system, including both physical and electronic files",
+      "evidence": [
+        "Proficient in document management systems, including SharePoint and Documentum."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide support for special projects, including data extraction and preparation of reports",
+      "evidence": [
+        "Skilled in data analysis using pandas and NumPy."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Sort, categorize, and distribute incoming documents to designated departments or personnel",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Process and file outgoing documents, ensuring timely delivery to recipients",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain confidentiality and handle sensitive information with discretion",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Strong organizational and time management skills",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills for a File Clerk position, such as proficiency in Microsoft Office software, familiarity with document management systems, and strong organizational and time management skills.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of record-keeping laws and regulations, such as HIPAA or FERPA",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills for a File Clerk position, such as proficiency in Microsoft Office software, familiarity with document management systems, and strong organizational and time management skills.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proficient in document management systems, including SharePoint and Documentum.",
+      "supports": "Maintain accurate and up-to-date records in a filing system, including both physical and electronic files"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in data analysis using pandas and NumPy.",
+      "supports": "Perform data entry tasks using computer software, such as document management systems and spreadsheets"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in data analysis using pandas and NumPy.",
+      "supports": "Provide support for special projects, including data extraction and preparation of reports"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office.",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, 2 years of experience with Linux and Python scripting, proficient in Microsoft Office.",
+      "supports": "1-2 years of experience in a filing or administrative role"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

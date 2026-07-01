@@ -1,0 +1,40 @@
+**Domain Scope Trap Stress Test Engineer**
+
+We are seeking a highly skilled Stress Test Engineer to design, develop, and execute comprehensive stress testing scenarios for our Domain Scope Trap (DST) solution. As a key member of our Quality Assurance team, you will play a critical role in ensuring the reliability, scalability, and performance of our DST platform.
+
+**Job Summary:**
+
+As a Stress Test Engineer, you will be responsible for creating realistic and challenging test cases to simulate various types of traffic, loads, and failures on our DST solution. Your goal will be to identify potential bottlenecks, vulnerabilities, and areas for improvement in the system, allowing us to optimize its performance and ensure it meets the needs of our customers.
+
+**Responsibilities:**
+
+* Design and develop comprehensive stress testing scenarios for DST, including traffic patterns, load tests, and failure simulations
+* Execute test cases using various tools and techniques, such as load generators, network protocols, and API testing frameworks
+* Analyze test results, identify issues, and provide recommendations for improvement
+* Collaborate with cross-functional teams, including engineering, product management, and customer support, to ensure alignment and effective communication
+* Develop and maintain test plans, test cases, and reporting templates
+* Stay up-to-date with industry trends, emerging technologies, and best practices in stress testing and performance optimization
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing, performance engineering, or a related field
+* In-depth knowledge of network protocols, API design, and software architecture
+* Proficiency in load testing tools such as Apache JMeter, Gatling, or Locust
+* Experience with cloud-based infrastructure and containerization (e.g., Docker, Kubernetes)
+* Strong understanding of software development life cycles, Agile methodologies, and version control systems (e.g., Git)
+* Excellent analytical and problem-solving skills, with the ability to identify complex issues and develop effective solutions
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS: Experience with cloud-based software applications and APIs
+* Enterprise: Familiarity with large-scale enterprise environments and complex systems
+* Regulated Industry: Knowledge of regulatory requirements and compliance standards (e.g., HIPAA, PCI-DSS)
+* Global: Experience working with international teams and customers, with a strong understanding of global market trends and regulations
+* Multi-site: Ability to work with distributed systems and multiple site locations
+
+**Scope Qualifiers:**
+
+* High-volume: Experience with high-traffic scenarios and large-scale data sets
+* Low-latency: Familiarity with real-time systems and low-latency requirements
+* Enterprise-grade: Knowledge of enterprise-class software applications and infrastructure

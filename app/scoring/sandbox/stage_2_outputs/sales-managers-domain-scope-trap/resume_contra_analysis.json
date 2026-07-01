@@ -1,0 +1,170 @@
+{
+  "job_title": "Sales Managers",
+  "case_slug": "sales-managers-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.689170",
+  "match_score": 38.24,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 15.0,
+      "reason": "Found 0 direct, 6 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Analyzing market trends and competitor activity to inform sales decisions",
+        "Software/SaaS sales",
+        "Managed sales teams and developed strategies to drive revenue growth ( generic sales experience)",
+        "Analyzed market trends and competitor activity to inform sales decisions ( generic market analysis experience)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "manager",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed sales teams and developed strategies to drive revenue growth ( generic sales experience)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 40.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Analyzing market trends and competitor activity to inform sales decisions",
+        "Software/SaaS sales",
+        "Managed sales teams and developed strategies to drive revenue growth ( generic sales experience)",
+        "Analyzed market trends and competitor activity to inform sales decisions ( generic market analysis experience)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems.",
+      "evidence": [
+        "Analyzing market trends and competitor activity to inform sales decisions"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests to simulate various types of traffic and loads on our software applications",
+      "evidence": [
+        "Software/SaaS sales"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Identify and document potential security vulnerabilities and recommend mitigation strategies",
+      "evidence": [
+        "Managed sales teams and developed strategies to drive revenue growth ( generic sales experience)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies",
+      "evidence": [
+        "Analyzed market trends and competitor activity to inform sales decisions ( generic market analysis experience)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing software applications",
+      "evidence": [
+        "Software/SaaS sales"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, performance optimization, and reliability engineering",
+      "evidence": [
+        "Software/SaaS sales"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and analyze performance bottlenecks and provide recommendations for optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test scripts and tools to automate stress testing processes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on system performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools such as Apache JMeter, Gatling, or Locust",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Analyzing market trends and competitor activity to inform sales decisions",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to identify performance bottlenecks and ensure the reliability of our systems."
+    },
+    {
+      "source": "resume",
+      "quote": "Software/SaaS sales",
+      "supports": "Design and execute stress tests to simulate various types of traffic and loads on our software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed sales teams and developed strategies to drive revenue growth ( generic sales experience)",
+      "supports": "Identify and document potential security vulnerabilities and recommend mitigation strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "Analyzed market trends and competitor activity to inform sales decisions ( generic market analysis experience)",
+      "supports": "Stay up-to-date with industry trends and emerging technologies to continuously improve testing methodologies"
+    },
+    {
+      "source": "resume",
+      "quote": "Software/SaaS sales",
+      "supports": "3+ years of experience in stress testing software applications"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

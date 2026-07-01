@@ -1,0 +1,131 @@
+{
+  "job_title": "Sales Representatives (Wholesale/Manufacturing)",
+  "case_slug": "sales-representatives-wholesale-manufacturing",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:09.023937",
+  "match_score": 81.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 80.7,
+      "reason": "Found 8 direct, 6 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at manufacturing facilities and distribution centers, resulting in a 25% increase in sales revenue within the first year.",
+        "Results-driven Sales Representative with 3+ years of experience in wholesale and manufacturing sales, driving revenue growth through strategic relationships and product demonstrations.",
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, resulting in an average customer satisfaction rating of 95%.",
+        "Utilized Salesforce.com and Excel to manage and track customer orders, inventory levels, and payment status in real-time, ensuring seamless execution of sales strategies."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 80.7,
+      "reason": "Found 8 direct, 6 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at manufacturing facilities and distribution centers, resulting in a 25% increase in sales revenue within the first year.",
+        "Results-driven Sales Representative with 3+ years of experience in wholesale and manufacturing sales, driving revenue growth through strategic relationships and product demonstrations.",
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, resulting in an average customer satisfaction rating of 95%.",
+        "Utilized Salesforce.com and Excel to manage and track customer orders, inventory levels, and payment status in real-time, ensuring seamless execution of sales strategies."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at manufacturing facilities and distribution centers, resulting in a 25% increase in sales revenue within the first year.",
+        "Results-driven Sales Representative with 3+ years of experience in wholesale and manufacturing sales, driving revenue growth through strategic relationships and product demonstrations.",
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, resulting in an average customer satisfaction rating of 95%.",
+        "Utilized Salesforce.com and Excel to manage and track customer orders, inventory levels, and payment status in real-time, ensuring seamless execution of sales strategies."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain relationships with key decision-makers at manufacturing facilities and distribution centers to identify sales opportunities",
+      "evidence": [
+        "Developed and maintained strong relationships with key decision-makers at manufacturing facilities and distribution centers, resulting in a 25% increase in sales revenue within the first year."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Negotiate prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets",
+      "evidence": [
+        "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, resulting in an average customer satisfaction rating of 95%."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and track customer orders, inventory levels, and payment status in real-time using Salesforce.com and Excel",
+      "evidence": [
+        "Utilized Salesforce.com and Excel to manage and track customer orders, inventory levels, and payment status in real-time, ensuring seamless execution of sales strategies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of the manufacturing industry, including product types, production processes, and supply chain management",
+      "evidence": [
+        "Strong knowledge of the manufacturing industry, including product types, production processes, and supply chain management"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "evidence": [
+        "Excellent communication, negotiation, and interpersonal skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Salesforce.com, Excel, and Microsoft Office Suite (Word, PowerPoint, Outlook)",
+      "evidence": [
+        "Proficient in Salesforce.com, Excel, Microsoft Office Suite (Word, PowerPoint, Outlook), and CRM software (HubSpot)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Developed and maintained strong relationships with key decision-makers at manufacturing facilities and distribution centers, resulting in a 25% increase in sales revenue within the first year.",
+      "supports": "Develop and maintain relationships with key decision-makers at manufacturing facilities and distribution centers to identify sales opportunities"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Representative with 3+ years of experience in wholesale and manufacturing sales, driving revenue growth through strategic relationships and product demonstrations.",
+      "supports": "Conduct product demonstrations and presentations to showcase company products and services"
+    },
+    {
+      "source": "resume",
+      "quote": "Negotiated prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets, resulting in an average customer satisfaction rating of 95%.",
+      "supports": "Negotiate prices, terms, and delivery schedules with customers to meet their needs and achieve sales targets"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized Salesforce.com and Excel to manage and track customer orders, inventory levels, and payment status in real-time, ensuring seamless execution of sales strategies.",
+      "supports": "Manage and track customer orders, inventory levels, and payment status in real-time using Salesforce.com and Excel"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Sales Representative with 3+ years of experience in wholesale and manufacturing sales, driving revenue growth through strategic relationships and product demonstrations.",
+      "supports": "Identify and capitalize on new business opportunities through market research, competitor analysis, and industry trends"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

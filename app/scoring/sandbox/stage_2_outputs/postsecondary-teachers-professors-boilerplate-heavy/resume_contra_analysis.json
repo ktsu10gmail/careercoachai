@@ -1,0 +1,155 @@
+{
+  "job_title": "Postsecondary Teachers / Professors",
+  "case_slug": "postsecondary-teachers-professors-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:06.587699",
+  "match_score": 20.47,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 4.6,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 13 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Mentored students on academic matters, but did not have formal advising responsibilities.",
+        "Participated in departmental service activities, including committee work and event planning, but did not take on leadership roles or develop new programs/initiatives.",
+        "Professional Development:",
+        "Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 4.6,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 13 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Mentored students on academic matters, but did not have formal advising responsibilities.",
+        "Participated in departmental service activities, including committee work and event planning, but did not take on leadership roles or develop new programs/initiatives.",
+        "Professional Development:",
+        "Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 14.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Mentored students on academic matters, but did not have formal advising responsibilities.",
+        "Participated in departmental service activities, including committee work and event planning, but did not take on leadership roles or develop new programs/initiatives.",
+        "Professional Development:",
+        "Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Opportunities for professional development and growth",
+      "evidence": [
+        "Professional Development:"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landsca",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Mentored students on academic matters, but did not have formal advising responsibilities.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We offer a competitive salary and benefits package, including",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Participated in departmental service activities, including committee work and event planning, but did not take on leadership roles or develop new programs/initiatives.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Institution Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from candidates of all backgrounds, perspectives, and experiences.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Postsecondary Teachers/Professors**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a postsecondary teacher/professor at [Institution Name], you will have the opportunity to teach courses, conduct research, and mentor students in a dynamic and supportive academ",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Teach undergraduate and graduate courses in your area of expertise",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and implement curriculum that aligns with institutional goals and standards",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Mentored students on academic matters, but did not have formal advising responsibilities.",
+      "supports": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landsca"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in departmental service activities, including committee work and event planning, but did not take on leadership roles or develop new programs/initiatives.",
+      "supports": "We offer a competitive salary and benefits package, including"
+    },
+    {
+      "source": "resume",
+      "quote": "Professional Development:",
+      "supports": "Opportunities for professional development and growth"
+    },
+    {
+      "source": "resume",
+      "quote": "Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level.",
+      "supports": "Teach undergraduate and graduate courses in your area of expertise"
+    },
+    {
+      "source": "resume",
+      "quote": "Taught undergraduate courses in my area of expertise, but did not have experience teaching graduate-level courses or developing curriculum at the departmental level.",
+      "supports": "Develop and implement curriculum that aligns with institutional goals and standards"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

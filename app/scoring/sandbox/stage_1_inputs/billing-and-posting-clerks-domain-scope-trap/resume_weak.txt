@@ -1,0 +1,21 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Summary:**
+Highly skilled stress tester with 3+ years of experience in performance engineering. Proficient in scripting languages such as Python, Java, and C#. Experienced with load testing tools like Apache JMeter.
+
+**Experience:**
+
+* Stress Tester (2018-Present)
+	+ Designed and developed stress testing scenarios using Python scripts
+	+ Collaborated with development team to reproduce and resolve issues identified during testing
+	+ Utilized Apache JMeter for load testing and performance analysis
+* Performance Engineer (2015-2018)
+	+ Developed and executed test plans, scripts, and tools for various projects
+	+ Worked closely with cross-functional teams to identify and prioritize testing efforts
+
+**Skills:**
+
+* Scripting languages: Python, Java, C#
+* Load testing tools: Apache JMeter, Gatling
+* Cloud-based infrastructure: AWS, Azure
+* Performance analysis and problem-solving skills

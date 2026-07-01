@@ -1,0 +1,37 @@
+**Job Title:** Information Security Analysts / Cybersecurity Analysts
+
+**Job Summary:**
+
+We are seeking highly skilled Information Security Analysts/Cybersecurity Analysts to conduct stress testing on our scoring engine, ensuring its reliability and performance under extreme conditions.
+
+**Responsibilities:**
+
+* Conduct thorough analysis of the scoring engine's architecture and design
+* Develop and execute comprehensive stress test scenarios to identify potential vulnerabilities and performance bottlenecks
+* Collaborate with cross-functional teams to gather requirements and ensure alignment with business objectives
+* Design, implement, and execute testing protocols to simulate various attack vectors and scenarios
+* Analyze test results, identify trends, and provide actionable recommendations for improvement
+* Develop and maintain detailed test reports, including findings, recommendations, and mitigation strategies
+* Stay up-to-date with emerging threats, technologies, and industry best practices
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Cybersecurity, or related field; Master's degree preferred
+* 3+ years of experience in information security analysis, testing, or a related field
+* Strong knowledge of threat modeling, vulnerability assessment, and penetration testing methodologies
+* Experience with stress testing tools and techniques (e.g., Apache JMeter, NeoLoad)
+* Familiarity with cloud-based infrastructure and containerization technologies (e.g., AWS, Docker)
+* Excellent analytical, problem-solving, and communication skills
+
+**Preferred Skills:**
+
+* Experience with scoring engine development or similar complex systems
+* Knowledge of programming languages (e.g., Python, Java) and scripting tools (e.g., Bash, PowerShell)
+* Familiarity with DevOps practices and continuous integration/continuous deployment (CI/CD) pipelines
+* Certification in information security or a related field (e.g., CISSP, CEH)
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work on cutting-edge projects and contribute to the development of our scoring engine
+* Collaborative and dynamic work environment with a team of experienced professionals

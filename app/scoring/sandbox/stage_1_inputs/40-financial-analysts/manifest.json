@@ -1,0 +1,20 @@
+{
+  "job_title": "40. Financial Analysts",
+  "case_slug": "40-financial-analysts",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:29:45.585045",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

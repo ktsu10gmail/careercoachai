@@ -1,0 +1,167 @@
+{
+  "job_title": "22. Business Development Representatives",
+  "case_slug": "22-business-development-representatives",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:47.695989",
+  "match_score": 27.96,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.3,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing.",
+        "Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+        "Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\"",
+        "Demonstrated strong communication skills through effective proposal writing and presentation delivery, but had difficulty working independently without close supervision."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 40.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "1 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\""
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 57.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing.",
+        "Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+        "Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\"",
+        "Demonstrated strong communication skills through effective proposal writing and presentation delivery, but had difficulty working independently without close supervision."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "1-2 years of experience in business development, sales, or a related field",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets through effective lead generation and conversion strategies",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Identify and pursue new business opportunities through research, networking, and outreach to key decision-makers in target industries",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Create and present sales pitches, proposals, and presentations to potential clients",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proven track record of meeting or exceeding sales targets",
+      "evidence": [
+        "\"Results-driven business development professional with 1 year of experience in sales and marketing."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and maintain relationships with existing clients to increase revenue and expand services",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct product demonstrations and trials to showcase company offerings and build credibility",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, negotiation, and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong product knowledge and understanding of industry trends",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in CRM software (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Salesforce) and Microsoft Office Suite",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Demonstrated strong communication skills through effective proposal writing and presentation delivery, but had difficulty working independently without close supervision.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with business development tools such as HubSpot or LinkedIn Sales Navigator",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\"",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with data analysis and reporting software (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Utilized Microsoft Office Suite and basic Excel skills for data analysis, but lacked experience with business development tools such as HubSpot or LinkedIn Sales Navigator.\"",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business development professional with 1 year of experience in sales and marketing.",
+      "supports": "Identify and pursue new business opportunities through research, networking, and outreach to key decision-makers in target industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+      "supports": "Develop and maintain relationships with existing clients to increase revenue and expand services"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven ability to generate leads and build relationships with key decision-makers, but struggled to meet monthly sales targets due to limited product knowledge and CRM proficiency.",
+      "supports": "Conduct product demonstrations and trials to showcase company offerings and build credibility"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business development professional with 1 year of experience in sales and marketing.",
+      "supports": "Create and present sales pitches, proposals, and presentations to potential clients"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-driven business development professional with 1 year of experience in sales and marketing.",
+      "supports": "Meet or exceed monthly sales targets through effective lead generation and conversion strategies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

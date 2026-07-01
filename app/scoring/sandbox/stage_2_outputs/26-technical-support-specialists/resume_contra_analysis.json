@@ -1,0 +1,154 @@
+{
+  "job_title": "26. Technical Support Specialists",
+  "case_slug": "26-technical-support-specialists",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:48.021587",
+  "match_score": 51.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 47.5,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Provided technical support via phone, email, and chat platforms (did not participate in on-call rotations)",
+        "Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)",
+        "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)",
+        "Bachelor's degree in Computer Science or related field"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.5,
+      "reason": "Found 1 direct, 2 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)",
+        "Familiarity with cloud-based technologies such as AWS, Azure, and Google Cloud Platform",
+        "Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Provided technical support via phone, email, and chat platforms (did not participate in on-call rotations)",
+        "Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)",
+        "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)",
+        "Bachelor's degree in Computer Science or related field"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals",
+      "evidence": [
+        "Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience in technical support or a related field",
+      "evidence": [
+        "Bachelor's degree in Computer Science or related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Windows operating systems (Windows 10, Server 2019) and macOS",
+      "evidence": [
+        "Strong knowledge of Windows operating systems (Windows 10, Server 2019) and macOS"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based technologies such as AWS, Azure, and Google Cloud Platform",
+      "evidence": [
+        "Familiarity with cloud-based technologies such as AWS, Azure, and Google Cloud Platform"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA",
+      "evidence": [
+        "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with IT service management tools such as ServiceNow, JIRA, and BMC Helix",
+      "evidence": [
+        "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide technical support to internal customers via phone, email, and chat platforms",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Provided technical support via phone, email, and chat platforms (did not participate in on-call rotations)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain knowledge base articles and documentation to improve customer support",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotations for 24/7 support coverage",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with Linux operating systems (Ubuntu, Red Hat)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Provided technical support via phone, email, and chat platforms (did not participate in on-call rotations)",
+      "supports": "Provide technical support to internal customers via phone, email, and chat platforms"
+    },
+    {
+      "source": "resume",
+      "quote": "Troubleshooted hardware and software issues for desktops, laptops, mobile devices, and peripherals (limited experience with Linux operating systems)",
+      "supports": "Troubleshoot hardware and software issues for desktops, laptops, mobile devices, and peripherals"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)",
+      "supports": "Conduct remote troubleshooting sessions using tools such as TeamViewer, LogMeIn, and JIRA"
+    },
+    {
+      "source": "resume",
+      "quote": "Utilized tools such as TeamViewer, LogMeIn, and JIRA for remote troubleshooting sessions (not certified in CompTIA A+ or equivalent)",
+      "supports": "Monitor and report system performance and security incidents using tools such as Nagios, SolarWinds, and Splunk"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's degree in Computer Science or related field",
+      "supports": "2+ years of experience in technical support or a related field"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

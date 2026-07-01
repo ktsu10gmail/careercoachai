@@ -1,0 +1,147 @@
+{
+  "job_title": "49. Human Resources Assistants",
+  "case_slug": "49-human-resources-assistants",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:50.348046",
+  "match_score": 41.84,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.8,
+      "reason": "Found 1 direct, 9 adjacent, 1 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experience with employee onboarding processes, background checks, and routine communications.",
+        "\"High school diploma, 2 years of experience with ADP Workforce Now HRIS system, proficient in Microsoft Office Suite.",
+        "Strong organizational skills, but limited knowledge of employment laws and regulations."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with employee onboarding processes, background checks, and routine communications."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 87.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experience with employee onboarding processes, background checks, and routine communications.",
+        "\"High school diploma, 2 years of experience with ADP Workforce Now HRIS system, proficient in Microsoft Office Suite.",
+        "Strong organizational skills, but limited knowledge of employment laws and regulations."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with ADP Workforce Now HRIS system, proficient in Microsoft Office Suite."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in HRIS systems, including ADP Workforce Now or similar software",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with ADP Workforce Now HRIS system, proficient in Microsoft Office Suite."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong organizational and communication skills",
+      "evidence": [
+        "Strong organizational skills, but limited knowledge of employment laws and regulations."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with employee engagement platforms, such as Culture Amp or 15Five",
+      "evidence": [
+        "Experience with employee onboarding processes, background checks, and routine communications."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain accurate and up-to-date employee records in HRIS systems, including personnel files and benefits information",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with ADP Workforce Now HRIS system, proficient in Microsoft Office Suite."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Assist in the development and implementation of employee recognition programs",
+      "evidence": [
+        "Experience with employee onboarding processes, background checks, and routine communications."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Process employee onboarding documents, ensuring compliance with company policies and procedures",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Experience with employee onboarding processes, background checks, and routine communications.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Coordinate new hire orientations, training sessions, and other HR-related events",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in human resources or related field preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Ability to maintain confidentiality and handle sensitive information",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experience with employee onboarding processes, background checks, and routine communications.",
+      "supports": "Process employee onboarding documents, ensuring compliance with company policies and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, 2 years of experience with ADP Workforce Now HRIS system, proficient in Microsoft Office Suite.",
+      "supports": "Maintain accurate and up-to-date employee records in HRIS systems, including personnel files and benefits information"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with employee onboarding processes, background checks, and routine communications.",
+      "supports": "Assist in the development and implementation of employee recognition programs"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with employee onboarding processes, background checks, and routine communications.",
+      "supports": "Provide support for employee relations issues, including mediating conflicts and facilitating resolutions"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with employee onboarding processes, background checks, and routine communications.",
+      "supports": "Conduct routine background checks on new hires and ensure compliance with company policies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

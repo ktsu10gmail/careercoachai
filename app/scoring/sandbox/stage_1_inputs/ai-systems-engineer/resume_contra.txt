@@ -1,0 +1,28 @@
+Here's a contra-evidence resume snippet for an AI Systems Engineer position:
+
+"AI Systems Engineer Candidate
+
+Summary:
+Highly motivated and detail-oriented professional with 3+ years of experience in AI/ML development, deployment, and maintenance. Proficient in Python, C++, and Java programming languages, with experience in containerization using Docker and Kubernetes.
+
+Experience:
+
+* Designed and developed small-scale AI models using scikit-learn and TensorFlow
+* Collaborated with cross-functional teams to integrate AI solutions into existing software applications (limited scope)
+* Developed and maintained documentation for AI system architecture and data pipelines (incomplete)
+
+Skills:
+
+* Strong proficiency in Python, C++, and Java programming languages
+* Experience with containerization using Docker and Kubernetes
+* Familiarity with cloud-based infrastructure such as AWS
+
+Education:
+
+* Bachelor's degree in Computer Science, Electrical Engineering, or related field; Master's degree not pursued
+
+Certifications:
+
+* None
+
+Note: I've included some relevant terms to make the candidate appear qualified, but explicitly stated that they did not perform higher-scope requirements, such as designing and developing large-scale AI systems, collaborating with cross-functional teams on a larger scale, or participating in knowledge sharing and peer review of AI-related research papers."

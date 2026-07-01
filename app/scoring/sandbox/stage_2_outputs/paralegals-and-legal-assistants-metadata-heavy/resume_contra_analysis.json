@@ -1,0 +1,136 @@
+{
+  "job_title": "Paralegals and Legal Assistants",
+  "case_slug": "paralegals-and-legal-assistants-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:05.884737",
+  "match_score": 18.79,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 14 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 22.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine."
+      ]
+    }
+  ],
+  "requirement_matches": [],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to testing facilities and industry conferences (up to 20% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Provided by the employer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, performance",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and report defects or issues found during stress testing, working closely with the development team to reproduce and resolve them",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain automated testing frameworks and scripts to support ongoing testing efforts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide recommendations for process improvements and optimization",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying this knowledge to improve our testing methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, performance"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "supports": "Identify and report defects or issues found during stress testing, working closely with the development team to reproduce and resolve them"
+    },
+    {
+      "source": "resume",
+      "quote": "Note:** While I have experience with contract review and document organization, I did not design or execute comprehensive stress tests on a scoring engine.",
+      "supports": "5+ years of experience in stress testing or performance engineering"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

@@ -1,0 +1,151 @@
+{
+  "job_title": "Home Health and Personal Care Aides",
+  "case_slug": "home-health-and-personal-care-aides-clean-baseline",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:01.729976",
+  "match_score": 37.25,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.4,
+      "reason": "Found 2 direct, 6 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 62.6,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Home Health and Personal Care Aides",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Execute stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on findings and recommendations for improvement",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to identify potential vulnerabilities and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "3+ years of experience in software testing, quality assurance, or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, algorithms, and data structures",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Java, Python, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position.",
+      "supports": "Home Health and Personal Care Aides"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position.",
+      "supports": "Job Title: Stress Test Engineer"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position.",
+      "supports": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements you specified, as it would be a fictional example of a Stress Test Engineer applying for a Home Health and Personal Care Aide position.",
+      "supports": "Execute stress tests on the scoring engine, including load testing, endurance testing, and performance benchmarking"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the resume or job description has limited readable text."
+}

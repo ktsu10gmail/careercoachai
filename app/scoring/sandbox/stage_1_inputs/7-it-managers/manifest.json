@@ -1,0 +1,20 @@
+{
+  "job_title": "7. IT Managers",
+  "case_slug": "7-it-managers",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:20:09.442320",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

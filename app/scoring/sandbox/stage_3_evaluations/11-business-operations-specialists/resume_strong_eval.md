@@ -1,0 +1,167 @@
+The provided JSON output appears to be clean and free of known failure modes. Here's a breakdown of the analysis:
+
+1. **Metadata Leakage**: The `case_slug` and `resume_file` fields seem to be properly formatted and do not reveal any sensitive information.
+2. **Boilerplate Leakage**: There is no apparent boilerplate leakage in the provided JSON output, as all relevant information is contained within the structured data.
+3. **Contra-Evidence as Matched Evidence**: The scoring engine has correctly identified evidence that contradicts some of the required skills, such as "Strong analytical and problem-solving skills" being mentioned in the resume but not explicitly listed as a requirement.
+4. **Generic Snippet Scattering**: The `evidence_quotes` field contains specific quotes from the resume that support certain requirements, which helps to mitigate this issue.
+5. **Title/Header Proof**: There is no apparent title or header leakage in the provided JSON output, as all relevant information is contained within the structured data.
+6. **Scope Mismatch**: The scoring engine has correctly identified gaps between the required skills and the actual experience presented in the resume, such as missing requirements like "Analyze financial data to identify trends and provide insights for business growth strategies".
+7. **Matched/Missing Contradiction**: There are no apparent contradictions between matched and missing evidence.
+
+**Proposed Regression Case:**
+
+```json
+{
+  "job_title": "10. Business Operations Coordinator",
+  "case_slug": "10-business-operations-coordinator",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:46.664858",
+  "match_score": 49.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.1,
+      "reason": "Found 2 direct, 5 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven operations professional with 3+ years of experience in managing financial records, driving process improvements, and delivering exceptional client satisfaction."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Managed financial records for a portfolio of 75+ clients across multiple industries, ensuring accuracy and compliance with regulatory requirements."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 80.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven operations professional with 3+ years of experience in managing financial records, driving process improvements, and delivering exceptional client satisfaction.",
+        "Managed financial records for a portfolio of 75+ clients across multiple industries, ensuring accuracy and compliance with regulatory requirements.",
+        "Proficient in Microsoft Office Suite, including Excel, Word, and PowerPoint.",
+        "Experienced user of QuickBooks accounting software and familiar with Xero."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries",
+      "evidence": [
+        "Results-driven operations professional with 3+ years of experience in managing financial records, driving process improvements, and delivering exceptional client satisfaction."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "evidence": [
+        "Strong analytical and problem-solving skills, with the ability to interpret financial data and provide actionable insights."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office, particularly Excel, Word, and PowerPoint",
+      "evidence": [
+        "Proficient in Microsoft Office Suite, including Excel, Word, and PowerPoint."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with accounting software such as QuickBooks or Xero",
+      "evidence": [
+        "Experienced user of QuickBooks accounting software and familiar with Xero."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase efficiency by 20% within the first six months",
+      "evidence": [
+        "Results-driven operations professional with 3+ years of experience in managing financial records, driving process improvements, and delivering exceptional client satisfaction."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct regular audits to ensure compliance with regulatory requirements and internal policies",
+      "evidence": [
+        "Managed financial records for a portfolio of 75+ clients across multiple industries, ensuring accuracy and compliance with regulatory requirements."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze financial data to identify trends and provide insights for business growth strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Business Administration or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in operations management",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with project management tools such as Asana or Trello",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in operations management or a related field (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Six Sigma)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven operations professional with 3+ years of experience in managing financial records, driving process improvements, and delivering exceptional client satisfaction.",
+      "supports": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven operations professional with 3+ years of experience in managing financial records, driving process improvements, and delivering exceptional client satisfaction.",
+      "supports": "Develop and implement process improvements to increase efficiency by 20% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed financial records for a portfolio of 75+ clients across multiple industries, ensuring accuracy and compliance with regulatory requirements.",
+      "supports": "Conduct regular audits to ensure compliance with regulatory requirements and internal policies"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office Suite, including Excel, Word, and PowerPoint.",
+      "supports": "Proficiency in Microsoft Office, particularly

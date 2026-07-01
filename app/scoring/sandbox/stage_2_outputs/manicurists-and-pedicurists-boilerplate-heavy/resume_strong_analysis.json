@@ -1,0 +1,152 @@
+{
+  "job_title": "Manicurists and Pedicurists",
+  "case_slug": "manicurists-and-pedicurists-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:04.431781",
+  "match_score": 60.11,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 41.1,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Dedicated and detail-oriented nail technician with over 2 years of experience in providing exceptional manicures, pedicures, and nail enhancements.",
+        "+ Collaborated with other team members to achieve business goals and objectives, contributing to a 25% increase in sales within 6 months",
+        "+ Provided high-quality nail services to clients, resulting in a 95% client retention rate",
+        "Ability to work in a fast-paced environment, prioritizing multiple tasks and clients simultaneously"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 41.1,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Dedicated and detail-oriented nail technician with over 2 years of experience in providing exceptional manicures, pedicures, and nail enhancements.",
+        "+ Collaborated with other team members to achieve business goals and objectives, contributing to a 25% increase in sales within 6 months",
+        "+ Provided high-quality nail services to clients, resulting in a 95% client retention rate",
+        "Ability to work in a fast-paced environment, prioritizing multiple tasks and clients simultaneously"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Dedicated and detail-oriented nail technician with over 2 years of experience in providing exceptional manicures, pedicures, and nail enhancements.",
+        "+ Collaborated with other team members to achieve business goals and objectives, contributing to a 25% increase in sales within 6 months",
+        "+ Provided high-quality nail services to clients, resulting in a 95% client retention rate",
+        "Ability to work in a fast-paced environment, prioritizing multiple tasks and clients simultaneously"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide exceptional nail care services, including manicures, pedicures, and nail enhancements",
+      "evidence": [
+        "Dedicated and detail-oriented nail technician with over 2 years of experience in providing exceptional manicures, pedicures, and nail enhancements."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to health and safety standards",
+      "evidence": [
+        "Proven track record of delivering outstanding customer service, maintaining a clean and organized workspace, and staying up-to-date with the latest trends and techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain strong relationships with clients, ensuring excellent customer service and retention",
+      "evidence": [
+        "+ Developed and maintained strong relationships with clients, ensuring excellent customer service and loyalty"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Join Our Team of Nail Care Experts!**",
+      "evidence": [
+        "Dedicated and detail-oriented nail technician with over 2 years of experience in providing exceptional manicures, pedicures, and nail enhancements."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a Manicurist/Pedicurist, you'll play a vital role in helping us achieve our mission.",
+      "evidence": [
+        "+ Collaborated with other team members to achieve business goals and objectives, contributing to a 25% increase in sales within 6 months"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We strive to create a warm and welcoming environment where every client feels valued and appreciated.",
+      "evidence": [
+        "+ Provided high-quality nail services to clients, resulting in a 95% client retention rate"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "If you're looking for a challenging and rewarding role that allows you to grow and develop your skills, we want to hear from you!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a Manicurist/Pedicurist with [Company Name], you'll enjoy",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Dedicated and detail-oriented nail technician with over 2 years of experience in providing exceptional manicures, pedicures, and nail enhancements.",
+      "supports": "Join Our Team of Nail Care Experts!**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with other team members to achieve business goals and objectives, contributing to a 25% increase in sales within 6 months",
+      "supports": "As a Manicurist/Pedicurist, you'll play a vital role in helping us achieve our mission."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided high-quality nail services to clients, resulting in a 95% client retention rate",
+      "supports": "We strive to create a warm and welcoming environment where every client feels valued and appreciated."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Provided high-quality nail services to clients, resulting in a 95% client retention rate",
+      "supports": "Competitive hourly rate"
+    },
+    {
+      "source": "resume",
+      "quote": "Ability to work in a fast-paced environment, prioritizing multiple tasks and clients simultaneously",
+      "supports": "A fun and dynamic work environment"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

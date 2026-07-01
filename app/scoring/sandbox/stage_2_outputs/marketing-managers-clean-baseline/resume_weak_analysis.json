@@ -1,0 +1,172 @@
+{
+  "job_title": "Marketing Managers",
+  "case_slug": "marketing-managers-clean-baseline",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.748715",
+  "match_score": 45.21,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 19.6,
+      "reason": "Found 1 direct, 5 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in digital marketing, seeking to leverage my skills in data analysis, campaign optimization, and team leadership to drive business growth.",
+        "+ Collaborated with cross-functional teams to launch new product lines and promotions",
+        "+ Analyzed campaign performance using Google Analytics and provided actionable insights to improve future campaigns",
+        "Bachelor's Degree in Marketing, [University Name] (2015)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 33.3,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to launch new product lines and promotions"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 65.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in digital marketing, seeking to leverage my skills in data analysis, campaign optimization, and team leadership to drive business growth.",
+        "+ Collaborated with cross-functional teams to launch new product lines and promotions",
+        "+ Analyzed campaign performance using Google Analytics and provided actionable insights to improve future campaigns",
+        "Bachelor's Degree in Marketing, [University Name] (2015)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our engineering team, you will work closely with cross-functional teams to ensure the reliability, scalability, and security of our platform.",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to launch new product lines and promotions"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing and executing comprehensive stress testing scenarios to identify performance bottle",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in digital marketing, seeking to leverage my skills in data analysis, campaign optimization, and team leadership to drive business growth."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress testing scenarios to simulate real-world usage patterns and identify performance bottlenecks",
+      "evidence": [
+        "+ Analyzed campaign performance using Google Analytics and provided actionable insights to improve future campaigns"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for improvement",
+      "evidence": [
+        "+ Analyzed campaign performance using Google Analytics and provided actionable insights to improve future campaigns"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Engineering, or related field",
+      "evidence": [
+        "Bachelor's Degree in Marketing, [University Name] (2015)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Results-driven marketing professional with 5+ years of experience in digital marketing, seeking to leverage my skills in data analysis, campaign optimization, and team leadership to drive business growth."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type: Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of our scoring engine's architecture and functionality",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies to inform testing strategies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with containerization tools like Docker and Kubernetes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with cloud-based infrastructure and deployment models",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven marketing professional with 5+ years of experience in digital marketing, seeking to leverage my skills in data analysis, campaign optimization, and team leadership to drive business growth.",
+      "supports": "We are seeking a highly skilled Stress Test Engineer to join our team, responsible for designing and executing comprehensive stress testing scenarios to identify performance bottle"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to launch new product lines and promotions",
+      "supports": "As a key member of our engineering team, you will work closely with cross-functional teams to ensure the reliability, scalability, and security of our platform."
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed campaign performance using Google Analytics and provided actionable insights to improve future campaigns",
+      "supports": "Design and execute stress testing scenarios to simulate real-world usage patterns and identify performance bottlenecks"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Analyzed campaign performance using Google Analytics and provided actionable insights to improve future campaigns",
+      "supports": "Analyze test results, identify trends, and provide actionable recommendations for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "Bachelor's Degree in Marketing, [University Name] (2015)",
+      "supports": "Bachelor's degree in Computer Science, Engineering, or related field"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

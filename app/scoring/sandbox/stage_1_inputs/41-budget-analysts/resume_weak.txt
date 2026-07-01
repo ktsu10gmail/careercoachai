@@ -1,0 +1,20 @@
+Here's a weak or scope-mismatch resume snippet for a Budget Analyst position:
+
+"Budget Analyst
+
+* 2 years of experience in budgeting and financial analysis
+* Proficient in Excel, with some knowledge of SAP (used to balance personal checkbook)
+* Strong understanding of basic accounting principles
+* Familiarity with data analysis tools like Tableau (only used to create simple charts for school projects)
+
+Education:
+
+* Bachelor's degree in Business Administration
+
+Skills:
+
+* Microsoft Office Suite
+* Basic budgeting skills
+* Data entry and record-keeping"
+
+This resume snippet is weak because it lacks the required 3+ years of experience, strong knowledge of government budgeting processes, and proficiency in SAP or Oracle. The candidate also doesn't have a Master's degree in finance or accounting, nor any relevant certifications. Additionally, their experience with data analysis tools like Tableau is limited to school projects, which may not be sufficient for the role.

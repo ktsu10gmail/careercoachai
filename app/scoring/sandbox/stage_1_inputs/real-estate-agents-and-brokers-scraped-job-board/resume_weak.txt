@@ -1,0 +1,40 @@
+Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+John Doe
+Real Estate Agent/Broker Candidate
+
+Contact Information:
+(123) 456-7890 | [johndoe@email.com](mailto:johndoe@email.com)
+
+Summary:
+Highly motivated and experienced real estate agent/broker seeking a challenging role in the industry.
+
+Work Experience:
+
+* Real Estate Agent, ABC Realty (2018-Present)
+ + Utilized Microsoft Office to manage client relationships and track sales
+ + Developed strong communication skills through regular interactions with clients and colleagues
+ + Gained experience with CRM software to stay organized and efficient
+
+Skills:
++ Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)
++ Experienced with CRM software (Salesforce)
++ Strong communication and interpersonal skills
++ Ability to work independently and as part of a team
+
+Education:
+
+* High School Diploma, XYZ High School (2015)
+
+Certifications/Licenses:
+
+* Real Estate License, State of [State] (2018)
+* Basic Life Support Certification, American Heart Association (2020)
+
+Tools:
++ Familiarity with Git for version control
++ Experience with Node.js and Express.js for web development
+
+Personal Projects:
++ Developed a personal website using HTML, CSS, and JavaScript
++ Created a blog to share real estate industry insights and trends

@@ -1,0 +1,12 @@
+Here is a weak or scope-mismatch resume snippet for a Registered Nurse:
+
+**Registered Nurse**
+
+* 2+ years of experience in IT project management, utilizing tools like Jira, Trello, and Asana to coordinate team efforts
+* Proficient in low-level programming languages such as C and Assembly, with experience using debugging tools like GDB and LLDB
+* Strong understanding of operating system concepts, including Windows and Linux
+* Familiarity with network protocols and devices, including routers, switches, and firewalls
+* Experience with virtualization software, including VMware and VirtualBox
+* Basic knowledge of database management systems, including MySQL and MongoDB
+
+Note: This resume snippet lacks the required skills and experience for a Registered Nurse position, and instead highlights technical skills that are more relevant to an IT or programming role.

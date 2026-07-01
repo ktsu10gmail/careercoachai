@@ -1,0 +1,12 @@
+Here is a weak or scope-mismatch resume snippet:
+
+Licensed Practical/Vocational Nurse
+
+* Administered medications and performed vital signs in a small clinic setting
+* Developed care plans for patients with diabetes and hypertension
+* Conducted routine assessments to identify changes in patient condition, but mostly focused on wound care
+* Collaborated with multidisciplinary teams to coordinate patient care, but only within the clinic walls
+* Educated patients on disease management and self-care techniques, but didn't have much experience with medication adherence
+* Maintained accurate records using a basic electronic medical record system
+
+Note: This resume snippet lacks enterprise scope and focuses on low-level tools, such as administering medications in a small clinic setting. It also doesn't highlight the required skills for the job description, such as working with patients with complex medical needs or knowledge of EMRs.

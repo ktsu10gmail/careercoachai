@@ -1,0 +1,11 @@
+Here is a contra-evidence resume snippet:
+
+Highly skilled Technical Support Specialist with 2+ years of experience in technical support and problem-solving. Proficient in Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite.
+
+* Successfully provided technical support to customers via phone, email, and chat for 1 year.
+* Utilized strong problem-solving skills to resolve complex technical issues using various tools and platforms.
+* Collaborated with internal teams on a limited basis to resolve escalated cases, but did not participate in regular team meetings or contribute to case resolution efforts.
+* Developed knowledge of our products and services through online training and research, but did not complete any formal training programs or certifications.
+* Staying current on industry trends and emerging technologies through self-directed learning and online resources.
+
+Note: This resume snippet highlights some relevant skills and experience, but also includes explicit statements that the candidate did not perform certain higher-scope requirements, such as participating in stress testing of the scoring engine, collaborating with internal teams regularly, or completing formal training programs.

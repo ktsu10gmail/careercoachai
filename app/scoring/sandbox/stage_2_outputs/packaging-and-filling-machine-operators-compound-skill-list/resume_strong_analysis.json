@@ -1,0 +1,140 @@
+{
+  "job_title": "Packaging and Filling Machine Operators",
+  "case_slug": "packaging-and-filling-machine-operators-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:05.739985",
+  "match_score": 60.22,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 68.9,
+      "reason": "Found 7 direct, 5 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments.",
+        "Summary:",
+        "Collaborated with production team members to meet production targets and improve efficiency by 25%",
+        "Proficient in quality control software, including QCM and IQS"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 58.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments.",
+        "Summary:",
+        "Collaborated with production team members to meet production targets and improve efficiency by 25%",
+        "Proficient in quality control software, including QCM and IQS"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our production team, you will be responsible for operating and maintaining our packaging and filling machines to ensure efficient and high-quality product output",
+      "evidence": [
+        "Collaborated with production team members to meet production targets and improve efficiency by 25%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Operate and maintain packaging and filling machines to produce packaged products",
+      "evidence": [
+        "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, MATLAB, SolidWorks, Autodesk Inventor, 3D printing software (e.g.",
+      "evidence": [
+        "Skilled in CAD design tools, including Autodesk Inventor and SolidWorks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Slic3r, Cura), CAD design tools (e.g.",
+      "evidence": [
+        "Skilled in CAD design tools, including Autodesk Inventor and SolidWorks"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Fusion 360, SketchUp), PLC programming languages (e.g.",
+      "evidence": [
+        "Proficient in PLC programming languages, including Ladder Logic and Function Block Diagrams"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ladder Logic, Function Block Diagrams), SCADA systems (e.g.",
+      "evidence": [
+        "Proficient in PLC programming languages, including Ladder Logic and Function Block Diagrams"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Follow established procedures for loading, unloading, and handling materials",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in training and development programs to stay up-to-date on new technologies and techniques",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments.",
+      "supports": "Job Title:** Packaging and Filling Machine Operators"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Collaborated with production team members to meet production targets and improve efficiency by 25%",
+      "supports": "As a key member of our production team, you will be responsible for operating and maintaining our packaging and filling machines to ensure efficient and high-quality product output"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments.",
+      "supports": "Operate and maintain packaging and filling machines to produce packaged products"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly detail-oriented and efficient Packaging and Filling Machine Operator with 3+ years of experience operating and maintaining high-speed packaging and filling machines in fast-paced production environments.",
+      "supports": "Monitor machine performance and report any issues or malfunctions to the maintenance team"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

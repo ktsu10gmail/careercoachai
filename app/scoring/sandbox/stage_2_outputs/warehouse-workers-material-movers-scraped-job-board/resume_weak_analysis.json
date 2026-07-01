@@ -1,0 +1,152 @@
+{
+  "job_title": "Warehouse Workers / Material Movers",
+  "case_slug": "warehouse-workers-material-movers-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:11.722311",
+  "match_score": 48.22,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.8,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "To utilize my technical skills in a warehouse environment to optimize material handling and logistics.",
+        "Summary:",
+        "Highly motivated and detail-oriented individual with experience in operating forklifts, pallet jacks, and basic computer software.",
+        "Proficient in MS Office Suite and familiar with inventory management systems."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Education:"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 43.2,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "To utilize my technical skills in a warehouse environment to optimize material handling and logistics.",
+        "Summary:",
+        "Highly motivated and detail-oriented individual with experience in operating forklifts, pallet jacks, and basic computer software.",
+        "Proficient in MS Office Suite and familiar with inventory management systems."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "To utilize my technical skills in a warehouse environment to optimize material handling and logistics.",
+        "Summary:",
+        "Highly motivated and detail-oriented individual with experience in operating forklifts, pallet jacks, and basic computer software.",
+        "Proficient in MS Office Suite and familiar with inventory management systems."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operate material handling equipment (forklifts, pallet jacks, etc.) to move products within the warehouse",
+      "evidence": [
+        "Highly motivated and detail-oriented individual with experience in operating forklifts, pallet jacks, and basic computer software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintain a clean and organized workspace, adhering to safety standards",
+      "evidence": [
+        "Assisted in maintaining a clean and organized workspace"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, Anytown High School (2015)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Warehouse Workers / Material Movers**",
+      "evidence": [
+        "To utilize my technical skills in a warehouse environment to optimize material handling and logistics."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Receive, store, and ship out inventory according to company procedures",
+      "evidence": [
+        "Proficient in MS Office Suite and familiar with inventory management systems."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** WMR-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Apply Now**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "If you're physically fit, enjoy working with your hands, and are committed to teamwork, we want to hear from you!",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to lift up to 50 pounds and stand for long periods",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "To utilize my technical skills in a warehouse environment to optimize material handling and logistics.",
+      "supports": "Warehouse Workers / Material Movers**"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented individual with experience in operating forklifts, pallet jacks, and basic computer software.",
+      "supports": "Operate material handling equipment (forklifts, pallet jacks, etc.) to move products within the warehouse"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in MS Office Suite and familiar with inventory management systems.",
+      "supports": "Receive, store, and ship out inventory according to company procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Assisted in maintaining a clean and organized workspace",
+      "supports": "Maintain a clean and organized workspace, adhering to safety standards"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

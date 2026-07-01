@@ -1,0 +1,32 @@
+**Job Title:** Scoring Engine Stress Test Engineer
+
+**Job Summary:**
+
+We are seeking a highly skilled Scoring Engine Stress Test Engineer to join our team. As a key member of our engineering team, you will be responsible for designing and executing stress tests on our scoring engine to ensure its reliability, performance, and scalability.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine to identify performance bottlenecks and areas for improvement
+* Develop and maintain test plans, scripts, and tools to simulate various workloads and scenarios
+* Collaborate with cross-functional teams, including product management, engineering, and operations, to understand business requirements and ensure test coverage
+* Analyze test results, identify trends, and provide recommendations for optimization and improvement
+* Work closely with the development team to reproduce issues and collaborate on fixes
+* Develop and maintain documentation of testing procedures, test plans, and results
+
+**Required Skills:**
+
+* Bachelor's degree in Computer Science, Engineering, or related field
+* 3+ years of experience in software testing, engineering, or a related field
+* Strong understanding of computer systems, algorithms, and data structures
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with stress testing tools and frameworks (e.g. Apache JMeter, Gatling)
+* Excellent analytical and problem-solving skills
+* Strong communication and collaboration skills
+
+**Preferred Skills:**
+
+* Master's degree in Computer Science, Engineering, or related field
+* 5+ years of experience in software testing, engineering, or a related field
+* Experience with cloud-based technologies (e.g. AWS, Azure)
+* Knowledge of containerization technologies (e.g. Docker)
+* Certification in stress testing or performance engineering

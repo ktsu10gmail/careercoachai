@@ -1,0 +1,37 @@
+**Job Title:** Stress Test Engineer - Domain Scope Trap
+
+**Job Summary:**
+
+We are seeking a highly skilled and experienced Stress Test Engineer to join our team in conducting thorough stress testing of our scoring engine, specifically designed for domain scope trap scenarios. The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the system's reliability and scalability.
+
+**Responsibilities:**
+
+* Design and execute comprehensive stress tests on the scoring engine, focusing on domain scope trap scenarios
+* Develop and maintain test scripts, tools, and methodologies to simulate various types of traffic and loads
+* Collaborate with product management, engineering, and QA teams to identify performance bottlenecks and prioritize testing efforts
+* Analyze test results, identify trends, and provide actionable recommendations for system improvements
+* Develop and maintain documentation of testing procedures, test scripts, and results
+* Participate in regular team meetings and contribute to the development of testing strategies and methodologies
+
+**Required Skills:**
+
+* 3+ years of experience in stress testing or performance engineering
+* In-depth knowledge of scoring engines, specifically domain scope trap scenarios
+* Strong understanding of software architecture, scalability, and reliability principles
+* Proficiency in programming languages such as Python, Java, or C++
+* Experience with load testing tools (e.g., Apache JMeter, Gatling) and stress testing frameworks (e.g., Locust)
+* Excellent analytical and problem-solving skills, with ability to identify performance bottlenecks and optimize system performance
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS
+* Enterprise
+* Regulated industry (essential)
+
+**Scope Qualifiers:**
+
+* Global (essential)
+* Multi-site (desired)
+* High-volume (essential)
+* Low-latency (essential)

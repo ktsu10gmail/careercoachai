@@ -1,0 +1,160 @@
+{
+  "job_title": "8. Project Managers",
+  "case_slug": "8-project-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:53.664804",
+  "match_score": 32.37,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 13.6,
+      "reason": "Found 1 direct, 2 adjacent, 1 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Seeking a Project Manager role where I can apply my skills to manage multiple projects simultaneously.\"",
+        "\"Project Management Professional with 3+ years of experience in managing small-scale IT projects.",
+        "Skilled in Agile methodologies, including Scrum, and proficient in Asana project management tool."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 78.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 45.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Seeking a Project Manager role where I can apply my skills to manage multiple projects simultaneously.\"",
+        "\"Project Management Professional with 3+ years of experience in managing small-scale IT projects.",
+        "Skilled in Agile methodologies, including Scrum, and proficient in Asana project management tool."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "evidence": [
+        "Seeking a Project Manager role where I can apply my skills to manage multiple projects simultaneously.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of delivering projects on time, within budget, and to the required quality standards",
+      "evidence": [
+        "\"Project Management Professional with 3+ years of experience in managing small-scale IT projects."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Ability to work effectively with diverse teams, including technical and non-technical stakeholders",
+      "evidence": [
+        "Skilled in Agile methodologies, including Scrum, and proficient in Asana project management tool."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain project plans, including scope statements, timelines, and resource allocation plans",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular project status updates, progress reports, and risk assessments to identify potential issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage project budgets, track expenses, and ensure compliance with organizational financial policies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and mitigate risks, implementing mitigation strategies as needed",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct post-project reviews to evaluate success, identify areas for improvement, and implement process changes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in managing projects, preferably in a software development or IT environment",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: \"Project Management Professional with 3+ years of experience in managing small-scale IT projects.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong knowledge of Agile project management methodologies, including Scrum and Kanban",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication, interpersonal, and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in project management tools, such as Asana, Trello, Jira, or MS Project",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based project management tools, such as AWS Project Manager or Azure DevOps",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Seeking a Project Manager role where I can apply my skills to manage multiple projects simultaneously.\"",
+      "supports": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Project Management Professional with 3+ years of experience in managing small-scale IT projects.",
+      "supports": "5+ years of experience in managing projects, preferably in a software development or IT environment"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Project Management Professional with 3+ years of experience in managing small-scale IT projects.",
+      "supports": "Proven track record of delivering projects on time, within budget, and to the required quality standards"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in Agile methodologies, including Scrum, and proficient in Asana project management tool.",
+      "supports": "Ability to work effectively with diverse teams, including technical and non-technical stakeholders"
+    },
+    {
+      "source": "job_description",
+      "quote": "Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

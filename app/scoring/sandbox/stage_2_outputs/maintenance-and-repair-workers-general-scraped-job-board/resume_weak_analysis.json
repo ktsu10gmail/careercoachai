@@ -1,0 +1,174 @@
+{
+  "job_title": "Maintenance and Repair Workers, General",
+  "case_slug": "maintenance-and-repair-workers-general-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.366726",
+  "match_score": 48.15,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 28.1,
+      "reason": "Found 2 direct, 3 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures.",
+        "Previous experience includes working as a maintenance technician for a small manufacturing facility, where I was responsible for performing routine maintenance and repairs on equipment, machinery, and facilities.",
+        "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety.",
+        "Proficient in using hand tools such as wrenches, pliers, and screwdrivers, as well as power tools like drills, saws, and sanders."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 28.6,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures.",
+        "Previous experience includes working as a maintenance technician for a small manufacturing facility, where I was responsible for performing routine maintenance and repairs on equipment, machinery, and facilities.",
+        "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety.",
+        "Proficient in using hand tools such as wrenches, pliers, and screwdrivers, as well as power tools like drills, saws, and sanders."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 73.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures.",
+        "Previous experience includes working as a maintenance technician for a small manufacturing facility, where I was responsible for performing routine maintenance and repairs on equipment, machinery, and facilities.",
+        "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety.",
+        "Proficient in using hand tools such as wrenches, pliers, and screwdrivers, as well as power tools like drills, saws, and sanders."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Maintenance and Repair Worker, you will be responsible for performing routine maintenance and repairs on equipment, machinery, and facilities.",
+      "evidence": [
+        "Previous experience includes working as a maintenance technician for a small manufacturing facility, where I was responsible for performing routine maintenance and repairs on equipment, machinery, and facilities."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Use hand tools, power tools, and equipment to complete tasks",
+      "evidence": [
+        "Proficient in using hand tools such as wrenches, pliers, and screwdrivers, as well as power tools like drills, saws, and sanders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Maintenance and Repair Workers, General**",
+      "evidence": [
+        "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Perform routine maintenance and repairs on equipment, machinery, and facilities",
+      "evidence": [
+        "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "You will work independently and as part of a team to ensure that all tasks are completed efficiently and effectively.",
+      "evidence": [
+        "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "vocational training or certification preferred",
+      "evidence": [
+        "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** MTRW-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Comprehensive health insurance, 401(k) matching, paid time off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Identify and report any safety hazards or potential issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Read and follow blueprints, diagrams, and instructions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of work performed and materials used",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures.",
+      "supports": "Maintenance and Repair Workers, General**"
+    },
+    {
+      "source": "resume",
+      "quote": "Previous experience includes working as a maintenance technician for a small manufacturing facility, where I was responsible for performing routine maintenance and repairs on equipment, machinery, and facilities.",
+      "supports": "As a Maintenance and Repair Worker, you will be responsible for performing routine maintenance and repairs on equipment, machinery, and facilities."
+    },
+    {
+      "source": "resume",
+      "quote": "Certified in OSHA 30-Hour Construction Industry Outreach Training Program and have completed various online courses in HVAC repair and electrical safety.",
+      "supports": "You will work independently and as part of a team to ensure that all tasks are completed efficiently and effectively."
+    },
+    {
+      "source": "resume",
+      "quote": "\"Highly skilled maintenance professional with 3+ years of experience in troubleshooting and repairing industrial equipment, including HVAC systems, electrical panels, and plumbing fixtures.",
+      "supports": "Perform routine maintenance and repairs on equipment, machinery, and facilities"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in using hand tools such as wrenches, pliers, and screwdrivers, as well as power tools like drills, saws, and sanders.",
+      "supports": "Use hand tools, power tools, and equipment to complete tasks"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

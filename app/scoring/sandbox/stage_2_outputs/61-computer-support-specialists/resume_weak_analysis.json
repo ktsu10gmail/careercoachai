@@ -1,0 +1,165 @@
+{
+  "job_title": "61. Computer Support Specialists",
+  "case_slug": "61-computer-support-specialists",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:51.839599",
+  "match_score": 53.95,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 38.5,
+      "reason": "Found 3 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experienced with hardware troubleshooting and repair.",
+        "\"High school diploma, 2 years of experience as a freelance IT consultant.",
+        "Proficient in Windows and macOS operating systems.",
+        "Familiarity with network protocols (TCP/IP)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 82.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Windows and macOS operating systems.",
+        "Familiarity with network protocols (TCP/IP)."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 79.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experienced with hardware troubleshooting and repair.",
+        "\"High school diploma, 2 years of experience as a freelance IT consultant.",
+        "Proficient in Windows and macOS operating systems.",
+        "Familiarity with network protocols (TCP/IP)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 2 years of experience as a freelance IT consultant."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Windows, macOS, and Linux operating systems",
+      "evidence": [
+        "Proficient in Windows and macOS operating systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of antivirus software and malware removal techniques",
+      "evidence": [
+        "Knowledge of antivirus software and malware removal techniques."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with hardware troubleshooting and repair",
+      "evidence": [
+        "Experienced with hardware troubleshooting and repair."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with network protocols (TCP/IP, DNS, DHCP)",
+      "evidence": [
+        "Familiarity with network protocols (TCP/IP)."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Troubleshoot hardware and software issues with desktops, laptops, mobile devices, and peripherals",
+      "evidence": [
+        "Experienced with hardware troubleshooting and repair."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Provide technical support to end-users via phone, email, and in-person assistance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Install, configure, and maintain computer systems, networks, and applications",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Perform routine maintenance tasks, such as backups, updates, and virus scans",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in on-call rotations to provide 24/7 support for critical systems",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's or bachelor's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of experience as a computer support specialist or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong communication and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experienced with hardware troubleshooting and repair.",
+      "supports": "Troubleshoot hardware and software issues with desktops, laptops, mobile devices, and peripherals"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced with hardware troubleshooting and repair.",
+      "supports": "Develop and maintain knowledge base articles and troubleshooting guides for common issues"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, 2 years of experience as a freelance IT consultant.",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Windows and macOS operating systems.",
+      "supports": "Proficiency in Windows, macOS, and Linux operating systems"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced with hardware troubleshooting and repair.",
+      "supports": "Experience with hardware troubleshooting and repair"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

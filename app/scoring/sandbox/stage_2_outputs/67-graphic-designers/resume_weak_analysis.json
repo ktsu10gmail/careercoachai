@@ -1,0 +1,150 @@
+{
+  "job_title": "67. Graphic Designers",
+  "case_slug": "67-graphic-designers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:52.400861",
+  "match_score": 43.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Experience with HTML and CSS for web design elements.",
+        "Certified in graphic design from online course.\"",
+        "Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator.",
+        "Strong understanding of color theory and composition."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 36.1,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Experience with HTML and CSS for web design elements.",
+        "Certified in graphic design from online course.\"",
+        "Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator.",
+        "Strong understanding of color theory and composition."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 71.4,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Experience with HTML and CSS for web design elements.",
+        "Certified in graphic design from online course.\"",
+        "Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator.",
+        "Strong understanding of color theory and composition."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Experience with UI/UX design principles and human-centered design methodologies",
+      "evidence": [
+        "The mention of UI/UX principles is also vague and doesn't demonstrate a deep understanding of human-centered design methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+      "evidence": [
+        "Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of color theory, typography, and composition",
+      "evidence": [
+        "Strong understanding of color theory and composition."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Familiarity with HTML and CSS for web design elements",
+      "evidence": [
+        "Experience with HTML and CSS for web design elements."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop brand identities for clients through consistent design applications",
+      "evidence": [
+        "Experience with HTML and CSS for web design elements."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and implement website layouts, social media assets, and email campaigns",
+      "evidence": [
+        "Experience with HTML and CSS for web design elements."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Create visual elements for print and digital media, including logos, icons, graphics, and infographics",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and project management skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to meet deadlines and work independently with minimal supervision",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with motion graphics and animation software (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Experience with HTML and CSS for web design elements.",
+      "supports": "Develop brand identities for clients through consistent design applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with HTML and CSS for web design elements.",
+      "supports": "Design and implement website layouts, social media assets, and email campaigns"
+    },
+    {
+      "source": "resume",
+      "quote": "Experience with HTML and CSS for web design elements.",
+      "supports": "Conduct research on industry trends and competitor analysis to inform design decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Certified in graphic design from online course.\"",
+      "supports": "Manage and maintain a portfolio of work, including updating online profiles and showcasing designs in person"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Adobe Creative Suite, with expertise in Photoshop and Illustrator.",
+      "supports": "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,162 @@
+{
+  "job_title": "Retail Salespersons (overlap)",
+  "case_slug": "retail-salespersons-overlap-scraped-job-board",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:08.425996",
+  "match_score": 55.88,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.7,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Name: Emily J.",
+        "Summary:",
+        "Results-driven retail sales professional with 2+ years of experience driving sales growth, providing exceptional customer service, and maintaining a clean store environment.",
+        "Proven track record of meeting or exceeding monthly sales targets through effective product knowledge, upselling, and cross-selling."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 40.7,
+      "reason": "Found 4 direct, 4 adjacent, 0 domain/scope gaps, and 6 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Name: Emily J.",
+        "Summary:",
+        "Results-driven retail sales professional with 2+ years of experience driving sales growth, providing exceptional customer service, and maintaining a clean store environment.",
+        "Proven track record of meeting or exceeding monthly sales targets through effective product knowledge, upselling, and cross-selling."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Name: Emily J.",
+        "Summary:",
+        "Results-driven retail sales professional with 2+ years of experience driving sales growth, providing exceptional customer service, and maintaining a clean store environment.",
+        "Proven track record of meeting or exceeding monthly sales targets through effective product knowledge, upselling, and cross-selling."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a key member of our sales team, you will be responsible for driving sales growth, providing excellent customer service, and maintaining a clean and organized store environment.",
+      "evidence": [
+        "Results-driven retail sales professional with 2+ years of experience driving sales growth, providing exceptional customer service, and maintaining a clean store environment."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Meet or exceed monthly sales targets through effective product knowledge, upselling, and cross-selling",
+      "evidence": [
+        "Proven track record of meeting or exceeding monthly sales targets through effective product knowledge, upselling, and cross-selling."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Provide exceptional customer service, responding to customer inquiries and resolving issues in a professional manner",
+      "evidence": [
+        "+ Responded to customer inquiries and resolved issues in a professional manner, resulting in a 90% first-call resolution rate"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process transactions accurately and efficiently, handling cash, credit card transactions, and returns",
+      "evidence": [
+        "+ Processed transactions accurately and efficiently, handling cash, credit card transactions, and returns with a 99.9% accuracy rate"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Company:** [Scraped Company Name]",
+      "evidence": [
+        "Name: Emily J."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Retail Salespersons**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job ID:** RET-001",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Benefits:** Health, Dental, Vision, 401(k), Paid Time Off",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Restock shelves, face merchandise, and maintain visual merchandising standards",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "1-2 years of retail experience, preferably in a sales or customer service role",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Name: Emily J.",
+      "supports": "Company:** [Scraped Company Name]"
+    },
+    {
+      "source": "resume",
+      "quote": "Name: Emily J.",
+      "supports": "[Scraped Company Name] is a leading retailer of [Scraped Product Category]."
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven retail sales professional with 2+ years of experience driving sales growth, providing exceptional customer service, and maintaining a clean store environment.",
+      "supports": "As a key member of our sales team, you will be responsible for driving sales growth, providing excellent customer service, and maintaining a clean and organized store environment."
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of meeting or exceeding monthly sales targets through effective product knowledge, upselling, and cross-selling.",
+      "supports": "Meet or exceed monthly sales targets through effective product knowledge, upselling, and cross-selling"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,153 @@
+{
+  "job_title": "65. Marketing Specialists / Coordinators",
+  "case_slug": "65-marketing-specialists-coordinators",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:52.195165",
+  "match_score": 57.38,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 56.8,
+      "reason": "Found 6 direct, 3 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Proven track record of developing and implementing targeted social media campaigns, collaborating with cross-functional teams to create cohesive marketing strategies, and analyzing data to inform marketing decisions.",
+        "Managed and optimized email marketing campaigns using Mailchimp and Constant Contact, achieving an open rate of 30% and click-through rate of 15%",
+        "Strong project management skills, with experience using Asana to coordinate trade show appearances and product demonstrations",
+        "Proficient in Adobe Creative Suite (Photoshop, InDesign, Illustrator) with expertise in visual content creation"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Proven track record of developing and implementing targeted social media campaigns, collaborating with cross-functional teams to create cohesive marketing strategies, and analyzing data to inform marketing decisions.",
+        "Managed and optimized email marketing campaigns using Mailchimp and Constant Contact, achieving an open rate of 30% and click-through rate of 15%",
+        "Strong project management skills, with experience using Asana to coordinate trade show appearances and product demonstrations",
+        "Proficient in Adobe Creative Suite (Photoshop, InDesign, Illustrator) with expertise in visual content creation"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and implement targeted social media campaigns to increase brand awareness and engagement across multiple platforms (Facebook, Twitter, Instagram, LinkedIn)",
+      "evidence": [
+        "Proven track record of developing and implementing targeted social media campaigns, collaborating with cross-functional teams to create cohesive marketing strategies, and analyzing data to inform marketing decisions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage and optimize email marketing campaigns using tools such as Mailchimp and Constant Contact",
+      "evidence": [
+        "Managed and optimized email marketing campaigns using Mailchimp and Constant Contact, achieving an open rate of 30% and click-through rate of 15%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate trade show appearances and product demonstrations with internal stakeholders and external partners",
+      "evidence": [
+        "Strong project management skills, with experience using Asana to coordinate trade show appearances and product demonstrations"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with social media management tools such as Hootsuite or Sprout Social",
+      "evidence": [
+        "Experienced in social media management tools such as Hootsuite and Sprout Social, with ability to manage multiple accounts and schedules"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of email marketing best practices and campaign analytics",
+      "evidence": [
+        "Strong understanding of email marketing best practices and campaign analytics, with experience using Google Analytics for data analysis"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent written and verbal communication skills",
+      "evidence": [
+        "Excellent written and verbal communication skills, with ability to craft compelling content and present to internal stakeholders"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct market research and analyze data to inform marketing decisions and track campaign performance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and maintain a content calendar to ensure consistent brand messaging across all marketing channels",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "2+ years of experience in marketing or a related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of SEO principles and keyword research",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in HubSpot Inbound Marketing or similar marketing software",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Proven track record of developing and implementing targeted social media campaigns, collaborating with cross-functional teams to create cohesive marketing strategies, and analyzing data to inform marketing decisions.",
+      "supports": "Develop and implement targeted social media campaigns to increase brand awareness and engagement across multiple platforms (Facebook, Twitter, Instagram, LinkedIn)"
+    },
+    {
+      "source": "resume",
+      "quote": "Managed and optimized email marketing campaigns using Mailchimp and Constant Contact, achieving an open rate of 30% and click-through rate of 15%",
+      "supports": "Manage and optimize email marketing campaigns using tools such as Mailchimp and Constant Contact"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong project management skills, with experience using Asana to coordinate trade show appearances and product demonstrations",
+      "supports": "Coordinate trade show appearances and product demonstrations with internal stakeholders and external partners"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Adobe Creative Suite (Photoshop, InDesign, Illustrator) with expertise in visual content creation",
+      "supports": "Proficiency in Adobe Creative Suite (Photoshop, InDesign, Illustrator)"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in social media management tools such as Hootsuite and Sprout Social, with ability to manage multiple accounts and schedules",
+      "supports": "Experience with social media management tools such as Hootsuite or Sprout Social"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

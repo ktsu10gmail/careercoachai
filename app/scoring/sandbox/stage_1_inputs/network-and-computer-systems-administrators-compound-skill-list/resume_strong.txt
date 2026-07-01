@@ -1,0 +1,24 @@
+Here is a strong-match resume snippet with explicit affirmative evidence for most core requirements:
+
+**Network and Computer Systems Administrator**
+
+Highly skilled Network and Computer Systems Administrator with 5+ years of experience in designing, implementing, and maintaining network infrastructure, ensuring security and performance of computer systems.
+
+**Key Skills:**
+
+* Proven expertise in Red Hat Enterprise Linux, Windows Server 2019, Cisco IOS, Juniper SRX, VMware vSphere, AWS CloudFormation, Ansible, Docker, Kubernetes, Python 3.x, PowerShell 5.0, Nagios Core, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Git, Azure DevOps, Jenkins, Puppet, Chef, Ansible Tower, Cisco Umbrella, Fortinet FortiGate
+* Strong experience with containerization using Docker and Kubernetes, with a focus on scalability and performance optimization
+* In-depth knowledge of cloud security best practices, including AWS CloudFormation and Azure DevOps
+* Proficient in machine learning and artificial intelligence technologies, with experience in implementing AI-powered security solutions
+
+**Technical Expertise:**
+
+* Designed and implemented multiple network infrastructure projects, resulting in 30% increase in network performance and 25% reduction in downtime
+* Conducted regular vulnerability assessments and penetration testing, identifying and remediating over 100 security vulnerabilities
+* Developed and maintained technical documentation and knowledge base articles, reducing onboarding time for new team members by 50%
+* Collaborated with developers to ensure smooth integration of new systems and applications, resulting in a 20% increase in application uptime
+
+**Certifications:**
+
+* CompTIA Network+ certification, demonstrating expertise in network fundamentals and security best practices
+* Cisco CCNA certification, showcasing knowledge of Cisco networking technologies and protocols

@@ -1,0 +1,27 @@
+Responsibilities:
+
+* Manage multiple projects simultaneously, prioritizing tasks and allocating resources to meet project deadlines
+* Coordinate with cross-functional teams, including development, design, and quality assurance, to ensure seamless project execution
+* Develop and maintain project plans, including scope statements, timelines, and resource allocation plans
+* Conduct regular project status updates, progress reports, and risk assessments to identify potential issues
+* Collaborate with stakeholders to gather requirements, define project scope, and negotiate project deliverables
+* Manage project budgets, track expenses, and ensure compliance with organizational financial policies
+* Identify and mitigate risks, implementing mitigation strategies as needed
+* Conduct post-project reviews to evaluate success, identify areas for improvement, and implement process changes
+
+Required Skills:
+
+* 5+ years of experience in managing projects, preferably in a software development or IT environment
+* Proven track record of delivering projects on time, within budget, and to the required quality standards
+* Strong knowledge of Agile project management methodologies, including Scrum and Kanban
+* Excellent communication, interpersonal, and problem-solving skills
+* Ability to work effectively with diverse teams, including technical and non-technical stakeholders
+* Proficiency in project management tools, such as Asana, Trello, Jira, or MS Project
+
+Preferred Skills:
+
+* Experience with cloud-based project management tools, such as AWS Project Manager or Azure DevOps
+* Knowledge of IT service management frameworks, such as ITIL
+* Certification in project management, such as PMP or PRINCE2
+* Familiarity with version control systems, such as Git or SVN
+* Experience with continuous integration and delivery pipelines

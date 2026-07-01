@@ -1,0 +1,20 @@
+{
+  "job_title": "56. Network and Computer Systems Administrators",
+  "case_slug": "56-network-and-computer-systems-administrators",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:34:43.600690",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

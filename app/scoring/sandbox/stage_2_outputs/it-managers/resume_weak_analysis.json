@@ -1,0 +1,171 @@
+{
+  "job_title": "IT Managers",
+  "case_slug": "it-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:03.182866",
+  "match_score": 43.31,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 24.3,
+      "reason": "Found 2 direct, 4 adjacent, 0 domain/scope gaps, and 8 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience managing small-scale networks and servers.",
+        "Does not mention developing comprehensive IT strategies or collaborating with senior management",
+        "Skilled in troubleshooting and resolving technical issues.",
+        "Proficient in Windows Server, Linux, and cloud-based platforms (AWS)."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 82.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "senior"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 20.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in Windows Server, Linux, and cloud-based platforms (AWS).",
+        "Does not demonstrate expertise in cybersecurity tools and technologies, database management systems, or virtualization technologies"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 69.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience managing small-scale networks and servers.",
+        "Does not mention developing comprehensive IT strategies or collaborating with senior management",
+        "Skilled in troubleshooting and resolving technical issues.",
+        "Proficient in Windows Server, Linux, and cloud-based platforms (AWS)."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong knowledge of Windows Server, Linux, and cloud-based platforms (AWS, Azure)",
+      "evidence": [
+        "Proficient in Windows Server, Linux, and cloud-based platforms (AWS)."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with IT service management frameworks (ITIL) and agile methodologies",
+      "evidence": [
+        "Familiarity with IT service management frameworks (ITIL) and agile methodologies."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience managing small-scale networks and servers."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently",
+      "evidence": [
+        "Skilled in troubleshooting and resolving technical issues."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Proven track record of successfully managing IT teams and projects",
+      "evidence": [
+        "\"IT Professional with 3+ years of experience managing small-scale networks and servers."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills, with ability to work effectively with senior management and external partners",
+      "evidence": [
+        "Strong communication skills, with ability to work effectively with team members.\""
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Does not mention developing comprehensive IT strategies or collaborating with senior management",
+      "severity": "high"
+    },
+    {
+      "requirement": "Oversee the installation, configuration, and maintenance of hardware and software components, including servers, desktops, laptops, and mobile devices",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ensure compliance with industry regulations and standards, such as HIPAA, PCI-DSS, and GDPR",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and manage budgets for IT projects, tracking expenses and ensuring cost-effectiveness",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct regular security audits and vulnerability assessments to identify potential threats",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, Information Technology, or related field;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience as an IT professional or manager",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cybersecurity tools and technologies (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Does not demonstrate expertise in cybersecurity tools and technologies, database management systems, or virtualization technologies",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"IT Professional with 3+ years of experience managing small-scale networks and servers.",
+      "supports": "Manage a team of 5-7 IT professionals responsible for maintaining and upgrading the organization's computer systems, networks, and software applications"
+    },
+    {
+      "source": "resume",
+      "quote": "Does not mention developing comprehensive IT strategies or collaborating with senior management",
+      "supports": "Develop and implement comprehensive IT strategies to support business objectives, ensuring alignment with organizational goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Skilled in troubleshooting and resolving technical issues.",
+      "supports": "Troubleshoot complex technical issues, working closely with internal stakeholders to resolve problems efficiently"
+    },
+    {
+      "source": "resume",
+      "quote": "\"IT Professional with 3+ years of experience managing small-scale networks and servers.",
+      "supports": "Proven track record of successfully managing IT teams and projects"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Windows Server, Linux, and cloud-based platforms (AWS).",
+      "supports": "Strong knowledge of Windows Server, Linux, and cloud-based platforms (AWS, Azure)"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

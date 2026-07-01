@@ -1,0 +1,133 @@
+{
+  "job_title": "Chief Executive Officers / Top Executives",
+  "case_slug": "chief-executive-officers-top-executives-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.951668",
+  "match_score": 73.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 83.2,
+      "reason": "Found 9 direct, 5 adjacent, 0 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "+ Led a team of senior executives to achieve organizational goals, including a 30% increase in productivity and a 20% reduction in costs",
+        "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals.",
+        "Summary:",
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners, resulting in a 50% increase in new business opportunities"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 84.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "15 years",
+        "senior",
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Led the development and implementation of a cloud-based infrastructure using AWS, resulting in a 90% reduction in IT costs",
+        "Data analysis tools: Excel, Tableau, Power BI",
+        "Cloud platforms: AWS, Azure, Google Cloud Platform"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "+ Led a team of senior executives to achieve organizational goals, including a 30% increase in productivity and a 20% reduction in costs",
+        "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals.",
+        "Summary:",
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners, resulting in a 50% increase in new business opportunities"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The ideal candidate will have extensive experience in leading high-performing teams, developing and executing business plans, and making key decisions that impact the organization'",
+      "evidence": [
+        "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Leading and managing a team of senior executives to achieve organizational goals",
+      "evidence": [
+        "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Building and maintaining relationships with key stakeholders, including investors, customers, and partners",
+      "evidence": [
+        "+ Built and maintained relationships with key stakeholders, including investors, customers, and partners, resulting in a 50% increase in new business opportunities"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Overseeing the development and execution of business plans, budgets, and financial reports",
+      "evidence": [
+        "+ Oversaw the development and execution of business plans, budgets, and financial reports, ensuring accurate forecasting and timely decision-making"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Identifying and mitigating risks to ensure the organization's continued success",
+      "evidence": [
+        "+ Identified and mitigated risks to ensure the organization's continued success, implementing a risk management framework that reduced losses by 40%"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Collaborating with other departments to drive innovation and improve operational efficiency",
+      "evidence": [
+        "+ Collaborated with other departments to drive innovation and improve operational efficiency, implementing a lean principles framework that reduced cycle time by 50%"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "+ Led a team of senior executives to achieve organizational goals, including a 30% increase in productivity and a 20% reduction in costs",
+      "supports": "Chief Executive Officers / Top Executives**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals.",
+      "supports": "We are seeking a seasoned leader to join our team as a Chief Executive Officer (CEO) or top executive, responsible for driving business growth and strategy."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals.",
+      "supports": "The ideal candidate will have extensive experience in leading high-performing teams, developing and executing business plans, and making key decisions that impact the organization'"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven CEO with 15+ years of experience driving business growth, leading high-performing teams, and developing strategic plans to achieve organizational goals.",
+      "supports": "Developing and implementing strategic plans to drive business growth and expansion"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

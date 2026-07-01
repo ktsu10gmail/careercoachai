@@ -1,0 +1,20 @@
+{
+  "job_title": "55. Data Analysts",
+  "case_slug": "55-data-analysts",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:34:24.183840",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "job_title": "Human Resources Managers",
+  "case_slug": "human-resources-managers-metadata-heavy",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:02.143619",
+  "match_score": 36.65,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.1,
+      "reason": "Found 1 direct, 4 adjacent, 0 domain/scope gaps, and 9 missing evidence points for core JD requirements.",
+      "evidence": [
+        "The candidate's experience is in HR generalist roles, recruitment coordination, and education, which are not relevant to the job description.",
+        "This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+        "+ Managed day-to-day HR operations, including recruitment, benefits administration, and employee relations",
+        "Results-driven HR professional with 3+ years of experience in recruitment, talent management, and employee engagement."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 76.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "manager",
+        "implemented",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 8.8,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 3 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+        "HR software applications (e.g., Workday, BambooHR)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 62.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "The candidate's experience is in HR generalist roles, recruitment coordination, and education, which are not relevant to the job description.",
+        "This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+        "+ Managed day-to-day HR operations, including recruitment, benefits administration, and employee relations",
+        "Results-driven HR professional with 3+ years of experience in recruitment, talent management, and employee engagement."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "The candidate's experience is in HR generalist roles, recruitment coordination, and education, which are not relevant to the job description."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Conduct thorough analysis of system performance under different scenarios, including high traffic, concurrent user sessions, and resource-intensive operations",
+      "evidence": [
+        "+ Managed day-to-day HR operations, including recruitment, benefits administration, and employee relations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing or performance engineering",
+      "evidence": [
+        "Results-driven HR professional with 3+ years of experience in recruitment, talent management, and employee engagement."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Strong understanding of software architecture, scalability, and reliability principles",
+      "evidence": [
+        "HR software applications (e.g., Workday, BambooHR)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with test automation frameworks (e.g., Selenium, Appium)",
+      "evidence": [
+        "HR software applications (e.g., Workday, BambooHR)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Up to 20% of the work time will be spent at client sites in the US and Europe",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: The company will sponsor relocation expenses for successful candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress tests on our scoring engine platform.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Design and develop test plans, scripts, and tools to simulate various types of loads and stresses on the scoring engine",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain test automation frameworks to improve efficiency and reduce manual testing time",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze and report on test results, identifying trends and areas for improvement",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies, applying knowledge to enhance testing methodologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "The candidate's experience is in HR generalist roles, recruitment coordination, and education, which are not relevant to the job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing, developing, and executing comprehensive stress tests on our scoring engine platform."
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Design and develop test plans, scripts, and tools to simulate various types of loads and stresses on the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Managed day-to-day HR operations, including recruitment, benefits administration, and employee relations",
+      "supports": "Conduct thorough analysis of system performance under different scenarios, including high traffic, concurrent user sessions, and resource-intensive operations"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required skills and experience for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Develop and maintain test automation frameworks to improve efficiency and reduce manual testing time"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

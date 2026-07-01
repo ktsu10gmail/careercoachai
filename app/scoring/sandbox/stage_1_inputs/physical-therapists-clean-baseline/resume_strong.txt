@@ -1,0 +1,34 @@
+Here is a strong-match resume snippet for a Physical Therapist position:
+
+**Physical Therapist**
+
+Highly motivated and detail-oriented Physical Therapist with 3+ years of experience in stress testing and performance evaluation. Proven track record of identifying defects and issues with complex systems, with a strong understanding of scoring engine architecture and functionality.
+
+**Professional Experience:**
+
+* Senior Stress Tester, XYZ Corporation (2020-Present)
+ + Conducted thorough testing of scoring engines using standardized test protocols, resulting in 95% defect rate reduction
+ + Collaborated with cross-functional teams to reproduce and troubleshoot defects, improving overall system reliability by 30%
+ + Developed and maintained detailed test plans and execution reports, ensuring timely delivery of results
+* Physical Therapist, ABC Clinic (2018-2020)
+ + Conducted patient assessments and developed personalized treatment plans, resulting in 25% increase in patient satisfaction
+
+**Education:**
+
+* Master's Degree in Physical Therapy, [University Name] (2018)
+
+**Skills:**
+
+* Stress testing and performance evaluation
+* Scoring engine architecture and functionality
+* Analytical and problem-solving skills
+* Test automation tools (Selenium, Appium)
+* Agile development methodologies
+* Machine learning algorithms
+
+**Certifications/Awards:**
+
+* Certified Stress Tester, [Certification Name] (2020)
+* Outstanding Achievement Award, XYZ Corporation (2022)
+
+Note: I've used realistic wording and avoided copying the job description as if it were candidate evidence. The resume snippet highlights the candidate's relevant experience, skills, and education, while also showcasing their achievements and certifications.

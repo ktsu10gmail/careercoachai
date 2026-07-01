@@ -1,0 +1,149 @@
+{
+  "job_title": "Market Research Analysts",
+  "case_slug": "market-research-analysts-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:04.552695",
+  "match_score": 48.26,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 31.8,
+      "reason": "Found 1 direct, 9 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with cross-functional teams to develop marketing strategies",
+        "Results-driven professional with 2+ years of experience in market research, focusing on consumer behavior and trends.",
+        "+ Analyzed data using statistical software (e.g., R, SPSS)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.3,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 50.0,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note that this resume snippet lacks the essential domain qualifier of \"Market Research\" and omits specific experience in high-volume or low-latency market research scenarios."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 89.7,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "+ Collaborated with cross-functional teams to develop marketing strategies",
+        "Results-driven professional with 2+ years of experience in market research, focusing on consumer behavior and trends.",
+        "+ Analyzed data using statistical software (e.g., R, SPSS)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong communication and collaboration skills, with experience working with cross-functional teams",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop marketing strategies"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the ",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop marketing strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test scripts, tools, and methodologies to simulate various types of traffic and loads",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop marketing strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain documentation of testing procedures, test scripts, and results",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop marketing strategies"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in regular team meetings and contribute to the development of testing strategies and methodologies",
+      "evidence": [
+        "+ Collaborated with cross-functional teams to develop marketing strategies"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on the scoring engine, focusing on domain scope trap scenarios",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify trends, and provide actionable recommendations for system improvements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of scoring engines, specifically domain scope trap scenarios",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop marketing strategies",
+      "supports": "The successful candidate will be responsible for simulating high-volume traffic, identifying performance bottlenecks, and collaborating with cross-functional teams to optimize the "
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop marketing strategies",
+      "supports": "Develop and maintain test scripts, tools, and methodologies to simulate various types of traffic and loads"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop marketing strategies",
+      "supports": "Develop and maintain documentation of testing procedures, test scripts, and results"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Collaborated with cross-functional teams to develop marketing strategies",
+      "supports": "Participate in regular team meetings and contribute to the development of testing strategies and methodologies"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

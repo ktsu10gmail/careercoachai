@@ -1,0 +1,161 @@
+{
+  "job_title": "43. Tax Preparers",
+  "case_slug": "43-tax-preparers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.752034",
+  "match_score": 24.62,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 13.8,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 10 missing evidence points for core JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+        "\"High school diploma, 2 years of experience with TurboTax, proficient in Excel and QuickBooks.",
+        "Strong analytical skills, excellent communication skills.",
+        "Additionally, it does not highlight any specific certifications, experience with tax law and regulations, or bilingualism, which are preferred skills for the position."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block."
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Evidence quality",
+      "score": 37.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+        "\"High school diploma, 2 years of experience with TurboTax, proficient in Excel and QuickBooks.",
+        "Strong analytical skills, excellent communication skills.",
+        "Additionally, it does not highlight any specific certifications, experience with tax law and regulations, or bilingualism, which are preferred skills for the position."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "\"High school diploma, 2 years of experience with TurboTax, proficient in Excel and QuickBooks."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong analytical and problem-solving skills",
+      "evidence": [
+        "Strong analytical skills, excellent communication skills."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Prepare tax returns for individuals and small businesses using tax preparation software (e.g., TurboTax, H&R Block)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct interviews with clients to gather necessary information for tax preparation",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Review and analyze client financial data to identify deductions and credits",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Complete and submit tax returns electronically or by mail",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Respond to client inquiries and resolve tax-related issues in a timely manner",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Maintain accurate records of client information and tax return submissions",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree in accounting or related field preferred",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "1-2 years of experience as a tax preparer or in a related field (e.g., bookkeeping, accounting)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in tax preparation software (e.g., TurboTax, H&R Block)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent communication and customer service skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification as a Certified Public Accountant (CPA) or Enrolled Agent (EA) preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with tax law and regulations",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Additionally, it does not highlight any specific certifications, experience with tax law and regulations, or bilingualism, which are preferred skills for the position.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "supports": "Prepare tax returns for individuals and small businesses using tax preparation software (e.g., TurboTax, H&R Block)"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "supports": "Conduct interviews with clients to gather necessary information for tax preparation"
+    },
+    {
+      "source": "resume",
+      "quote": "\"High school diploma, 2 years of experience with TurboTax, proficient in Excel and QuickBooks.",
+      "supports": "High school diploma or equivalent required;"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "supports": "associate's degree in accounting or related field preferred"
+    },
+    {
+      "source": "resume",
+      "quote": "This resume snippet lacks the required 1-2 years of experience as a tax preparer or in a related field, and does not mention proficiency in other tax preparation software such as H&R Block.",
+      "supports": "1-2 years of experience as a tax preparer or in a related field (e.g., bookkeeping, accounting)"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

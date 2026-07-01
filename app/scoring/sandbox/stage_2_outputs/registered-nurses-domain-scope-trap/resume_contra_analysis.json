@@ -1,0 +1,146 @@
+{
+  "job_title": "Registered Nurses",
+  "case_slug": "registered-nurses-domain-scope-trap",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:08.130258",
+  "match_score": 63.37,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.4,
+      "reason": "Found 1 direct, 10 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.",
+        "+ Managed high-pressure situations and prioritized tasks to ensure timely patient care",
+        "Note: While I have experience working in fast-paced clinical environments, I do not have direct experience with stress testing or performance engineering."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 67.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "+ Collaborated with cross-functional teams, including physicians and other healthcare professionals, to develop and implement effective treatment plans",
+        "Excellent problem-solving skills, with ability to interpret complex data sets"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 96.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.",
+        "+ Managed high-pressure situations and prioritized tasks to ensure timely patient care",
+        "Note: While I have experience working in fast-paced clinical environments, I do not have direct experience with stress testing or performance engineering."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong analytical and problem-solving skills, with ability to interpret complex data sets",
+      "evidence": [
+        "Excellent problem-solving skills, with ability to interpret complex data sets"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Excellent communication and collaboration skills, with ability to work effectively with cross-functional teams",
+      "evidence": [
+        "+ Collaborated with cross-functional teams, including physicians and other healthcare professionals, to develop and implement effective treatment plans"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou",
+      "evidence": [
+        "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking",
+      "evidence": [
+        "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload",
+      "evidence": [
+        "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "3+ years of experience in stress testing, performance engineering, or a related field",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: While I have experience working in fast-paced clinical environments, I do not have direct experience with stress testing or performance engineering.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools, such as Apache JMeter, Gatling, or Locust",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: While I have experience working in fast-paced clinical environments, I do not have direct experience with stress testing or performance engineering.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.",
+      "supports": "The successful candidate will be responsible for designing, executing, and analyzing stress tests to ensure the reliability, scalability, and performance of our system under variou"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.",
+      "supports": "Design and execute stress tests for the domain scope trap feature, including load testing, endurance testing, and performance benchmarking"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.",
+      "supports": "Develop and maintain test plans, scripts, and tools to simulate realistic user behavior and workload"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced Registered Nurse with 5+ years of experience in clinical settings, seeking to leverage my skills in stress management and patient care to transition into a Stress Test Engineer role.",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,149 @@
+{
+  "job_title": "Urban and Regional Planners",
+  "case_slug": "urban-and-regional-planners-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:11.271714",
+  "match_score": 68.65,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 61.2,
+      "reason": "Found 7 direct, 1 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Urban and Regional Planners",
+        "Highly skilled Stress Test Engineer with expertise in designing and executing stress tests on complex systems.",
+        "Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines",
+        "Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 49.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.3,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Urban and Regional Planners",
+        "Highly skilled Stress Test Engineer with expertise in designing and executing stress tests on complex systems.",
+        "Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines",
+        "Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Urban and Regional Planners",
+      "evidence": [
+        "Urban and Regional Planners"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on scoring engines to identify potential bottlenecks and areas for improv",
+      "evidence": [
+        "Highly skilled Stress Test Engineer with expertise in designing and executing stress tests on complex systems."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on scoring engines",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Execute stress tests using a variety of tools and platforms, including but not limited to: JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Sele",
+      "evidence": [
+        "Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain documentation of stress test plans, test results, and recommendations for improvements",
+      "evidence": [
+        "Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, SQL, HTML/CSS, Docker, Kubernetes, AWS CloudFormation, Azure DevOps, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestCompl",
+      "evidence": [
+        "Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title: Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Analyze test results and identify areas for improvement in scoring engine performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies related to stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Urban and Regional Planners",
+      "supports": "Urban and Regional Planners"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly skilled Stress Test Engineer with expertise in designing and executing stress tests on complex systems.",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, implementing, and executing stress tests on scoring engines to identify potential bottlenecks and areas for improv"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines",
+      "supports": "Design and develop comprehensive stress test plans to simulate various scenarios and loads on scoring engines"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in various tools, including JMeter, Docker, Kubernetes, AWS CloudFormation, and Azure DevOps.",
+      "supports": "Execute stress tests using a variety of tools and platforms, including but not limited to: JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, SilkTest, TestComplete, Sele"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed comprehensive stress test plans to simulate various scenarios and loads on scoring engines",
+      "supports": "Develop and maintain documentation of stress test plans, test results, and recommendations for improvements"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

@@ -1,0 +1,20 @@
+{
+  "ai": ["artificial intelligence", "machine learning", "ml", "llm", "generative ai", "genai"],
+  "api": ["apis", "rest api", "rest apis", "restful", "fastapi", "flask", "django", "express"],
+  "aws": ["amazon web services", "ec2", "s3", "lambda", "cloudwatch", "eks", "ecs"],
+  "azure": ["microsoft azure", "aks", "azure devops", "azure functions"],
+  "ci/cd": ["cicd", "continuous integration", "continuous delivery", "github actions", "gitlab ci", "jenkins"],
+  "cloud": ["aws", "azure", "gcp", "google cloud", "kubernetes", "terraform"],
+  "containers": ["docker", "kubernetes", "k8s", "openshift", "containerization"],
+  "database": ["sql", "postgresql", "mysql", "oracle", "sql server", "mongodb"],
+  "devops": ["sre", "platform engineering", "automation", "infrastructure as code", "ci/cd"],
+  "gcp": ["google cloud", "google cloud platform", "gke", "cloud run", "bigquery"],
+  "github": ["git", "github actions", "pull request", "code review"],
+  "linux": ["rhel", "red hat", "ubuntu", "centos", "rocky linux", "debian", "unix"],
+  "llm": ["large language model", "ollama", "openai", "gemini", "rag", "prompt engineering"],
+  "monitoring": ["observability", "prometheus", "grafana", "datadog", "splunk", "cloudwatch"],
+  "python": ["fastapi", "django", "flask", "pandas", "numpy", "pytest"],
+  "sql": ["postgresql", "mysql", "oracle", "sql server", "database", "queries"],
+  "terraform": ["infrastructure as code", "iac", "cloudformation", "pulumi"],
+  "windows": ["active directory", "powershell", "microsoft server", "windows server"]
+}

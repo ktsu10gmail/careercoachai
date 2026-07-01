@@ -1,0 +1,156 @@
+{
+  "job_title": "Dental Assistants",
+  "case_slug": "dental-assistants-metadata-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:58.499968",
+  "match_score": 42.14,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 40.7,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "This is because the candidate did not have these skills, despite mentioning them in the job description.",
+        "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles.",
+        "+ Designed and executed stress tests on various systems, including web applications and databases"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 52.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "3 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "Note that this resume snippet does not mention experience with cloud-based technologies, containerization, or orchestration tools, nor does it highlight proficiency in programming languages such as Java or C++."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "This is because the candidate did not have these skills, despite mentioning them in the job description.",
+        "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles.",
+        "+ Designed and executed stress tests on various systems, including web applications and databases"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality",
+      "evidence": [
+        "+ Developed and maintained a comprehensive testing framework using Python and Selenium"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "5+ years of experience in stress testing, performance engineering, or a related field",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "In-depth knowledge of software development life cycles, testing methodologies, and quality assurance principles",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results, identify issues, and work with the development team to resolve defects and implement fixes",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the improvement of the scoring engine's architecture and design",
+      "evidence": [
+        "+ Participated in code reviews and contributed to the improvement of the application's architecture and design"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability",
+      "evidence": [
+        "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and training events (up to 10% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: This is because the candidate did not have these skills, despite mentioning them in the job description.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with cloud-based technologies, containerization, and orchestration tools (e.g., Kubernetes)",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note that this resume snippet does not mention experience with cloud-based technologies, containerization, or orchestration tools, nor does it highlight proficiency in programming languages such as Java or C++.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "supports": "Security Clearance: Not required, but a valid passport is necessary for occasional remote work"
+    },
+    {
+      "source": "resume",
+      "quote": "This is because the candidate did not have these skills, despite mentioning them in the job description.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly motivated and detail-oriented professional with 3+ years of experience in testing and performance engineering, seeking to leverage my analytical skills and passion for software development life cycles.",
+      "supports": "As a key member of our engineering team, you will be responsible for designing and executing comprehensive stress tests on our scoring engine to ensure its reliability, scalability"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Designed and executed stress tests on various systems, including web applications and databases",
+      "supports": "Design and execute stress tests on the scoring engine to identify bottlenecks and areas for improvement"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Developed and maintained a comprehensive testing framework using Python and Selenium",
+      "supports": "Develop and maintain a comprehensive testing framework to ensure thorough coverage of the scoring engine's functionality"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

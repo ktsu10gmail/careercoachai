@@ -1,0 +1,21 @@
+{
+  "job_title": "Sales Managers (overlap)",
+  "case_slug": "sales-managers-overlap-compound-skill-list",
+  "scenario": "compound_skill_list",
+  "generator": "ollama",
+  "generated_at": "2026-06-30T20:07:06.832951",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

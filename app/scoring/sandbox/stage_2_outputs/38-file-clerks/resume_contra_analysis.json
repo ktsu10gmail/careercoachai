@@ -1,0 +1,150 @@
+{
+  "job_title": "38. File Clerks",
+  "case_slug": "38-file-clerks",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:49.148407",
+  "match_score": 56.27,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 66.2,
+      "reason": "Found 6 direct, 4 adjacent, 0 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Results-oriented administrative professional with experience in filing and data entry.",
+        "Successfully sorted and distributed incoming documents to designated departments or personnel",
+        "Processed and filed outgoing documents, ensuring timely delivery to recipients",
+        "Performed data entry tasks using computer software, including document management systems and spreadsheets"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 33.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "entry"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 82.5,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Performed data entry tasks using computer software, including document management systems and spreadsheets",
+        "\"Results-oriented administrative professional with experience in filing and data entry."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Results-oriented administrative professional with experience in filing and data entry.",
+        "Successfully sorted and distributed incoming documents to designated departments or personnel",
+        "Processed and filed outgoing documents, ensuring timely delivery to recipients",
+        "Performed data entry tasks using computer software, including document management systems and spreadsheets"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Sort, categorize, and distribute incoming documents to designated departments or personnel",
+      "evidence": [
+        "Successfully sorted and distributed incoming documents to designated departments or personnel"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Process and file outgoing documents, ensuring timely delivery to recipients",
+      "evidence": [
+        "Processed and filed outgoing documents, ensuring timely delivery to recipients"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Perform data entry tasks using computer software, such as document management systems and spreadsheets",
+      "evidence": [
+        "Performed data entry tasks using computer software, including document management systems and spreadsheets"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office software, including Word, Excel, and Outlook",
+      "evidence": [
+        "Proficient in Microsoft Office software, including Word, Excel, and Outlook."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Familiarity with document management systems and database software",
+      "evidence": [
+        "Familiarity with document management systems and database software."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong organizational and time management skills",
+      "evidence": [
+        "Strong organizational and time management skills."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Maintain confidentiality and handle sensitive information with discretion",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Knowledge of record-keeping laws and regulations, such as HIPAA or FERPA",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented administrative professional with experience in filing and data entry.",
+      "supports": "Maintain accurate and up-to-date records in a filing system, including both physical and electronic files"
+    },
+    {
+      "source": "resume",
+      "quote": "Successfully sorted and distributed incoming documents to designated departments or personnel",
+      "supports": "Sort, categorize, and distribute incoming documents to designated departments or personnel"
+    },
+    {
+      "source": "resume",
+      "quote": "Processed and filed outgoing documents, ensuring timely delivery to recipients",
+      "supports": "Process and file outgoing documents, ensuring timely delivery to recipients"
+    },
+    {
+      "source": "resume",
+      "quote": "Performed data entry tasks using computer software, including document management systems and spreadsheets",
+      "supports": "Perform data entry tasks using computer software, such as document management systems and spreadsheets"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Results-oriented administrative professional with experience in filing and data entry.",
+      "supports": "Provide support for special projects, including data extraction and preparation of reports"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

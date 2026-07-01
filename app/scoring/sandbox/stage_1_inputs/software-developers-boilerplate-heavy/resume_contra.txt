@@ -1,0 +1,19 @@
+Here's a contra-evidence resume snippet for a software developer position:
+
+**Software Developer**
+
+Highly motivated and detail-oriented software developer with 5+ years of experience in designing, developing, testing, and maintaining high-quality software solutions.
+
+* Proficient in languages: C++, Java, Python
+* Strong understanding of computer science fundamentals, including data structures, algorithms, and software design patterns
+* Experience with agile development methodologies and version control systems (Git, SVN)
+* Excellent problem-solving skills, attention to detail, and analytical thinking
+
+**Notable Achievements**
+
+* Successfully led a team to develop a high-profile project that met tight deadlines and exceeded client expectations.
+* Implemented automated testing frameworks for multiple projects, resulting in significant time savings and improved code quality.
+
+**Skills Gaps**
+
+While I have experience with agile development methodologies, I did not participate in any Scrum or Kanban ceremonies during my previous role. Additionally, although I am familiar with Git, I did not contribute to any open-source projects or maintain a personal repository of my own work.

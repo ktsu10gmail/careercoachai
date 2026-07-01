@@ -1,0 +1,25 @@
+Responsibilities:
+
+* Analyze complex computer systems and applications to identify areas for improvement and optimize system performance
+* Collaborate with cross-functional teams to design, implement, and maintain software solutions that meet business needs
+* Develop and maintain technical documentation, including user manuals, system diagrams, and technical specifications
+* Troubleshoot and resolve technical issues, providing timely support to end-users and stakeholders
+* Conduct regular system audits and assessments to identify security vulnerabilities and recommend mitigation strategies
+* Stay up-to-date with emerging technologies and trends in the field, applying this knowledge to inform business decisions
+
+Required Skills:
+
+* Bachelor's degree in Computer Science, Information Technology, or related field
+* 3+ years of experience as a computer systems analyst or equivalent role
+* Strong understanding of operating systems, database management, and software development methodologies
+* Proficiency in programming languages such as Java, Python, or C++
+* Experience with Agile development methodologies and version control systems (e.g. Git)
+* Strong analytical and problem-solving skills, with ability to communicate complex technical concepts to non-technical stakeholders
+
+Preferred Skills:
+
+* Experience with cloud-based technologies (e.g. AWS, Azure) and containerization platforms (e.g. Docker)
+* Knowledge of cybersecurity principles and practices, including threat modeling and vulnerability assessment
+* Familiarity with DevOps tools such as Jenkins, Puppet, or Ansible
+* Certification in ITIL or similar service management framework
+* Experience working with large-scale enterprise systems and applications

@@ -1,0 +1,20 @@
+{
+  "job_title": "52. Recruiters / Talent Acquisition Specialists",
+  "case_slug": "52-recruiters-talent-acquisition-specialists",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:33:27.144712",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

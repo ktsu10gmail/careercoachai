@@ -1,0 +1,21 @@
+Here is a contra-evidence resume snippet for a First-Line Supervisors of Office and Administrative Support Workers position:
+
+**Work Experience:**
+
+Senior Team Lead, Quality Assurance (2018 - 2022)
+
+* Managed a team of QA engineers to ensure timely delivery of software products
+* Coordinated with cross-functional teams, including product management and engineering, to understand requirements and develop test plans
+* Developed and maintained technical documentation for testing frameworks, including data models and results analysis
+
+**Skills:**
+
+* Proficient in MS Office Suite (Word, Excel, PowerPoint)
+* Experience with project management tools such as Asana and Trello
+* Strong communication and collaboration skills, with experience working with teams to resolve issues and improve processes
+
+**Education:**
+
+* Bachelor's degree in Business Administration, XYZ University (2015 - 2019)
+
+Note: This resume snippet does not mention stress testing or software engineering, which are key requirements for the job. The candidate also lacks relevant technical skills and experience, such as proficiency in programming languages or containerization technologies.

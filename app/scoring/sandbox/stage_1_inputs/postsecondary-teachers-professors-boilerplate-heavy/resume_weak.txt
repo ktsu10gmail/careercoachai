@@ -1,0 +1,35 @@
+Here's a weak or scope-mismatch resume snippet for a Postsecondary Teacher/Professor position:
+
+**John Doe, Ph.D.**
+
+**Contact Information:**
+
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johndoe
+
+**Summary:**
+
+Highly motivated and experienced IT professional with a passion for teaching. Proven track record of delivering high-quality training sessions to corporate clients.
+
+**Technical Skills:**
+
+* Proficient in Windows, Linux, and macOS operating systems
+* Experienced with network administration and cybersecurity
+* Skilled in Python programming language
+
+**Work Experience:**
+
+* **IT Consultant**, ABC Corporation (2018-Present)
+ + Delivered IT training sessions to corporate clients on a project-by-project basis
+ + Developed and implemented custom software solutions for clients
+ + Collaborated with cross-functional teams to resolve technical issues
+* **Network Administrator**, DEF Company (2015-2018)
+ + Managed and maintained network infrastructure for small business clients
+ + Implemented security measures to protect client data
+
+**Education:**
+
+* **Ph.D. in Computer Science**, XYZ University (2010-2015)
+
+Note that this resume snippet lacks the required skills, experience, and education for a Postsecondary Teacher/Professor position, while also highlighting adjacent low-level tools such as IT consulting and network administration.

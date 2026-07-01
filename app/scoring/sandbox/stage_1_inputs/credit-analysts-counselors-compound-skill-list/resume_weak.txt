@@ -1,0 +1,21 @@
+Here is a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:
+
+**Experience:**
+
+Credit Analyst, Small Financial Institution (2018-Present)
+
+* Conducted in-depth credit analysis using FICO Scorecard and proprietary models
+* Evaluated credit reports and credit histories to determine creditworthiness
+* Provided expert counsel to clients on credit management strategies and debt consolidation options
+
+**Skills:**
+
+* Java
+* Python
+* R
+* SQL
+* Excel
+* Tableau (basic)
+* Power BI (limited)
+
+Note that this resume snippet lacks the required skills, experience, and qualifications for the job title of Credit Analyst/Counselor. The candidate's experience is limited to a small financial institution, and they lack expertise in credit analysis software, financial modeling tools, regulatory compliance knowledge, and data visualization tools.

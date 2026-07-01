@@ -1,0 +1,154 @@
+{
+  "job_title": "Construction Laborers",
+  "case_slug": "construction-laborers-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:20:57.685162",
+  "match_score": 29.12,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 7.1,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 13 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+        "Assisted in the construction process by performing manual labor tasks such as excavation, demolition, and material handling (Note: I did not perform any heavy equipment operation tasks, as my experience was limited to manual labor only)",
+        "Operated heavy equipment and tools under the supervision of a qualified supervisor or foreman (I was never assigned to operate heavy equipment due to my limited experience and training)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 78.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "lead"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 7.1,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 13 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+        "Assisted in the construction process by performing manual labor tasks such as excavation, demolition, and material handling (Note: I did not perform any heavy equipment operation tasks, as my experience was limited to manual labor only)",
+        "Operated heavy equipment and tools under the supervision of a qualified supervisor or foreman (I was never assigned to operate heavy equipment due to my limited experience and training)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 21.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+        "Assisted in the construction process by performing manual labor tasks such as excavation, demolition, and material handling (Note: I did not perform any heavy equipment operation tasks, as my experience was limited to manual labor only)",
+        "Operated heavy equipment and tools under the supervision of a qualified supervisor or foreman (I was never assigned to operate heavy equipment due to my limited experience and training)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Operate heavy equipment and tools under the supervision of a qualified supervisor or foreman",
+      "evidence": [
+        "Operated heavy equipment and tools under the supervision of a qualified supervisor or foreman (I was never assigned to operate heavy equipment due to my limited experience and training)"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "With over 20 years of experience in construction and engineering, we've established ourselves as a leader in our industry.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We strive to be the go-to partner for construction projects that require expertise, reliability, and attention to detail.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We offer a comprehensive benefits package that includes",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Competitive salary and bonuses",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "401(k) matching program",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Opportunities for professional growth and development",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Construction Laborers**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+      "supports": "[Company Name] is an equal opportunity employer committed to diversity, equity, and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained a safe working environment by adhering to company safety policies and procedures (I did not have direct supervision, but I followed all safety protocols as instructed by my team lead)",
+      "supports": "We welcome applications from qualified candidates of all backgrounds, cultures, and perspectives."
+    },
+    {
+      "source": "resume",
+      "quote": "Assisted in the construction process by performing manual labor tasks such as excavation, demolition, and material handling (Note: I did not perform any heavy equipment operation tasks, as my experience was limited to manual labor only)",
+      "supports": "Assist in the construction process by performing manual labor tasks such as excavation, demolition, and material handling"
+    },
+    {
+      "source": "resume",
+      "quote": "Operated heavy equipment and tools under the supervision of a qualified supervisor or foreman (I was never assigned to operate heavy equipment due to my limited experience and training)",
+      "supports": "Operate heavy equipment and tools under the supervision of a qualified supervisor or foreman"
+    },
+    {
+      "source": "job_description",
+      "quote": "With over 20 years of experience in construction and engineering, we've established ourselves as a leader in our industry.",
+      "supports": "job description context"
+    }
+  ],
+  "confidence_level": "low",
+  "confidence_reason": "Confidence is low because the system found limited direct requirement evidence in the resume."
+}

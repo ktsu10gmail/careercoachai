@@ -1,0 +1,168 @@
+{
+  "job_title": "Postsecondary Teachers / Professors",
+  "case_slug": "postsecondary-teachers-professors-boilerplate-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:06.616360",
+  "match_score": 46.34,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 23.9,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate",
+        "Participated in departmental service activities, including curriculum development and faculty recruitment",
+        "PhD in [Field], University of [University Name] (2015)",
+        "Taught undergraduate and graduate courses in [Subject Area] to diverse student populations"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 94.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "principal",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 23.9,
+      "reason": "Found 0 direct, 7 adjacent, 0 domain/scope gaps, and 7 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate",
+        "Participated in departmental service activities, including curriculum development and faculty recruitment",
+        "PhD in [Field], University of [University Name] (2015)",
+        "Taught undergraduate and graduate courses in [Subject Area] to diverse student populations"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 68.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate",
+        "Participated in departmental service activities, including curriculum development and faculty recruitment",
+        "PhD in [Field], University of [University Name] (2015)",
+        "Taught undergraduate and graduate courses in [Subject Area] to diverse student populations"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Opportunities for professional development and growth",
+      "evidence": [
+        "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Teach undergraduate and graduate courses in your area of expertise",
+      "evidence": [
+        "Taught undergraduate and graduate courses in [Subject Area] to diverse student populations"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct original research and publish scholarly articles and presentations",
+      "evidence": [
+        "Conducted original research on [Research Topic] and published scholarly articles in peer-reviewed journals (e.g., Journal of [Field], 2020)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landsca",
+      "evidence": [
+        "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "We offer a competitive salary and benefits package, including",
+      "evidence": [
+        "Participated in departmental service activities, including curriculum development and faculty recruitment"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "[Institution Name] is an equal opportunity employer committed to diversity, equity, and inclusion.",
+      "evidence": [
+        "PhD in [Field], University of [University Name] (2015)"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Comprehensive health insurance",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Retirement plan with employer match",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Paid time off and holidays",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Equal Opportunity Employer**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "We welcome applications from candidates of all backgrounds, perspectives, and experiences.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Title: Postsecondary Teachers/Professors**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "As a postsecondary teacher/professor at [Institution Name], you will have the opportunity to teach courses, conduct research, and mentor students in a dynamic and supportive academ",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate",
+      "supports": "As a leading institution in higher education, we strive to provide students with a world-class learning experience that prepares them for success in an ever-changing global landsca"
+    },
+    {
+      "source": "resume",
+      "quote": "Participated in departmental service activities, including curriculum development and faculty recruitment",
+      "supports": "We offer a competitive salary and benefits package, including"
+    },
+    {
+      "source": "resume",
+      "quote": "Mentored students in academic and professional matters, resulting in a 95% graduate job placement rate",
+      "supports": "Opportunities for professional development and growth"
+    },
+    {
+      "source": "resume",
+      "quote": "PhD in [Field], University of [University Name] (2015)",
+      "supports": "[Institution Name] is an equal opportunity employer committed to diversity, equity, and inclusion."
+    },
+    {
+      "source": "resume",
+      "quote": "Taught undergraduate and graduate courses in [Subject Area] to diverse student populations",
+      "supports": "Teach undergraduate and graduate courses in your area of expertise"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,35 @@
+Here's a weak or scope-mismatch resume snippet for a Social Worker position:
+
+**Jane Doe**
+**Social Worker**
+
+**Contact Information:**
+
+* Phone: 555-555-5555
+* Email: [jane.doe@email.com](mailto:jane.doe@email.com)
+
+**Summary:**
+Highly motivated and compassionate social worker with experience in crisis intervention and case management.
+
+**Experience:**
+
+* **Case Manager**, Local Non-Profit Organization (2018-Present)
+ + Conducted intake assessments for clients experiencing homelessness
+ + Developed and implemented individualized service plans to address client needs
+ + Collaborated with cross-functional teams to coordinate services and resources
+* **Crisis Intervention Specialist**, Community Mental Health Center (2015-2018)
+ + Provided crisis intervention services to individuals in need of mental health support
+ + Conducted group therapy sessions and individual counseling
+ + Developed and implemented treatment plans to address client needs
+
+**Education:**
+
+* **Master's Degree in Social Work**, XYZ University (2015)
+
+**Skills:**
+
+* Strong communication and interpersonal skills
+* Experience with case management software and electronic medical records
+* Ability to work independently and collaboratively as part of a team
+
+This resume snippet lacks the required experience, skills, and scope for the Social Worker - Stress Test position. The candidate's experience is in crisis intervention and case management, but not stress testing or scoring engines.

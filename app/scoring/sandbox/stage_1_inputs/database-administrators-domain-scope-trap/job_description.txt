@@ -1,0 +1,41 @@
+**Database Administrator - Stress Test**
+
+We are seeking a highly skilled and experienced Database Administrator to perform stress testing on our scoring engine, specifically designed for domain_scope_trap. The successful candidate will be responsible for simulating high-traffic scenarios to evaluate the performance, scalability, and reliability of our system.
+
+**Job Summary:**
+
+As a Database Administrator, you will design, implement, and execute comprehensive stress tests to identify potential bottlenecks and areas for improvement in our scoring engine. You will work closely with our development team to ensure that our system can handle increased traffic and user demand, without compromising performance or reliability.
+
+**Responsibilities:**
+
+* Design and execute stress testing scenarios to simulate high-traffic conditions
+* Utilize various tools and techniques to measure system performance, including CPU utilization, memory usage, and latency
+* Analyze test results to identify areas for improvement and optimize system configuration
+* Collaborate with development team to implement changes and ensure seamless integration
+* Develop and maintain detailed test plans and reports to document findings and recommendations
+* Stay up-to-date with industry trends and best practices in stress testing and performance optimization
+
+**Required Skills:**
+
+* 3+ years of experience in database administration, stress testing, or performance optimization
+* Strong understanding of relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB)
+* Experience with load testing tools such as Apache JMeter, Gatling, or Locust
+* Knowledge of scripting languages (e.g., Python, Perl) and ability to write custom scripts for stress testing
+* Excellent analytical and problem-solving skills, with attention to detail and ability to identify trends and patterns
+* Strong communication and collaboration skills, with experience working with cross-functional teams
+
+**Domain Qualifiers:**
+
+* Software/SaaS: Yes
+* Enterprise: Yes
+* Regulated Industry: Yes (financial services)
+* Global: Yes
+* Multi-site: No
+* High-volume: Yes
+* Low-latency: Yes
+
+**Scope Qualifiers:**
+
+* Cloud-based infrastructure: Yes
+* Containerization: Yes (Docker)
+* Microservices architecture: Yes

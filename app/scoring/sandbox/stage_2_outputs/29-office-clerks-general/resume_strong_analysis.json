@@ -1,0 +1,141 @@
+{
+  "job_title": "29. Office Clerks, General",
+  "case_slug": "29-office-clerks-general",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:48.324628",
+  "match_score": 56.42,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 71.5,
+      "reason": "Found 6 direct, 6 adjacent, 0 domain/scope gaps, and 1 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 2+ years of experience providing top-notch office support, ensuring seamless day-to-day operations.",
+        "Maintained accurate records and files, both physical and electronic, utilizing database management software (Access) for data entry and updates.",
+        "Provided general office support, such as photocopying, scanning, and faxing documents, while ensuring confidentiality and discretion in handling sensitive information.",
+        "Coordinated meetings, appointments, and events, including preparing agendas, materials, and follow-up communications via email and phone."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 72.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years",
+        "entry",
+        "managed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 35.0,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Maintained accurate records and files, both physical and electronic, utilizing database management software (Access) for data entry and updates."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Dedicated and detail-oriented administrative professional with 2+ years of experience providing top-notch office support, ensuring seamless day-to-day operations.",
+        "Maintained accurate records and files, both physical and electronic, utilizing database management software (Access) for data entry and updates.",
+        "Provided general office support, such as photocopying, scanning, and faxing documents, while ensuring confidentiality and discretion in handling sensitive information.",
+        "Coordinated meetings, appointments, and events, including preparing agendas, materials, and follow-up communications via email and phone."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Provide general office support, such as photocopying, scanning, and faxing documents",
+      "evidence": [
+        "Provided general office support, such as photocopying, scanning, and faxing documents, while ensuring confidentiality and discretion in handling sensitive information."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Coordinate meetings, appointments, and events, including preparing agendas, materials, and follow-up communications",
+      "evidence": [
+        "Coordinated meetings, appointments, and events, including preparing agendas, materials, and follow-up communications via email and phone."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "evidence": [
+        "High School Diploma, ABC High School (20XX-20XX)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong organizational and time management skills",
+      "evidence": [
+        "Strong organizational and time management skills, ensuring efficient completion of tasks and meeting deadlines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent communication and interpersonal skills",
+      "evidence": [
+        "Excellent communication and interpersonal skills, with the ability to work effectively with diverse teams and stakeholders."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with database management software, such as Access or SQL Server",
+      "evidence": [
+        "Maintained accurate records and files, both physical and electronic, utilizing database management software (Access) for data entry and updates."
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Process and distribute mail, packages, and other correspondence",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Dedicated and detail-oriented administrative professional with 2+ years of experience providing top-notch office support, ensuring seamless day-to-day operations.",
+      "supports": "Perform a variety of administrative tasks, including answering phone calls, responding to emails, and greeting visitors"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records and files, both physical and electronic, utilizing database management software (Access) for data entry and updates.",
+      "supports": "Maintain accurate records and files, both physical and electronic"
+    },
+    {
+      "source": "resume",
+      "quote": "Provided general office support, such as photocopying, scanning, and faxing documents, while ensuring confidentiality and discretion in handling sensitive information.",
+      "supports": "Provide general office support, such as photocopying, scanning, and faxing documents"
+    },
+    {
+      "source": "resume",
+      "quote": "Maintained accurate records and files, both physical and electronic, utilizing database management software (Access) for data entry and updates.",
+      "supports": "Assist with data entry, updating databases, and performing other clerical tasks as needed"
+    },
+    {
+      "source": "resume",
+      "quote": "Coordinated meetings, appointments, and events, including preparing agendas, materials, and follow-up communications via email and phone.",
+      "supports": "Coordinate meetings, appointments, and events, including preparing agendas, materials, and follow-up communications"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

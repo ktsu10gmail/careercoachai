@@ -1,0 +1,158 @@
+{
+  "job_title": "Fitness Trainers and Instructors",
+  "case_slug": "fitness-trainers-and-instructors-scraped-job-board",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.700048",
+  "match_score": 51.4,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 42.9,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for core JD requirements.",
+      "evidence": [
+        "\"Fitness Enthusiast & Personal Trainer",
+        "Certified in CPR/First Aid, with experience leading group fitness classes and one-on-one personal training sessions.",
+        "+ Trained clients of all ages and fitness levels",
+        "+ Maintained a clean and safe training environment"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "led",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 42.9,
+      "reason": "Found 3 direct, 6 adjacent, 0 domain/scope gaps, and 5 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "\"Fitness Enthusiast & Personal Trainer",
+        "Certified in CPR/First Aid, with experience leading group fitness classes and one-on-one personal training sessions.",
+        "+ Trained clients of all ages and fitness levels",
+        "+ Maintained a clean and safe training environment"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 97.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "\"Fitness Enthusiast & Personal Trainer",
+        "Certified in CPR/First Aid, with experience leading group fitness classes and one-on-one personal training sessions.",
+        "+ Trained clients of all ages and fitness levels",
+        "+ Maintained a clean and safe training environment"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Develop and lead group fitness classes, including cardio, strength training, and yoga",
+      "evidence": [
+        "Certified in CPR/First Aid, with experience leading group fitness classes and one-on-one personal training sessions."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "1+ year of experience as a personal trainer or group fitness instructor",
+      "evidence": [
+        "\"Fitness Enthusiast & Personal Trainer"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "CPR/First Aid certification",
+      "evidence": [
+        "CPR/First Aid Certification (2022)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Create customized workout plans for clients based on their goals and needs",
+      "evidence": [
+        "+ Trained clients of all ages and fitness levels"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct one-on-one personal training sessions with clients",
+      "evidence": [
+        "\"Fitness Enthusiast & Personal Trainer"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Maintain a clean and safe gym environment",
+      "evidence": [
+        "+ Maintained a clean and safe training environment"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job ID:** FTI-1234",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Company:** FitPro Inc.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Type:** Full-time",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience Level:** Entry-level to Experienced",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "FitPro Inc.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "\"Fitness Enthusiast & Personal Trainer",
+      "supports": "Fitness Trainers and Instructors**"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Fitness Enthusiast & Personal Trainer",
+      "supports": "is a leading fitness center with locations across the country."
+    },
+    {
+      "source": "resume",
+      "quote": "Certified in CPR/First Aid, with experience leading group fitness classes and one-on-one personal training sessions.",
+      "supports": "Develop and lead group fitness classes, including cardio, strength training, and yoga"
+    },
+    {
+      "source": "resume",
+      "quote": "+ Trained clients of all ages and fitness levels",
+      "supports": "Create customized workout plans for clients based on their goals and needs"
+    },
+    {
+      "source": "resume",
+      "quote": "\"Fitness Enthusiast & Personal Trainer",
+      "supports": "Conduct one-on-one personal training sessions with clients"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

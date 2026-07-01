@@ -1,0 +1,174 @@
+{
+  "job_title": "First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "first-line-supervisors-of-production-and-operating-workers-compound-skill-list",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:00.340823",
+  "match_score": 48.26,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 46.2,
+      "reason": "Found 6 direct, 0 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)",
+        "Designed and developed stress test plans using JMeter, Gatling, and Locust (2018-2020)",
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "Familiarity with Agile methodologies and Test-Driven Development (TDD) was limited, and CI/CD pipelines were not implemented"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": [
+        "Did not have experience with containerization using Docker or cloud-based infrastructure and scalability models"
+      ]
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 53.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "designed",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 60.0,
+      "reason": "Found 3 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)",
+        "Familiarity with Agile methodologies and Test-Driven Development (TDD) was limited, and CI/CD pipelines were not implemented",
+        "Did not have experience with containerization using Docker or cloud-based infrastructure and scalability models"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 94.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)",
+        "Designed and developed stress test plans using JMeter, Gatling, and Locust (2018-2020)",
+        "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+        "Familiarity with Agile methodologies and Test-Driven Development (TDD) was limited, and CI/CD pipelines were not implemented"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan",
+      "evidence": [
+        "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement in the scoring engine",
+      "evidence": [
+        "Designed and developed stress test plans using JMeter, Gatling, and Locust (2018-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Analyze test results and provide detailed reports on performance metrics, such as throughput, latency, and error rates",
+      "evidence": [
+        "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions",
+      "evidence": [
+        "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, Selenium, Docker, Kubernetes, Ansible, AWS CloudFormation, Azure DevOps, Git, Agile meth",
+      "evidence": [
+        "Familiarity with Agile methodologies and Test-Driven Development (TDD) was limited, and CI/CD pipelines were not implemented"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with DevOps tools such as Jenkins, Travis CI, or CircleCI",
+      "evidence": [
+        "Familiarity with Agile methodologies and Test-Driven Development (TDD) was limited, and CI/CD pipelines were not implemented"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Title:** Stress Test Engineer",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry trends and emerging technologies in stress testing and performance engineering",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Nice to Have:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Did not have experience with containerization using Docker or cloud-based infrastructure and scalability models",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Experience with containerization using Docker",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Did not have experience with containerization using Docker or cloud-based infrastructure and scalability models",
+      "severity": "high"
+    },
+    {
+      "requirement": "Knowledge of cloud-based infrastructure and scalability models",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Did not have experience with containerization using Docker or cloud-based infrastructure and scalability models",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with machine learning and artificial intelligence concepts",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)",
+      "supports": "As a Stress Test Engineer, you will be responsible for designing, developing, and executing stress tests on our scoring engine to ensure its reliability, scalability, and performan"
+    },
+    {
+      "source": "resume",
+      "quote": "Designed and developed stress test plans using JMeter, Gatling, and Locust (2018-2020)",
+      "supports": "Design and develop comprehensive stress test plans to identify and prioritize areas of improvement in the scoring engine"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a contra-evidence resume snippet that mentions some relevant terms but explicitly says the candidate did not perform one or more higher-scope requirements:",
+      "supports": "Execute stress tests using a variety of tools and platforms, including but not limited to JMeter, Gatling, Locust, Apache JMeter, NeoLoad, LoadRunner, and Selenium"
+    },
+    {
+      "source": "resume",
+      "quote": "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)",
+      "supports": "Analyze test results and provide detailed reports on performance metrics, such as throughput, latency, and error rates"
+    },
+    {
+      "source": "resume",
+      "quote": "Executed stress tests on scoring engine, analyzing results with performance metrics such as throughput and latency (2019-2020)",
+      "supports": "Develop and maintain a comprehensive understanding of the scoring engine's architecture, components, and interactions"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

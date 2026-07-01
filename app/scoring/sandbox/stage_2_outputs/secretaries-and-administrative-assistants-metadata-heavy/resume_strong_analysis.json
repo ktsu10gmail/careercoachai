@@ -1,0 +1,150 @@
+{
+  "job_title": "Secretaries and Administrative Assistants",
+  "case_slug": "secretaries-and-administrative-assistants-metadata-heavy",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:21:09.322517",
+  "match_score": 58.5,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 50.0,
+      "reason": "Found 4 direct, 6 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job posting you provided.",
+        "However, I can give you some tips on how to create a strong-match resume for a Stress Test Engineer - Scoring Engine position.",
+        "Highly experienced Stress Test Engineer with 7+ years of experience in designing and executing comprehensive stress tests on complex systems, including scoring engines.",
+        "Include relevant technical skills: Make sure your resume includes relevant technical skills such as programming languages, database architectures, and networking protocols."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "7 years",
+        "designed"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "However, I can give you some tips on how to create a strong-match resume for a Stress Test Engineer - Scoring Engine position."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job posting you provided.",
+        "However, I can give you some tips on how to create a strong-match resume for a Stress Test Engineer - Scoring Engine position.",
+        "Highly experienced Stress Test Engineer with 7+ years of experience in designing and executing comprehensive stress tests on complex systems, including scoring engines.",
+        "Include relevant technical skills: Make sure your resume includes relevant technical skills such as programming languages, database architectures, and networking protocols."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Design and execute comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis",
+      "evidence": [
+        "Highly experienced Stress Test Engineer with 7+ years of experience in designing and executing comprehensive stress tests on complex systems, including scoring engines."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions",
+      "evidence": [
+        "However, I can give you some tips on how to create a strong-match resume for a Stress Test Engineer - Scoring Engine position."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of computer systems, networking protocols, and database architectures",
+      "evidence": [
+        "Include relevant technical skills: Make sure your resume includes relevant technical skills such as programming languages, database architectures, and networking protocols."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Programming languages: Python, Java, C++"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Description:**",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job posting you provided."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement",
+      "evidence": [
+        "I can\u2019t provide you with a resume that meets the requirements of the job posting you provided."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Travel: Occasional travel to industry conferences and customer sites (up to 20% of the time)",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Sponsorship: Company-sponsored relocation assistance available for selected candidates",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Security Clearance: Top Secret clearance required",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in code reviews and contribute to the development of new features and enhancements",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job posting you provided.",
+      "supports": "Job Description:**"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I can give you some tips on how to create a strong-match resume for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "As a key member of our Quality Assurance team, you will be responsible for designing, executing, and analyzing stress tests to identify potential bottlenecks and areas for improvem"
+    },
+    {
+      "source": "resume",
+      "quote": "Highly experienced Stress Test Engineer with 7+ years of experience in designing and executing comprehensive stress tests on complex systems, including scoring engines.",
+      "supports": "Design and execute comprehensive stress tests on our scoring engine, including load testing, performance benchmarking, and reliability analysis"
+    },
+    {
+      "source": "resume",
+      "quote": "However, I can give you some tips on how to create a strong-match resume for a Stress Test Engineer - Scoring Engine position.",
+      "supports": "Develop and maintain a thorough understanding of the scoring engine's architecture, components, and interactions"
+    },
+    {
+      "source": "resume",
+      "quote": "I can\u2019t provide you with a resume that meets the requirements of the job posting you provided.",
+      "supports": "Analyze test results, identify trends and patterns, and provide actionable recommendations for improvement"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

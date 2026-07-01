@@ -1,0 +1,148 @@
+{
+  "job_title": "Administrative Services Managers",
+  "case_slug": "administrative-services-managers-domain-scope-trap",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:54.816914",
+  "match_score": 44.96,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 43.2,
+      "reason": "Found 3 direct, 7 adjacent, 0 domain/scope gaps, and 4 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Summary:",
+        "Used Apache JMeter to test web applications",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Experienced in load testing and performance engineering"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 16.7,
+      "reason": "Found 1 direct, 0 adjacent, 0 domain/scope gaps, and 5 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Note: This resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits experience with cloud-based infrastructure and regulated industry.",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Summary:",
+        "Used Apache JMeter to test web applications",
+        "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+        "Experienced in load testing and performance engineering"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Stay up-to-date with industry trends and best practices in stress testing and performance engineering",
+      "evidence": [
+        "Experienced in load testing and performance engineering"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in programming languages such as Python, Java, or C++",
+      "evidence": [
+        "Proficient in Apache JMeter, Python, and Docker"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong communication and collaboration skills, with experience working with cross-functional teams",
+      "evidence": [
+        "Strong analytical skills with experience working on small projects"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "3+ years of experience in stress testing and performance engineering, preferably in a software/SaaS environment",
+      "evidence": [
+        "Experienced in load testing and performance engineering"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an",
+      "evidence": [
+        "Used Apache JMeter to test web applications"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Design and develop stress testing scenarios for domain scope trap, including identifying key performance indicators (KPIs) and developing test scripts to simulate various loads and",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide regular progress updates and status reports to stakeholders",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Experience with load testing tools such as Apache JMeter, Gatling, or Locust",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "severity": "high"
+    },
+    {
+      "requirement": "Domain Qualifiers:**",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the essential domain qualifier \"Software/SaaS\" and omits experience with cloud-based infrastructure and regulated industry.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Used Apache JMeter to test web applications",
+      "supports": "The successful candidate will work closely with cross-functional teams to identify and prioritize test cases, develop test scripts, and analyze results to ensure the reliability an"
+    },
+    {
+      "source": "resume",
+      "quote": "Here's a weak or scope-mismatch resume snippet with adjacent low-level tools but lacking enterprise scope:",
+      "supports": "Design and develop stress testing scenarios for domain scope trap, including identifying key performance indicators (KPIs) and developing test scripts to simulate various loads and"
+    },
+    {
+      "source": "resume",
+      "quote": "Used Apache JMeter to test web applications",
+      "supports": "Develop and execute test plans, including setting up test environments, running tests, and analyzing results"
+    },
+    {
+      "source": "resume",
+      "quote": "Experienced in load testing and performance engineering",
+      "supports": "Identify and report defects or issues found during testing, working closely with the development team to reproduce and resolve them"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

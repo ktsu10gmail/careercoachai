@@ -1,0 +1,29 @@
+Here's a strong-match resume snippet for a First-Line Supervisors of Production and Operating Workers position:
+
+**Summary:**
+Results-driven production supervisor with 5+ years of experience in managing high-performing teams, optimizing production processes, and ensuring seamless day-to-day operations.
+
+**Technical Skills:**
+
+* Proficient in Java, Python, C++, and JavaScript programming languages
+* Experienced in stress testing tools such as JMeter, Gatling, Locust, and Apache JMeter
+* Strong understanding of Docker, Kubernetes, Ansible, and AWS CloudFormation
+* Familiarity with Agile methodologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD) pipelines
+
+**Production Experience:**
+
+* Supervised teams of up to 20 production workers, ensuring efficient workflow management and quality control
+* Implemented process improvements that resulted in a 25% increase in productivity and a 15% reduction in errors
+* Collaborated with cross-functional teams to resolve production issues and implement new technologies
+* Developed and maintained comprehensive knowledge of production systems, including hardware, software, and network infrastructure
+
+**Leadership Experience:**
+
+* Led training sessions for production workers on new equipment and processes
+* Mentored junior team members to improve their skills and performance
+* Coordinated with operations teams to resolve production issues and implement changes
+
+**Certifications/Awards:**
+
+* Certified in Production Supervision (CPS)
+* Recipient of the "Production Supervisor of the Year" award for outstanding performance and leadership

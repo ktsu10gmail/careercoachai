@@ -1,0 +1,141 @@
+{
+  "job_title": "Business Operations Specialists",
+  "case_slug": "business-operations-specialists",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:56.278187",
+  "match_score": 58.21,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 60.5,
+      "reason": "Found 4 direct, 5 adjacent, 0 domain/scope gaps, and 2 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction.",
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+        "Developed and presented data-driven insights to senior leadership on a quarterly basis, informing business decisions and driving strategic growth.",
+        "Proficient in project management tools (Asana, Trello) and business intelligence software (Tableau, Power BI)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 86.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "senior",
+        "implemented"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 11.7,
+      "reason": "Found 0 direct, 1 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Developed and presented data-driven insights to senior leadership on a quarterly basis, informing business decisions and driving strategic growth."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction.",
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+        "Developed and presented data-driven insights to senior leadership on a quarterly basis, informing business decisions and driving strategic growth.",
+        "Proficient in project management tools (Asana, Trello) and business intelligence software (Tableau, Power BI)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+      "evidence": [
+        "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with project management tools (Asana, Trello) and business intelligence software (Tableau, Power BI)",
+      "evidence": [
+        "Proficient in project management tools (Asana, Trello) and business intelligence software (Tableau, Power BI)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Knowledge of accounting principles and financial regulations (GAAP, tax laws)",
+      "evidence": [
+        "Knowledge of accounting principles and financial regulations (GAAP, tax laws)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Develop and implement process improvements to increase efficiency by 20% within the first six months",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Experience with financial management software (QuickBooks, Xero)",
+      "evidence": [
+        "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Conduct regular audits to ensure compliance with regulatory requirements, identifying and mitigating potential risks",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Provide data-driven insights to inform business decisions, presenting findings to senior leadership on a quarterly basis",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction.",
+      "supports": "Manage and maintain accurate financial records for a portfolio of 50+ clients across multiple industries"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction.",
+      "supports": "Develop and implement process improvements to increase efficiency by 20% within the first six months"
+    },
+    {
+      "source": "resume",
+      "quote": "Proficient in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace",
+      "supports": "Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) and Google Workspace"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven professional with 5+ years of experience managing financial records for diverse portfolios, driving process improvements, and delivering exceptional client satisfaction.",
+      "supports": "Experience with financial management software (QuickBooks, Xero)"
+    },
+    {
+      "source": "resume",
+      "quote": "Developed and presented data-driven insights to senior leadership on a quarterly basis, informing business decisions and driving strategic growth.",
+      "supports": "Strong analytical and problem-solving skills, with the ability to interpret complex data sets"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

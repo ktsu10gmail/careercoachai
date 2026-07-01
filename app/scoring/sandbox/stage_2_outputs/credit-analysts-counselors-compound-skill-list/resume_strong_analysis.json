@@ -1,0 +1,135 @@
+{
+  "job_title": "Credit Analysts / Counselors",
+  "case_slug": "credit-analysts-counselors-compound-skill-list",
+  "resume_file": "resume_strong.txt",
+  "expected_profile": "strong_match",
+  "scored_at": "2026-06-30T18:20:57.956049",
+  "match_score": 60.98,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 57.1,
+      "reason": "Found 3 direct, 10 adjacent, 1 domain/scope gaps, and 0 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance.",
+        "Summary:",
+        "Familiarity with regulatory requirements, including Dodd-Frank and TRID, to ensure compliance and accuracy in credit analysis and reporting.",
+        "Proficient in Java, Python, R, SQL, Excel, Tableau, Power BI, FICO Scorecard, VantageScore, proprietary scoring engines (including CreditBuilder and CreditRisk), Bloomberg Terminal, Thomson Reuters Eikon, FactSet, S&P Capital IQ, and Credit"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 100.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 17.5,
+      "reason": "Found 0 direct, 1 adjacent, 1 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance.",
+        "Experienced with financial modeling tools, including Financial Modeling Software, to develop complex credit models and forecasts."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 100.0,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance.",
+        "Summary:",
+        "Familiarity with regulatory requirements, including Dodd-Frank and TRID, to ensure compliance and accuracy in credit analysis and reporting.",
+        "Proficient in Java, Python, R, SQL, Excel, Tableau, Power BI, FICO Scorecard, VantageScore, proprietary scoring engines (including CreditBuilder and CreditRisk), Bloomberg Terminal, Thomson Reuters Eikon, FactSet, S&P Capital IQ, and Credit"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "The successful candidate will have a strong understanding of credit scoring models, market trends, and regulatory requirements.",
+      "evidence": [
+        "Familiarity with regulatory requirements, including Dodd-Frank and TRID, to ensure compliance and accuracy in credit analysis and reporting."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, R, SQL, Excel, Tableau, Power BI, FICO Scorecard, VantageScore, proprietary scoring engines, Bloomberg Terminal, Thomson Reuters Eikon, FactSet, S&P Capital IQ, Credi",
+      "evidence": [
+        "Proficient in Java, Python, R, SQL, Excel, Tableau, Power BI, FICO Scorecard, VantageScore, proprietary scoring engines (including CreditBuilder and CreditRisk), Bloomberg Terminal, Thomson Reuters Eikon, FactSet, S&P Capital IQ, and Credit"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "CreditBuilder, CreditRisk), financial modeling tools (e.g.",
+      "evidence": [
+        "Experienced with financial modeling tools, including Financial Modeling Software, to develop complex credit models and forecasts."
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Summary:**",
+      "evidence": [
+        "Summary:"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct in-depth credit analysis using various scoring engines, including FICO, VantageScore, and proprietary models",
+      "evidence": [
+        "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Stay up-to-date with market trends, regulatory changes, and new scoring models to ensure accurate analysis and recommendations",
+      "evidence": [
+        "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Excel, Financial Modeling Software), regulatory compliance knowledge (e.g.",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Experienced with financial modeling tools, including Financial Modeling Software, to develop complex credit models and forecasts.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance.",
+      "supports": "Job Title:** Credit Analysts / Counselors"
+    },
+    {
+      "source": "resume",
+      "quote": "Summary:",
+      "supports": "Job Summary:**"
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance.",
+      "supports": "We are seeking experienced Credit Analysts/Counselors to join our team, responsible for conducting thorough credit analysis and providing expert guidance to clients on financial ma"
+    },
+    {
+      "source": "resume",
+      "quote": "Familiarity with regulatory requirements, including Dodd-Frank and TRID, to ensure compliance and accuracy in credit analysis and reporting.",
+      "supports": "The successful candidate will have a strong understanding of credit scoring models, market trends, and regulatory requirements."
+    },
+    {
+      "source": "resume",
+      "quote": "Results-driven Credit Analyst/Counselor with 5+ years of experience in credit analysis, financial modeling, and regulatory compliance.",
+      "supports": "Conduct in-depth credit analysis using various scoring engines, including FICO, VantageScore, and proprietary models"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

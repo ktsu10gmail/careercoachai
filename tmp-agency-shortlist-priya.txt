@@ -1,0 +1,9 @@
+Priya Shah
+priya.shortlist@example.com
+(555) 210-2200
+Austin, TX
+
+Data and backend engineer with production experience in PostgreSQL, Python,
+analytics pipelines, REST APIs, observability, and stakeholder reporting.
+Led debugging for service issues and documented technical tradeoffs for
+cross-functional teams.

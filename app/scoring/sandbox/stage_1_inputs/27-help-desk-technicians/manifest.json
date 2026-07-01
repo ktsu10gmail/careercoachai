@@ -1,0 +1,20 @@
+{
+  "job_title": "27. Help Desk Technicians",
+  "case_slug": "27-help-desk-technicians",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:26:02.890256",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}

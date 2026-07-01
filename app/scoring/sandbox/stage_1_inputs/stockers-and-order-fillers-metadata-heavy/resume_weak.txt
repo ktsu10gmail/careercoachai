@@ -1,0 +1,31 @@
+Here's a weak or scope-mismatch resume snippet for a Stocker and Order Filler position:
+
+**Name:** John Doe
+
+**Contact Info:**
+
+* Phone: 555-1234
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Summary:**
+Highly motivated individual with experience in inventory management and customer service. Proficient in operating a cash register and handling cash transactions.
+
+**Work Experience:**
+
+* Stocker, XYZ Retail Store (2018-Present)
+ + Restocked shelves and maintained store appearance
+ + Assisted customers with purchases and answered questions about products
+ + Operated cash register and processed transactions accurately
+* Order Filler, ABC Warehouse (2015-2018)
+ + Filled customer orders and packaged merchandise for shipment
+ + Maintained a clean and organized workspace
+ + Collaborated with team members to meet production goals
+
+**Skills:**
+
+* Inventory management and control
+* Cash handling and processing
+* Customer service and relations
+* Basic computer skills (Microsoft Office, email)
+
+Note that this resume snippet lacks the required experience and technical skills for the Stress Test Engineer - Scoring Engine position, and instead highlights skills relevant to a Stocker and Order Filler role.

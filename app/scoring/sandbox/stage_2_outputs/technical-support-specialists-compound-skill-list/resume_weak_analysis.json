@@ -1,0 +1,160 @@
+{
+  "job_title": "Technical Support Specialists",
+  "case_slug": "technical-support-specialists-compound-skill-list",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:10.935361",
+  "match_score": 64.75,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 36.1,
+      "reason": "Found 4 direct, 3 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "2+ years of experience in technical support or a related field",
+        "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "2 years"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 100.0,
+      "reason": "Found 2 direct, 0 adjacent, 0 domain/scope gaps, and 0 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 86.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "2+ years of experience in technical support or a related field",
+        "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "As a Technical Support Specialist, you will be responsible for providing exceptional technical support to our customers, resolving complex issues, and collaborating with internal t",
+      "evidence": [
+        "2+ years of experience in technical support or a related field"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Mi",
+      "evidence": [
+        "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Essential tools include Java, Python, and C++.",
+      "evidence": [
+        "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Optional tools include Docker, Kubernetes, Ansible, Puppet, and Chef.",
+      "evidence": [
+        "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Job Title:** Technical Support Specialists",
+      "evidence": [
+        "2+ years of experience in technical support or a related field"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Provide timely and effective technical support to customers via phone, email, and chat",
+      "evidence": [
+        "2+ years of experience in technical support or a related field"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Job Summary:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "You will also participate in stress testing of our scoring engine to ensure its performance and reliability.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Participate in stress testing of our scoring engine to identify performance bottlenecks and areas for improvement",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Develop and maintain knowledge of our products and services through ongoing training and research",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date on industry trends and emerging technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Communicate effectively with customers and internal stakeholders to ensure timely resolution of issues",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Additional Requirements:**",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in technical support or a related field",
+      "supports": "Job Title:** Technical Support Specialists"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in technical support or a related field",
+      "supports": "As a Technical Support Specialist, you will be responsible for providing exceptional technical support to our customers, resolving complex issues, and collaborating with internal t"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in technical support or a related field",
+      "supports": "Provide timely and effective technical support to customers via phone, email, and chat"
+    },
+    {
+      "source": "resume",
+      "quote": "2+ years of experience in technical support or a related field",
+      "supports": "Troubleshoot and resolve complex technical issues using various tools and platforms"
+    },
+    {
+      "source": "resume",
+      "quote": "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Microsoft Office Suite",
+      "supports": "Java, Python, C++, JavaScript, HTML/CSS, SQL, Linux/Unix, Windows, AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Ansible, Puppet, Chef, Jenkins, Git, JIRA, Slack, Zoom, Mi"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

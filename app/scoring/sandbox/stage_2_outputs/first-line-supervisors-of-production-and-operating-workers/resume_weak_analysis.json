@@ -1,0 +1,163 @@
+{
+  "job_title": "First-Line Supervisors of Production and Operating Workers",
+  "case_slug": "first-line-supervisors-of-production-and-operating-workers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:21:00.291584",
+  "match_score": 44.96,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 35.4,
+      "reason": "Found 2 direct, 6 adjacent, 2 domain/scope gaps, and 3 missing evidence points for core JD requirements.",
+      "evidence": [
+        "Production Supervisor",
+        "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)",
+        "Excellent communication skills (certified in public speaking)",
+        "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines (experience with Agile methodologies)"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 1 missing evidence points for preferred JD requirements.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 88.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 32.9,
+      "reason": "Found 2 direct, 6 adjacent, 2 domain/scope gaps, and 4 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Production Supervisor",
+        "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)",
+        "Excellent communication skills (certified in public speaking)",
+        "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines (experience with Agile methodologies)"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 83.9,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "Production Supervisor",
+        "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)",
+        "Excellent communication skills (certified in public speaking)",
+        "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines (experience with Agile methodologies)"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures",
+      "evidence": [
+        "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines",
+      "evidence": [
+        "Ability to work effectively in a fast-paced environment with multiple priorities and deadlines (experience with Agile methodologies)"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "2+ years of experience as a production or supervisory role in a manufacturing environment",
+      "evidence": [
+        "Production Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Lead a team of production and operating workers to achieve daily production targets and maintain high levels of quality",
+      "evidence": [
+        "Production Supervisor"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct regular safety inspections and enforce company safety policies to prevent accidents and injuries",
+      "evidence": [
+        "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Monitor production schedules, track progress, and make adjustments as needed to meet production goals",
+      "evidence": [
+        "Production Supervisor"
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Manage inventory levels, order supplies, and coordinate with maintenance teams to minimize downtime",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Conduct performance evaluations and provide constructive feedback to employees",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "High school diploma or equivalent required;",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "associate's degree preferred",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "medium"
+    },
+    {
+      "requirement": "Excellent communication, leadership, and problem-solving skills",
+      "reason": "Generic or lower-scope resume snippet lacks the explicit operational scope required: Excellent communication skills (certified in public speaking)",
+      "severity": "high"
+    },
+    {
+      "requirement": "Familiarity with ERP systems and inventory management software",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: 5+ years of experience in IT project management",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "Production Supervisor",
+      "supports": "Lead a team of production and operating workers to achieve daily production targets and maintain high levels of quality"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)",
+      "supports": "Conduct regular safety inspections and enforce company safety policies to prevent accidents and injuries"
+    },
+    {
+      "source": "resume",
+      "quote": "Production Supervisor",
+      "supports": "Monitor production schedules, track progress, and make adjustments as needed to meet production goals"
+    },
+    {
+      "source": "resume",
+      "quote": "Strong knowledge of manufacturing processes, safety protocols, and quality control procedures (self-taught)",
+      "supports": "Provide training and coaching to employees on new equipment, processes, and procedures"
+    },
+    {
+      "source": "resume",
+      "quote": "Production Supervisor",
+      "supports": "2+ years of experience as a production or supervisory role in a manufacturing environment"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

@@ -1,0 +1,28 @@
+Here's a weak or scope-mismatch resume snippet for an Information Security Analyst/Cybersecurity Analyst position:
+
+**John Doe**
+**Contact Info**
+
+* 2+ years of experience in network administration
+* Strong knowledge of threat modeling and vulnerability assessment methodologies
+* Familiarity with stress testing tools like Apache JMeter
+
+**Work Experience:**
+
+* Network Administrator, XYZ Corporation (2018-Present)
+ + Managed day-to-day network operations and troubleshooting
+ + Implemented security patches and updates to prevent vulnerabilities
+ + Conducted regular network scans using open-source tools like Nmap
+* Freelance IT Consultant (2015-2018)
+ + Provided technical support for small businesses and individuals
+ + Assisted with network setup and configuration
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2015)
+
+**Skills:**
+
+* Network administration
+* Basic programming skills in Python
+* Familiarity with Linux operating systems

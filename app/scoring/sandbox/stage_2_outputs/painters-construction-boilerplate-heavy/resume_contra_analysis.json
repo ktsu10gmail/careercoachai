@@ -1,0 +1,148 @@
+{
+  "job_title": "Painters (Construction)",
+  "case_slug": "painters-construction-boilerplate-heavy",
+  "resume_file": "resume_contra.txt",
+  "expected_profile": "contra_evidence",
+  "scored_at": "2026-06-30T18:21:05.800128",
+  "match_score": 26.13,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 17.3,
+      "reason": "Found 0 direct, 4 adjacent, 1 domain/scope gaps, and 6 missing evidence points for core JD requirements.",
+      "evidence": [
+        "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions.",
+        "Conducted thorough surface preparation and painting operations on various construction sites",
+        "In my previous role, I did not have direct experience with project management or collaborating with cross-functional teams on a daily basis.",
+        "My proficiency in operating power tools is limited to general-purpose equipment, whereas the job description emphasizes working with specialized test equipment (e.g."
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 45.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": []
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 0.0,
+      "reason": "Found 0 direct, 0 adjacent, 0 domain/scope gaps, and 2 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "My proficiency in operating power tools is limited to general-purpose equipment, whereas the job description emphasizes working with specialized test equipment (e.g."
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 35.8,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions.",
+        "Conducted thorough surface preparation and painting operations on various construction sites",
+        "In my previous role, I did not have direct experience with project management or collaborating with cross-functional teams on a daily basis.",
+        "My proficiency in operating power tools is limited to general-purpose equipment, whereas the job description emphasizes working with specialized test equipment (e.g."
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "3+ years of experience in stress testing or similar role",
+      "evidence": [
+        "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Join Our Dynamic Team as a Scoring Engine Stress Tester!**",
+      "evidence": [
+        "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions."
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Conduct thorough stress testing of scoring engines under various conditions (temperature, pressure, vibration, etc.)",
+      "evidence": [
+        "Conducted thorough surface preparation and painting operations on various construction sites"
+      ],
+      "strength": "medium"
+    },
+    {
+      "requirement": "Develop and execute test plans to simulate extreme scenarios",
+      "evidence": [
+        "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions."
+      ],
+      "strength": "medium"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Analyze data and provide detailed reports on engine performance and reliability",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Stay up-to-date with industry developments and emerging trends in scoring engine technology",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Mechanical Engineering, Electrical Engineering, or related field",
+      "reason": "Related experience is present, but the required domain qualifier is not proven: In my previous role, I did not have direct experience with project management or collaborating with cross-functional teams on a daily basis.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Strong understanding of scoring engine principles and technologies",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Excellent analytical and problem-solving skills",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficiency in test equipment operation and data analysis software (e.g.",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: My proficiency in operating power tools is limited to general-purpose equipment, whereas the job description emphasizes working with specialized test equipment (e.g.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Ability to work independently and as part of a team",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions.",
+      "supports": "Join Our Dynamic Team as a Scoring Engine Stress Tester!**"
+    },
+    {
+      "source": "resume",
+      "quote": "Conducted thorough surface preparation and painting operations on various construction sites",
+      "supports": "Conduct thorough stress testing of scoring engines under various conditions (temperature, pressure, vibration, etc.)"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions.",
+      "supports": "Develop and execute test plans to simulate extreme scenarios"
+    },
+    {
+      "source": "resume",
+      "quote": "In my previous role, I did not have direct experience with project management or collaborating with cross-functional teams on a daily basis.",
+      "supports": "Bachelor's degree in Mechanical Engineering, Electrical Engineering, or related field"
+    },
+    {
+      "source": "resume",
+      "quote": "While I have experience with surface preparation and painting operations, my role was primarily focused on finishing work rather than stress testing or simulating extreme conditions.",
+      "supports": "3+ years of experience in stress testing or similar role"
+    }
+  ],
+  "confidence_level": "medium",
+  "confidence_reason": "Confidence is medium because there is useful evidence, but depth and recency still need human verification."
+}

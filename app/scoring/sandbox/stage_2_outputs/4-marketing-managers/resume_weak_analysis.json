@@ -1,0 +1,166 @@
+{
+  "job_title": "4. Marketing Managers",
+  "case_slug": "4-marketing-managers",
+  "resume_file": "resume_weak.txt",
+  "expected_profile": "scope_mismatch",
+  "scored_at": "2026-06-30T18:20:49.391250",
+  "match_score": 58.3,
+  "score_breakdown": [
+    {
+      "category": "Must-have requirements",
+      "score": 45.4,
+      "reason": "Found 6 direct, 1 adjacent, 0 domain/scope gaps, and 7 missing evidence points for core JD requirements.",
+      "evidence": [
+        "It also doesn't mention any experience with market research, competitive analysis, or customer behavior, which are essential skills for a Marketing Manager in this role.\"",
+        "Proven track record of driving sales growth through effective social media campaigns",
+        "Note: This resume snippet lacks the required 5+ years of experience, proven track record of driving sales growth, and experience with consumer packaged goods industry.",
+        "Excellent project management and team leadership skills"
+      ]
+    },
+    {
+      "category": "Preferred requirements",
+      "score": 50.0,
+      "reason": "No specific preferred JD requirements were detected in the job description, so this category uses a neutral baseline.",
+      "evidence": []
+    },
+    {
+      "category": "Experience and seniority",
+      "score": 80.0,
+      "reason": "Estimated from visible years, seniority terms, and ownership verbs in the resume compared with the JD.",
+      "evidence": [
+        "5 years",
+        "manager"
+      ]
+    },
+    {
+      "category": "Domain and tools fit",
+      "score": 45.0,
+      "reason": "Found 1 direct, 1 adjacent, 0 domain/scope gaps, and 1 missing evidence points for domain and tool requirements.",
+      "evidence": [
+        "Proven track record of driving sales growth through effective social media campaigns",
+        "Strong understanding of data analytics platforms, including Google Analytics"
+      ]
+    },
+    {
+      "category": "Evidence quality",
+      "score": 99.1,
+      "reason": "Based on direct requirement evidence, adjacent evidence, domain/scope gaps, measurable details, and readable resume depth.",
+      "evidence": [
+        "It also doesn't mention any experience with market research, competitive analysis, or customer behavior, which are essential skills for a Marketing Manager in this role.\"",
+        "Proven track record of driving sales growth through effective social media campaigns",
+        "Note: This resume snippet lacks the required 5+ years of experience, proven track record of driving sales growth, and experience with consumer packaged goods industry.",
+        "Excellent project management and team leadership skills"
+      ]
+    }
+  ],
+  "requirement_matches": [
+    {
+      "requirement": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions",
+      "evidence": [
+        "It also doesn't mention any experience with market research, competitive analysis, or customer behavior, which are essential skills for a Marketing Manager in this role.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Proven track record of driving sales growth through effective marketing strategies",
+      "evidence": [
+        "Proven track record of driving sales growth through effective social media campaigns"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Strong understanding of market research, competitive analysis, and customer behavior",
+      "evidence": [
+        "It also doesn't mention any experience with market research, competitive analysis, or customer behavior, which are essential skills for a Marketing Manager in this role.\""
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Excellent project management and team leadership skills",
+      "evidence": [
+        "Excellent project management and team leadership skills"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Experience with data analytics platforms, including Google Analytics",
+      "evidence": [
+        "Strong understanding of data analytics platforms, including Google Analytics"
+      ],
+      "strength": "high"
+    },
+    {
+      "requirement": "Google Analytics, HubSpot)",
+      "evidence": [
+        "Strong understanding of data analytics platforms, including Google Analytics"
+      ],
+      "strength": "high"
+    }
+  ],
+  "missing_requirements": [
+    {
+      "requirement": "Develop and execute comprehensive marketing strategies to drive sales growth and brand awareness for a portfolio of 10+ consumer packaged goods brands",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Manage a team of 3-5 Marketing Coordinators to achieve campaign goals and deadlines",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Create and manage marketing budgets for assigned brands, ensuring ROI and alignment with company goals",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "5+ years of experience in marketing management, preferably in the consumer packaged goods industry",
+      "reason": "Resume contains contra-evidence instead of affirmative proof: Note: This resume snippet lacks the required 5+ years of experience, proven track record of driving sales growth, and experience with consumer packaged goods industry.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Proficient in marketing automation tools, such as Marketo or Pardot",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Bachelor's degree in Marketing or related field",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    },
+    {
+      "requirement": "Certification in Digital Marketing (e.g.",
+      "reason": "Add a specific resume bullet, project, tool, metric, or result if you have this experience.",
+      "severity": "high"
+    }
+  ],
+  "evidence_quotes": [
+    {
+      "source": "resume",
+      "quote": "It also doesn't mention any experience with market research, competitive analysis, or customer behavior, which are essential skills for a Marketing Manager in this role.\"",
+      "supports": "Analyze market trends, competitor activity, and customer behavior to inform marketing decisions"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of driving sales growth through effective social media campaigns",
+      "supports": "Develop and maintain relationships with key stakeholders, including agency partners, media representatives, and influencers"
+    },
+    {
+      "source": "resume",
+      "quote": "Note: This resume snippet lacks the required 5+ years of experience, proven track record of driving sales growth, and experience with consumer packaged goods industry.",
+      "supports": "5+ years of experience in marketing management, preferably in the consumer packaged goods industry"
+    },
+    {
+      "source": "resume",
+      "quote": "Proven track record of driving sales growth through effective social media campaigns",
+      "supports": "Proven track record of driving sales growth through effective marketing strategies"
+    },
+    {
+      "source": "resume",
+      "quote": "It also doesn't mention any experience with market research, competitive analysis, or customer behavior, which are essential skills for a Marketing Manager in this role.\"",
+      "supports": "Strong understanding of market research, competitive analysis, and customer behavior"
+    }
+  ],
+  "confidence_level": "high",
+  "confidence_reason": "Confidence is high because multiple JD requirements have direct resume evidence."
+}

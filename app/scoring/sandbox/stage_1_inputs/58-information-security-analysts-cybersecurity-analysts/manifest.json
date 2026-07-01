@@ -1,0 +1,20 @@
+{
+  "job_title": "58. Information Security Analysts / Cybersecurity Analysts",
+  "case_slug": "58-information-security-analysts-cybersecurity-analysts",
+  "generator": "ollama",
+  "generated_at": "2026-06-29T20:35:19.926966",
+  "resumes": [
+    {
+      "file": "resume_strong.txt",
+      "expected_profile": "strong_match"
+    },
+    {
+      "file": "resume_weak.txt",
+      "expected_profile": "scope_mismatch"
+    },
+    {
+      "file": "resume_contra.txt",
+      "expected_profile": "contra_evidence"
+    }
+  ]
+}
